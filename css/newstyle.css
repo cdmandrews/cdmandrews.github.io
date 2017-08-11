@@ -25,10 +25,12 @@ html {
   -moz-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
   text-size-adjust: 100%;
-  font-family: "Roboto", Helvetica, Arial, sans-serif;
+  font-family: "Roboto", Arial, sans-serif;
 }
+
+
 p {
-	padding-bottom: 1.222em
+	padding-bottom: 1.222em;
 } 
 ul,
 ol,
@@ -43,13 +45,13 @@ ul {list-style-type: circle;}
 ol {list-style-type: decimal;}
 
 h1 {
-	font-size: 2.369em;
+	font-size: 1.777em;
 	line-height: 1.376em;
 	padding-bottom: 0.688em;
 	font-weight: bold;
 	}
 h2 {
-	font-size: 1.777em;
+	font-size: 1.333em;
 	line-height: 1.375em;
 	padding-bottom: 0.917em;
 	font-weight: bold;
@@ -63,25 +65,23 @@ blockquote {
 	color: gray;
 	}
 	
-	
-	
 #page {
-	padding-left: 5.641%;
-	padding-right: 5.641%; 
-	max-width: 875px;
-	margin: 0 auto;
+	padding-left: 5.641025641%;
+	padding-right: 5.641025641%;
 }
 #header {
 	text-transform: lowercase;
 	}
 #navigation {
-	position: fixed;
+	position: absolute;
 	width: 100%;
 	padding: 0;
 	top: 0;
 	left: 0;
 	background-color:  #55688A;
 }
+
+
 .navigation {
 	line-height: 1;
 	padding: 0;
@@ -121,18 +121,7 @@ header a{color: #55688A; text-decoration: none;}
 header {
 	padding-top: 3.667em;
 	}
-#content {
-	width: 61.287%;
-	float:left;
-	}
-#sidebar-photo {
-	width: 34.4%;
-	margin-left; 65.526%;
-	float:right;
-	}
-#footer {
-	clear: both;
-	}
+
 /* Typical bold and italic styles */
 b,
 strong {
@@ -148,8 +137,6 @@ cite {
 /* Primarily ID selectors for positioning sectioning elements */
 
 
-
-
 /* ===== MODULAR STYLES ========= */
 /* Primarily class selectors for styling unique page components  */
 #navigation .accessibility {
@@ -161,20 +148,22 @@ cite {
 
 
 /* ===== STATE STYLES =========== */
+@media screen and (min-width: 585px) {
+#content {
+	width: 61.28709056%;
+	float: left;
+	}
+#sidebar-photo {
+	width: 34.47398844%;
+	margin-left: 65.52601156%;	
+	}
+#footer {
+	clear: both;
+	}
+}
 /*
   Media queries. Also class selectors from JavaScript, including feature detection.
   JavaScript-dependent styles can be prefixed with the .hasjs class added in by the
   `js/site.js` file.
 */
 
-@media screen and (min-width 800px;) {
-h1 {
-	font-size: 2.369em;
-	}
-h2 {
-	font-size: 1.777em;
-	}
-h3 {
-	font-size: 1.333em:
-	}
-}
