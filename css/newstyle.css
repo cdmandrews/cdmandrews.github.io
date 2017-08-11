@@ -74,7 +74,7 @@ blockquote {
 	text-transform: lowercase;
 	}
 #navigation {
-	position: absolute;
+	position: fixed;
 	width: 100%;
 	padding: 0;
 	top: 0;
