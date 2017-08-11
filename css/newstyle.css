@@ -68,6 +68,7 @@ blockquote {
 #page {
 	padding-left: 5.641025641%;
 	padding-right: 5.641025641%;
+	margin: 0 auto;
 }
 #header {
 	text-transform: lowercase;
@@ -116,7 +117,8 @@ video {
 picture img {
   width: 100%;
 } 
-header img{float:left; height: 5.7em; width: 5.7em; border-radius: 5em; padding:0.5em;}
+
+header img{height: 5.7em; width: 5.7em; border-radius: 5em; padding:0.5em;}
 header a{color: #55688A; text-decoration: none;}
 header {
 	padding-top: 3.667em;
@@ -150,6 +152,7 @@ cite {
 /* ===== STATE STYLES =========== */
 @media screen and (min-width: 585px) {
 #content {
+	position:relative;
 	width: 61.28709056%;
 	float: left;
 	}
