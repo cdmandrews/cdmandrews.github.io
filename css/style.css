@@ -1,6 +1,8 @@
+
+
 body{
-    width: 60%;
     margin: 0 auto;
+    padding: 22px;
     background-color: white;
     color: #383838;
     font-family: "Roboto", sans-serif;
@@ -8,8 +10,10 @@ body{
 }
 
 header{
-    margin-top: 3em;
+    margin-top: 4em;
+    padding: 1em;
 }
+footer{clear:both;}
 header h1{
     font-size: 3em;
     text-transform: lowercase;
@@ -18,25 +22,30 @@ header h1{
 header p{
     font-size: .5em; 
     text-transform: lowercase;
-    margin: 0;
+    padding: 0.25em;
 }
-header img{float:right; height: 6em; width: 6em; border-radius: 5em;}
+header img{float:left; height: 5em; width: 5em; border-radius: 5em; padding:0.5em;}
 
 a {color: #55688A; text-decoration: none;}
 h2{font-size: 2em; margin:0;}
+ul {list-style: none;}
 
-article { background-color: #F5F5F5; padding: 1em;}
+article {background-color: #F5F5F5; padding: 1em; width:50%; float:left;}
 article p{
-		width: 80%;
-    margin: 1em 1emc; 
-}
-nav {}
-ul {
-    list-style: none;
+    margin: 1em 1em; 
 }
 article li.firstli{
 	font-weight: bold; color:#55688A;}
 	
+nav {
+	position:absolute;
+	width: 100%;
+	top:0;
+	left:0;
+	background-color:#383838;
+	padding-left:1em;
+}
+nav a{color:white;}
 nav li {
 	font-size: 1em;
 	font-weight: bold;
@@ -45,10 +54,33 @@ nav li {
 	border-left: 0.05em solid #383838;
 	margin: 0;
 	padding-left: 0.25em;
-	padding-right: 0.25em;}
+	padding-right: 0.25em;
+}
 nav li.firstli{
     border-left: none;
 }
+
+.sidebar-photo {
+	width: 40%;
+	margin-left: 55%;
+}
+
+.pullquote {
+	border-radius: 3px;
+  float:right;
+	width: 40%;
+	background-color: #55688A;
+	color: white;
+	text-align: right;
+	font-size: 1em;
+	padding: 0.5em;
+}
+.important {
+	background-color: #55688A;
+	color: #F5F5F5;
+	padding-top: .5em;
+	padding-bottom: .5em;
+	}
 /*
 header {width: 80%; height: 6em; background-image: url(../media/desktopfooter.jpg);} 
 */
