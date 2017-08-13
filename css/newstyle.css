@@ -80,6 +80,7 @@ blockquote {
 	top: 0;
 	left: 0;
 	background-color:  #55688A;
+	z-index: 100;
 }
 
 
@@ -164,6 +165,15 @@ cite {
 	clear: both;
 	}
 }
+
+@media screen and (min-width: 1170px) {
+#page {
+	max-width: 900px;
+	margin: 0 auto;
+	padding-left: 0;
+	padding-right: 0;
+	}
+
 /*
   Media queries. Also class selectors from JavaScript, including feature detection.
   JavaScript-dependent styles can be prefixed with the .hasjs class added in by the
