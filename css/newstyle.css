@@ -86,7 +86,6 @@ h5 {font-family: "Roboto Slab", serif;
 	position: relative;
 	width: 80%;
 	}
-	
 #home-content p{
 	font-family: "Roboto Slab", serif;}
 
@@ -194,6 +193,7 @@ cite {
 #sidebar {
 	width: 34.47398844%;
 	margin-left: 65.52601156%;	
+	padding-bottom: 1.777em;
 	}
 #footer {
 	clear: both;
