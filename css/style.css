@@ -44,6 +44,7 @@ html {
   -ms-text-size-adjust: 100%;
   text-size-adjust: 100%;
   font-family: "Roboto", Arial, sans-serif;
+  background-color: #E8DAB2;
 }
 
 
@@ -78,10 +79,11 @@ h2,
 h3,
 h4,
 h5 {font-family: "Roboto Slab", serif;
+  color: #4f6d7a;
 	}
 
 header img{height: 5.7em; width: 5.7em; border-radius: 5em; padding:0.5em;}
-header a{color: #55688A; text-decoration: none;}
+header a{color: #DD6E42; text-decoration: none;}
 header {
 	padding-top: 3.667em;
 	}
@@ -92,7 +94,7 @@ ul, ol > body.resume {
 b,
 strong {
   font-weight: bold;
-
+  color: #4f6d7a;
 }
 i,
 em,
@@ -100,6 +102,11 @@ cite {
   font-style: italic;
 }
 
+a:link {
+	color: #4f6d7a;
+	}
+
+	
 /* Responsive Media */
 audio,
 img,
@@ -129,7 +136,7 @@ picture img {
 	top: 0;
 	left: 0;
 	/* background-color:  #55688A; */ /*commented out so link blocks will be transparent for linear-gradient function */
-	background: linear-gradient(110deg, #55688A 75%, black);
+	background: linear-gradient(110deg, #DD6E42 75%, #E8DAB2);
 	z-index: 100;
 }
 #footer {
@@ -159,7 +166,7 @@ picture img {
 	padding-bottom: 0.722em;
 	text-decoration: none;
 /* 	background-color: #55688A; */
-	color: #f5f5f5;
+	color: #EAEAEA;
 	}
 .byline {
     font-size: 0.5em; 
@@ -169,9 +176,9 @@ picture img {
 .important {
 }
 .firstli {
-	color:#55688A; 
+	color:#DD6E42; 
 	padding-bottom: 0; 
-	font-weight: bold;
+	font-weight: normal;
 	}
 .pullquote {
 	float:right;
@@ -182,8 +189,8 @@ picture img {
 	padding-bottom:0;
 	width: 45%;
 	border-radius: 0.25em;
-	background-color: #55688A;
-	color: #f5f5f5;
+	background-color: #DD6E42;
+	color: #EAEAEA;
 	  font-family: 'Roboto Slab', serif;
 	  text-align: right;
 	  font-size: 0.8em;}
