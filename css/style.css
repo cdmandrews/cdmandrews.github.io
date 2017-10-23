@@ -108,6 +108,8 @@ a:link {
 
 	
 /* Responsive Media */
+img {padding: 0.5em;}
+
 audio,
 img,
 video {
@@ -117,6 +119,7 @@ video {
 picture img {
   width: 100%;
 } 
+#content img {width: 75%}
 
 /* ===== LAYOUT STYLES ========== */
 /* Primarily ID selectors for positioning sectioning elements */
@@ -249,9 +252,40 @@ h3 {
 }
 
 @media screen and (min-width: 1170px) {
-#page {
-	max-width: 900px;
-	margin: 0 auto;
-	padding-left: 0;
-	padding-right: 0;
+ #page {
+	max-width: 1000px;
+	margin-left: 70px;
+	padding-left: 70px;
+	}
+	
+header a{color: #E8DAB2; text-decoration: none;}
+	
+#navigation {
+	position: fixed;
+	width: 100%;
+	padding: 0;
+	top: 0;
+	left: 0;
+	/* background-color:  #55688A; */ /*commented out so link blocks will be transparent for linear-gradient function */
+	background: linear-gradient(110deg, #DD6E42 75%, #E8DAB2);
+	z-index: -1;
+}
+.navigation {
+	font-size: 1.333em;
+	line-height: 1;
+	padding: 0;
+}
+.navigation li {
+	line-height: 1;
+	display: block;
+	padding: 0;
+	}
+.navigation li a {
+	display: block;
+	padding: 1.222em;
+	padding-top: 0.722em;
+	padding-bottom: 0.722em;
+	text-decoration: none;
+/* 	background-color: #55688A; */
+	color: #EAEAEA;
 	}
