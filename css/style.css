@@ -139,7 +139,7 @@ picture img {
 	top: 0;
 	left: 0;
 	/* background-color:  #55688A; */ /*commented out so link blocks will be transparent for linear-gradient function */
-	background: linear-gradient(110deg, #DD6E42 75%, #E8DAB2);
+	background: linear-gradient(110deg, #4f6d7a 75%, #E8DAB2);
 	z-index: 100;
 }
 #footer {
@@ -169,7 +169,7 @@ picture img {
 	padding-bottom: 0.722em;
 	text-decoration: none;
 /* 	background-color: #55688A; */
-	color: #EAEAEA;
+	color: #E8DAB2;
 	}
 .byline {
     font-size: 0.5em; 
@@ -192,7 +192,7 @@ picture img {
 	padding-bottom:0;
 	width: 45%;
 	border-radius: 0.25em;
-	background-color: #DD6E42;
+	background-color: #4f6d7a;
 	color: #EAEAEA;
 	  font-family: 'Roboto Slab', serif;
 	  text-align: right;
@@ -257,8 +257,8 @@ h3 {
 	margin-left: 70px;
 	padding-left: 70px;
 	}
-	
-header a{color: #E8DAB2;}
+
+h1 {font-size:3em;}
 
 
 #navigation {
@@ -267,11 +267,11 @@ header a{color: #E8DAB2;}
 	padding: 0;
 	top: 0;
 	left: 0;
-	background: linear-gradient(110deg, #DD6E42 75%, #E8DAB2);
+	background: linear-gradient(110deg, #4f6d7a 75%, #E8DAB2);
 	z-index:-1;
 }
 .navigation {
-	font-size: 1.333em;
+	font-size: 1.222em;
 	line-height: 1;
 	padding: 0;
 }
@@ -287,5 +287,5 @@ header a{color: #E8DAB2;}
 	padding-bottom: 0.722em;
 	text-decoration: none;
 /* 	background-color: #55688A; */
-	color: #EAEAEA;
+	color: #E8DAB2;
 	}
