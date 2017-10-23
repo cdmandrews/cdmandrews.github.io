@@ -258,17 +258,17 @@ h3 {
 	padding-left: 70px;
 	}
 	
-header a{color: #E8DAB2; text-decoration: none;}
-	
+header a{color: #E8DAB2;}
+
+
 #navigation {
-	position: fixed;
+	position: absolute;
 	width: 100%;
 	padding: 0;
 	top: 0;
 	left: 0;
-	/* background-color:  #55688A; */ /*commented out so link blocks will be transparent for linear-gradient function */
 	background: linear-gradient(110deg, #DD6E42 75%, #E8DAB2);
-	z-index: -1;
+	z-index:-1;
 }
 .navigation {
 	font-size: 1.333em;
