@@ -1,4 +1,4 @@
-#List of faculty self-identified strengths
+# List of faculty self-identified strengths
 (edited)
 
 I'm good at a few things:
