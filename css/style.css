@@ -89,7 +89,7 @@ header {
 	padding-top: 3.667em;
 	}
 
-/* ul, ol > body.resume {
+#content ul, ol > body.resume {
 	list-style-type:none;}
 /* Typical bold and italic styles */
 b,
