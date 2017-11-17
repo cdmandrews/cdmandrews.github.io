@@ -88,7 +88,7 @@ header {
 	padding-top: 3.667em;
 	}
 
-ul, ol > body.resume {
+/* ul, ol > body.resume {
 	list-style-type:none;}
 /* Typical bold and italic styles */
 b,
@@ -105,7 +105,12 @@ cite {
 a:link {
 	color: #4f6d7a;
 	}
-
+figcaption {
+	font-style: italic;
+	font-size: small;
+	padding-left: 0.5em;
+	line-height: 1em;
+}
 	
 /* Responsive Media */
 img {padding: 0.5em;}
@@ -150,8 +155,7 @@ picture img {
 	position: relative;
 	width: 80%;
 	}
-#home-content p{
-	font-family: "Roboto Slab", serif;}
+
 
 .navigation {
 	line-height: 1;
