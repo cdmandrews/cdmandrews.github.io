@@ -48,7 +48,8 @@ html {
 }
 
 
-p {
+p,
+summary {
 	padding-bottom: 1.222em;
 } 
 ul,
@@ -102,6 +103,11 @@ cite {
   font-style: italic;
 }
 
+details {
+	background-color: #4f6d7a;
+	color: #EAEAEA;
+	margin-bottom: 1.222em;
+}
 a:link {
 	color: #4f6d7a;
 	}
