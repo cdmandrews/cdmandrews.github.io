@@ -1,16 +1,16 @@
-/* 
-	Welcome to the stylesheet, and thanks for reading. 
-	
-	I wrote this stylesheet after reading "How to Design and Write Web Pages Today" 
+/*
+	Welcome to the stylesheet, and thanks for reading.
+
+	I wrote this stylesheet after reading "How to Design and Write Web Pages Today"
 	(2nd ed), by Karl Stolley. GO READ THAT BOOK. It's a good intro for newbies
 	and a great text for writer/designers like myself who understand
-	standards-compliant semantic HTML and CSS but need a brush-up for 
+	standards-compliant semantic HTML and CSS but need a brush-up for
 	mobile-first designing.
 
-	Some of the CSS here--especially the opening reset CSS--is borrowed from the RPK 
-	for Stolley's book, available at https://github.com/webpges/rpk 
-	(see also https://webpg.es/rpk/, the book's companion site). 
-	
+	Some of the CSS here--especially the opening reset CSS--is borrowed from the RPK
+	for Stolley's book, available at https://github.com/webpges/rpk
+	(see also https://webpg.es/rpk/, the book's companion site).
+
 	Most of the other styling here is my own, but I worked out a lot of my
 	initial grid setup as I was reading "How to...", so similarities will be
 	pretty obvious. I didn't follow all the rules, but I gave it due effort.
@@ -51,13 +51,13 @@ html {
 p,
 summary {
 	padding-bottom: 1.222em;
-} 
+}
 ul,
 ol,
 dl {
 	padding-bottom: 0.611em;
 	padding-left: 1.777em;
-} 
+}
 li {
 	padding-bottom: 0.611em;
 }
@@ -92,6 +92,7 @@ header {
 #content ul, ol > body.resume {
 	list-style-type:none;}
 /* Typical bold and italic styles */
+
 b,
 strong {
   font-weight: bold;
@@ -117,7 +118,7 @@ figcaption {
 	padding-left: 0.5em;
 	line-height: 1em;
 }
-	
+
 /* Responsive Media */
 img {padding: 0.5em;}
 
@@ -129,7 +130,7 @@ video {
 }
 picture img {
   width: 100%;
-} 
+}
 #content img {width: 75%}
 
 /* ===== LAYOUT STYLES ========== */
@@ -182,15 +183,15 @@ picture img {
 	color: #E8DAB2;
 	}
 .byline {
-    font-size: 0.5em; 
+    font-size: 0.5em;
     line-height: 1em;
     padding-top:0;
   }
 .important {
 }
 .firstli {
-	color:#DD6E42; 
-	padding-bottom: 0; 
+	color:#DD6E42;
+	padding-bottom: 0;
 	font-weight: normal;
 	}
 .pullquote {
@@ -207,7 +208,7 @@ picture img {
 	  font-family: 'Roboto Slab', serif;
 	  text-align: right;
 	  font-size: 0.8em;}
-	  
+
 blockquote.pullquote {
 	width:90%;
 	margin-left: 1.777em;
@@ -242,14 +243,14 @@ aside a:link, aside a:visited{color:black;}
 	}
 #sidebar {
 	width: 34.47398844%;
-	margin-left: 65.52601156%;	
+	margin-left: 65.52601156%;
 	padding-bottom: 1.777em;
 	}
 #footer {
 	clear: both;
 	}
 
-	
+
 h1 {
 	font-size: 2.369em;
 	}
@@ -260,7 +261,7 @@ h3 {
 	font-size: 1.333em;
 	}
 .byline {
-    font-size: 0.722em; 
+    font-size: 0.722em;
 
   }
 }
