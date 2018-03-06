@@ -44,7 +44,7 @@ html {
   -ms-text-size-adjust: 100%;
   text-size-adjust: 100%;
   font-family: "Roboto", Arial, sans-serif;
-  background-color: #E8DAB2;
+  /* background-color: #E8DAB2; */
 }
 
 
@@ -84,7 +84,7 @@ h5 {font-family: "Roboto Slab", serif;
 	}
 
 header img{height: 5.7em; width: 5.7em; border-radius: 5em; padding:0.5em;}
-header a{color: #DD6E42; text-decoration: none;}
+header a{color: black; text-decoration: none;}
 header {
 	padding-top: 3.667em;
 	}
@@ -150,8 +150,9 @@ picture img {
 	padding: 0;
 	top: 0;
 	left: 0;
-	/* background-color:  #55688A; */ /*commented out so link blocks will be transparent for linear-gradient function */
-	background: linear-gradient(110deg, #4f6d7a 75%, #E8DAB2);
+	background-color:  #4f6d7a;  
+	/*commented out so link blocks will be transparent for linear-gradient function */
+	/* background: linear-gradient(110deg, #4f6d7a 75%, #E8DAB2); */
 	z-index: 100;
 }
 #footer {
@@ -179,8 +180,8 @@ picture img {
 	padding-top: 0.722em;
 	padding-bottom: 0.722em;
 	text-decoration: none;
-/* 	background-color: #55688A; */
-	color: #E8DAB2;
+	background-color: #4f6d7a; 
+	color: white;
 	}
 .byline {
     font-size: 0.5em;
@@ -282,7 +283,7 @@ h3 {
 	padding: 0;
 	top: 0;
 	left: 0;
-	background: linear-gradient(110deg, #4f6d7a 75%, #E8DAB2);
+	/* background: linear-gradient(110deg, #4f6d7a 75%, #E8DAB2); */
 	z-index:-1;
 }
 .navigation {
@@ -302,6 +303,6 @@ h3 {
 	padding-bottom: 0.722em;
 	text-decoration: none;
 /* 	background-color: #55688A; */
-	color: #E8DAB2;
+	color: white;
 	}
 }
