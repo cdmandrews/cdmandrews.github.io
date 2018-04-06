@@ -150,7 +150,7 @@ picture img {
 	padding: 0;
 	top: 0;
 	left: 0;
-	background-color:  #4f6d7a;  
+	background-color:  #4f6d7a;
 	/*commented out so link blocks will be transparent for linear-gradient function */
 	/* background: linear-gradient(110deg, #4f6d7a 75%, #E8DAB2); */
 	z-index: 100;
@@ -180,7 +180,7 @@ picture img {
 	padding-top: 0.722em;
 	padding-bottom: 0.722em;
 	text-decoration: none;
-	background-color: #4f6d7a; 
+	background-color: #4f6d7a;
 	color: white;
 	}
 .byline {
@@ -189,6 +189,11 @@ picture img {
     padding-top:0;
   }
 .important {
+  padding: 0.917em;
+  background-color: #4f6d7a;
+  color: #EAEAEA;
+    font-family: 'Roboto Slab', serif;
+    font-size: 0.8em;}
 }
 .firstli {
 	color:#DD6E42;
