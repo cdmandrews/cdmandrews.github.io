@@ -1,0 +1,12 @@
+html {
+
+  -webkit-text-size-adjust: 100%;
+  -moz-text-size-adjust: 100%;
+  -ie-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+  text-rendering: optimizeLegibility;
+
+  font-family: Verdana, Helvetica, Arial, sans-serif;
+  color: #222;
+  background: #EEE;
+}
