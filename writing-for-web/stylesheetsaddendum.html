@@ -1,0 +1,50 @@
+<!-- page=stylesheetsaddendum -->
+<!-- uid=b368740ce56765f014242433d08d14637262d24f -->
+<!-- time=1489003541 -->
+<!-- ip=64.71.89.15 -->
+<!-- content-type=text/html -->
+<!-- name=Chris Andrews -->
+<!-- email=christopher.dm.andrews@gmail.com -->
+<p><em>This walkthrough should cover questions about adding stylesheets to your github.io site. If you haven't added any html files to your repository, back up and follow the <a href="/w/page/114447115/Codecademy%20Modules%20Assignment" search_id="undefined">main walkthrough</a>.I <strong>can</strong> view the files in your GitHub repository, so if you get stuck, let me know and I’ll take a look.</em></p>
+<p></p>
+<p>You can see examples of stylesheet linking in my own example at <a href="https://cdmandrews.github.io/codecademy/">https://cdmandrews.github.io/codecademy/</a>. Or look right at my html files by going to <a href="https://github.com/cdmandrews">https://github.com/cdmandrews</a> and digging around in the codecademy folder of my own cdmandrews.github.io repository.</p>
+<p></p>
+<p><strong>Remember in the Codecademy lessons for 3, 4, 5, and 6 that you had two pages that you edited for each project. The html pages (which you’ve saved as something like project5.hml and project6.html) and files called stylesheet.html.</strong></p>
+<p></p>
+<p>On each of those html pages, you have a line that looks like this:</p>
+<pre>&lt;link type="text/css" rel="stylesheet" href="stylesheet.css"/&gt;</pre>
+
+<p>This tells the visitor's browser to load the file stylesheet.css and apply those styles to the html file. If you don't upload the stylesheet.css file, the beautiful html resume page you worked so hard on in Codecademy won't look right.</p>
+<p></p>
+<p>To make the html pages display with the styles and colors you designed, you’ll need to add the two stylesheets you edited.</p>
+<p></p>
+<h2>Step 1</h2>
+<p>Use the same process you did to create the html pages, but save them as <strong>stylesheet3.css </strong>(for the 3rd project), <strong>stylesheet4.css</strong> (for the 4th project),<span id="cursor-796561"><strong>stylesheet5.css</strong> (for the 5th project) and <strong>stylesheet6.css </strong>(for the 6th). You can name these files however you want; I'm using those names to keep it simple. In this case, you must have separate files for the separate pages (see sidebar).</p>
+<p></p>
+<table style="width:30%;margin-left:15px;margin-right:15px;float:right;clear:left;background-color:#f0f0f0;" border="0" align="right"><tbody><tr><td style="border-color:#ff6600;">
+<p style="margin:30px;text-align:left;"><em><strong>Why so many stylesheets, man?</strong></em></p>
+<p style="margin:30px;text-align:left;">In a normal website, you’d have the same stylesheet for all of the pages in the site. That's why all the pages on my cdmandrews.github.io site share the same style. All of the styles are on the linked stylesheet, so I don't have to update styles on all of those individual html pages. That would not too terrible a task for a small site like you're building, but on a big corporate or organizational site, having to change every single html page because someone wanted the backgrounds to be red instead of blue would be a nightmare.</p>
+</td>
+</tr></tbody></table><h2>Step 2 (option a)</h2>
+<p>After you've added the stylesheets to your repository, replace the original &lt;link&gt; line with the following lines of code on these html pages:</p>
+<p></p>
+<p>On project5.html:  </p>
+<pre>&lt;link type="text/css" rel="stylesheet" href="stylesheet5.css"/&gt;</pre>
+<p>On project6.html:  </p>
+<pre>&lt;link type="text/css" rel="stylesheet" href="stylesheet6.css"/&gt;
+
+(Do the same for 3 and 4)  </pre>
+<p></p>
+<h2>Step 2 (option b)</h2>
+<p>If you put your stylesheets in a folder named /css/ rather than the same folder as all of your html pages, you have to add that directory pathway to your href link. This is called "<a href="http://www.coffeecup.com/help/articles/absolute-vs-relative-pathslinks/">relative linking</a>." Use the following lines of code:</p>
+<p></p>
+<p>On project5.hmtl:  </p>
+<pre>&lt;link type="text/css" rel="stylesheet" href="/css/stylesheet5.css"/&gt;</pre>
+<p>On project6.html:  </p>
+<pre>&lt;link type="text/css" rel="stylesheet" href="/css/stylesheet6.css"/&gt;
+
+(do the same for 3 and 4)  </pre>
+<p></p>
+<p></p>
+<p></p>
+<!-- pbraw=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 -->
