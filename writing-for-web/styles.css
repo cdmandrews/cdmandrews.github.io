@@ -15,7 +15,10 @@ html {
 
 /* ----- BASE STYLES ----*/
 
-a {color: #008b8b;}
+a {
+  color: #008b8b;
+  text-decoration: none;
+}
 
 /* ----- LAYOUT ----- */
 
@@ -65,6 +68,25 @@ padding-top: 4em;
   background: #dbdbdb;
   margin: 1.1875em;
   padding: 1.1875em;
+}
+
+h2 {
+  color: #2e343b;
+}
+h3 {
+  color: #2e343b;
+}
+h4 {
+  color: #2e343b;
+}
+h5 {
+  color: #2e343b;
+}
+h6 {
+  color: #2e343b;
+}
+th {
+  color: #2e343b;
 }
 
 .syllabus p
