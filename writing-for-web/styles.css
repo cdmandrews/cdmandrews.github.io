@@ -7,12 +7,58 @@ html {
   text-rendering: optimizeLegibility;
 
   font-family: Verdana, Helvetica, Arial, sans-serif;
-  font-size: 1.1875em; /* 19 / 16px */
-  line-height: 1.2631578947em; /* 24 / 19px = 1.2631578947 */
+  font-size: 1.15em;
+  line-height: 1.2em;
   color: #008b8b;
   background: #2a2a2a;
 }
 
+/* ----- BASE STYLES ----*/
+
+a {color: #008b8b;}
+
+/* ----- LAYOUT ----- */
+
+#header{
+position: relative;
+padding-top: 4em;
+}
+
+.head {color: #dbdbdb;}
+
+#navigation {
+  display:inline-block;
+  position: absolute;
+	padding: 0;
+	top: 0;
+
+}
+#footer {
+}
+
+.nav {
+
+	line-height: 1;
+	padding: 0;
+}
+.nav li {
+	line-height: 1;
+	display: inline-block;
+	padding: 0;
+  border: 1;
+  border-style: solid;
+  border-radius: .4em;
+  background-color: #dbdbdb;
+	}
+.nav li a {
+	display: block;
+	padding: 1.222em;
+	padding-top: 0.722em;
+	padding-bottom: 0.722em;
+	text-decoration: none;
+  border-radius: .4em;
+	color: #2e343b;
+	}
 
 .syllabus
 {
@@ -32,4 +78,14 @@ html {
 .syllabus td
 {
   color: #2e343b;
+  border-left-style: none;
+  border-right-style: none;
+  border-top-style: solid;
+  border-width: thin;
+  padding: .4em;
+}
+
+table {
+  border-collapse: collapse;
+  text-align: left;
 }
