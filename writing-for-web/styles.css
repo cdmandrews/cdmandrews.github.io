@@ -9,6 +9,27 @@ html {
   font-family: Verdana, Helvetica, Arial, sans-serif;
   font-size: 1.1875em; /* 19 / 16px */
   line-height: 1.2631578947em; /* 24 / 19px = 1.2631578947 */
-  color: #292929;
-  background: #ffffdb;
+  color: #008b8b;
+  background: #2a2a2a;
+}
+
+
+.syllabus
+{
+  background: #dbdbdb;
+  margin: 1.1875em;
+  padding: 1.1875em;
+}
+
+.syllabus p
+{
+  color: #2e343b;
+}
+.syllabus li
+{
+  color: #2e343b;
+}
+.syllabus td
+{
+  color: #2e343b;
 }
