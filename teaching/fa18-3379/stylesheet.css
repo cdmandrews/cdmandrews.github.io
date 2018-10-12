@@ -19,6 +19,7 @@ h1{
   border-style: none solid solid solid;
   border-width: 2px;
   border-color: #d0d0d0;
+  background-color: #d0d0d0;
   padding: .3em 2em;
 
 }
@@ -31,4 +32,32 @@ footer{
   border-radius: 0 0 .5em .5em;
   padding: .3em .5em;
   margin-bottom: 0;
+}
+
+table, td, th{
+  border: 2px solid black;
+}
+table{
+  border-collapse: collapse;
+  margin: 5%;
+  width: 90%;
+}
+th{
+  background-color: black;
+  color: #f8f8f8;
+  height: 2em;
+}
+tr:nth-child(even) {background-color: #f2f2f2;}
+
+td{
+  padding-left: 1em;
+  height: 2em;
+  vertical-align: middle;
+}
+
+th#col1{
+  width: 12%;
+}
+th#col2, #col3, #col4, #col5{
+  width: 22%;
 }
