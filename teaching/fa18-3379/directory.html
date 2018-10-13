@@ -7,17 +7,52 @@
 
 	<title>3379 HTML Exercises</title>
 
-	<link href="stylesheet.css" rel="stylesheet" type="text/css">
-	<script type="text/javascript" src="jquery-3.3.1.min.js"></script>
-	<script src="switch.js"></script>
+	<link rel="stylesheet" type="text/css" href="stylesheet.css" title="styles1" media="screen" />
+		<link rel="alternate stylesheet" type="text/css" href="stylesheet2.css" title="styles2" media="screen" />
+		<link rel="alternate stylesheet" type="text/css" href="stylesheet3.css" title="styles3" media="screen" />
 
+		<!-- script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script -->
+		<script type="text/javascript" src="jquery-1.8.3.js"></script>
+		<script type="text/javascript" src="stylesheetToggle.js"></script>
+		<script type="text/javascript">
+		$(function()
+			{
+				// Call stylesheet init so that all stylesheet changing functions
+				// will work.
+				$.stylesheetInit();
+
+				// This code loops through the stylesheets when you click the link with
+				// an ID of "toggler" below.
+				$('#toggler').bind(
+					'click',
+					function(e)
+					{
+						$.stylesheetToggle();
+						return false;
+					}
+				);
+
+				// When one of the styleswitch links is clicked then switch the stylesheet to
+				// the one matching the value of that links rel attribute.
+				$('.styleswitch').bind(
+					'click',
+					function(e)
+					{
+						$.stylesheetSwitch(this.getAttribute('rel'));
+						return false;
+					}
+				);
+			}
+		);
+		</script>
 </head>
 
 <body>
 
 <h1>HTML Exercise Pages</h1>
-<input id="toggle-button" type="button" value="Toggle Style" />
-<div class="instructions">
+	<p><a href="directory.html" id="toggler">Toggle</a> between stylesheets.</p>
+
+	<div class="instructions">
 	<p>Your HTML pages are now on the real, live interenet!</p>
 	<p>Visit the <a href="https://validator.w3.org/">W3C Markup Validator</a> and check for <strong>errors</strong> in your HTML. You can see how <strong>valid</strong> your HTML is by entering the URL of your page into the "Validate by URL" address box. The validator will tell you if you have errors in your markup. (For example, if you left off the document head section, or if you have nesting or parent/child errors.)</p>
 	<p>Visit <a href="head.html">head.html</a> for more information on the head section of your file.</p>
