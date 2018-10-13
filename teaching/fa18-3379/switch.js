@@ -9,3 +9,15 @@ function toggle_style() {
     }
 }
 window.addEventListener('load', init, false);
+
+
+
+$(document).ready(function () {
+
+  $("a").click(function () {
+
+    $('head').append('<link rel="stylesheet" href="stylesheet2.css" type="text/css" />');
+
+  });
+
+});
