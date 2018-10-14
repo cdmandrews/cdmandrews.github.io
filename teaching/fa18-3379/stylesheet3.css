@@ -1,53 +1,58 @@
 body{
-  background-color:yellow;
-  font-family: sans-serif;
+  background-color: #3371FF;
   margin: 1% 5%;
+  font-family: 'Chicle', cursive;
 }
 h1{
-  background-color: pink;
-  color: blue;
+  background-color: red;
+  color: white;
   border-radius: .5em .5em 0 0;
   padding: 1em .5em .3em .3em;
   margin: 0;
+
 }
 .instructions{
   margin: 0;
-  background-color: green;
+  background-color: yellow;
   padding: .3em 2em;
 }
 .content{
   border-style: none solid solid solid;
   border-width: 2px;
-  border-color: green;
-  background-color: lime;
+  border-color: #33FF39;
+  background-color: #33FF39;
   padding: .3em 2em;
-
 }
 p{
-  font-size: 1.3em;
+  font-size: 1.5em;
 }
 footer{
-  background-color: purple;
-  color: orange;
+  background-color: violet;
+  color: indigo;
   border-radius: 0 0 .5em .5em;
   padding: .3em .5em;
   margin-bottom: 0;
 }
 
 table, td, th{
-  border: 2px solid navy;
+  border: 2px solid blue;
 }
 table{
   border-collapse: collapse;
   margin: 5%;
   width: 90%;
+  font-size: 1.5em;
+
 }
 th{
-  background-color: fuschia;
-  color: turquoise;
+  background-color: #33C1FF;
+  color: black;
   height: 2em;
 }
-tr:nth-child(even) {background-color: white;}
+tr:nth-child(even) {
+  background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);
+  color: #33FF39;
+}
 
 td{
   padding-left: 1em;
@@ -64,16 +69,18 @@ th#col2, #col3, #col4, #col5{
 
 img{
   max-width: 100%;
+  border-radius: 5%;
 }
-
-
 
 ul#stylez {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: purple;
+    background-color: orange;
+    font-size: 1em;
+    font-family: sans-serif;
+
 }
 
 ul#stylez li {
@@ -90,5 +97,5 @@ ul#stylez li a {
 
 /* Change the link color to #111 (black) on hover */
 ul#stylez li a:hover {
-    background-color: blue;
+    background-color: #FFCE33;
 }
