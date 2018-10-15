@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head prefix="DC: http://purl.org/dc/terms/">
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, intitial-scale=1.0, shrink-to-fit-no" />
+
+  <title>Instructions for HTML Exercise 3</title>
+
+  <link href="stylesheet.css" rel="stylesheet" type="text/css">
+
+</head>
+
+<body>
+<h1>Instructions for HTML exercise 3</h1>
+<div class="instructions">
+<p>By Friday, turn in your revised HTML page. You will add the following to this revision:</p>
+<ol>
+  <li>Add an image, including alt text</li>
+  <li>Add an embedded video or other embeddable media</li>
+  <li>Continue revisions for sentence style (see chapter 10)</li>
+</ol>
+<h2>Add at least 1 substantive/informational illustration to your html page.</h2>
+<p>To add an image, select an online image, something you can link to from the internet rather than a file I'd need to upload to our web space. Include accessible alt text in plain language (you'll practice this in the Week 8 forum).</p>
+
+<p>The markup for images is:</p>
+  <pre>
+&lt;img src=“htp://url.whereyourimageis.net/thepicture.png” alt="Add your alt-text” /&gt;
+  </pre>
+
+<p>Instead of <code>href</code> for links you’ll use the <code>src</code> attribue. Image element tags are self-closing, so you don’t need a pair of tags. If you’d like to make your image a hyperlink, simply nest the whole thing inside of <code>&lt;a&gt;</code> tags:</p>
+
+  <pre>
+&lt;a href= “http:// url.whereyourimageis.net”&gt;
+  &lt;img src= “http://url.whereyourimageis.net/thepicture.png” alt=“Add your alt-text” /&gt;
+&lt;/a&gt;
+  </pre>
+
+<p>Depending on your image, you may need to specify height and width. Those attributes are commonly measured in pixels (px), though other values can be used. If your image is too big, try setting the width attribute to <code>width= “500px”</code>.</p>
+
+  <pre>
+&lt;a href= “http:// url.whereyourimageis.net”&rt;
+  &lt;img src= “http://url.whereyourimageis.net/thepicture.png” alt= “Add your alt-text” width= “500px”/&gt;
+&lt;/a&gt;
+  </pre>
+
+We’re going to go one step further and use the HTML <code>&lt;figure&gt;</code> element, which will contain all the information about your image and information for displaying a caption. See <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/figure" target="_blank">MDN Web Docs reference</a> for more information.</p>
+
+  <pre>
+&lt;figure&gt;
+  &lt;a href= “http:// url.whereyourimageis.net”&gt;
+    &lt;img src= “http://url.whereyourimageis.net/thepicture.png” alt=“Add your alt-text” width= “500px”/&gt;
+  &lt;/a&gt;
+  &lt;figcaption&gt;Your accessible caption goes here&lt;/figcaption&gt;
+&lt;/figure&gt;
+</pre>
+
+
+<h2>Embed at least one video or other embeddable media on your html page</h2>
+<p>You can also embed video and other content from popular sites like Vimeo, YouTube, or Giphy. Find a video or gif you’d like to embed on your page and copy/paste the embed code for that video/gif into your HTML.</p>
+<ul>
+  <li>On YouTube or Vimeo, click the “share” icon under the video and select the “embed” option</li>
+  <li>On Giphy, when you select a gif the embed code should be the first thing displayed</li>
+</ul>
+<h2>Continue revisions for sentence style.</h2>
+<p>Keep on revising those sentences! Make them work for your users, who are not living in the 19th century!</p>
+
+</div>
+
+<footer>
+  <h2>HTML references and tutorials</h2>
+    <ul>
+      <li><a href="https://developer.mozilla.org/en-US/">MDN Web Docs</a> is a thorough reference and guide for HTML and CSS.</li>
+      <li><a href="https://www.w3schools.com/html/default.asp">W3schools</a> offers HTML tutorials.</li>
+    </ul>
+</footer>
+</body>
+</html>

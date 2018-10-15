@@ -26,6 +26,22 @@ h1{
 p{
   font-size: 1.3em;
 }
+pre{
+  padding: 10px;
+  background: #f8f8f8;
+  border: 1px solid gray;
+
+ white-space: pre-wrap;       /* css-3 */
+ white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+ white-space: -pre-wrap;      /* Opera 4-6 */
+ white-space: -o-pre-wrap;    /* Opera 7 */
+ word-wrap: break-word;       /* Internet Explorer 5.5+ */
+}
+code{
+  font-size: 1.3em;
+  background: #f8f8f8;
+
+}
 footer{
   background-color: black;
   color: #f8f8f8;
