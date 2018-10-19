@@ -29,49 +29,46 @@
 		<figcaption>An HTML element includes an opening tag, the content, and a closing tag.</figcaption>
 		</figure>
 
-
-
-<p>To add an image, locate an online image, something you can link to from the internet rather than a file I'd need to upload to our web space.
-
-<p>When you locate an image you want to include on your page, copy the source URL for that image. <em>Note: you must copy the URL for the image file itself, not just the page it's on. If you are using a Google image search, use the "Copy Image Location" option, not "Copy Link Location" or "Copy Image."</em></p><p> Images are not technically inserted into an HTML page, but instead are linked to the page. Paste the URL for the image in the <code>src=""</code> attribute of the  element. Using the URL in the source attribute will call up that image through the link in your own HTML. See the <a href="https://www.w3schools.com/tags/tag_img.asp" target="_blank">w3schools tutorial for <code>&lt;img&gt;</code> tags</a>.</p>
-
-<p>In the <code>alt=""</code> attribute, include accessible alt text in plain language (you'll practice this in the Week 8 forum).</p>
-
-<p>The markup for images is:</p>
-  <pre>
+<h3>1. Locate an image and link to it using the <code>&lt;img&gt;</code> element tag.</h3>
+	<p>The markup for images looks like this:</p>
+  	<pre>
 &lt;img src=“htp://url.whereyourimageis.net/thepicture.png” alt="Add your alt-text” /&gt;
-  </pre>
+  	</pre>
+	<p>To add an image, locate an online image, something you can link to from the internet rather than a file I'd need to upload to our web space.
+	<p> Images are not technically inserted into an HTML page, but instead are linked to the page. When you locate an image you want to include on your page, copy the source URL for that image. Paste the URL for the image in the <code>src=""</code> <strong>attribute</strong> of the  element. Using the URL in the source attribute will call up that image through the link in your own HTML. See the <a href="https://www.w3schools.com/tags/tag_img.asp" target="_blank">w3schools tutorial for <code>&lt;img&gt;</code> tags</a>.</p>
+	<p><em>Note: you must copy the URL for the image file itself, not just the page it's on. If you are using a Google image search, use the "Copy Image Location" option, not "Copy Link Location" or "Copy Image."</em></p>
+	<p>Image element tags are self-closing, so you don’t need a pair of tags. </p>
+	<p>In the <code>alt=""</code> attribute, include accessible alt text in plain language (you'll practice this in the Week 8 forum).</p>
 
-<p>Instead of <code>href</code> for links you’ll use the <code>src</code> attribue. Image element tags are self-closing, so you don’t need a pair of tags. If you’d like to make your image a hyperlink, simply nest the whole thing inside of <code>&lt;a&gt;</code> tags:</p>
-
+<h3>2. Make your image an active hyperlink</h3>
+	<p>To make your image a hyperlink, nest the whole thing inside of <code>&lt;a&gt;</code> tags:</p>
   <pre>
 &lt;a href= “http:// url.whereyourimageis.net”&gt;
   &lt;img src= “http://url.whereyourimageis.net/thepicture.png” alt=“Add your alt-text” /&gt;
 &lt;/a&gt;
   </pre>
 
-<p>Depending on your image, you may need to specify height and width. Those attributes are commonly measured in pixels (px), though other values can be used. If your image is too big, try setting the width attribute to <code>width= “500px”</code>.</p>
-
-  <pre>
+<h3>3. Set height or width attributes if needed</h3>
+	<p>Depending on your image, you may need to specify height and width. Those attributes are commonly measured in pixels (px), though other values can be used. If your image is too big, try setting the width attribute to <code>width= “500px”</code>.</p>
+  	<pre>
 &lt;a href= “http:// url.whereyourimageis.net”&rt;
   &lt;img src= “http://url.whereyourimageis.net/thepicture.png” alt= “Add your alt-text” width= “500px”/&gt;
 &lt;/a&gt;
-  </pre>
+  	</pre>
 
-<p>Now that you've gone that far, let's go to go one step further and place your linked image inside of an HTML <code>&lt;figure&gt;</code> element, which will contain all the information about your image and information for displaying a caption. See <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/figure" target="_blank">MDN Web Docs reference</a> for more information.</p>
-
-  <pre>
+<h3>4. Place everything into a figure element</h3>
+	<p>Now that you've gone that far, let's go to go one step further and place your linked image inside of an HTML <code>&lt;figure&gt;</code> element, which will contain all the information about your image and information for displaying a caption. See <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/figure" target="_blank">MDN Web Docs reference</a> for more information.</p>
+  	<pre>
 &lt;figure&gt;
   &lt;a href= “http:// url.whereyourimageis.net”&gt;
     &lt;img src= “http://url.whereyourimageis.net/thepicture.png” alt=“Add your alt-text” width= “500px”/&gt;
   &lt;/a&gt;
   &lt;figcaption&gt;Your accessible caption goes here&lt;/figcaption&gt;
 &lt;/figure&gt;
-</pre>
-
+		</pre>
 
 <h2>Embed at least one video or other embeddable media on your html page</h2>
-<p>You can also embed video and other content from popular sites like Vimeo, YouTube, or Giphy. Find a video or gif you’d like to embed on your page and copy/paste the embed code for that video/gif into your HTML markup.</p>
+	<p>You can also embed video and other content from popular sites like Vimeo, YouTube, or Giphy. Find a video or gif you’d like to embed on your page and copy/paste the embed code for that video/gif into your HTML markup.</p>
 <ul>
   <li>On YouTube or Vimeo, click the “share” icon under the video and select the “embed” option</li>
   <li>On Giphy, when you select a gif the embed code should be the first thing displayed</li>
