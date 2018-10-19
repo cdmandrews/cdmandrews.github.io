@@ -40,7 +40,9 @@ figure{
 figcaption{
   font-style: italic;
 }
-
+iframe{
+  padding-left: 2em;
+}
 /* Tables */
 table, td, th{
   border: 2px solid black;
