@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head prefix="DC: http://purl.org/dc/terms/">
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, intitial-scale=1.0, shrink-to-fit-no" />
+
+  <title>Instructions for HTML Exercise 3</title>
+
+  <link href="stylesheet.css" rel="stylesheet" type="text/css">
+
+</head>
+
+<body>
+<h1>Instructions for HTML exercise 4</h1>
+<div class="instructions">
+  <p>In exercise 4, you continue to edit your HTML page from exercises 1, 2 ,and 3. For Exercise 4, you will add:</p>
+  <ol class="stylez">
+    <li>An internal stylesheet using CSS</li>
+    <li>Any necessary revisions to your html</li>
+  </ol>
+  <p>When you are finished, either upload your HTML page with internal stylesheet to Blackboard as lastname-4.html OR email it to me.</p>
+
+<h2>What is CSS?</h2>
+  <p>In this exercise, you will give your well-structured HTML page some style and presentation. We will use Cascading Style Sheets (CSS) to bring presentation to your content. HTML markup defines the structure and semantics of a document: it tells a browser what content is a paragraph, which content is a heading, etc. CSS works with your HTML to specify how browsers present documents to users: everything from font size and color to margins and layout. (And much, much, much more.)</p>
+  <p>You can see different stylesheets in action by clicking through the menu of different stylesheets at the top of <a href="directory.html" target="_blank">directory.html</a>. The HTML markup is exactly the same; it's only the stylesheet definitions that are different. CSS makes it easy to define and redefine the presentation of an entire website. Your Wordpress themes are stylesheets: the structure of a basic wordpress page is the same from site to site, but when you switch to a new stylesheet (aka a theme), you're changing the presentation and layout.</p>
+  <p>In terms of its basic syntax, CSS is not a complex language to learn. Working through all the different types of declarations and properties available to you, on the other hand, is a much more daunting task. This is not a web design course, so we are not getting anywhere near the finer points of CSS and layout/development; this exercise is only intended to get your feet wet with a few common aspects of CSS.</p>
+  <p>I remember learning CSS (on my own. in a cave. in the snow. uphill both ways.) It was at turns frustrating and fun. <strong>Be patient with yourself, keep MDN references at hand, and remember it's okay if your CSS is broken or weird or ugly</strong>. I'm more interested in you thinking through the practices and processes of separating presentation and content than in you creating a whiz-bang page. <strong>Don't forget to ask for help!</strong></p>
+
+<h2>How CSS works</h2>
+  <p>Your browser already uses a default stylesheet to define how it displays unstyled HTML markup. For example, in Firefox on my laptop, your basic HTML pages are displayed in Times New Roman, with particular relative font sizes, while in Firefox on my Samsung Note, your pages display in the default sans serif typeface.</p>
+  <figure><img src="media/two-styles.png" />
+    <figcaption>Comparison of the same HTML page with no styles on two different machines using different browser default stylesheets.</figcaption>
+    </figure>
+  <p>CSS gives your browser rules that affect how documents should be displayed. On "How CSS Works," they tell us that CSS rules are formed from:</p>
+  <ul>
+    <li><strong>properties</strong>, which have <strong>values</strong> to update how HTML content is displayed</li>
+    <li><strong>selectors</strong>, which select which elements to apply those properties to. Selectors allow you to target all elements of a certain type.</li>
+  </ul>
+  <p>A CSS rule looks like this:</p>
+  <figure><img src="media/rule1.png"/>
+    <figcaption>A CSS rule with a single selector and a single declaration. The selector is <code>p</code>, the property is <code>color</code>, and the value is <code>blue</code>.</figcaption>
+  </figure>
+
+  <p>In the example above, the rule begins with the p selector; it will apply property values (called a <strong>declaration</strong>) to all paragraph elements on the HTML page. In this case, the declaration sets the paragraph text color to blue. The property and value of a CSS declaration are separated by a colon. A declaration is separated from the next declaration with a semicolon. Notice that some declarations can include multiple values. For example:</p>
+    <figure><img src="media/rule2.png"/>
+      <figcaption>A CSS rule with a single selector and multiple declarations.</figcaption>
+    </figure>
+
+<h2>Before you try your CSS stylesheet</h2>
+  <p>A stylesheet is the entire set of CSS rules. <strong>Read about <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/How_CSS_works#How_to_apply_your_CSS_to_your_HTML" target="_blank">how to apply CSS to your HTML at MDN</a> before going any further</strong>.</p>
+  <p>For this exercise, you will create an <strong>internal stylesheet</strong>. Place your CSS inside a <code>&lt;style&gt;</code> element contained inside the HTML <code>head</code>.</p>
+  <figure><img src="media/internalstylesheet.png" width="500px">
+    <figcaption>An internal stylesheet on an HTML page</figcaption>
+  </figure>
+
+<h2>For Exercise 4, create an internal stylesheet that makes declarations for the following HTML markup elements:</h2>
+
+<h3>Define properties and values for the following element selectors</h3>
+  <p>Define default styles for at least the page, paragraphs, headings, and lists.</p>
+  <ul>
+    <li><code>html</code> (use the html selector to set presentation defaults for the entire page, such as a page background color or default font family that all paragraphs, headings, lists, and tables should start from)</li>
+    <li><code>p</code></li>
+    <li><code>li</code>(you can also define <code>ul</code>and<code>ol</code>)</li>
+    <li><code>h1, h2, h3</code></li>
+  </ul>
+  <p><strong>Optional</strong> HTML element selectors (read more about these at MDN or w3schools)</p>
+  <ul>
+    <li><code>img</code> (set borders, padding, margins, etc)</li>
+    <li><code>a</code>(set custom link colors, styles)</li>
+    <li><code>div</code> (non-semantic block element which can be useful for creating containers of multiple paragraphs, etc)</li>
+  </ul>
+ <h3>Set values for the following properties</h3>
+  <p>You may style your document however you like. The properties listed below are suggested, but you can define presentation for other elements, too. For reference, see <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals" target="_blank">"Fundamental text and font styling"</a>. W3schools.com also has a (lengthy) reference list of properties</p>
+    <ul>
+      <li><code>font-family</code></li>
+      <li><code>font-size</code></li>
+      <li><code>color</code></li>
+      <li><code>background-color</code></li>
+      <li><code>border</code></li>
+      <li><code>width (either in percentages or px)</code></li>
+    </ul>
+    <p>Optional properties if you are feeling advanced or want to mess with layout</p>
+    <ul>
+      <li><code>margin</code> (the space outside; the space surrounding an element)</li>
+      <li><code>padding</code> (the space inside; the space between an element's border and its content)</li>
+    </ul>
+
+<h3>Upload your completed HTML page with internal stylesheet to Blackboard by Friday at Midnight.</h3>
+</div>
+</body>
+</html>
