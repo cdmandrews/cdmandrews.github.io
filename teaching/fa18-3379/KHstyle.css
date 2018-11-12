@@ -1,0 +1,28 @@
+h1 {
+  colour: blue;
+  background-color: none;
+  border: 1px solid black;
+}
+
+p {
+  color: black;
+}
+
+p, li {
+  text-decoration: none;
+}
+body {font: 1em/120% Helvetica; padding: 1em; margin: 0 auto; max-width: 33em;}
+@media (min-width: 70em) { body {font-size: 130%;} }
+h1 {
+  color:blue;
+  text-shadow: 1px 1px 1px blue;
+  background: linear-gradient(to bottom, rgba(0,0,0,0.25), rgba(0,0,0,0.1));
+  padding: 3px;
+  text-align: center;
+  box-shadow: inset 2px 2px 5px rgba(0,0,0,0.5), inset -2px -2px 5px rgba(255,255,255,0.5);
+}
+
+div p, #id:first-line {background-color: blue; background-style: black}
+div p {margin: 0; padding: 1em;}
+div p + p {padding-top: 0;}
+
