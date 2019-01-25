@@ -46,7 +46,9 @@ html {
   font-family: "Roboto", Arial, sans-serif;
 }
 
-/* Color variable definitions */
+/* Color variable definitions
+TFW you don't have to keep track of color codes any more,
+just color schemes.  */
 :root {
   --color-dark: #383838;
   --color-medium: #505050;
