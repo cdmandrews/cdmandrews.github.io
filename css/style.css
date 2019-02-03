@@ -292,6 +292,7 @@ h3 {
 }
 .portfolionav li {
 	line-height: 1;
+  font-size: 0.8em;
 	display: inline-block;
 	padding: 0;
 	}
@@ -312,10 +313,9 @@ hr{
   color: #04a678;
   margin: 20px 0px;
 }
-hr.portfolionav-hr{
-   margin: 0px;
-  }
+
 blockquote.portnote {
+  border-top: solid 10px #04a678;
 	float:right;
 	padding-left: 1.777em;
 	padding-top: 0.917em;
