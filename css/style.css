@@ -283,3 +283,50 @@ h3 {
 
     #navigation {padding-left: 70px; font-size: 1.5em;}
 }
+
+
+/* ==== Special Navigation and CSS for Pre-tenure portfolio */
+.portfolionav {
+	line-height: 1;
+	padding: 0;
+}
+.portfolionav li {
+	line-height: 1;
+	display: inline-block;
+	padding: 0;
+	}
+.portfolionav li a {
+	display: block;
+  border-radius: .5em .5em 0 0;
+	padding: 1.222em;
+	padding-top: 0.722em;
+	padding-bottom: 0.722em;
+  margin-bottom: 0;
+	text-decoration: none;
+	background-color: var(--color-important);
+	color: var(--color-light);
+}
+hr{
+  border-style: solid;
+  border-width: 10px;
+  color: #04a678;
+  margin: 20px 0px;
+}
+hr.portfolionav-hr{
+   margin: 0px;
+  }
+blockquote.portnote {
+	float:right;
+	padding-left: 1.777em;
+	padding-top: 0.917em;
+	padding-right: 0.917em;
+	padding-bottom: 0.917em;
+	border-radius: 0 0 0.25em 0.25em;
+	background-color: var(--color-medium);
+	color: var(--color-light);
+	font-family: 'Roboto Slab', serif;
+	text-align: left;
+	font-size: 0.8em;
+  margin-top: 0;
+  margin-bottom: 1.777em;
+}
