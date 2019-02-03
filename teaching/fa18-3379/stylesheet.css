@@ -3,21 +3,32 @@ body{
   font-family: sans-serif;
   margin: 1% 5%;
 }
+
 h1{
   background-color: black;
-  color: #f8f8f8;
-  border-radius: .5em .5em 0 0;
+  color: #dce9af;
   padding: 1em .5em .3em .3em;
+  margin: -1% 0 0 0;
+}
+
+header img{
+  width: 100%;
+  border-radius: .5em .5em 0 0;
   margin: 0;
 }
+
 p{
   font-size: 1.3em;
   padding-left: 2em;
 }
-li{font-size: 1.3em; margin-left:2em;}
+li{
+  font-size: 1.3em;
+  margin-left:2em;
+}
+
 pre{
   padding: 10px;
-  background: #f8f8f8;
+  background: #dce9af;
   border: 1px solid gray;
   /* the next five lines ensure preformatted text wraps inside its container */
   white-space: pre-wrap;       /* css-3 */
@@ -28,7 +39,16 @@ pre{
 }
 code{
   font-size: 1.3em;
-  background: #f8f8f8;
+  background: #dce9af;
+}
+
+blockquote{
+  background-color: #dce9af;
+  border: 1px solid;
+  margin: 0 10%;
+  padding: .3em .5em;
+  font-size: 1.3em;
+  font-style: italic;
 }
 img{
   max-width: 100%; /* Ensures image width scales with page/screen */
@@ -42,7 +62,9 @@ figcaption{
   font-style: italic;
 }
 iframe{
-  padding-left: 2em;
+  padding: .5em;
+  display: block;
+  margin: 0 auto;
 }
 /* Tables */
 table, td, th{
@@ -71,26 +93,32 @@ th#col2, #col3, #col4, #col5{
   width: 22%;
 }
 
+ol ul{
+  margin: 1em 0em;
+}
+
 /* Navigation list */
-ul#stylez {
+ul#navigation {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
+    background-color: #dce9af;
 }
-ul#stylez li {
+ul#navigation li {
     float: left;
+    font-size: 1em;
 }
-ul#stylez li a {
+ul#navigation li a {
     display: block;
-    color: white;
+    color: black;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
 }
-ul#stylez li a:hover {
-    background-color: #111;
+ul#navigation li a:hover {
+    background-color: black;
+    color: #dce9af;
 }
 
 /* classes and HTML5 structural elements */
@@ -99,6 +127,7 @@ ul#stylez li a:hover {
   background-color:#d0d0d0;
   padding: .3em 2em;
 }
+
 .content{
   border-style: none solid solid solid;
   border-width: 2px;
@@ -108,8 +137,10 @@ ul#stylez li a:hover {
 }
 footer{
   background-color: black;
-  color: #f8f8f8;
+  color: #dce9af;
   border-radius: 0 0 .5em .5em;
   padding: .3em .5em;
   margin-bottom: 0;
 }
+
+footer a{color: white;}

@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head prefix="DC: http://purl.org/dc/terms/">
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, intitial-scale=1.0, shrink-to-fit-no" />
+
+  <title>Instructions for HTML Exercise 3</title>
+
+  <link href="stylesheet.css" rel="stylesheet" type="text/css">
+
+</head>
+
+<body>
+<header><img src="media/3379-banner.jpg"/>
+<h1>Instructions for HTML Exercise 1</h1></header>
+<!-- <ul id="stylez">
+	<li><a href="directory.html" >Gray styles</a></li>
+	<li><a href="directory-3.html">Rainbow styles</a></li>
+	<li><a href="directory-5.html">Rainy styles</a></li>
+	<li><a href="directory-4.html">Standard styles</a></li>
+	<li><a href="directory-2.html">Collapsed styles</a></li>
+</ul> -->
+<ul id="navigation">
+	<li><a href="exercise-1.html">Exercise 1 </a></li>
+	<li><a href="exercise-2.html">Exercise 2 </a></li>
+	<li><a href="exercise-3.html">Exercise 3 </a></li>
+	<li><a href="exercise-4.html">Exercise 4 </a></li>
+	<li><a href="head.html">Document head reference</a></li>
+	<li><a href="directory.html">Fall 2018 student projects</a></li>
+</ul>
+
+<div class="instructions">
+<h2>Markup structure, headings, and paragraphs</h2>
+
+<p>In this exercise, you're going to build a simple HTML page using the text you marked up in <a href="exercise-0.html" target="_blank">Exercise 0</a></p>
+
+<p>HTML (and its cousin XML) is a <a href="https://en.wikipedia.org/wiki/Markup_language" target="_blank">markup language</a>. Although we throw the word "code" around a lot in these exercises, you're not doing computer programming. Instead, you will be <strong>marking up</strong> a document with <strong>tags</strong> so that a browser will display it in a particular way (aka "presentation").</p>
+
+<p>This is not a full HTML/CSS development course, so we won't get into crazy stuff like CSS 3D transformations. My goal for the HTML portion of the course is for you to know just enough to be dangerous. If you spend any time working in a content management system (WordPress is one, as is Blackboard!), a little basic HTML knowledge will help you to troubleshoot weird formatting issues. More importantly, you'll understand the basics of working in markup languages, which has applications in the kinds of content development and management work that can be part of many technical communication careers.</p>
+<p>For some of us, Blackboard is trouble enough, and working with markup languages might be an intimidating idea. Please remember this section from the syllabus:</p>
+<blockquote>A spirit of inquiry and experiment is just as important as particular technical skills in this course. "Showing up" with broken or malfunctioning work is far better than showing up with an excuse, and sometimes we can learn more from your broken webtext than some slick Squarespace module. Your honest effort is more interesting to me than perfect work.</blockquote>
+
+<h3>Use a plaintext editor</h3>
+<p>Use a plaintext editing program rather than your word processor to edit your files. I recommend:</p>
+<ul>
+<li>For Windows: <a href="https://notepad-plus-plus.org/" target="_blank">Notepad++</a></li>
+<li>For Mac: <a href="https://www.barebones.com/products/bbedit/" target="_blank">BBEdit</a></li>
+<li>If you're feeling slightly more advanced, two good open source code editors for Mac and Windows are: <a href="https://atom.io/" target="_blank">Atom</a> or <a href="http://brackets.io/" target="_blank">Brackets</a></li>
+</ul>
+
+<h3>Add tags to your document</h3>
+<ol>
+<li>First, review the video introduction and the following articles from the Mozilla Developer Network. </li>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wIEZRuoyHIs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<ul>
+	<li><a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started" target="_blank">Getting started with HTML</a> (we won't get into attributes this week, but please review that content)</li>
+	<li><a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals" target="_blank">HTML text fundamentals</a></li>
+</ul>
+	<li>Take the fair-use text you revised for Exercise 0 and format it as an HTML page. You can <a href="template.html" target="_blank">get started by downloading this HTML template file to your computer</a> and addding the text from your excerpt. Right-click or alt-click on the link text and save link as an html page file. Include at least the following elements (we will get to links and media in the weeks to come):</li>
+	<ul>
+		<li>One top-level <a href="https://www.w3schools.com/html/html_headings.asp" target="_blank">heading</a>:
+				<pre>&lt;h1&gt;This is a good spot for my headline or title&lt;/h1&gt;</pre></li>
+		<li>Multiple second-level headings (the number will vary according to your excerpt)
+				<pre>&lt;h2&gt;This is a second-level heading&lt;/h2&gt;</pre></li>
+		<li>Paragraph elements for each <a href="https://www.w3schools.com/html/html_paragraphs.asp" target="_blank">paragraph</a>
+				<pre>&lt;p&gt;This is a single paragraph of text.&lt;/p&gt;</pre></li>
+		<li>At least one span of text tagged for <a href="https://www.w3schools.com/tags/tag_strong.asp" target="_blank">importance</a>
+				<pre>&lt;strong&gt;important text, such as a key word&lt;/strong&gt;</pre></li>
+		<li>At least one span of text tagged for <a href="https://www.w3schools.com/tags/tag_em.asp" target="_blank">emphasis</a>
+				<pre>&lt;em&gt;Place em tags around text you want to emphasize&lt;/em&gt;</pre></li>
+	</ul>
+	<li>Save your HTML file in the format <strong>yourlastname-1.html</strong> (my file would be: andrews-1.html) and upload it to the HTML Exercise 1 assignment in Bb. It may not display correctly in the DocBox visualizer. Over the weekend, I will download your files and upload them all to a public web directory for us to review together.</li>
+</ol>
+</div>
+<footer>
+  <h2>HTML references and tutorials</h2>
+    <ul>
+      <li><a href="https://developer.mozilla.org/en-US/">MDN Web Docs</a> is a thorough reference and guide for HTML and CSS.</li>
+      <li><a href="https://www.w3schools.com/html/default.asp">W3schools</a> offers HTML tutorials.</li>
+    </ul>
+</footer>
+</body>
+</html>
