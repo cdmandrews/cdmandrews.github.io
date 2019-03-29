@@ -4,7 +4,7 @@ typesets:
 	font-family: 'Raleway', serif; (for headings)
 	font-family: 'Open Sans', sans-serif; (for body text)
 
-color scheme:
+color scheme:  **MAKE THIS INTO VARIABLES**
 
 	default font color: black
 	dark green: #6B9925
@@ -96,8 +96,6 @@ article > h3:first-child {font-size:2em;}
 	width: 100%;
 	background-color: ;
   padding-top: 2.5em;
-  margin-left: -10%;
-  padding-left: 10%;
   border-bottom: .1em #6B9925 dotted;
 }
 
