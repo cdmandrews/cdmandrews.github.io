@@ -11,6 +11,14 @@ color scheme:  **MAKE THIS INTO VARIABLES**
 	light green: #A7CC6E
 	light yellow #FFF7A3
 
+  :root {
+    --color-dark: #__;
+    --color-medium: #__;
+    --color-light: #__;
+    --color-important: #__;
+    --color-link: #__;
+  }
+
 	generate your own dippy color scheme at Adobe Color CC, adobe.color.com
 */
 
@@ -117,75 +125,11 @@ article > h3:first-child {font-size:2em;}
 	color: #6B9925;
 	}
 
-.agenda {
-	background-color: #fff;
-	padding-bottom: .3em;
-	padding-left: 2%;
-}
-.assigned {
-	background-color: #FFF7A3;
-	padding-right: 10%;
-	padding-left: 12%;
-	margin-right: -10%;
-	margin-left: -10%;
-	border-bottom: .1em #6B9925 solid;
-	padding-top: .3em;
-	padding-bottom: .3em;
-}
-.alternate {
-	background-color: #FFF7A3 ;
-  padding-top: 1.3em;
-  margin-right: -10%; /* 60px / 530px (650-120) */
-  padding-right: 10%;
-  margin-left: -10%;
-  padding-left: 10%;
-  margin-bottom: 1.3em;
-}
-
-.week,
-.meeting,
-.assigned > ul > li {
-  list-style-type: none;
-}
-
 
 /* @560px */
 
 @media screen and (min-width: 560px) {
 
-
-  .assigned {
-    padding: 1.2631578947em 1.8947368421em 0.6315789474em 1.8947368421em;
-    margin-left: -1.8947368421em;
-    margin-right: -1.8947368421em;
-
-}
-
 /* @650px */
 
 @media screen and (min-width: 40.625em) {
-  html {
-    padding: 0;
-  }
-  header,
-  footer,
-  .primary,
-  #instructor,
-  #links {
-    padding-left: 14.28571429%; /* 93/651 */
-    padding-right: 28.57142857%; /* 186/651 */
-  }
-  .tagline,
-  .fineprint {
-  }
-  #navigation {
-    width: 70%;
-    left: 14.28571429%;
-  }
-
-  .agenda > ol {
-    display: block;
-  }
-h1 {
-  font-size: 3.2em;
-}
