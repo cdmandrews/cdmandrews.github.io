@@ -31,6 +31,8 @@ Studies in the theory and practice of electronic research, writing and editing. 
   - [c&c](http://computersandcomposition.candcblog.org/)
   - [tcq](https://attw.org/publications/technical-communication-quarterly/)
   - [tc](https://www.stc.org/techcomm/)
+  - [Jason Tham's very fine list at https://jasontham.com/journals/](https://jasontham.com/journals/)
+
 5. annotated bibliography (pub. as webtext) on a topic of your choice in C&C/TC or cognate Journals
 
 #### From _NWWK: Threshold Concepts of Writing Studies_
