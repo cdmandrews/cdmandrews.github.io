@@ -46,3 +46,6 @@ Studies in the theory and practice of electronic research, writing and editing. 
 - (OA) Excerpts from Mueller, _Network Sense_ (method, distant reading)
 - Basgier, C. (2011) The Author-Function, The Genre Function, and The Rhetoric of Scholarly Webtexts. C&C 28.2 pp. 145-159. [link](https://www.sciencedirect.com/science/article/pii/S8755461511000247)
 - Baehr, C. and Lang, S. (2019) Hypertext theory: Theoretical foundations for technical communication in the 21st century. TC 66.1 [link](https://www.stc.org/techcomm/2019/02/04/hypertext-theory-theoretical-foundations-for-technical-communication-in-the-21st-century/)
+
+Tools to piddle with:
+https://stackedit.io/app

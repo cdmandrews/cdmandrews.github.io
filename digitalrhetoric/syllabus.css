@@ -35,12 +35,12 @@ html {
 }
 
 :root {
-  --color-black: #0b0c10;
-  --color-d-gray: #1f2833;
-  --color-l-gray: #c5c6c7;
-  --color-l-blue: #66fcf1;
+  --color-black: #fff;
+  --color-d-gray: #fff;
+  --color-l-gray: #black;
+  --color-l-blue: #04a678;
   --color-d-blue: #45a29e;
-  --color-important: #66fcf1;
+  --color-important: #04a678;
   --color-link: #45a29e;
 }
 /* HTML5 Elements as Blocks; Cribbed from HTML5 Boilerplate */
@@ -106,7 +106,7 @@ h1,
 h2,
 h3,
 h4 {
-  font-family: 'Montserrat', sans-serif;
+  font-family: Verdana, sans-serif;
   font-weight: bold;
   color: var(--color-l-blue);
   border-bottom-width: 1px;
@@ -116,7 +116,7 @@ h4 {
   /* text-transform: lowercase; */
 	}
 
-h1 {font-size: 2.2em; line-height: 1em;}
+h1 {font-size: 3.2em; line-height: 1em;}
 h2 {font-size: 2.2em; line-height: 1em;  padding-top: .3em; }
 h3 {padding-left: 2%; padding-top: .6em; line-height: 1em; border-style: none;}
 article > h3:first-child {font-size:2em;}
