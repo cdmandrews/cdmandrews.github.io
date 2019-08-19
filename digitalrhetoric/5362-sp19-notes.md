@@ -49,3 +49,23 @@ Studies in the theory and practice of electronic research, writing and editing. 
 
 Tools to piddle with:
 https://stackedit.io/app
+
+
+Building the puddle of links
+Essential tools:
+Atom.io
+Github (see also github desktop)
+accessibility checker
+validator
+jsbin (for playtime)
+
+Tools to fiddle with:
+stackedit
+tagcrowd
+voyant
+gravit
+
+
+MDN References
+Markdown References
+Terminal References
