@@ -2,11 +2,6 @@
 
 /* NEED TO CORRECT AND ADJUST */
 :root {
-  --color-black: #fff;
-  --color-d-gray: #fff;
-  --color-l-gray: black;
-  --color-l-blue: #04a678;
-  --color-d-blue: #45a29e;
   --color-important: #04a678;
   --color-link: #45a29e;
 }
@@ -15,7 +10,7 @@ h1,
 h2,
 h3,
 h4 {
-  color: var(--color-l-blue);
+  color: var(--color-important);
   font-weight: bold;
-	}
+}
 strong {color: var(--color-important);}
