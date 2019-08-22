@@ -14,3 +14,12 @@ h4 {
   font-weight: bold;
 }
 strong {color: var(--color-important);}
+
+#content{
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  -ms-hyphens: auto;
+  -moz-hyphens: auto;
+  -webkit-hyphens: auto;
+  hyphens: auto;
+}
