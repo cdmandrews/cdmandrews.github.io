@@ -2,8 +2,8 @@
 
 /* NEED TO CORRECT AND ADJUST */
 :root {
-  --color-important: #04a678;
-  --color-link: #45a29e;
+  --color-important: #db0a5b;
+  --color-link: #db0a5b;
 }
 
 h1,
@@ -12,6 +12,7 @@ h3,
 h4 {
   color: var(--color-important);
   font-weight: bold;
+  font-family: 'Roboto Slab', serif;
 }
 strong {color: var(--color-important);}
 
