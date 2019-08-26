@@ -24,3 +24,12 @@ strong {color: var(--color-important);}
   -webkit-hyphens: auto;
   hyphens: auto;
 }
+.htmlogo{
+  float: right;
+  height: 1em;
+}
+.bg-info{
+  background-color: #F8B7D0;
+}
+
+body {color: #2B0010;}
