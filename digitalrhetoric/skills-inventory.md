@@ -13,16 +13,16 @@ This .md file contains the raw (and rough) text of the skills inventory we did d
 
 Tables, images, blockquotes, and anything else are up to you. Revise your own information if you've thought of other things to add or if I added something incorrectly.
 
-Before next Wednesday at noon, email  your .md file to me as an attachment. Use the file name: yourname-inventory.md  (so, nicole-inventory.md, etc.) I'll put them online and we'll inspect them together. 
+Before next Wednesday at noon, email  your .md file to me as an attachment. Use the file name: yourname-inventory.md  (so, nicole-inventory.md, etc.) I'll put them online and we'll inspect them together.
 
 ## Resources
 
 A tool I intended to mention Wednesday and forgot: You can use [StackEdit](https://stackedit.io) to work on Markdown files in a browser if you want. Handy, as you can have  markdown mode and reader mode open at the same time.
 
-During class, you completed the tutorial at https://www.markdowntutorial.com/. You can also find a variety of other tutorials, references, and specs for Markdown on the web:
+During class, you completed the tutorial at [https://www.markdowntutorial.com/](https://www.markdowntutorial.com/). You can also find a variety of other tutorials, references, and specs for Markdown on the web:
 - [CommonMark.org](https://commonmark.org/help)
 - [Adam Pritchard's Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-- [John Gruber's original spec](https://daringfireball.net/projects/markdown
+- [John Gruber's original spec](https://daringfireball.net/projects/markdown)
 
 
 ---
