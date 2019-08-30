@@ -60,3 +60,9 @@ Philly
 Advanced excel, gimp, photoshop, assorted softwares, html/css/js, sql coding, activedirectory
 Creative writing fiction/poetry, TELNET, copywriting/blogging--the art of clickbait
 Omniture--generating reports on web traffic
+
+---
+
+## Your inventories
+
+- [Elizabeth](elizabeth-inventory)
