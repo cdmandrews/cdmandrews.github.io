@@ -66,3 +66,5 @@ Omniture--generating reports on web traffic
 ## Your inventories
 
 - [Elizabeth](elizabeth-inventory)
+- [Nicole](nicole-inventory)
+- [Philly](philly-inventory)
