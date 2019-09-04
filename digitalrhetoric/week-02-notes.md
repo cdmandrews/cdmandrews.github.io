@@ -6,7 +6,9 @@ ENGL 5369, Fall 2019
 
 [Skills inventories from last week](skills-inventory)
 
-## Selber, Stuart. (2004). _Multiliteracies for a Digital Age_. Southern Illinois University Press.
+## What do we do with computer/tech literacy in English studies?
+
+A few notes from Selber, Stuart. (2004). _Multiliteracies for a Digital Age_. SIUP.
 
 > “Teachers have not always seen the development and reconfiguration of literacy technologies as their job or as the instructional domain of students in writing and communication courses” (10).
 
@@ -24,7 +26,7 @@ Selbert’s project in <cite>Multilieracies</cite> is to call BS on this mentali
 
 ### Functional computer literacy
 
-Table 2.1: Parameters of a _Functional_ Approach to Computer Literacy
+Table 2.1: Parameters of a _Functional_ Approach to Computer Literacy (Selber, p. 45)
 
 <table>
   <tr>
@@ -65,11 +67,9 @@ Table 2.1: Parameters of a _Functional_ Approach to Computer Literacy
   </tr>
 </table>
 
-Source: p. 45
-
 ### Critical computer literacy
 
-Table 3.1: Parameters of a _Critical_ Approach to Computer Literacy
+Table 3.1: Parameters of a _Critical_ Approach to Computer Literacy (Selber, p. 96)
 
 <table>
   <tr>
@@ -104,11 +104,9 @@ Table 3.1: Parameters of a _Critical_ Approach to Computer Literacy
   </tr>
 </table>
 
-Source: p. 96
-
 ### Rhetorical computer literacy
 
-Table 4.1: Parameters of a _Rhetorical_ Approach to Computer Literacy
+Table 4.1: Parameters of a _Rhetorical_ Approach to Computer Literacy (Selber, p. 147)
 
 <table>
   <tr>
@@ -142,8 +140,6 @@ Table 4.1: Parameters of a _Rhetorical_ Approach to Computer Literacy
    </td>
   </tr>
 </table>
-
-Source: p. 147.
 
 ## Other sources for today’s discussion:
 
