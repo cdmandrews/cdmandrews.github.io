@@ -1,5 +1,15 @@
 # Markdown practice, due Sept 4
 
+## Your inventories
+
+- [Elizabeth](inventories/elizabeth-inventory)
+- [Nicole](inventories/nicole-inventory)
+- [Philly](inventories/philly-inventory)
+- [Carolina](inventories/carolina-inventory)
+- [Emille](inventories/emille-inventory)
+- [Kelsy](inventories/kelsy-inventory)
+- [Sydney](inventories/sydney-inventory)
+
 ## Instructions
 
 This short assignment is to help you practice your Markdown chops--i.e. to focus on *writing* for the web--and move us transitionally to HTML tags and more advanced work in markup languages.
@@ -62,9 +72,3 @@ Creative writing fiction/poetry, TELNET, copywriting/blogging--the art of clickb
 Omniture--generating reports on web traffic
 
 ---
-
-## Your inventories
-
-- [Elizabeth](elizabeth-inventory)
-- [Nicole](nicole-inventory)
-- [Philly](philly-inventory)
