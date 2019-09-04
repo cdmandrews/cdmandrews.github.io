@@ -6,6 +6,13 @@
 
 [Skills inventories from last week](skills-inventory)
 
+## Some links for accessibility and usability
+
+- [W3C Introduction to Web Accessibility](https://www.w3.org/WAI/fundamentals/accessibility-intro/) The World Wide Web Consortium is an international community that develops Web standards.
+- [WebAIM Introduction to Web Accessibility](https://webaim.org/intro/) WebAIM is a nonprofit  organization that focuses on training and analysis of web content. Also of note is their [accessibility analysis of the top million home pages](https://webaim.org/projects/million/)
+- [usability.gov](https://www.usability.gov/) is a resource for usability practices and guidelines, managed by the U.S. Department of Health and Human Services (HHS
+  )
+
 ## What do we do with computer/tech literacy in English studies?
 
 A few notes from Selber, Stuart. (2004). _Multiliteracies for a Digital Age_. SIUP.
