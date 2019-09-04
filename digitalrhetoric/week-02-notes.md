@@ -1,6 +1,6 @@
 # "Handout" for Week 2
 
-ENGL 5369, Fall 2019
+[ENGL 5369, Fall 2019](calendar.html)
 
 [Slides if you want such things](https://docs.google.com/presentation/d/e/2PACX-1vRufA94YIvpbFkJ2K591QOVPqCeLM5nAcGgkbJ0uiCuOgYeWh5OUR1FXmLTWgReyHFb8yPoLY4kWyb5/pub?start=false&loop=false&delayms=3000)
 
