@@ -159,16 +159,10 @@ Source: p. 147.
 ## What to do for Week 03:
 
 1. Create a github account (what is github? Why version control?) and set up the repository for your personal site. You are not *required* to use github, but it is an excellent option for the kinds of sites we'll be making. And is free.
-
   * Read the [Guide to creating and hosting a personal site on GitHub](http://jmcglone.com/guides/github-pages/) When you get to “Using Jekyll with GitHub Pages” (the second half of the walkthrough), STOP.
   * Use the dummy text in the walkthrough and publish the simple HTML and CSS pages. When you're done, these will be available on the public web. Change all references to “Hank Quinlan” in your HTML file to your own name. Add other text if you want, but don’t stress about it at this point.
   * When your page is available on the public web, email me the URL.
-
-
 2. Be working on copy for your profile site. What content do you want to have there, and what do you want it to say? Don’t worry about design yet--we’ll get to that. But first comes the content. You can write it up in markdown or your word processor. (Google Docs has a nifty Docs-to-Markdown add-on if you're working with content that already exists as a doc)
-
   * Think Eyman & Ball: **Use, usability, usefulness**. Who are your users? Why would users visit the site, what will they do there, and how? Why is the site necessary?
   * Also poke around the internet for examples of the genre--what are some  **conventions** around profile/portfolio sites? If we were going to define the genre, what would we include? (a genre is a recurring/shared form that has developed particular formal features, social purposes, and roles/contents associated with it)
-
-
 3. Read Eyman 2, Stolley 4-5, 10-11, 16. We'll talk a bit of rhetoric and then mostly do some rhetoric, building HTML pages, learning about elements, tags, semantics, structure, metadata, etc.
