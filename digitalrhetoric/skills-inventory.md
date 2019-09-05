@@ -9,6 +9,7 @@
 - [Emille](inventories/emille-inventory)
 - [Kelsy](inventories/kelsy-inventory)
 - [Sydney](inventories/sydney-inventory)
+- [Dakin](inventories/dakin-inventory)
 
 ## Instructions
 
