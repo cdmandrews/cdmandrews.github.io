@@ -6,9 +6,11 @@
 
 ## HTML notes, images, etc
 
-![Anatomy of an HTML Element](https://mdn.mozillademos.org/files/9347/grumpy-cat-small.png) *Anatomy of an HTML Element*
+![Anatomy of an HTML Element](https://mdn.mozillademos.org/files/9347/grumpy-cat-small.png) 
+*Anatomy of an HTML Element*
 
-![HTML Element with an attribute](https://mdn.mozillademos.org/files/9345/grumpy-cat-attribute-small.png) *An HTML element with a single attribute*
+![HTML Element with an attribute](https://mdn.mozillademos.org/files/9345/grumpy-cat-attribute-small.png) 
+*An HTML element with a single attribute*
 
 ### Keyterms:
 
