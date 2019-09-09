@@ -66,8 +66,15 @@ WebAIM is a nonprofit  organization that focuses on training and analysis of web
 - [usability.gov](https://www.usability.gov/) 
 This site is a resource for usability practices and guidelines, managed by the U.S. Department of Health and Human Services (HHS)
 
+- [Nielsen Norman Group](https://www.nngroup.com/articles/)
+Jakob Nielsen and Don Norman defined usability and the field of UX. The NN/g website is an excellent resource for user experience. Like, I can't even say how important these two guys are. 
 
-## Other sources for today’s discussion:
+
+## Other sources or good things to read concerning today’s discussion:
+
+- McGrane, Karen. (2013, May 02). WYSIWTF. <cite>A List Apart</cite>. [https://alistapart.com/column/wysiwtf/](https://alistapart.com/column/wysiwtf/)
+- Fitzgerald, Andy. (2019, Jan 10). Conversatoins with robots: Voice, smart aents, and the case for structured content. <cite>A List Apart</cite>. [https://alistapart.com/article/conversations-with-robots/](https://alistapart.com/article/conversations-with-robots/)
+
 
 ## What to do for Week 04:
 
