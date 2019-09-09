@@ -1,0 +1,69 @@
+# "Handout" for Week 3
+
+[ENGL 5369, Fall 2019](calendar.html)
+
+[Slides if you want such things](https://docs.google.com/presentation/d/e/2PACX-1vRufA94YIvpbFkJ2K591QOVPqCeLM5nAcGgkbJ0uiCuOgYeWh5OUR1FXmLTWgReyHFb8yPoLY4kWyb5/pub?start=false&loop=false&delayms=3000)
+
+## HTML notes, images, etc
+
+![Anatomy of an HTML Element](https://mdn.mozillademos.org/files/9347/grumpy-cat-small.png) *Anatomy of an HTML Element*
+
+![HTML Element with an attribute](https://mdn.mozillademos.org/files/9345/grumpy-cat-attribute-small.png) *An HTML element with a single attribute*
+
+### Keyterms:
+
+1. element, attribute, nesting, tag, 
+2. semantic, presentational
+3. document elements, metadata elements, sectioning elements, content elements, text-level elements, embedded content, media elements, links, comments, special characters
+4. parent, child (children), sibling
+
+### Codeblock: Basic HTML document
+```
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="utf-8">
+  <title>Sample page</title>
+ </head>
+ <body>
+  <h1>Sample page</h1>
+  <p>This is a <a href="demo.html">simple</a> sample.</p>
+  <!-- this is a comment -->
+ </body>
+</html>
+
+```
+
+### Links and resources
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" style="float: right; height: 100px;" />
+
+- [HTML Living Standard](https://html.spec.whatwg.org/multipage/) 
+The relationship between the W3C and WHATWG is complex. Both organizations collaborated to develop HTML5, but haven't always played nicely since. WHATWG publishes the "living standard" while W3C versioned their standards (up to HTML5.2). In 2019, W3C agreed to work with the WHATWG living standard rather than just forking WHATWG's work. (Lots of politics there, and a great reminder that **technology and its development ain't neutral**; [read if you're curious](https://en.wikipedia.org/wiki/HTML5#W3C_and_WHATWG_conflict))
+
+
+- [Mozilla Developer Network Web Docs: HTML Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics) 
+MDN Web Docs is an excellent reference and resource for all aspects of web development. Look up elements and attributes, get tutorials, and troubelshoot problems. 
+
+
+- [A List Apart](https://alistapart.com/) 
+A website "for people who make websites." Not helpful if you're stuck on how a partiuclar element works, but great if you want to read up on a variety of topics relevant to web standards and the "design, development, and meaning of web content." 
+
+## Links for accessibility and usability
+
+- [W3C Introduction to Web Accessibility](https://www.w3.org/WAI/fundamentals/accessibility-intro/) 
+The World Wide Web Consortium is an international community that develops Web standards. This intro to accessibility is a solid one, but is more from the working group's developer/standards perspecive.
+
+
+- [WebAIM Introduction to Web Accessibility](https://webaim.org/intro/) 
+WebAIM is a nonprofit  organization that focuses on training and analysis of web content. Also of note is their [accessibility analysis of the top million home pages](https://webaim.org/projects/million/)
+
+
+- [usability.gov](https://www.usability.gov/) 
+This site is a resource for usability practices and guidelines, managed by the U.S. Department of Health and Human Services (HHS)
+
+
+## Other sources for today’s discussion:
+
+## What to do for Week 04:
+
