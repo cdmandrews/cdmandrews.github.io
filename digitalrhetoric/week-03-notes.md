@@ -14,8 +14,10 @@
 
 1. element, attribute, nesting, tag, 
 2. semantic, presentational
-3. document elements, metadata elements, sectioning elements, content elements, text-level elements, embedded content, media elements, links, comments, special characters
+3. document elements, metadata elements, sectioning elements, content elements, block vs inline elements, embedded content, media elements, links, comments, special characters
 4. parent, child (children), sibling
+5. `id=""` for unique pieces of structure, `class=""` for similar, repeated structures  
+6. A "standards-based web page": 1) structured content in HTML, 2) visual design in CSS, 3) enhancements in JS. (Stolley, p. 37)
 
 ### Codeblock: Basic HTML document
 ```
@@ -39,7 +41,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" style="float: right; height: 100px;" />
 
 - [HTML Living Standard](https://html.spec.whatwg.org/multipage/) 
-The relationship between the W3C and WHATWG is complex. Both organizations collaborated to develop HTML5, but haven't always played nicely since. WHATWG publishes the "living standard" while W3C versioned their standards (up to HTML5.2). In 2019, W3C agreed to work with the WHATWG living standard rather than just forking WHATWG's work. (Lots of politics there, and a great reminder that **technology and its development ain't neutral**; [read if you're curious](https://en.wikipedia.org/wiki/HTML5#W3C_and_WHATWG_conflict))
+The relationship between the W3C and WHATWG is complex. Both organizations collaborated to develop HTML5, but haven't always played nicely since. WHATWG publishes the "living standard" while W3C versioned their standards (up to HTML5.2). In 2019, W3C agreed to work with the WHATWG living standard rather than just forking WHATWG's work. (Lots of politics there, and a great reminder that **technology and its development ain't neutral**; [read if you're curious](https://en.wikipedia.org/wiki/HTML5#W3C_and_WHATWG_conflict)) You can read about some history of development standards and recommendations in Stolley, *How to*, Chapter 4 .
 
 
 - [Mozilla Developer Network Web Docs: HTML Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics) 
