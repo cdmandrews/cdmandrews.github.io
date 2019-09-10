@@ -53,8 +53,13 @@ Eyman notes three general tracks in digital rhetoric:
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" style="float: right; height: 100px;" />
 
+<<<<<<< HEAD
+- [HTML Living Standard](https://html.spec.whatwg.org/multipage/) 
+The relationship between the W3C and WHATWG is complex. Both organizations collaborated to develop HTML5, but haven't always played nicely since. WHATWG publishes the "living standard" while W3C versioned their standards (up to HTML5.2). In 2019, W3C agreed to work with the WHATWG living standard rather than just forking WHATWG's work. (Lots of politics there, and a great reminder that **technology and its development ain't neutral**; [read if you're curious](https://en.wikipedia.org/wiki/HTML5#W3C_and_WHATWG_conflict)) You can read about some history of development standards and recommendations in Stolley, *How to*, Chapter 4.
+=======
 - [HTML Living Standard](https://html.spec.whatwg.org/multipage/)
 The relationship between the W3C and WHATWG is complex. Both organizations collaborated to develop HTML5, but haven't always played nicely since. WHATWG publishes the "living standard" while W3C versioned their standards (up to HTML5.2). In 2019, W3C agreed to work with the WHATWG living standard rather than just forking WHATWG's work. (Lots of politics there, and a great reminder that **technology and its development ain't neutral**; [read if you're curious](https://en.wikipedia.org/wiki/HTML5#W3C_and_WHATWG_conflict)) You can read about some history of development standards and recommendations in Stolley, *How to*, Chapter 4 .
+>>>>>>> ec54eb950f7aa392c58a1d028616c8b37789f515
 
 
 - [Mozilla Developer Network Web Docs: HTML Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
@@ -76,6 +81,7 @@ WebAIM is a nonprofit  organization that focuses on training and analysis of web
 
 - [usability.gov](https://www.usability.gov/)
 This site is a resource for usability practices and guidelines, managed by the U.S. Department of Health and Human Services (HHS)
+
 
 - [Nielsen Norman Group](https://www.nngroup.com/articles/)
 Jakob Nielsen and Don Norman defined usability and the field of UX. The NN/g website is an excellent resource for user experience. Like, I can't even say how important these two guys are.
