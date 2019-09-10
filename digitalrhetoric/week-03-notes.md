@@ -4,17 +4,18 @@
 
 [Slides if you want such things](https://docs.google.com/presentation/d/e/2PACX-1vRufA94YIvpbFkJ2K591QOVPqCeLM5nAcGgkbJ0uiCuOgYeWh5OUR1FXmLTWgReyHFb8yPoLY4kWyb5/pub?start=false&loop=false&delayms=3000)
 
-## Digital Rhetoric
+## Theory: Digital Rhetoric
 
 Established theory in new contexts, or new (or rearticulated or revised) theory for new contexts?
 
-Digitizing Classical Rhetoric
+Eyman notes three general tracks in digital rhetoric:
 
-Contemporary rhetorical theory: The rhetorical situation, digital identities, and networks
+- those who work from classical & contemporary rhetorical theory as a beginning place,
+- those who think we can use classical rhetoric & contemporary rhetorical theory but have to renovate or rehabilitate those concepts in order to do so, and
+- those who argue we need a whole new set of theories, methods, and practices to conceptualize the digital.
 
-Economies and ecologies of circulation
 
-## HTML notes, images, etc
+## Praxis: HTML notes, images, etc
 
 ![Anatomy of an HTML Element](https://mdn.mozillademos.org/files/9347/grumpy-cat-small.png)
 *Anatomy of an HTML Element*
@@ -88,12 +89,22 @@ Jakob Nielsen and Don Norman defined usability and the field of UX. The NN/g web
 
 - McGrane, Karen. (2013, May 02). WYSIWTF. <cite>A List Apart</cite>. [https://alistapart.com/column/wysiwtf/](https://alistapart.com/column/wysiwtf/)
 - Fitzgerald, Andy. (2019, Jan 10). Conversations with robots: Voice, smart agents, and the case for structured content. <cite>A List Apart</cite>. [https://alistapart.com/article/conversations-with-robots/](https://alistapart.com/article/conversations-with-robots/)
+- Dilger, B., & Rice, J. (Eds.). (2010). From A to : Keywords of Markup. Minneapolis; London: University of Minnesota Press. doi:10.5749/j.ctttv58b
+- “The Role of Computational Literacy in Computers and Writing.” (2012). Enculturation.net http://enculturation.net/computational-literacy
+- Polyphonic Classroom? https://ccdigitalpress.org/cad
+- Krause, S. D. (1996). The Immediacy of Rhetoric: Definitions, Illustrations, and Implications [Web version of printed Dissertation]. Retrieved September 10, 2019, from https://people.emich.edu/skrause/Diss/
+- Sheridan, D. M., Ridolfo, J., & Michel, A. J. (2012). The Available Means of Persuasion: Mapping a Theory and Pedagogy of Multimodal Public Rhetoric. Anderson, S.C: Parlor Press.
+- Bitzer, L. F. (1992). The Rhetorical Situation. Philosophy & Rhetoric, 1.
+- Edbauer, J. (2005). Unframing Models of Public Distribution: From Rhetorical Situation to Rhetorical Ecologies. Rhetoric Society Quarterly, 35(4), 5–24.
+- Grant-Davie, K. (1968). Rhetorical Situations and Their Constituents. Rhetoric Review, (2), 264.
+- Vatz, R. E. (1973). The myth of the rhetorical situation. Philosophy & Rhetoric, 6(3), 154–161.
 
 
 ## What to do for Week 04:
 
 1. Wednesday will be a practical-oriented day:
   - workshopping and validating your three HTML pages (home page, cv/resume page, and something else), we'll talk semantics and validation in particular (revisit necessary sections of Stolley in prep for this)
+    - **push drafts of your three pages to the web before class**
   - play with distant reading methods in preparation for distant reading project.
 
 2. Read Eyman 3 and Mueller 3 (linked in both BB9 and on the web). Mueller's chapter will help flesh out your undestanding of "distant reading", a research method we'll play with for the [Distant reading project](assignments.html). Important questions and methods for us to consider tomorrow:
@@ -102,4 +113,4 @@ Jakob Nielsen and Don Norman defined usability and the field of UX. The NN/g web
   - close reading
   - distant reading
   - genre studies
-  - usability studies 
+  - usability studies
