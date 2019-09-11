@@ -26,7 +26,7 @@ Six rules for HTML:
   1. All attribute values must appear in quotation marks, immediately following the equals sign. (Watch that spacebar.)
   1. All <code>class</code> and <code>id</code> values should begin with a letter, and must not contain spaces. Use lowercase letters and hyphens. (CSS is case sensitive.) Some attributes allow multiple values, which are separated by a space.
 
-Today's goals: **write a basic HTML page from scratch** and **begin marking up content for at least one page of your site, to publish at the end of class**. Got no content? You can fiddle with this <a href="https://github.com/cdmandrews/cdmandrews.github.io/blob/master/digitalrhetoric/cv.txt" target="_blank">raw text from my own CV</a>.
+Today's goals: **write a basic HTML page from scratch** and **begin marking up content for at least one page of your site, to publish at the end of class**. Got no content? You can fiddle with this <a href="https://github.com/cdmandrews/cdmandrews.github.io/blob/master/digitalrhetoric/cv.txt">raw text from my own CV</a>.
 
 ### Terms and things:
 
@@ -145,6 +145,8 @@ Jakob Nielsen and Don Norman defined usability and the field of UX. The NN/g web
   - genre studies
   - usability studies
 
+4. Remind me to talk about the [Wikipedia Edit-A-Thon](https://www.tamucc.edu/campus-announcements/oct.-10-wikipedia-edit-a-thon.html) for [Hispanic Heritage Month](http://hispanicheritagemonth.tamucc.edu/)
 
-4. A thought from James E. Porter:
+
+5. A thought from James E. Porter:
 >“Likewise, digital writing research should not be viewed merely as research about writing with technology. It should be viewed, rather, as changing the fundamental assumptions about methodology, particularly the humanist assumption that divides the human from the technological. Digital writing research takes a cyborgian view and a networked view of human communications.... it represents a new way of looking altogether.” (Foreword to <cite>Digital Writing Research</cite>, p. xv)
