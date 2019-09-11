@@ -26,7 +26,7 @@ Six rules for HTML:
   1. All attribute values must appear in quotation marks, immediately following the equals sign. (Watch that spacebar.)
   1. All <code>class</code> and <code>id</code> values should begin with a letter, and must not contain spaces. Use lowercase letters and hyphens. (CSS is case sensitive.) Some attributes allow multiple values, which are separated by a space.
 
-Today's goals: **write a basic HTML page from scratch** and **begin marking up content for at least one page of your site, to publish at the end of class**. Got no content? You can fiddle with this raw text of my own CV.
+Today's goals: **write a basic HTML page from scratch** and **begin marking up content for at least one page of your site, to publish at the end of class**. Got no content? You can fiddle with this <a href="https://github.com/cdmandrews/cdmandrews.github.io/blob/master/digitalrhetoric/cv.txt" target="_blank">raw text from my own CV</a>.
 
 ### Terms and things:
 
