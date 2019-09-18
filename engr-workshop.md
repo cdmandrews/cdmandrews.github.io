@@ -2,7 +2,7 @@
 Engineering lab reports &amp; technical writing  
 Sept 18, 2019
 
-<img src="files/qr-workshop.png" title="QR Code for this page" alt="This QR code links to this page" />  
+<img src="files/qr-workshop.png" title="QR Code for this page" alt="This QR code links to this page" style="border: 1px solid black" />  
 _QR code for this page_
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRNrBNK_l8Zc_J5DiBuXfaqgPl1DDLvgk2pqLgres3l0ToI9JYZabFtwRTdiauQB_e-YzUm77-sIJ-S/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>  
