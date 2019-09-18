@@ -1,7 +1,6 @@
 # Index to your github websites
 
 - Sydney [https://sydneyspangler.github.io/](https://sydneyspangler.github.io/)
-- Dakin: [https://dalderson-maker.github.io/](https://dalderson-maker.github.io/)
 - Emille: [https://emireno.github.io/](https://emireno.github.io/)
 - Ethan: [https://ethanlgross.github.io/](https://ethanlgross.github.io/)
 - Kelsy: [https://kelsymascorro.github.io/](https://kelsymascorro.github.io/)
