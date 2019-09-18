@@ -14,13 +14,8 @@ Remind me to talk about the [Wikipedia Edit-A-Thon](https://www.tamucc.edu/campu
 >"digital writing research should not be viewed merely as research about writing with technology. It should be viewed, rather, as changing the fundamental assumptions about methodology, particularly the humanist assumption that divides the human from the technological. Digital writing research takes a cyborgian view and a networked view of human communications.... it represents a new way of looking altogether.” (Foreword to <cite>Digital Writing Research</cite>, p. xv)
 
 1. Questions worth our time:
-  - what is a research method? a methodology?
+  - what is a research method? a methodology? ([VanKooten 2016](http://enculturation.net/methodologies-and-methods-for-research-in-digital-rhetoric) wrote about "_global operations_" vs. "_local processes_")
   - what methods does the field of digital rhetoric use to take into account the complications of the affordances of digital practices?
-  - close reading
-  - distant reading
-  - genre studies
-  - usability studies
-  - others?
   - study of writing-as-action vs writing-as-context
 
 
@@ -29,7 +24,6 @@ Remind me to talk about the [Wikipedia Edit-A-Thon](https://www.tamucc.edu/campu
   - network sense
   - distant and thin methods
   - paratactically vs syntactically
-  -
 
 
 2. Some distant readings:
@@ -41,10 +35,45 @@ Remind me to talk about the [Wikipedia Edit-A-Thon](https://www.tamucc.edu/campu
 
 3. Mess around with distant reading methods in preparation for the [distant reading project](assignments.html), use [Voyant](https://voyant-tools.org/)
 
-4. Feeling super-codey? [MassMine](http://www.massmine.org/index.html)
+4. Feeling super-codey? [MassMine](http://www.massmine.org/index.html) is a web scraping tool for those not scared of the command line.
 
 
 ## Praxis: Continue with HTML
+
+Last week, we talked basic block and inline elements such as paragraphs, lists, sub/headings, and links. This week, let's try to integrate some sectioning elements:
+  - `header` and `footer`
+  - `nav`
+  - `article` and `section` and `aside`
+  - `div`
+
+### Quick reference for two important tags: links and images
+
+Markup for **links**:
+
+```
+<p>I'm creating a link to
+<a href="https://www.mozilla.org/en-US/"
+title="The best place to find more information about Mozilla's mission
+and how to contribute"> the Mozilla homepage</a>.
+</p>
+```
+
+You can make any _text_ or _block level content_ a link by nesting that content between `<a>`tags!
+
+```
+<a href="https://www.mozilla.org/en-US/">
+  <img src="mozilla-image.png" alt="mozilla logo that links to the mozilla homepage" >
+</a>
+```
+
+Markup for **images**
+```
+  <img src="mozilla-image.png" alt="mozilla logo that links to the mozilla homepage">
+```
+Also see this [quick primer on URLs and paths](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Creating_hyperlinks#A_quick_primer_on_URLs_and_paths)
+
+### Other things
+
  Workshop, [validate](https://validator.w3.org/), and problem solve your (at least three) HTML pages. Do a little show-and-tell.
 
 [Bite, snack, meal](http://www.ewriteonline.com/bite-snack-and-meal-how-to-feed-content-hungry-site-visitors/) as essential approach to web writing.
@@ -53,4 +82,10 @@ Remind me to talk about the [Wikipedia Edit-A-Thon](https://www.tamucc.edu/campu
 
 ## What to do for Week 05:
 
-Read all the things: Eyman ch. 4, Eyman et al, Access/ibility: Access and Usability for Digital Publishing (webtext), Rhetoricity: Multimodality pulling into a station (audio podcast), Whipple (2010) (all linked from syllabus page)
+Read all the things:
+- Eyman ch. 4,
+- Eyman et al, Access/ibility: Access and Usability for Digital Publishing (webtext),
+- Rhetoricity: Multimodality pulling into a station (audio podcast),
+- Whipple (2010) (all linked from syllabus page)
+
+Begin working on distant reading project, and be contemplating--or more importantly, drafting--those website pages.
