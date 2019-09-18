@@ -1,5 +1,5 @@
 # Technical Writing Workshop
-<img src="files/qr-workshop.png" width="200 px" title="QR Code for this page" alt="This QR code links to this page" />
+<img src="files/qr-workshop.png" title="QR Code for this page" alt="This QR code links to this page" />
 
 Engineering lab reports &amp; technical writing  
 Sept 18, 2019
