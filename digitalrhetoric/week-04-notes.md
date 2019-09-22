@@ -70,11 +70,12 @@ Markup for **images**
 ```
   <img src="mozilla-image.png" alt="mozilla logo that links to the mozilla homepage">
 ```
+
 Also see this [quick primer on URLs and paths](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Creating_hyperlinks#A_quick_primer_on_URLs_and_paths)
 
 ### Other things
 
- Workshop, [validate](https://validator.w3.org/), and problem solve your (at least three) HTML pages. Do a little show-and-tell.
+Workshop, [validate](https://validator.w3.org/), and problem solve your (at least three) HTML pages. Do a little show-and-tell.
 
 [Bite, snack, meal](http://www.ewriteonline.com/bite-snack-and-meal-how-to-feed-content-hungry-site-visitors/) as essential approach to web writing.
 
@@ -89,3 +90,5 @@ Read all the things:
 - Whipple (2010) (all linked from syllabus page)
 
 Begin working on distant reading project, and be contemplating--or more importantly, drafting--those website pages.
+ - Do we include bibliographies? Do we include book reviews?
+ - do we work these elements up seperately (separate text files for full text, w/bibs, w/reviews? How modular/scalable do we want to be with this info?)
