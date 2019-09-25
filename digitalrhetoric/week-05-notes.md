@@ -22,6 +22,7 @@
 ## Praxis: Continue with HTML
 
 ### Accessibility:
+  - Load up [wave.webaim.org](http://wave.webaim.org/) and run your page throug the accessibility evaluation tool. What'cha get?
   - Ggood markup (which we're theoretically doing already) is accessible
     - Not skipping heading levels
     - nesting properly
