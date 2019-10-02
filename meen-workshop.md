@@ -7,22 +7,19 @@ October 2, 2019
 
 [Capstone Project Plan/Proposal Guidelines](https://drive.google.com/open?id=1mObMQEcnqYsAJFlXb01R4aV4TfQ7pBA8)
 
-<!--
+## Example technical reports/studies
+
 - [Geotechnical Engineering Study, Raba Kistner Consultants (used with permission, do not reproduce)](files/geotechnical-example.pdf)
-  - See especially:
-    - Introduction (p. 1)
-    - Borings and Laboratory Tests (p. 3)
-- [Buying a used Shopsmith (user-created guide)](files/shopsmith-guide.pdf)
-  - This guide is okay as it goes, but is not especially effective in assisting readers locate information or quickly understand which illustrations correspond with what text.
--->
+- [CR 52 Extension Proposal/Report, Neismith Engineering, Inc. (used with permission, do not reproduce)](files/cr-extension-example.pdf)
+
 
 ## Web resources for technical and scientific writing
 
-[Power Revision Techniques](https://www.prismnet.com/~hcexres/textbook/hirevov.html) by David McMurrey.   
+[Power Revision Techniques](https://www.prismnet.com/~hcexres/textbook/hirevov.html) by David McMurrey  
 Essential techniques for reviewing and revising your writing. McMurrey's site is a fairly comprehensive online tech writing textbook, geared towards writing students.
 
 [Reverse Paramedic Method](https://owl.purdue.edu/owl/general_writing/academic_writing/reverse_paramedic_method.html)  
 Editing exercise emphasizing concision while remaining in the passive voice.
 
-[Writing Lessons for Engineering and Science](https://www.craftofscientificwriting.com/) by Michael Alley.   
+[Writing Lessons for Engineering and Science](https://www.craftofscientificwriting.com/) by Michael Alley   
 Variety of resources and slideshows, geared more towards instructors but useful to the technical and scientific writer.
