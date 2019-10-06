@@ -20,8 +20,30 @@ First, we should check out and discuss your wordclouds.
 - Sydney's *Enculturation* wordclouds ()
 
 Let's take some time and do some "noticing" in everyone's clouds.
+
 - What do you see/notice?
 - What questions emerge?
+- What are the keyest key terms circulating across all of these?
+- What is our distant reading's account of these texts?
+- What sort of knowledge do we need to make use of these clouds?
+- What kind of systematic data coding (and preparation) would we need to do to make better use of our initial distant reading?
+- What happens (does/can anything happen) when we place these alongside Eyman's discussion of the "primary activities in the field of digital rhetoric"?
+<span style="color: #ffab40;">
+  - the use of rhetorical strategies in production and analysis of digital texts
+  - identifying characteristics, affordances, and constraints of new media
+  - formation of digital identities
+  - potential for building social communities (first four from Zappen, 2005, p. 319)
+  - inquiry and development of rhetorics of technology
+  - the use of rhetorical methods for uncovering and interrogating ideologies and cultural formation in digital work
+  - an examination of the rhetorical function of networks
+  - theorization of agency when interlocutors are as likely to be software agents (or “spimes”) as they are human actors (full list from Eyman, 2015, ch 1.)
+</span>
+
+Worth looking at:
+- Palmeri & McCorkle 2017, "Distant view of EJ" (http://technorhetoric.net/22.2/topoi/palmeri-mccorkle/)
+- Mueller 2012, "Views from a distance" (http://kairos.technorhetoric.net/16.2/topoi/mueller/)
+- 
+
 
 ## Praxis: CSS in the HTML and drink em bot' up.
 
@@ -57,6 +79,8 @@ In the example above, the rule begins with the p selector; it will apply propert
   <figure style="margin: 1em; max-width: 75%;"><img src="../teaching/fa18-3379/media/rule2.png"/>
       <figcaption style="padding: .3em; color: #6a737d; font-style: italic;">A CSS rule with a single selector and multiple declarations.</figcaption>
     </figure>
+
+#### A comment on comments
 
 CSS comments use the format `/* This is a comment in CSS */` Use CSS comments to keep track of those tricky decisions, calculations, and other notes (especially as you're learning) that will help you understand what you were trying to do and why.
 
