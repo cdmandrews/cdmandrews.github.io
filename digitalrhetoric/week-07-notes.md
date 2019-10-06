@@ -1,4 +1,4 @@
-# "Handout" for Week 3
+# "Handout" for Week 7
 
 [ENGL 5369, Fall 2019](calendar.html)
 
@@ -6,18 +6,19 @@
 
 [Everyone's sites so far](fambly)
 
+[week 7 notes](week-07-notes.html)
+
 ## Praxis: Distant reading
 
 First, we should check out and discuss your wordclouds.
-- Carolina's *Hybrid Pedagogy* wordclouds (https://carolinaavsar.github.io/wordclouds.html)
-- Elizabeth's *Present Tense* wordclouds ()
-- Emille's *XChanges* wordclouds (https://emireno.github.io/drproject.html)
-- Ethan's *DHQ* wordclouds (https://ethanlgross.github.io/distant-reading-dhq.html)
-- Kelsy's *Peitho* wordclouds ()
-- Mike's wordclouds ()
-- Nicole's *C&C* wordclouds (https://hellonicoler.github.io/portfolio/distant-reading/index.html)
-- Philly's *Technoculture* wordclouds (https://phillyvasquez.com/wordclouds.html)
-- Sydney's *Enculturation* wordclouds ()
+- [Carolina's *Hybrid Pedagogy* wordclouds](https://carolinaavsar.github.io/wordclouds.html)
+- [Elizabeth's *Present Tense* wordclouds]()
+- [Emille's *XChanges* wordclouds](https://emireno.github.io/drproject.html)
+- [Ethan's *DHQ* wordclouds](https://ethanlgross.github.io/distant-reading-dhq.html)
+- [Kelsy's *Peitho* wordclouds]()
+- [Nicole's *C&C* wordclouds](https://hellonicoler.github.io/portfolio/distant-reading/index.html)
+- [Philly's *Technoculture* wordclouds](https://phillyvasquez.com/wordclouds.html)
+- [Sydney's *Enculturation* wordclouds]()
 
 Let's take some time and do some "noticing" in everyone's clouds.
 
@@ -28,7 +29,6 @@ Let's take some time and do some "noticing" in everyone's clouds.
 - What sort of knowledge do we need to make use of these clouds?
 - What kind of systematic data coding (and preparation) would we need to do to make better use of our initial distant reading?
 - What happens (does/can anything happen) when we place these alongside Eyman's discussion of the "primary activities in the field of digital rhetoric"?
-<span style="color: #ffab40;">
   - the use of rhetorical strategies in production and analysis of digital texts
   - identifying characteristics, affordances, and constraints of new media
   - formation of digital identities
@@ -37,12 +37,10 @@ Let's take some time and do some "noticing" in everyone's clouds.
   - the use of rhetorical methods for uncovering and interrogating ideologies and cultural formation in digital work
   - an examination of the rhetorical function of networks
   - theorization of agency when interlocutors are as likely to be software agents (or “spimes”) as they are human actors (full list from Eyman, 2015, ch 1.)
-</span>
 
 Worth looking at:
-- Palmeri & McCorkle 2017, "Distant view of EJ" (http://technorhetoric.net/22.2/topoi/palmeri-mccorkle/)
-- Mueller 2012, "Views from a distance" (http://kairos.technorhetoric.net/16.2/topoi/mueller/)
-- 
+- Palmeri & McCorkle 2017, "Distant view of EJ" [link](http://technorhetoric.net/22.2/topoi/palmeri-mccorkle/)
+- Mueller 2012, "Views from a distance" [link](http://kairos.technorhetoric.net/16.2/topoi/mueller/)
 
 
 ## Praxis: CSS in the HTML and drink em bot' up.

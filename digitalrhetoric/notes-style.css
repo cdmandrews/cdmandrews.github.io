@@ -1,0 +1,103 @@
+/* I added a few classes/ids so I wouldn't forget about them */
+
+/*
+  color for attention elements:  #db0a5b
+
+  to get font families:
+    <link href="https://fonts.googleapis.com/css?family=PT+Sans|PT+Serif&display=swap" rel="stylesheet">
+
+*/
+
+
+body{
+  font-family: 'PT Sans', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6{
+  color: #db0a5b;
+  font-family: 'PT Serif', serif;
+}
+
+code{
+  background-color: pink;
+}
+li > ul{
+  color: #db0a5b;
+}
+
+
+.nav{
+
+}
+ ul.nav {
+   display: inline-block;
+   list-style-type: none;
+   margin: 0;
+   padding: 0;
+ }
+ .nav li {
+   float: left;
+ }
+ .nav li a{
+   border-radius: .25em;
+   border: 2px solid #db0a5b;
+   display: block;
+   color: white;
+   background-color: black;
+   text-align: center;
+   text-decoration: none;
+   float: left;
+   padding: .2em;
+   margin: .2em;
+ }
+
+figure{
+  margin: 1em;
+  padding: 1em;
+  width: 75%;
+  border: 1px solid #db0a5b;
+  border-radius: .25em;
+  background-color: pink;
+}
+ figcaption {
+   padding: .3em;
+   color: #6a737d;
+   font-style: italic;
+ }
+ img {
+   max-width: 100%;
+ }
+
+ #theoria {
+ }
+ #praxis {
+ }
+ #next-time {
+   border-top: 1px solid #6d6d6d;
+   width: 65%;
+   margin-right: 2em;
+   background-image: linear-gradient(#f5f5f5, white);
+ }
+
+
+section {
+  border-top: 1px solid #6d6d6d;
+  width: 65%;
+  margin-right: 2em;
+  background-image: linear-gradient(#f5f5f5, white);
+
+}
+
+ .sidenotes {
+   border: 1px solid black;
+   border-radius: .25em;
+   background-color: pink;
+   padding: 1%;
+   font-size: x-small;
+   width: 30%;
+   float: right;
+ }
+
+ .sidenotes blockquote{
+   font-style: italic;
+}

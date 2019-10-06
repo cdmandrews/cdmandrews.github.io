@@ -1,4 +1,4 @@
-# "Handout" for Week 3
+# "Handout" for Week 6
 
 [ENGL 5369, Fall 2019](calendar.html)
 
