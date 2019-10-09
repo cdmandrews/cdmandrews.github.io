@@ -12,13 +12,13 @@
 
 First, we should check out and discuss your wordclouds.
 - [Carolina's *Hybrid Pedagogy* wordclouds](https://carolinaavsar.github.io/wordclouds.html)
-- [Elizabeth's *Present Tense* wordclouds]()
+- [Elizabeth's *Present Tense* wordclouds](https://emock1.github.io/distant-reading.html)
 - [Emille's *XChanges* wordclouds](https://emireno.github.io/drproject.html)
 - [Ethan's *DHQ* wordclouds](https://ethanlgross.github.io/distant-reading-dhq.html)
-- [Kelsy's *Peitho* wordclouds]()
+- [Kelsy's *Peitho* wordclouds](https://kelsymascorro.github.io/)
 - [Nicole's *C&C* wordclouds](https://hellonicoler.github.io/portfolio/distant-reading/index.html)
 - [Philly's *Technoculture* wordclouds](https://phillyvasquez.com/wordclouds.html)
-- [Sydney's *Enculturation* wordclouds]()
+- [Sydney's *Enculturation* wordclouds](https://sydneyspangler.github.io/distant-reading-project/)
 
 Let's take some time and do some "noticing" in everyone's clouds.
 
