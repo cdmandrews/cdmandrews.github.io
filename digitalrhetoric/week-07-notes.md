@@ -15,7 +15,7 @@ First, we should check out and discuss your wordclouds.
 - [Elizabeth's *Present Tense* wordclouds](https://emock1.github.io/distant-reading.html)
 - [Emille's *XChanges* wordclouds](https://emireno.github.io/drproject.html)
 - [Ethan's *DHQ* wordclouds](https://ethanlgross.github.io/distant-reading-dhq.html)
-- [Kelsy's *Peitho* wordclouds](https://kelsymascorro.github.io/)
+- [Kelsy's *Peitho* wordclouds](https://kelsymascorro.github.io/distancelearningproject.html)
 - [Nicole's *C&C* wordclouds](https://hellonicoler.github.io/portfolio/distant-reading/index.html)
 - [Philly's *Technoculture* wordclouds](https://phillyvasquez.com/wordclouds.html)
 - [Sydney's *Enculturation* wordclouds](https://sydneyspangler.github.io/distant-reading-project/)
