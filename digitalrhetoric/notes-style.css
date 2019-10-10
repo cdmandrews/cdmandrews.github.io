@@ -1,4 +1,4 @@
-/* Meyerweb reset from http://meyerweb.com/eric/tools/css/reset/  v2.0 | 20110126  License: none (public domain) 
+/* Meyerweb reset from http://meyerweb.com/eric/tools/css/reset/  v2.0 | 20110126  License: none (public domain) */
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -19,34 +19,86 @@ time, mark, audio, video {
 	font: inherit;
 	vertical-align: baseline;
 }
-*/
 
-/*
-  color for attention elements:  #db0a5b (deep pink)
-  color for subtle elements: #6a737d (gray)
-  color for background of attention elements (pink)
-  color for black: #0a0a0a
-  color for white: #f5f5f5 (very light gray)
+/* Color variable definitions
 
-  to get font families:
-    <link href="https://fonts.googleapis.com/css?family=PT+Sans|PT+Serif&display=swap" rel="stylesheet">
-
-*/
+TFW you don't have to keep track of color codes any more,
+just color schemes.  */
+:root {
+  --color-attention: #ffab40;  /* orange */
+  --color-important: #64ffda;  /* light turq */
+  --color-back-light: #ffd966; /* light orange-yellow */
+  --color-black: #36474f;      /* dark gray */
+  --color-white: #f5f5f5;      /* very light gray */
+}
 
 html{
-  background-color: #0a0a0a;
+  background-color: var(--color-white);
+	text-rendering: optimizeLegibility;
+ 	-webkit-text-size-adjust: 100%;
+ 	-moz-text-size-adjust: 100%;
+ 	-ms-text-size-adjust: 100%;
 }
 body{
   font-family: 'PT Sans', sans-serif;
+  font-size: 100%;
+  max-width: 34em;
+	margin: 0 auto;
+	color: var(--color-white);
 }
-h1, h2, h3, h4, h5, h6{
-  color: #db0a5b;
+h2, h3, h4, h5, h6{
+  color: var(--color-attention);
   font-family: 'PT Serif', serif;
 }
-p, ul, ol{
+h1{
+  font-size: 2em;
+  line-height: 1.25em;
+	color: var(--color-black);
+	font-weight: 700;
+}
+h2{
+  font-size: 1.625em;
+  line-height: 1.15384615em;
+	margin-top: 1em;
+	margin-left: .5em;
+}
+h2::after{}
+h3{
+  font-size: 1.375em;
+  line-height: 1.13636364em;
+	margin-top: 1em;
+	margin-left: .5em;
+}
+h4 {
+  font-size: 1.125em;
+  line-height: 1.11111111em;
+	margin-top: 1em;
+	margin-left: .5em;
+}
+
+p{
+  margin-left: 1em;
+  margin-bottom: .5em;
+}
+ul, ol {
+  margin-left: 2em;
+  margin-bottom: 1em;
+}
+
+blockquote{
+  margin: 2em;
+  font-style: italic;
+  border-left: .25em solid var(--color-important);
+  color: var(--color-important);
+  padding-left: .25em;
 }
 code{
-  background-color: pink;
+  background-color: var(--color-back-light);
+	color: var(--color-black);
+	border: 1px solid var(--color-black);
+	padding: 0 .2em;
+	font-style: normal;
+	font-family: monospace;
 }
 img {
   max-width: 100%;
@@ -55,49 +107,93 @@ figure{
   margin: 1em;
   padding: 1em;
   width: 75%;
-  border: 1px solid #db0a5b;
   border-radius: .25em;
-  background-color: pink;
+  background-color: var(--color-back-light);
 }
  figcaption {
    padding: .3em;
-   color: #6a737d;
+   color: var(--color-black);
    font-style: italic;
  }
 
 
 .important {
-  color:#db0a5b;
+  color: var(--color-important);
   font-weight: 700;}
 
  #theoria, #praxis, #next-time{
-   background-color: #f5f5f5;
-   border-top: .5em solid #0a0a0a;
+   background-color: var(--color-black);
+   border-top: .5em solid var(--color-important);
 }
-
+article{
+	padding: .25em;
+}
+header{
+	background-color: var(--color-attention);
+	padding: .25em;
+}
 footer, footer a{
-  color: #f5f5f5;
+  color: var(--color-black);
 }
 
-/* Navigation */
+
+ul.nav {
+	list-style-type: none;
+	margin: 0 auto;
+	padding: 0;
+	border: 2px solid var(--color-black);
+	text-align: center;
+}
+
+.nav li a{
+	display: block;
+	color: var(--color-black);
+	text-decoration: none;
+	padding: .2em;
+	margin: .2em;
+}
+
+
+a:active{
+	background-color: var(--color-important);
+}
+.nav li a:active{
+	background-color: var(--color-white);
+}
+
+
+@media screen and (min-width: 990px) {
+
+	body{
+	  font-family: 'PT Sans', sans-serif;
+	  font-size: 125%;
+	  max-width: 68em;
+	}
+
  ul.nav {
    display: inline-block;
    list-style-type: none;
    margin: 0;
    padding: 0;
+	 border: 0;
  }
  .nav li {
    float: left;
  }
  .nav li a{
    border-radius: .25em;
-   border: 2px solid #db0a5b;
+   border: 2px solid var(--color-black);
    display: block;
-   color: #f5f5f5;
-   background-color: #0a0a0a;
+   color: var(--color-black);
+   background-color: var(--color-attention);
    text-align: center;
    text-decoration: none;
    float: left;
    padding: .2em;
    margin: .2em;
  }
+}
+a:link{color:var(--color-back-light)}
+a:visited{color: var(--color-back-light);}
+a:hover{background-color: var(--color-important);}
+.nav li a:hover{background-color: var(--color-white);}
