@@ -19,7 +19,7 @@ Backup thoughts on wordclouds.
 - [Philly's *Technoculture* wordclouds](https://phillyvasquez.com/wordclouds.html)
 - [Sydney's *Enculturation* wordclouds](https://sydneyspangler.github.io/distant-reading-project/)
 
-Some questions:
+Some questions and thoughts and [ideas](notes):
 - What is our distant reading's account of these texts?
 - What sort of knowledge do we need to make use of these clouds?
 - What kind of systematic data coding (and preparation) would we need to do to make better use of our initial distant reading?
