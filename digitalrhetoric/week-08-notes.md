@@ -66,6 +66,18 @@ Some links:
 - Brooke 7 (Performance[delivery])
   - "Particularly in the case of delivery we must consciously resist the impulse to reduce that canon to a transitive, instrumental process of transmission." (Brooke, p. 178).
 
+- Haas (2007), Wampum as hypertext: An American Indian intellectual tradition of multimedia theory and practice
+  - counterstory to Western claims of originating hypertext and multimedia
+  - wampum belts extended human memories of inherited knowledges through interconnected, nonlinear designs and associative storage and retrieval methods
+  - concern about responsibility for digital and visual rhetorical sovereignty
+- Ridolfo & DeVoss (2009), Composing for recomposition: Rhetorical velocity and delivery
+  - propose new concepts: rhetorical velocity, and composing for strategic recomposition
+  - conscious rhetorical concern for distance, travel, speed, and time, pertaining specifically to theorizing instances of strategic appropriation by a third party
+  - concern for telos
+- Porter (2009), Recovering delivery
+- Lambke (2019), Arranging delivery, delivering arrangement: An ecological sonic rhetoric of podcasting
+  - a new medium does not replace old media or cause old media to disappear; 
+
 
 
 ## What to do for Week 08:
