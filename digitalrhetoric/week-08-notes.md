@@ -55,6 +55,8 @@ Some links:
 
 ## Theoria: Ecology? Techne? I dunno?
 
+- Brooke 3 (Proairesis[invention])
+  - "Actions or events that fail to move the reader toward the resolution of the hermenutic enigma are quite literally extravagant: They are off track and may even be resented as wasteful or distracting. What would it mean, however, to focus on the practice of proairesis and to do so without subordinating it to hermeneutics?" (p. 76-77)
 - Brooke 4 (Pattern[arrangement])
   - "Just because there is more than one way to walk through a building, this does not make its arrangement (architecture) irrelevant" (p. 91)
 - Brooke 5 (Perspective[style])
