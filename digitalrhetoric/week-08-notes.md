@@ -53,14 +53,14 @@ Some links:
 - **exhaustive** [CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 
 
-## Theoria
+## Theoria: Ecology? Techne? I dunno?
 
 - Brooke 4 (Pattern[arrangement])
- - "Just because there is more than one way to walk through a building, this does not make its arrangement (architecture) irrelevant" (p. 91)
+  - "Just because there is more than one way to walk through a building, this does not make its arrangement (architecture) irrelevant" (p. 91)
 - Brooke 5 (Perspective[style])
- - "Proper" is what some group of people has agreed upon, and no more. The "contingent, consensual qualities of that agreement are eventually forgotten, leaving a normed or proper name for which metaphors are described as deviations" (p. 124).
+  - "Proper" is what some group of people has agreed upon, and no more. The "contingent, consensual qualities of that agreement are eventually forgotten, leaving a normed or proper name for which metaphors are described as deviations" (p. 124).
 - Brooke 6 (Persistence[memory])
- - "Persistence as a memory practice is the ability to build and maintain patterns although those patterns may be tentative and ultimately fade into the background.” (Brooke, p. 157)
+  - "Persistence as a memory practice is the ability to build and maintain patterns although those patterns may be tentative and ultimately fade into the background.” (Brooke, p. 157)
 - Brooke 7 (Performance[delivery])
   - "Particularly in the case of delivery we must consciously resist the impulse to reduce that canon to a transitive, instrumental process of transmission." (Brooke, p. 178).
 
