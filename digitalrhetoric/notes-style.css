@@ -128,6 +128,10 @@ strong, .important {
   color: var(--color-important);
   font-weight: 700;
 }
+
+em, cite{
+	font-style: italic;
+}
 #theoria, #praxis, #next-time{
    background-color: var(--color-black);
 }
@@ -234,4 +238,5 @@ footer{
 	.bigbye {
 		visibility: hidden;
 	}
+	
 }
