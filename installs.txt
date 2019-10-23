@@ -1,10 +1,10 @@
 apps to install:
 
 FileZilla
-Firefox Dev Edition
-Github Desktop
-Atom.io
++ Firefox Dev Edition
++ Github Desktop
++ Atom.io
 Slack
-Atlas.ti
++ Atlas.ti
 Zotero
-Dropbox
++ Dropbox
