@@ -1,8 +1,9 @@
 # Tutoring Technical Writing Workshop  
+A workshop for CASA Writing Center @ TAMUCC
+October 25, 2019
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQfuAIR3yyl0sVd0jp9lUnu6I8DhVsJuYxnttm_GPQW2Uqt0hrn3flszOJXhiEEmNrBLWRmfgnS7eOE/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
-At some level, tutoring Engineering and Technical Writing is the same as tutoring everything else:
+## First principles:
+Tutoring Engineering and Technical Writing is the same as tutoring everything else. Tutors should:
 1. read and assess based on rhetorical concepts: audience, purpose, context
 2. have a grasp of grammatical rules and myths
 3. be able to interact in a comfortable, non-hierarchical manner with writers
@@ -10,8 +11,10 @@ At some level, tutoring Engineering and Technical Writing is the same as tutorin
 5. recognize the difference between helping and editing; directive and non-directive tutoring
   - "Tables help readers comprehend large data sets" vs "Include a table in this section."
 6. effectively distinguish between HOCs and LOCs
-  - Don't freak out and default to comma splices because you don't understand the concepts. They're here to work on explaining it to you--the work of explaining will help them in their writing!
 7. do it all in half an hour the day before the thing is due
+
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQfuAIR3yyl0sVd0jp9lUnu6I8DhVsJuYxnttm_GPQW2Uqt0hrn3flszOJXhiEEmNrBLWRmfgnS7eOE/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
 ## Sample technical reports/studies
@@ -22,9 +25,13 @@ At some level, tutoring Engineering and Technical Writing is the same as tutorin
 
 ["Sabine Pass to Galveston Bay, TX Coastal Storm Risk Management and Ecosystem Restoration"(Environmental Impact Statement & Feasability report, US Army Corps of Engineers)](https://drive.google.com/open?id=1z5Akqx2BL0eC8_OlqhcR4CRyK3_vgJU2)
 
-[Geotechnical engineering study (Raba Kistner Consultants; do not reproduce)](https://cdmandrews.github.io/files/geotechnical-example.pdf)
+[Geotechnical engineering study (Raba Kistner Consultants; do not reproduce)](files/geotechnical-example.pdf)
 
-[Buying a used Shopsmith (User-created guide)](https://cdmandrews.github.io/files/shopsmith-guide.pdf) Caution: Not especially effective in assisting readers locate information or quickly understand illustrations/text relationships, etc.
+[Buying a used Shopsmith (User-created guide)](files/shopsmith-guide.pdf) Caution: Not especially effective in assisting readers locate information or quickly understand illustrations/text relationships, etc.
+
+[Lab report 1 (okay)](files/okay-lab-report.pdf)
+
+[Lab report 2 (not so okay)](files/less-okay-lab-report.pdf)
 
 ## Resources
 
