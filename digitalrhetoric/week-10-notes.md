@@ -41,6 +41,7 @@ So, I ask again: <span style="color:red;"> **You built a thing. Where you at? Wh
 Or, we can walk this question out in a different way: **How does the kind of material engagement we've been practicing with HTML and CSS and these websites help you think about how you engage with or learned to engage with media you're much more familiar and skilled with?**
 
 Or, **How does the HTML/CSS work you've been doing over the last ten weeks make you think about:**
+
  - writing,
  - medium,
  - representation,
@@ -62,6 +63,7 @@ Or, **How does the HTML/CSS work you've been doing over the last ten weeks make 
  - digital life,
  - problem-solving?
 
+!["True experts don't think they are" from Indexed](https://thisisindexed.com/wp-content/uploads/2019/07/card6164-1024x625.jpg)
 
 Finally, a website [about what a website is (language warning)](https://motherfuckingwebsite.com/)
 
