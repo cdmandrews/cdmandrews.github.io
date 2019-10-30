@@ -18,26 +18,29 @@ Let's get back at [Stolley (2016)](http://kairos.technorhetoric.net/20.2/inventi
 
 <div style="margin: auto 1em; background-color:#073642; color: #eee8d5; padding: .5em; font-family: Menlo, Consolas, Courier, mono;">
 
-Lo-fi is:
-1. **Learning**: "the full range of problems comprising any consequential act of production is unlikely to be satisfactorily addressed by the content or timescale of any one course, book, or tutorial"
+<p>Lo-fi is:</p>
+<ol>
+<li><strong>Learning</strong>: "the full range of problems comprising any consequential act of production is unlikely to be satisfactorily addressed by the content or timescale of any one course, book, or tutorial"
 
-2. **Openness**: "components of a digital work must be available for inspection, revision, and extension outside the scope of any one device, platform, or piece of production software and any one creator"
+<li><strong>Openness</strong>: "components of a digital work must be available for inspection, revision, and extension outside the scope of any one device, platform, or piece of production software and any one creator"
 
-3. **Flexibility**: "research and imaginative problem-solving as the central means to reach diverse audiences equipped with an endless variety of conventional, mobile, and assistive devices"
+<li><strong>Flexibility</strong>: "research and imaginative problem-solving as the central means to reach diverse audiences equipped with an endless variety of conventional, mobile, and assistive devices"
 
-4. **Iteration**: "the hefty investment in learning something new is rivaled only by the investment of time in creating the first draft of a digital project, regardless of how far short it falls of the idea that originally inspired it"
+<li><strong>Iteration</strong>: "the hefty investment in learning something new is rivaled only by the investment of time in creating the first draft of a digital project, regardless of how far short it falls of the idea that originally inspired it"
+</ol>
 </div>
 
 Also, this quick refresher on the major points in Stolley's manifesto:
 
 <div style="margin: auto 1em; background-color:#073642; color: #eee8d5; padding: .5em; font-family: Menlo, Consolas, Courier, mono;">
-
-1. Software is a poor organizing principle for digital production.
-2. Expression should not be trapped by production technologies.
-3. Value research and learning over intuition and reflex.
-4. Design first for the most constrained users and devices.
-5. If a hi-fi element seems necessary, keep researching until you conclude that it isn’t.
-6. Version control. Always. Everywhere. For everything.
+<ol>
+<li>Software is a poor organizing principle for digital production.
+<li>Expression should not be trapped by production technologies.
+<li>Value research and learning over intuition and reflex.
+<li>Design first for the most constrained users and devices.
+<li>If a hi-fi element seems necessary, keep researching until you conclude that it isn’t.
+<li>Version control. Always. Everywhere. For everything.
+</ol>
 </div>
 
 So, I ask again: <span style="color:red;"> **You built a thing. Where you at? What you think? How you feel like it represents your work in the course thus far?** </span>
