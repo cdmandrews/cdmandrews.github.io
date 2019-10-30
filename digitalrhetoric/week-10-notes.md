@@ -38,8 +38,32 @@ Also, this quick refresher on the major points in Stolley's manifesto:
 
 So, I ask again: <span style="color:red;"> **You built a thing. Where you at? What you think? How you feel like it represents your work in the course thus far?** </span>
 
+Or, we can walk this question out in a different way: **How does the kind of material engagement we've been practicing with HTML and CSS and these websites help you think about how you engage with or learned to engage with media you're much more familiar and skilled with?**
 
-[Just because (language warning)](https://motherfuckingwebsite.com/)
+Or, **How does the HTML/CSS work you've been doing over the last ten weeks make you think about:**
+ - writing,
+ - medium,
+ - representation,
+ - materiality,
+ - technique,
+ - learning,
+ - literacy,
+ - design,
+ - production,
+ - rhetoric (and rhetorical ecologies),
+ - making or crafting,
+ - initiation,
+ - form and function and meaning,
+ - work and making things work,
+ - failure and success,
+ - mess and order,
+ - experimentation and expertise,
+ - play and novice-hood,
+ - digital life,
+ - problem-solving?
+
+
+Finally, a website [about what a website is (language warning)](https://motherfuckingwebsite.com/)
 
 ## Plan that thang
 
@@ -62,3 +86,5 @@ We have some backup work to do. By emphasizing our workshop the last few weeks, 
   - Come up with 5 questions for us to take up based on those readings. Questions may be specific to a particular text, or may work across and among texts from throughout the semeseter-so-far to generate rich connections. They could be theoretical or practical in nature--and double-plus brownie points if they can draw on our experiences creating and marking up portfolios or our other digital projects.
 
   - Submit your passages/questions to me by email (a link to a page on your profile site is fine) on or before November 4.
+
+We will also start/continue work on our webtext project.
