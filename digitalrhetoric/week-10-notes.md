@@ -46,7 +46,13 @@ So, I ask again: <span style="color:red;"> **You built a thing. Where you at? Wh
 Ya'll all decided to collaborate on a webtext that works with and refines the materials you put together for the distant reading project. Some things we need to do:
 
 * divide and conquer
-*
+* poke around and [look at some webtexts](http://kairos.technorhetoric.net/)
+* regularize our distant readings
+* do an appropriate lit. review or writeup with  
+ - Mueller & word-watching
+ - Relevant concepts from Brooke, Eyman, etc
+ - topics we're wanting to focus on
+* plan a design and multimodal argument
 
 ## What to do for next week:
 
