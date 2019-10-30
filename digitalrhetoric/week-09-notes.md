@@ -10,6 +10,8 @@ This week, we are at the [Graduate Speaker Series event](https://spark.adobe.com
 
 [Just because (language warning)](https://motherfuckingwebsite.com/)
 
+[HTMHell: A collection of bad practices in HTML](https://www.htmhell.dev/)
+
 ## What to do for Week 09:
 
 1. Work on your things. At the end of our workshop, your revised CSS and HTML markup for your profile site will be due. To "submit," email me a link to your materials with a note signifying where you're at, what you think, and how you feel like the site represents your work in the course thus far.
