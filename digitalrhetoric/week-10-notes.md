@@ -21,12 +21,9 @@ Let's get back at [Stolley (2016)](http://kairos.technorhetoric.net/20.2/inventi
 <p>Lo-fi is:</p>
 <ol>
 <li><strong>Learning</strong>: "the full range of problems comprising any consequential act of production is unlikely to be satisfactorily addressed by the content or timescale of any one course, book, or tutorial"
-
 <li><strong>Openness</strong>: "components of a digital work must be available for inspection, revision, and extension outside the scope of any one device, platform, or piece of production software and any one creator"
-
 <li><strong>Flexibility</strong>: "research and imaginative problem-solving as the central means to reach diverse audiences equipped with an endless variety of conventional, mobile, and assistive devices"
-
-<li><strong>Iteration</strong>: "the hefty investment in learning something new is rivaled only by the investment of time in creating the first draft of a digital project, regardless of how far short it falls of the idea that originally inspired it"
+<li><strong>Iteration</strong>: "the hefty investment in learning something new is rivaled only by the investment of time in creating the first draft of a digital project, regardless of how far short it falls of the idea that originally inspired it"</li>
 </ol>
 </div>
 
@@ -39,7 +36,7 @@ Also, this quick refresher on the major points in Stolley's manifesto:
 <li>Value research and learning over intuition and reflex.
 <li>Design first for the most constrained users and devices.
 <li>If a hi-fi element seems necessary, keep researching until you conclude that it isn’t.
-<li>Version control. Always. Everywhere. For everything.
+<li>Version control. Always. Everywhere. For everything.</li>
 </ol>
 </div>
 
