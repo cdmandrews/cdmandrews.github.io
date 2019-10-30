@@ -48,7 +48,7 @@ Or, **How does the HTML/CSS work you've been doing over the last ten weeks make 
  - materiality,
  - technique,
  - templates or platforms or software,
- - learning,
+ - learning and language learning,
  - ease and difficulty,
  - literacy,
  - design,
