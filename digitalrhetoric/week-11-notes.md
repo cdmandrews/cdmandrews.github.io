@@ -8,6 +8,37 @@
 
 ## Digital rhetoric: Theory ketchup
 
+The politics of an interface: an ecological analysis of WYSIWYG (er, Sway, Spark, etc.)
+How do interfaces afford or enable some forms of rhetorical action at the same time that they foreclose others?  Agency and WYSIWYG interfaces  (sorta?)
+- what is the rhetoric of WYSIWYG?
+- what is the value of WYSIWYG?
+- what are the limitations of WYSIWYG?
+- how do WYSIWYG interfaces enable rhetorical action? how do they foreclose them?
+
+Where do we sit on the continuum of “in praise of difficulty” (i.e. expertise and learning) or low-bar entry (i.e. ease for learners). Should learning be easy or hard? (Is that even the right question?)
+
+On the one side, we have the “material-cultural challenges of circulation” as a constraint, on the other, we have the notion that “literacy” is about expertise with language and culture.
+
+1. Invention (proairesis)
+  - Invention is distributed, “a practice that constantly generates points of departure for further acts of rhetorical invention”
+  - How or what does an interface make open, make possible?
+2. Arrangement (pattern)
+  - Arrangement as sequence, pattern, database, “attempts to communicate affinities, connections, and relationships”
+  - What structures or sequences are afforded? What practices does an interface make possible? 
+3. Style (perspective)
+  - at/through/from; style is a structuring of perspective
+  - How much agency does the rhetor have in design, stemming from what? How rich or not are multimedia choices?
+4. Memory (persistence):
+  - Persistence as a memory practice is the ability to build and maintain patterns although those patterns may be tentative and ultimately fade into the background.” (157)
+  - Can rhetors write from a database? How much database-writing is facilitated?
+5. Delivery (performance)
+  - not simply “delivery as in pizza” but “delivery as in communicating the message in such a way that it would be accepted and attended to rather than refused, ignored, or thrown in the wastepaper basket unread”
+  - Can you deliver? Where? How? Can audiences use it, get to it? (see also velocity)
+6. Velocity (power)
+  - strategize about the potential recomposition and redistribution of a text
+  - What factors (intrinsic and external) might motivate or dissuade third parties from recomposing/redistributing? Are distribution/recomposition desirable, undesirable, or of no concern?
+
+
 ### emock
 
 passages
