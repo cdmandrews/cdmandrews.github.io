@@ -173,6 +173,8 @@ Other Questions:
 
 - Translation of information is still vague to me. Brooke’s example of Trimbur describes moving text from medical jargon to a New York Times script. All the information is present, but in a different audience. **If it is the same information, does it really change or is it just a difference in framing?** Likewise, if our portfolios are currently being built for the class in preparation for a different audience, is it more of the rearrangement of information that provides clarity, or do we reframe it so much for a new audience that our old audience members are left behind?
 
+### mfitch [link to doc](mfitch.docx)
+
 ## Plan that thang
 
 Ya'll all decided to collaborate on a webtext that works with and refines the materials you put together for the distant reading project. Some things we need to do:
