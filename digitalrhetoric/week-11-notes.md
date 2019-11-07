@@ -13,6 +13,7 @@
 - perversity and hypertext [Johnson-Eilola, Johndan. (2012). Polymorphous Perversity in Texts. Kairos: A Journal of Rhetoric, Technology, and Pedagogy, 16(3).](http://kairos.technorhetoric.net/16.3/topoi/johnson-eilola/index.html)
 - Berthoff (1988): allatonceness:
 > "In composing, everything happens at once—or it doesn’t happen at all. We make new meanings by means of old ones; we discover what we want to say as we say it and tell ourselves what it is that we are saying; we continually identify relationships and how relationships relate to one another. And all the thinking and languaging is going on as we are trying to construct sentences and paragraphs. (1988, p. 61)"
+
 > "the idea that for meaning to occur we must "speak and seek for meaning at one and the same time," a process that simultaneously involves "naming, inferring, referring, recognizing, remembering, marking time, wondering, wandering, envisaging, matching, discarding, checking, inventing"(Berthoff qtd in Fleckenstein's Embodied Literacies, p. 68)
 
 ## Digital rhetoric: Theory ketchup
