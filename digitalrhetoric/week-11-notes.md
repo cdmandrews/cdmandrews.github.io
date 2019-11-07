@@ -11,6 +11,9 @@
 - re: hypertext [Baehr, C., & Lang, S. M. (2012). Hypertext Theory: Rethinking and Reformulating What We Know, Web 2.0. Journal of Technical Writing and Communication, 42(1), 39–56.](https://journals.sagepub.com/doi/pdf/10.2190/TW.42.1.d)
 - and also [Baehr, C., & Lang, S. M. (2019). Hypertext Theory: Theoretical Foundations for Technical Communication in the 21st Century. Technical Communication, 66(1), 93-104.](https://www.ingentaconnect.com/contentone/stc/tc/2019/00000066/00000001/art00007)
 - perversity and hypertext [Johnson-Eilola, Johndan. (2012). Polymorphous Perversity in Texts. Kairos: A Journal of Rhetoric, Technology, and Pedagogy, 16(3).](http://kairos.technorhetoric.net/16.3/topoi/johnson-eilola/index.html)
+- Berthoff (1988): allatonceness:
+> "In composing, everything happens at once—or it doesn’t happen at all. We make new meanings by means of old ones; we discover what we want to say as we say it and tell ourselves what it is that we are saying; we continually identify relationships and how relationships relate to one another. And all the thinking and languaging is going on as we are trying to construct sentences and paragraphs. (1988, p. 61)"
+> "the idea that for meaning to occur we must "speak and seek for meaning at one and the same time," a process that simultaneously involves "naming, inferring, referring, recognizing, remembering, marking time, wondering, wandering, envisaging, matching, discarding, checking, inventing"(Berthoff qtd in Fleckenstein's Embodied Literacies, p. 68)
 
 ## Digital rhetoric: Theory ketchup
 
@@ -25,22 +28,22 @@ Where do we sit on the continuum of “in praise of difficulty” (i.e. expertis
 
 On the one side, we have the “material-cultural challenges of circulation” as a constraint, on the other, we have the notion that “literacy” is about expertise with language and culture.
 
-1. Invention (proairesis)
+1. **Invention (proairesis)**
   - Invention is distributed, “a practice that constantly generates points of departure for further acts of rhetorical invention”
   - How or what does an interface make open, make possible?
-2. Arrangement (pattern)
+2. **Arrangement (pattern)**
   - Arrangement as sequence, pattern, database, “attempts to communicate affinities, connections, and relationships”
   - What structures or sequences are afforded? What practices does an interface make possible?
-3. Style (perspective)
+3. **Style (perspective)**
   - at/through/from; style is a structuring of perspective
   - How much agency does the rhetor have in design, stemming from what? How rich or not are multimedia choices?
-4. Memory (persistence):
+4. **Memory (persistence)**
   - Persistence as a memory practice is the ability to build and maintain patterns although those patterns may be tentative and ultimately fade into the background.” (157)
   - Can rhetors write from a database? How much database-writing is facilitated?
-5. Delivery (performance)
+5. **Delivery (performance)**
   - not simply “delivery as in pizza” but “delivery as in communicating the message in such a way that it would be accepted and attended to rather than refused, ignored, or thrown in the wastepaper basket unread”
   - Can you deliver? Where? How? Can audiences use it, get to it? (see also velocity)
-6. Velocity (power)
+6. **Velocity (power)**
   - strategize about the potential recomposition and redistribution of a text
   - What factors (intrinsic and external) might motivate or dissuade third parties from recomposing/redistributing? Are distribution/recomposition desirable, undesirable, or of no concern?
 
