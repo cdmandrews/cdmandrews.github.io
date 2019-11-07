@@ -6,6 +6,12 @@
 
 [Everyone's sites so far](fambly)
 
+## worth looking at
+
+- re: hypertext [Baehr, C., & Lang, S. M. (2012). Hypertext Theory: Rethinking and Reformulating What We Know, Web 2.0. Journal of Technical Writing and Communication, 42(1), 39–56.](https://journals.sagepub.com/doi/pdf/10.2190/TW.42.1.d)
+- and also [Baehr, C., & Lang, S. M. (2019). Hypertext Theory: Theoretical Foundations for Technical Communication in the 21st Century. Technical Communication, 66(1), 93-104.](https://www.ingentaconnect.com/contentone/stc/tc/2019/00000066/00000001/art00007)
+- perversity and hypertext [Johnson-Eilola, Johndan. (2012). Polymorphous Perversity in Texts. Kairos: A Journal of Rhetoric, Technology, and Pedagogy, 16(3).](http://kairos.technorhetoric.net/16.3/topoi/johnson-eilola/index.html)
+
 ## Digital rhetoric: Theory ketchup
 
 The politics of an interface: an ecological analysis of WYSIWYG (er, Sway, Spark, etc.)
@@ -24,7 +30,7 @@ On the one side, we have the “material-cultural challenges of circulation” a
   - How or what does an interface make open, make possible?
 2. Arrangement (pattern)
   - Arrangement as sequence, pattern, database, “attempts to communicate affinities, connections, and relationships”
-  - What structures or sequences are afforded? What practices does an interface make possible? 
+  - What structures or sequences are afforded? What practices does an interface make possible?
 3. Style (perspective)
   - at/through/from; style is a structuring of perspective
   - How much agency does the rhetor have in design, stemming from what? How rich or not are multimedia choices?
@@ -86,6 +92,21 @@ Style/Perspective
 > “...**interfaces position us perceptually** and … our sensual experiences of interfaces are often as customizable as our hermeneutic approaches to them” (p. 140).
 
 - Thinking about our HTML/CSS website design experiences here. **If we’re not careful practitioners of a digital rhetoric that re-envisions the classical canons ecologically, then we might perceive our HTML/CSS experiences along the linear movement and definition from HTML as “content” resulting from invention, to CSS as “style/form” resulting from the remaining “lesser” canons. To unravel this dichotomy and consider our website/profile/portfolio design using Brooke’s ecology of practice, what can we say about how our choices for HTML affected CSS choices, and vice versa? How did our interactions with HTML and CSS engage us in ways simultaneously inventive (proairetically and hermeneutically) and in terms of pattern/arrangement, style/perspective, memory/persistence, delivery/performance?** In terms of style/perspective, in what ways is the design of our sites, understood through the notion of interface rather than page, mediated by our discovery of blindspots/vanishing points, of alternate viewing points and user values beyond our own?
+
+Ridolfo and DeVoss (2009)
+> “The term rhetorical velocity, as we deploy it in this webtext, means a conscious rhetorical concern for distance, travel, speed, and time, pertaining specifically to theorizing instances of strategic appropriation by a third party. In thinking about the concept, we drew from several definitions:
+Rapidity or speed of motion; swiftness.
+Physics: A vector quantity whose magnitude is a body's speed and whose direction is the body's direction of motion.
+The rate of speed of action or occurrence.”
+
+- What does it mean to theorize velocity as power? Power is simultaneously kinetic and potential. I’m thinking of velocity in terms of electricity, a metaphor Bakhtin uses in Marxism and the Philosophy of Language to suggest, I say, toward a triadic conception of language use in ongoing activity. What about power, as Berthoff says when talking about writing not as a single skill but a complex activity, as **allatonceness**? In terms of electrical, there’s voltage (push), ohms (resistance), and amperage (flow). I think the velocity Ridolfo and DeVoss (2009) are advocating describes all three at once, rather than just a reductive view of power=voltage as push. I think this is because reducing power to push (into being) suggests a linear progression toward some fixed end. I think rhetorical velocity can best be described, using the definitions above, as **paying attention to movement between time-space through circulation and distribution networks (also in flux); the materiality of exigencies, or the tending-toward of actors/actants in various states of becoming mediated by material contexts which are themselves mediated by these networks of becoming; and experiences of these rhetorical interactions, or the mediating affect (speed) of immediate action itself**.
+
+- What does this all mean for our word cloud projects? Well, I think considering velocity in my reading of Ridolfo and DeVoss (2009) means that **our word clouds can be understood as a) artifacts of the distribution and circulation and remix of previous knowledge practices, both in terms of us as grad students in a course, and in the journals as aggregates of scholarly discourse; b) subject to a further state of becoming through continued direction, in our case further use-value beyond our initial looking; and c) mediators of our experience in grad school, in the discipline, in our research interests, etc**.
+
+- So then I feel we should be asking some questions about **further use**, both for our distant reading project and for our CSS/HTML:
+How did our word clouds/websites and our various approaches to them mediate our understanding of the journals, the discipline(s), the class, our graduate careers, and our identities as scholars and aspiring professionals? In what ways do/did/will we get a sense through these activities, through continued writing (website, for now) of how our approaches and our choices--as in velocity--will affect various aspects, including ourselves as users of writing, of future activity?
+
+- I also scanned the class notes for today, and I noticed some questions about how, still, we might define digital rhetoric, or hypertext. Might we consider our class activities thus far as conducive to a hypertextual awareness of writing?
 
 ### nrothenay
 
