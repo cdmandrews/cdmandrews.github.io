@@ -25,7 +25,7 @@ As we begin to really put together "meanings" or readings of these distant readi
 - kelsy's [musings and stuff](https://drive.google.com/drive/folders/1fT1KBCOPaiJF7UKhDVLXQqL7a3CwIjek?usp=sharing)
 - nicole's [pieces](https://docs.google.com/document/d/1KlkN29W_bfMUKPr2bk9ompI3jjN_AJCQQbSCC23kCCI)
 - andrews's [vomitous bilge](https://docs.google.com/document/d/1RMWf7T6p5OIP41DCMxy_V0DdnDTXhpcp9RmNw2mHzk8)
-
+- emille's notes (need to upload)
 
 Some key articles in *Enculturation* and *Kairos* re distant reading and digital rhetoric:
 - [Enculturation 23](http://enculturation.net/23) articles to review include:
@@ -38,3 +38,16 @@ Some key articles in *Enculturation* and *Kairos* re distant reading and digital
   - Palmeri & McCorkle, [distant EJ](http://kairos.technorhetoric.net/22.2/topoi/palmeri-mccorkle/methodology.html)
 
 ## To do for next time:
+
+1. **Review [Planning Notes](https://docs.google.com/document/d/1O3eqoKboW5nIjoE4JwylVwixWGf2yGDamUGwuYlfUBA/edit?usp=sharing) we compiled together in class**
+2. Core writing tasks (think of these as nodes) to complete before next planning meeting (refer to Planning Notes doc as needed; pull in material from our course readings or other readings as needed or to help develop ideas. Please remember to quote relevant scholarship as framework or development of your topics.) *Use the existing email thread to support, share, or ask questions over the coming week!*
+  1. **Write a few rich paragraphs about your "from"**: What is the perspective/identities you're coming from as you do/read/use word clouds? (i.e. as you do/read this distant reading, are you coming at them as a new MA student, an exiting MA student, as new to English studies, as new to the notion of multiple subfields, as heading for academic path, as heading for non-academic path, etc.)
+  2. **Write one or more rich paragraphs defining your "method" for creating your word clouds** Write up your own short methods section. Look at others' examples for inspiration.
+  3. **Write more extensively about "What am I interested in?" with these word clouds.** (Note: You are not married to these ideas; they are just generative starting places for writing. These are trying to get at some of Sydney's *"So What?"* There are other pieces we didn't consider and are possible here. Return to your notes prepared for Week 12 for ideas and scholarship to integrate.)
+  4. **Consider how you individually might integrate some or all of your word clouds** (new and/or original) as part of your portion of the publication. Also consider how/what scale of word clouds would be illustrative/persuasive for the collaborative argument.
+
+### The plan for the next few weeks:
+  - **Week 13**: Bring written material (see "to-do" list above) for analysis/discussion and tracing of key themes/nodes. Workshopping. Writing. Check out the [Kairos Style Guide](http://kairos.technorhetoric.net/styleguide.html). Refine ideas for [site structure](https://webstyleguide.com/wsg3/3-information-architecture/3-site-structure.html) and define next steps to make/include/remake word clouds.
+  - **Week 14**: Rest for the break. Work on "new" word clouds and revise a little bit. Take pictures of your doggos, kittehs, sneks, or stuffies.
+  - **Week 15**: Work on interface/design/site structure for webtext. Workshopping. Writing. Trying not to freak out in unhealthy ways.
+  - **Week 16**: Revise, revise, revise. Probably more design work and troubleshooting. See if we can have a rough draft of the webtext done, to be submitted in the coming weeks. Define individual production roles and relationships as we head into the murk of "when the semester's over and we're moving on to other things."
