@@ -22,6 +22,7 @@ As we begin to really put together "meanings" or readings of these distant readi
 - ethan's [notions](https://docs.google.com/document/d/1oQnr_wjPpcY64KUAW0pla6OUQlhS_CKWuAefw3TiyvY/)
 - sydney's [thoughts](https://docs.google.com/document/d/1uZX7LUVAr4o4sk4nZHgyaCRgP9j937-E-yvMaBsGlM8)
 - carolina's [betterments](https://carolinaavsar.github.io/betterandimproved.html)
+- kelsy's [musings and stuff](https://drive.google.com/drive/folders/1fT1KBCOPaiJF7UKhDVLXQqL7a3CwIjek?usp=sharing)
 - nicole's [pieces](https://docs.google.com/document/d/1KlkN29W_bfMUKPr2bk9ompI3jjN_AJCQQbSCC23kCCI)
 - andrews's [vomitous bilge](https://docs.google.com/document/d/1RMWf7T6p5OIP41DCMxy_V0DdnDTXhpcp9RmNw2mHzk8)
 
