@@ -35,6 +35,5 @@ Some key articles in *Enculturation* and *Kairos* re distant reading and digital
 - Kairos
   - Mueller, [nephological model](http://kairos.technorhetoric.net/16.2/topoi/mueller/)
   - Palmeri & McCorkle, [distant EJ](http://kairos.technorhetoric.net/22.2/topoi/palmeri-mccorkle/methodology.html)
-  -
 
 ## To do for next time:
