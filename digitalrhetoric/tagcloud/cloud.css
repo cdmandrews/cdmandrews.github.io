@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css?family=Calistoga|Open+Sans&display=swap');
+
+body{
+    font-family: 'Open Sans', sans-serif;
+    background-color: #5f7895;
+    width: 70%;
+    margin: 0 auto;
+    color: #e7ecec;
+}
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Calistoga', serif;
+  border-bottom: 2px dotted white;
+  color: black;
+  padding-left: 5%;
+}
+h1{
+  padding-top: 1em;
+  padding-bottom: 1em;
+  background-image: url('clouds.jpeg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  border: none;
+  border-radius: .25em;
+}
+
+/* -- For index.html -- would definitely have to have 2 sizes for media query -- */
+.indextagcloud{
+  font-size: 150%;
+  font-family:'Calistoga', serif;
+  background-color:#000;
+  margin:1em 1em 0 1em;
+  border:2px solid #ddd;
+  padding:2em;
+  border-radius: .25em;
+}
+
+.indextagcloud{line-height:2.4em;word-spacing:normal;letter-spacing:normal;text-transform:none;text-align:justify;text-indent:0}
+.indextagcloud a:link{text-decoration:none}
+.indextagcloud a:visited{text-decoration:none}
+.indextagcloud a:hover{color:white;background-color:#05f}
+.indextagcloud a:active{color:white;background-color:#03d}
+
+/* -- Gallery clouds -- */
+div.htmltagcloud, div.htmltagcloudb{display: inline-block; float:left;}
+.htmltagcloud{
+  font-size: 40%;
+  width: 20%;		/* auto or fixed width, e.g. 500px   */
+  font-family:'Open Sans', sans-serif;
+  background-color:#e7ecec;
+  margin:1em 1em 0 1em;
+  border-top: 2px solid #ddd;
+  padding:2em;
+  height: 70em; overflow: hidden;
+  border-radius: .25em;
+}
+
+.htmltagcloud{line-height:2.4em;word-spacing:normal;letter-spacing:normal;text-transform:none;text-align:justify;text-indent:0}
+.htmltagcloud a:link{text-decoration:none}
+.htmltagcloud a:visited{text-decoration:none}
+.htmltagcloud a:hover{color:white;background-color:#05f}
+.htmltagcloud a:active{color:white;background-color:#03d}
+.wrd{padding:0;position:relative}.wrd a{text-decoration:none}
+.tagcloud0{font-size:1.0em;color:red;z-index:10}
+.tagcloud0 a{color:red;}
+.tagcloud1{font-size:1.4em;color:green;z-index:9}
+.tagcloud1 a{color:green}
+.tagcloud2{font-size:1.8em;color:#86A0DC;z-index:8}
+.tagcloud2 a{color:#86A0DC}
+.tagcloud3{font-size:2.2em;color:#86A0DC;z-index:7}
+.tagcloud3 a{color:#86A0DC}
+.tagcloud4{font-size:2.6em;color:#607EC5;z-index:6}
+.tagcloud4 a{color:#607EC5}
+.tagcloud5{font-size:3.0em;color:#607EC5;z-index:5}
+.tagcloud5 a{color:#607EC5}
+.tagcloud6{font-size:3.3em;color:yellow;z-index:4}
+.tagcloud6 a{color:yellow}
+.tagcloud7{font-size:3.6em;color:#395CAE;z-index:3}
+.tagcloud7 a{color:#395CAE}
+.tagcloud8{font-size:3.9em;color:#264CA2;z-index:2}
+.tagcloud8 a{color:#264CA2}
+.tagcloud9{font-size:4.2em;color:#133B97;z-index:1}
+.tagcloud9 a{color:#133B97}
+.tagcloud10{font-size:4.5em;color:yellow;z-index:0}
+.tagcloud10 a{color:yellow}
+.freq{font-size:10pt !important;color:#bbb}
