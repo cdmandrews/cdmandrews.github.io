@@ -3,7 +3,7 @@
 body{
     font-family: 'Open Sans', sans-serif;
     background-color: #5f7895;
-    width: 70%;
+    width: 80%;
     margin: 0 auto;
     color: #e7ecec;
 }
@@ -23,6 +23,26 @@ h1{
   border-radius: .25em;
 }
 
+/* Create unequal columns that float next to each other */
+.column {
+  float: left;
+  padding: 1em;
+}
+/* Left column */
+.column.side {
+  width: 30%;
+}
+/* Middle column */
+.column.main {
+  width: 60%;
+}
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
 /* -- For index.html -- would definitely have to have 2 sizes for media query -- */
 .indextagcloud{
   font-size: 150%;
@@ -40,18 +60,37 @@ h1{
 .indextagcloud a:hover{color:white;background-color:#05f}
 .indextagcloud a:active{color:white;background-color:#03d}
 
-/* -- Gallery clouds -- */
-div.htmltagcloud, div.htmltagcloudb{display: inline-block; float:left;}
-.htmltagcloud{
+.navtagcloud{
   font-size: 40%;
-  width: 20%;		/* auto or fixed width, e.g. 500px   */
   font-family:'Open Sans', sans-serif;
   background-color:#e7ecec;
-  margin:1em 1em 0 1em;
+  margin:1em 0 1em 1em;
   border-top: 2px solid #ddd;
   padding:2em;
-  height: 70em; overflow: hidden;
-  border-radius: .25em;
+  height: 70em;
+  overflow: hidden;
+  border-radius: .25em
+}
+
+.navtagcloud{line-height:2.4em;word-spacing:normal;letter-spacing:normal;text-transform:none;text-align:justify;text-indent:0}
+.indextagcloud a:link{text-decoration:none}
+.indextagcloud a:visited{text-decoration:none}
+.indextagcloud a:hover{color:white;background-color:#05f}
+.indextagcloud a:active{color:white;background-color:#03d}
+
+/* -- Gallery clouds -- */
+div.htmltagcloud{display: inline-block; float:left;}
+.htmltagcloud{
+  font-size: 40%;
+  width: 300px;		/* auto or fixed width, e.g. 500px   */
+  font-family:'Open Sans', sans-serif;
+  background-color:#e7ecec;
+  margin:1em 0 1em 1em;
+  border-top: 2px solid #ddd;
+  padding:2em;
+  height: 70em;
+  overflow: hidden;
+  border-radius: .25em
 }
 
 .htmltagcloud{line-height:2.4em;word-spacing:normal;letter-spacing:normal;text-transform:none;text-align:justify;text-indent:0}
@@ -83,3 +122,10 @@ div.htmltagcloud, div.htmltagcloudb{display: inline-block; float:left;}
 .tagcloud10{font-size:4.5em;color:yellow;z-index:0}
 .tagcloud10 a{color:yellow}
 .freq{font-size:10pt !important;color:#bbb}
+
+@media screen and (max-width: 600px) {
+  body {width:90%;}
+  .column.side, .column.main {
+    width: 100%;
+  }
+}
