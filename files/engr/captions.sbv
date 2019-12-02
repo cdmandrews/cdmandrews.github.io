@@ -1,0 +1,843 @@
+0:00:01.680,0:00:09.680
+Greetings. My name is Dr. Christopher Andrews, and in this video we're going to be talking about engineering lab reports and technical writing.
+
+0:00:11.280,0:00:19.160
+The Accreditation Board for Engineering Technology 
+(or ABET) says that one of the important student learning outcomes for
+
+0:00:19.210,0:00:25.320
+engineering programs is that those students 
+need to be able to communicate effectively
+with a range of different audiences.
+
+0:00:26.050,0:00:30.689
+This workshop is intended to help you 
+think about writing a little bit differently than
+
+0:00:30.760,0:00:33.689
+you may have before:
+ in particular thinking about writing as a
+
+0:00:34.149,0:00:37.835
+professional who communicates with audiences. 
+And to help you recognize
+strategies that are going to
+
+0:00:40.000,0:00:46.469
+improve the writing that you're doing 
+to make it more effective for readers 
+and have that reader orientation.
+
+0:00:48.039,0:00:50.069
+ABET says when you graduate from this program
+
+0:00:50.200,0:00:56.069
+you should have an ability to 
+communicate effectively with a range of audiences.
+
+0:00:56.070,0:00:59.399
+If this were a face-to-face workshop, 
+I'd invite you to do a writing activity 
+and we'd have a short discussion.
+
+0:00:59.399,0:01:03.209
+But I'll just let you think about these questions 
+for a minute or two on your own.
+
+0:01:04.750,0:01:09.809
+Why does effective communication matter? 
+When or why do you think engineers use writing?
+
+0:01:11.799,0:01:14.188
+Effective communication is how work happens.
+
+0:01:14.189,0:01:20.159
+It comes before work, 
+supports work during the process, 
+and sustains work after a project is completed.
+
+0:01:21.130,0:01:27.269
+Mechanical engineers utilize writing daily 
+to propose projects and justify design ideas, 
+to create manufacturing instructions,
+
+0:01:27.820,0:01:32.159
+record and report test results, 
+or verify progress on a project.
+
+0:01:32.770,0:01:39.030
+They also disseminate information to help people make decisions and even persuade or recommend based on their expert opinion.
+
+0:01:39.030,0:01:44.849
+In fact, that's one of the reasons 
+why your accreditation matters--it's because 
+your expert opinion has to stand for something.
+
+0:01:46.030,0:01:49.049
+The audiences that these documents communicate to are varied.
+
+0:01:49.630,0:01:55.259
+Engineers must be able to effectively communicate complex topics and ideas to other engineers, technical and non-technical personnel,
+
+0:01:55.689,0:01:59.429
+business personnel, marketing professionals, and the public.
+
+0:02:01.600,0:02:04.320
+Frankly, engineers.... they write a lot!
+
+0:02:05.049,0:02:11.969
+These details are just a brief survey of some of the literature about how much time you're going to spend writing.
+
+0:02:12.640,0:02:15.750
+Obviously, the first few years on the job, comparatively maybe not too much;
+
+0:02:15.750,0:02:18.900
+but as you continue up the ladder of your career
+
+0:02:19.000,0:02:24.270
+you're going to write more and more. This might be something as simple as the ever-present email,
+
+0:02:24.940,0:02:29.670
+but obviously all the way up to reports, recommendations, 
+and those sorts of things as well.
+
+0:02:32.170,0:02:35.459
+Rather than thinking of writing as
+ a hoop that you have to jump through or
+
+0:02:35.530,0:02:40.770
+some awful thing that you have to do when really the more important work is the actual engineering  of things,
+
+0:02:41.320,0:02:43.469
+writing is a part of your tool collection.
+
+0:02:44.170,0:02:51.629
+So instead of thinking of yourself as just writing something, consider that you're using writing or using a tool to do something.
+
+0:02:52.930,0:02:56.579
+When we think about writing is using tools to do, such as
+
+0:02:56.740,0:03:02.249
+explaining a complex system in such a way that others can understand it, 
+we're really inviting a couple of questions:
+
+0:03:02.530,0:03:08.940
+What are we really doing with a lab report or a project proposal or a progress report or whatever it is?
+
+0:03:09.460,0:03:13.469
+That is, how are other people going to use what we produce?
+
+0:03:13.990,0:03:20.640
+Then how does that affect our choices and uses of the tools that we use to produce that piece of writing?
+
+0:03:22.600,0:03:28.860
+We're making choices about tools based on what it's going to end up being or doing in the end.
+
+0:03:31.960,0:03:35.399
+Briefly, before we get into some of the 
+strategies for technical writing,
+
+0:03:35.400,0:03:39.630
+I'd like to talk about writing for grades 
+versus writing in the workplace.
+
+0:03:39.970,0:03:42.300
+Writing for grades is really all about achieving.college goals:
+
+0:03:42.550,0:03:47.490
+showing your professor that you did to work correctly, that you mastered a subject matter,
+
+0:03:48.160,0:03:53.670
+that you would like to get a good grade. And really its oriented to one single reader: the professor.
+
+0:03:53.670,0:03:55.829
+This is the kind of writing that you're most familiar with,
+
+0:03:56.440,0:03:58.920
+that you've spent a lot of time doing and
+
+0:03:59.020,0:04:05.490
+learning how to do: these essays of papers that you've done throughout your college career, and even before then in high school.
+
+0:04:06.250,0:04:12.029
+But we think about writing in the workplace, it's not about pleasing the professor and jumping through hoops to get a good grade.
+
+0:04:12.190,0:04:16.739
+It's really about communicating information to audiences who need to use it.
+
+0:04:17.049,0:04:23.459
+Like I was listing before: people who need to make a decision or who need to be able to follow a process or
+
+0:04:24.100,0:04:25.830
+because we need to document that something happened,
+
+0:04:25.830,0:04:31.740
+or explain how something was done, or even justify what you did and why you did it for other professionals.
+
+0:04:31.960,0:04:35.099
+And this means that there are a variety of different readers:
+
+0:04:35.469,0:04:43.199
+Professionals, people who have your similar expertise or people who have very little of your own expertise and a variety of stakeholders
+
+0:04:44.110,0:04:46.110
+including users,
+
+0:04:46.330,0:04:47.530
+businesspeople,
+
+0:04:47.530,0:04:52.559
+and a variety of other audiences.  Writing in the workplace is  complex
+
+0:04:53.409,0:04:56.218
+bt it's also very very functionally oriented.
+
+0:04:57.039,0:05:00.359
+Well, let's get into some of the bits and pieces about technical writing.
+
+0:05:03.580,0:05:10.080
+Technical writing uses simple direct language and document design features to convey information to audiences.
+
+0:05:10.840,0:05:16.319
+This presentation is going to oversimplify some of these concepts, but hopefully those are useful oversimplifications.
+
+0:05:18.340,0:05:21.479
+And I'll offer a few examples of each principle in action;
+
+0:05:21.879,0:05:23.580
+these examples aren't perfect,
+
+0:05:23.580,0:05:26.639
+but they highlight some areas that you might be struggling with as a writer.
+
+0:05:27.069,0:05:30.239
+And really, all of these five principles
+
+0:05:30.400,0:05:35.579
+emphasize the idea of being direct about what happened, why it happened, and why it matters.
+
+0:05:36.250,0:05:40.259
+The examples that we'll look out are really oriented around these five points:
+
+0:05:40.509,0:05:45.959
+First and most important point: write to your audience. What do they need? What do they know?
+
+0:05:46.029,0:05:49.349
+What do they not know? You need to tell them what they need to know.
+
+0:05:49.750,0:05:57.719
+You need to make sure that you are not assuming things that they know or telling them things that they don't need to know.
+
+0:05:59.169,0:06:01.378
+Ultimately that results in "getting to the point."
+
+0:06:01.990,0:06:06.419
+Technical writing is not mystery writing; it's not a mystery or suspense novel.
+
+0:06:06.460,0:06:11.940
+We're really getting directly to the point because people want to make a decision and move on with their lives.
+
+0:06:12.430,0:06:19.349
+Number three: put information where your readers expect it to be. What do readers want? 
+What do readers expect?
+
+0:06:19.349,0:06:22.528
+That's really how they're going to judge things.
+
+0:06:22.529,0:06:23.710
+In fact,
+
+0:06:23.710,0:06:29.759
+if a lot of the formal pieces are there, sometimes readers can be pretty forgiving on some of the smaller
+
+0:06:30.039,0:06:37.019
+stylistic issues. (In some cases.) 
+Number four: We need to label everything.
+
+0:06:37.599,0:06:39.869
+Because writing in engineering relies so much on visuals
+
+0:06:40.510,0:06:44.549
+it's important to provide context and information about visuals,
+
+0:06:44.830,0:06:52.470
+to help readers find and locate what exactly they're looking for, to label sections appropriately, figures and tables and equations
+
+0:06:52.470,0:06:59.489
+so that somebody who's scanning through the document quickly can very easily find the information that they're looking for.
+
+0:06:59.800,0:07:03.840
+Finally, number five you need to explain visuals or data before you show them.
+
+0:07:04.000,0:07:08.339
+This can actually be hard because we often think that the data are self-explanatory.
+
+0:07:09.190,0:07:14.820
+Obviously, you know here if we did the thing and there are the numbers and aren't the numbers self-explanatory?
+
+0:07:15.760,0:07:20.999
+Well, they are to you because you were there and you did the experiment; but to somebody who wasn't there or somebody who doesn't have
+
+0:07:21.000,0:07:26.040
+the same level of technical knowledge about what you're doing--which many of your readers might not have,
+
+0:07:26.229,0:07:30.179
+you need to do a little bit of explanation about what the visuals are trying to show,
+
+0:07:30.400,0:07:35.040
+what you're trying to emphasize, what the most important data points are, etcetera.
+
+0:07:35.040,0:07:41.219
+And you do that before you show data.  This can be a common trip-up area for beginning technical writers.
+
+0:07:42.370,0:07:45.630
+So again, the first thing is to write to your audience.
+
+0:07:45.630,0:07:49.169
+What are you doing with a lab report? What the different parts of a report do?
+
+0:07:49.930,0:07:56.519
+How's that analogous to or similar to communicating that you might do on the job? Who's going to use it? For what purposes?
+
+0:07:58.060,0:08:04.619
+A ab report is a detailed account of an experiment, its methods, its results, and its conclusions all of which answer
+
+0:08:04.870,0:08:07.859
+some question: some design question or some problem.
+
+0:08:08.440,0:08:12.359
+When you're thinking about your lab report you need to answer: What is the question
+
+0:08:12.870,0:08:19.560
+that your lab report is answering? What is the problem that it's trying to solve? That is, the experiment itself.
+
+0:08:21.010,0:08:28.979
+Possible audiences for lab reports: you can think about this is something directed towards engineers or peers who are interested in similar work and might
+
+0:08:28.979,0:08:30.979
+base their experiment on yours.
+
+0:08:31.419,0:08:36.028
+You might think about another audience being a supervisor who wants to know about the work that you have done.
+
+0:08:37.690,0:08:40.679
+Obviously your professor or grader is also part of the audience and
+
+0:08:40.900,0:08:48.329
+their job as a marker is to dramatize the presence of these other two audiences: people who aren't inside your brain and
+
+0:08:48.490,0:08:54.700
+don't know exactly what you know. Thus, it's your job to explain to them what you're doing and why.
+
+0:08:55.790,0:09:01.449
+Some important purposes for a lab report: 
+Obviously you need to inform. People want to know what you have done.
+
+0:09:01.880,0:09:05.170
+There's also a little bit of persuasion
+--or we might better say "justification"--
+
+0:09:05.780,0:09:11.110
+going on in the lab report as well. 
+Raw data is not convincing by itself.
+
+0:09:11.300,0:09:16.419
+You have to convince your audience that it's correct, 
+and you need to justify your results.
+
+0:09:16.420,0:09:21.159
+That is, you want them to understand that this is valid data that you got it in a particular way
+
+0:09:22.310,0:09:27.070
+through a particular process that they are able to see and perhaps validate on their own.
+
+0:09:29.690,0:09:30.740
+On this slide
+
+0:09:30.740,0:09:36.939
+we're going to spend a little bit of time talking about what the major sections of a lab report is going to do.
+
+0:09:37.040,0:09:40.449
+What information do they provide for different kinds of audiences?
+
+0:09:41.780,0:09:43.360
+The abstract can be tricky,
+
+0:09:43.360,0:09:47.529
+but the abstract is a summary 
+of what you did and what you concluded.
+
+0:09:47.690,0:09:52.900
+The core results and essentials to help other people understand what you did and why.
+
+0:09:53.630,0:10:01.150
+The abstract is very brief; think of it as one sentence for each major section of your report, more or less.
+
+0:10:01.780,0:10:08.619
+This is the top-level summary that you might drop in an email and send to the supervisor so they can know okay
+
+0:10:08.620,0:10:13.810
+What happened? What did you do about it? Okay, and they're moving on with their life. That's what an abstract does.
+
+0:10:14.660,0:10:16.660
+The introduction is
+
+0:10:17.330,0:10:19.389
+much less specific than the abstract
+
+0:10:19.880,0:10:25.720
+The introduction really explains and develops the problem that you're trying to solve, the question that you're trying to answer
+
+0:10:26.210,0:10:29.199
+so that people understand "why the heck we're doing this in the first place."
+
+0:10:29.450,0:10:36.910
+It also explains why the problem needs solving, offering some sort of rationale for why this is worth doing.
+
+0:10:38.000,0:10:45.070
+The next major section is the theory or sometimes called the background section. This is where as an engineer
+
+0:10:45.070,0:10:51.040
+you're explaining your assumptions about how things should work,  or how according to
+
+0:10:51.620,0:10:53.620
+theory things are supposed to happen.
+
+0:10:53.930,0:11:01.810
+If there's major terminology or equations, this is also where you'll describe these technical concepts and explain why the
+
+0:11:02.330,0:11:06.379
+equation was used in this particular way in this particular situation.
+
+0:11:08.250,0:11:14.450
+In the theory you talk about what you expect to happen or why you expect the problem to be solved in this particular way.
+
+0:11:16.110,0:11:21.349
+The equipment and procedure sections, sometimes called a method section, in some sorts of lab reporting,
+
+0:11:22.110,0:11:29.899
+is really about describing and illustrating the equipment and the steps of what you did and how you did it.
+
+0:11:30.420,0:11:37.099
+This is ultimately framed so that someone could replicate and ultimately verify your process.
+
+0:11:38.730,0:11:40.730
+In the data,
+
+0:11:41.399,0:11:48.499
+calculations, or results sections, you're going to present and explain what you found using graphs or tables with short explanations to point out
+
+0:11:48.690,0:11:50.100
+key data points,
+
+0:11:50.100,0:11:56.540
+most important calculations, most important results. This will be a fairly short data heavy section.
+
+0:11:57.209,0:12:03.049
+But that's very important as you move into the discussion and analysis sections. 
+In these sections you explain your results,
+
+0:12:03.329,0:12:05.659
+comparing them with what you expected or
+
+0:12:06.420,0:12:12.320
+other calculated results. 
+This might be a section where you return 
+back to some of those theory ideas and
+
+0:12:14.430,0:12:17.419
+explain why this happened or why this worked out according to theory.
+
+0:12:18.149,0:12:23.389
+Finally in the conclusion section, that's where you're interpreting and judging the results. Restate the problem.
+
+0:12:23.970,0:12:28.100
+Restate the results. Justify the decisions that you made or justify what happened.
+
+0:12:28.380,0:12:31.849
+This is also an appropriate place to explain abnormality,
+
+0:12:31.850,0:12:33.420
+errors, or uncertainties,
+
+0:12:33.420,0:12:40.039
+as well as to discuss problems and how those might be corrected in the future. All of these different parts work together and work in
+
+0:12:40.040,0:12:47.450
+very specific ways so that readers can get to exactly the information that they need at exactly the time or place that they need it.
+
+0:12:48.000,0:12:49.910
+Some people are just going to need the procedure,
+
+0:12:49.910,0:12:52.490
+they need to know how to make that part that you made and
+
+0:12:52.709,0:12:57.739
+so they're just going to read the procedure section so they can understand here's the steps that they need to go through.
+
+0:12:58.500,0:13:02.000
+Meanwhile, another engineer 
+might be more interested in the
+
+0:13:02.519,0:13:09.259
+potential anomalies or problems and how they might deal with those in the future. So they're gonna jump straight to your conclusions
+
+0:13:09.300,0:13:12.800
+so they can understand, "Well, here's what happened. And here's how it broke
+
+0:13:12.800,0:13:17.149
+And here's what I need to do to fix it in the future."
+Let's dig into some of these
+
+0:13:17.699,0:13:19.699
+sections and some of these problems
+
+0:13:20.080,0:13:22.080
+in more particular detail.
+
+0:13:22.420,0:13:27.140
+One of those principles was "get to the point" and so we'll look at an example of an abstract
+
+0:13:27.149,0:13:32.340
+that doesn't quite do the job, as well as an example of an abstract that does a little bit of a better job.
+
+0:13:32.740,0:13:38.039
+Again, what's an abstract's purpose? Who is it for? What do readers expect about the abstract?
+
+0:13:38.709,0:13:41.429
+The abstract only sets out the problem; it
+
+0:13:42.279,0:13:46.078
+summarizes the contents of the report very very briefly.
+
+0:13:46.209,0:13:48.568
+This abstract has a couple of problems.
+
+0:13:48.579,0:13:50.789
+If you look with me at the first sentence:
+
+0:13:50.790,0:13:56.130
+"This lab report will break down into details the procedure taken to develop the plate and shaft two-part assembly."
+
+0:13:56.800,0:13:59.909
+"Explanations and figures will aid in the rendition of the report."
+
+0:14:01.329,0:14:05.969
+Well, those both are true, but they're not really telling us anything about the experiment itself.
+
+0:14:06.519,0:14:10.469
+You'll also see further down where we get into the sentence
+
+0:14:10.470,0:14:15.839
+"The purpose of this experiment was to create a two-part aluminum plate and shaft, etc, etc."
+
+0:14:16.180,0:14:21.599
+This is really where the business of the abstract really gets down to, down here.
+
+0:14:22.209,0:14:25.349
+Summarizing the experiment and moving on to the contents of the report.
+
+0:14:26.800,0:14:30.990
+This abstract does a little bit of a better job. It begins right on front street:
+
+0:14:30.990,0:14:34.680
+"The objective of the lab was to build an assembly that was able to withstand a
+
+0:14:34.810,0:14:42.359
+ten foot-pound torque applied at the end of the shaft without turning." That's the problem that's trying to be solved.
+
+0:14:43.360,0:14:44.980
+Then it delves into some
+
+0:14:44.980,0:14:46.980
+concerns about materials and
+
+0:14:47.170,0:14:50.729
+important steps in the process. )ne thing that might improve
+
+0:14:51.250,0:14:58.500
+this abstract is a little bit more precision about results: a few pieces of data about contact pressure, for example, would be acceptable.
+
+0:14:58.630,0:15:04.919
+But it does overview the scope of the project and is providing about a sentence worth of summary for each major section of the report.
+
+0:15:05.230,0:15:09.480
+We have a few sentences about the objective of the lab,
+
+0:15:10.089,0:15:12.539
+a few sentences about the overall process
+
+0:15:12.819,0:15:19.109
+of how the lab was accomplished, and then we do have a little bit of conclusion or results.
+
+0:15:19.110,0:15:21.300
+Here's what happened: "in optimal conditions
+
+0:15:21.699,0:15:27.779
+contact pressure wouldn't exceed the yield strength of the material we used and it  sustained too much contact pressure"
+
+0:15:28.449,0:15:34.389
+So, further things might be done." Again, it's just a snapshot of each step in the process.
+
+0:15:36.080,0:15:39.100
+The next two slides look at a couple of examples of introductions.
+
+0:15:39.830,0:15:41.390
+introductions
+
+0:15:41.390,0:15:46.449
+This first introduction explains some of the learning objectives of the lab,
+
+0:15:46.450,0:15:50.590
+but it doesn't really introduce the essential problem that needed to be solved in the lab.
+
+0:15:50.930,0:15:54.279
+The lab report should be focused on those engineering problems:
+
+0:15:54.280,0:15:57.490
+what was the experiment and why does it need to be done in an engineering context?
+
+0:15:57.800,0:16:02.680
+In this case telling us about becoming familiar with machining tolerances,
+
+0:16:03.320,0:16:11.170
+gaining a better understanding for material performance, and developing a respect for the art of machining are all good, but essentially those are "fluff".
+
+0:16:12.080,0:16:18.580
+Really this needs to be about what was this experiment trying to solve. What was the engineering problem this was trying to solve?
+
+0:16:19.100,0:16:20.780
+The other problem with this
+
+0:16:20.780,0:16:22.780
+Introduction is that it launches into
+
+0:16:24.140,0:16:26.890
+specifications and details 
+about the process and results.
+
+0:16:27.650,0:16:29.480
+both of these--
+
+0:16:29.480,0:16:35.110
+the description of specific tolerances that we're machining the the shaft to, and then
+
+0:16:35.540,0:16:43.480
+the particular results of the process--both of these belong a little bit in the abstract and even more so in the
+
+0:16:44.060,0:16:47.349
+overview of theory and results sections.
+
+0:16:49.910,0:16:55.629
+This introduction begins with the experiment: creating an assembly meeting given specifications,
+
+0:16:55.630,0:17:00.580
+test the capability of the interference fit used to secure two pieces together. And then it goes on to explain
+
+0:17:00.860,0:17:05.320
+why the audience should care about it and describes the implications of the process.
+
+0:17:05.930,0:17:13.060
+"Interference fits, or press fits, are common means of combining independent parts." 
+And  "This is important for creating the product;
+
+0:17:13.580,0:17:17.049
+discovering it's defective through experimentation is cheaper and
+
+0:17:17.900,0:17:21.519
+less destructive than discovering that it doesn't work out in the field."
+
+0:17:22.130,0:17:24.520
+Obviously, this gets right to the
+
+0:17:25.100,0:17:30.069
+essential issues from an engineering context, and that's very important for the introduction.
+
+0:17:31.430,0:17:34.930
+The next principle here looks at some procedures.
+
+0:17:34.930,0:17:41.769
+And again, we think about, if you're going to follow a procedure, follow a manual, what do you expect that to look like?
+
+0:17:42.410,0:17:48.459
+This is a narrative version of a procedure and it's really not quite as strong as the next version.
+
+0:17:48.740,0:17:51.099
+We can see "once both parts were finished",
+
+0:17:51.620,0:17:57.309
+"finally the shaft was placed back on to the mill and the shaft was notched", and so it's set off in
+
+0:17:57.590,0:17:59.799
+paragraphs which are not quite as effective as
+
+0:18:00.380,0:18:08.319
+A list. Very commonplace in all sorts of technical writing to go step by step,
+ one, two, three, four, five, 
+and go down the list.
+
+0:18:09.020,0:18:12.219
+Again, here we have very specific details. As we'll see in a minute
+
+0:18:12.220,0:18:17.079
+it refers to particular figures, it gives variations,
+
+0:18:17.659,0:18:19.929
+it tells all the specific steps of
+
+0:18:20.600,0:18:28.510
+going through the process. You'll notice that it's in past perfect tense, "punching kit and ball peen hammer were used to stamp the
+
+0:18:29.600,0:18:36.669
+semester names of the group members" so it just went through so that someone could follow: "here's the first thing, here's the second thing,
+
+0:18:36.789,0:18:38.789
+etc, etc."
+
+0:18:39.169,0:18:44.139
+Another important concept for technical writing: Because visuals are so important
+
+0:18:44.570,0:18:49.570
+we do have to do a little bit of labor to label and explain visuals.
+
+0:18:50.360,0:18:52.689
+Again, here's the less great example:
+
+0:18:53.360,0:18:58.839
+We have an equation here. But unless you know what the equation is
+
+0:18:59.480,0:19:06.579
+because you're an expert in, because you did the experiment, then you would have no idea what this is.
+
+0:19:06.799,0:19:11.949
+There's a suggestion that this might be about measuring material removal rate,
+
+0:19:12.230,0:19:15.520
+but it doesn't say what the equation is or
+
+0:19:16.250,0:19:18.250
+where it comes from.
+
+0:19:18.559,0:19:21.879
+The following example, as you'll notice,
+
+0:19:22.940,0:19:28.690
+explicitly labels and explains what the equation is. And it also
+
+0:19:29.149,0:19:33.549
+offers an explanation and a source for the equation.
+
+0:19:33.590,0:19:40.240
+"So an equation that was helpful for the experiment was the contact pressure equation using interference values." It's very explicit
+
+0:19:40.850,0:19:43.899
+this equation can be used and this is part of the theory:
+
+0:19:43.899,0:19:49.059
+this is why we selected an equation in a particular context to do a
+
+0:19:49.970,0:19:51.970
+particular calculation and get a particular result.
+
+0:19:52.220,0:19:58.149
+Then it goes on to explain the relevant variables and give a citation, and we do have
+
+0:19:58.970,0:20:05.619
+an equation number that corresponds to the equation list in the table of contents.
+
+0:20:08.450,0:20:15.069
+You don't need to reinvent the wheel when we're thinking about visuals.
+
+0:20:15.769,0:20:18.399
+One is most readers expect that
+
+0:20:18.950,0:20:22.779
+figure labels will be underneath a picture:
+
+0:20:23.389,0:20:28.059
+"Figure 1" and then the label or caption for the figure.
+
+0:20:28.759,0:20:34.988
+The other issue is that nowhere in the text. does it talk about what this visual is.
+
+0:20:35.480,0:20:38.289
+So let's look at a better example and see what's happening here
+
+0:20:39.259,0:20:43.929
+"Figures 1 & 2 below show the mechanical drawings that were used as guidelines for machining",
+
+0:20:43.929,0:20:46.748
+It provides us with a little bit of content and context for
+
+0:20:47.539,0:20:51.459
+what the visual is, so that if we're scanning for visuals
+
+0:20:51.460,0:20:58.359
+we see it and then we can hop up to the text right before and understand exactly how this was used and why this was used.
+
+0:20:58.359,0:20:59.299
+Etc
+
+0:20:59.299,0:21:06.758
+Again, very simple: "Figure 2: Aluminum plate dimensions."  Standard technical drawing.
+
+0:21:07.070,0:21:08.299
+Just a few more examples of visuals:
+
+0:21:08.299,0:21:13.778
+Notice that with graphics, with images or photographs or drawings,
+
+0:21:14.720,0:21:21.819
+the figure label and caption goes beneath the figure. With tables, data tables,
+
+0:21:21.950,0:21:24.489
+etc., the table label and
+
+0:21:25.039,0:21:27.039
+title goes above the information.
+
+0:21:27.529,0:21:33.909
+One of the other important things you can do is to read and follow your specs. If your instructor provides you with guidelines or
+
+0:21:34.129,0:21:38.649
+specifications for the assignment, it will be very useful for you to read them carefully and follow the directions.
+
+0:21:39.320,0:21:44.769
+Ask for examples of good lab reports if they have them.
+
+0:21:45.289,0:21:48.309
+Writing is a process of multiple drafts, focusing on different revisions at different steps in the process.
+
+0:21:49.009,0:21:53.289
+Don't worry, for example, about third person and personal pronouns in the first draft.
+
+0:21:53.330,0:21:58.239
+Just get the thing written. You can revise for personal pronouns or past tense issues later.
+
+0:21:58.700,0:22:05.350
+Also, it's a good habit to begin reading the technical literature with an attention to how authors get ideas across.
+
+0:22:05.720,0:22:10.720
+How do they introduce problems? How technical is their language? How direct are their sentences?
+
+0:22:11.290,0:22:16.860
+Reading like an engineer and thinking about how or why engineers read will help you to write like one, too
+
+0:22:18.610,0:22:26.610
+Finally I'd like to point you to a few resources for a variety of writing issues.
+
+0:22:26.610,0:22:29.610
+The first website, "Writing as an Engineer or Scientist" provides a variety of examples,
+
+0:22:30.010,0:22:35.040
+videos. and more content about a variety of scientific writing issues.
+
+0:22:36.100,0:22:42.869
+"Online Technical Writing" is an online open access textbook that's very useful for thinking about
+
+0:22:44.770,0:22:51.570
+not only sentence style and revision strategies, but also it has plenty of examples and content about different kinds of
+
+0:22:52.810,0:22:54.869
+technical writing genres and situations.
+

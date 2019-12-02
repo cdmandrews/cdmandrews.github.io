@@ -9,8 +9,8 @@ October 2, 2019
 
 ## Example technical reports/studies
 
-- [Geotechnical Engineering Study, Raba Kistner Consultants (used with permission, do not reproduce)](files/geotechnical-example.pdf)
-- [CR 52 Extension Proposal/Report, Neismith Engineering, Inc. (used with permission, do not reproduce)](files/cr-extension-example.pdf)
+- [Geotechnical Engineering Study, Raba Kistner Consultants (used with permission, do not reproduce)]()
+- [CR 52 Extension Proposal/Report, Neismith Engineering, Inc. (used with permission, do not reproduce)](files/engr/cr-extension-example.pdf)
 
 
 ## Web resources for technical and scientific writing

@@ -28,13 +28,13 @@ Tutoring Engineering and Technical Writing is the same as tutoring everything el
 
 ["Sabine Pass to Galveston Bay, TX Coastal Storm Risk Management and Ecosystem Restoration"(Environmental Impact Statement & Feasability report, US Army Corps of Engineers)](https://drive.google.com/open?id=1z5Akqx2BL0eC8_OlqhcR4CRyK3_vgJU2)
 
-[Geotechnical engineering study (Raba Kistner Consultants; do not reproduce)](files/geotechnical-example.pdf)
+[Geotechnical engineering study (Raba Kistner Consultants; do not reproduce)]()
 
-[Buying a used Shopsmith (User-created guide)](files/shopsmith-guide.pdf) Caution: Not especially effective in assisting readers locate information or quickly understand illustrations/text relationships, etc.
+[Buying a used Shopsmith (User-created guide)](files/engr/shopsmith-guide.pdf) Caution: Not especially effective in assisting readers locate information or quickly understand illustrations/text relationships, etc.
 
-[Lab report 1 (okay)](files/okay-lab-report.pdf)
+[Lab report 1](files/engr/lab-report-example1.pdf)
 
-[Lab report 2 (not so okay)](files/less-okay-lab-report.pdf)
+[Lab report 2](files/engr/lab-report-example2.pdf)
 
 ## Resources
 

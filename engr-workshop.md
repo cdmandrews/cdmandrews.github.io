@@ -10,13 +10,13 @@ _QR code for this page_
 
 ## Sample technical documents
 
-- [Lab report 1 (okay)](files/okay-lab-report.pdf)
-- [Lab report 2 (not so okay)](files/less-okay-lab-report.pdf)
-- [Geotechnical Engineering Study, Raba Kistner Consultants (used with permission, do not reproduce)](files/geotechnical-example.pdf)
+- [Lab report 1](files/engr/lab-report-example1.pdf)
+- [Lab report 2](files/engr/lab-report-example2.pdf)
+- [Geotechnical Engineering Study, Raba Kistner Consultants (used with permission, do not reproduce)]()
   - See especially:
     - Introduction (p. 1)
     - Borings and Laboratory Tests (p. 3)
-- [Buying a used Shopsmith (user-created guide)](files/shopsmith-guide.pdf)
+- [Buying a used Shopsmith (user-created guide)](files/engr/shopsmith-guide.pdf)
   - This guide is okay as it goes, but is not especially effective in assisting readers locate information or quickly understand which illustrations correspond with what text.
 
 
