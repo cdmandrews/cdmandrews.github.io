@@ -7,7 +7,7 @@
 
 Files:
 - [.pptx slideshow](files/engr/lab-report-tech-writing.pptx)
-- [.mov file](files/engr/tech-writing-workshop/mov)
+- [.mov file](https://my.syncplicity.com/share/kr0ncdgmpeznf8v/tech-writing-workshop) (Syncplicity link; requires password, email christopher dot andrews at tamucc.edu)
 - [.sbv transcript file w/time signatures](files/engr/captions.sbv)
 
 ## Annotated lab reports
