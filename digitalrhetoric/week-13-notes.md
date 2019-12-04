@@ -15,7 +15,7 @@ You should have:
 
 So let's see what you've got.
 
-Weird [pouf of concept](tagcloud/tagcloud-index.html)
+Weird [pouf of concept](tagcloud/index.html)
 
 * regularize (?) or make methodical our distant readings
 * do an appropriate lit. review or writeup with  
