@@ -4,6 +4,8 @@
     <meta charset="utf-8">
     <title>Nephological Neophytes</title>
     <link type="text/css" rel="stylesheet" href="cloud.css" >
+    <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+
   </head>
   <body>
     <a class="nodec" href="index.html"><h1>Nephological Neophytes</h1></a>
@@ -12,21 +14,17 @@
     <div class="column">
 <h2>How to read this text</h2>
 <p>This wordcloud offers readers the chance to enter the webtext wheresoever they wish, allowing the arugment, core themes, and other concerns of the webtext to emerge. There is no singular linear pathway through the webtext, though it does have definite <a href="introduction.html">openings-up</a> and <a href="conclusions.html">closings-off</a>. In a manner similar to <a href="http://kairos.technorhetoric.net/16.3/topoi/johnson-eilola/index.html">Johnson-Eilola (2011)</a>the webtext does offer ways through: assocational (but not randomized) links have been placed on each page to facilitate experiences of the webtext. Mostly, readers are encouraged to click around, get lost, and see what happens.</p>
-  <div class="bigcloud">
-    <span id="1" class="wrd tagcloud1"><a href="assignment.html">assigned</a></span>
-    <span id="3" class="wrd tagcloud6"><a href="sections-template.html">clouds</a></span>
-    <span id="6" class="wrd tagcloud2"><a href="introduction.html">create</a></span>
-    <span id="7" class="wrd tagcloud7"><a href="tagcloud-goof.html">digital</a></span>
-    <span id="11" class="wrd tagcloud2"><a href="sections-template.html">education</a></span>
-    <span id="12" class="wrd tagcloud1"><a href="conclusion.html">engage</a></span>
-    <span id="13" class="wrd tagcloud2"><a href="intentions.html">field</a></span>
-    <span id="14" class="wrd tagcloud1"><a href="tagcloud-goof.html">figure</a></span>
-    <span id="15" class="wrd tagcloud6"><a href="index.html">graduate</a></span>
-    <span id="16" class="wrd tagcloud3"><a href="new-distant-template.html">html</a></span>
-    <span id="17" class="wrd tagcloud4"><a href="new-distant-alternate.html">http</a></span>
-    <span id="18" class="wrd tagcloud0"><a href="new-distant-template.html">invention</a></span>
-    <span id="34" class="wrd tagcloud10"><a href="conclusions.html">reading</a></span>
-    <span id="38" class="wrd tagcloud7"><a href="new-distant-alternate.html">rhetoric</a></span>
+    <div class="bigcloud">
+      <!--Navigation bar-->
+        <div id="nav-placeholder">
+        </div>
+
+        <script>
+        $(function(){
+          $("#nav-placeholder").load("navigation.html");
+        });
+        </script>
+      <!--end of Navigation bar-->
   </div>
 </div>
 </div>
