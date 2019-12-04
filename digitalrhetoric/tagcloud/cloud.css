@@ -40,6 +40,9 @@ mark {
  background-color: yellow;
  font-weight: bolder;
 }
+blockquote {
+  font-style: italic;
+}
 
 /* Mobile column layout, make columns full size on smaller screens */
 .column {
