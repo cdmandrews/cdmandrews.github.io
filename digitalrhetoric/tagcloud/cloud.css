@@ -1,119 +1,147 @@
- @import url('https://fonts.googleapis.com/css?family=Nunito&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Nunito&display=swap');
 
 body{
-    font-family: 'Nunito', sans-serif;
-    margin: 0 auto;
+   font-family: 'Nunito', sans-serif;
+   margin: 0 auto;
+   width:99%;
 }
 h1, h2, h3, h4, h5, h6 {
-  padding-left: .5%;
+ padding-left: .5%;
 }
 h1{
-  background-image: url('clouds.jpeg');
-  background-repeat: no-repeat;
-  background-size: cover;
-  border: none;
-  margin-left: 0;
-  padding-left: 1em;
-  padding-top: 1em;
-  padding-bottom: 1em;
+ background-image: url('clouds.jpeg');
+ background-repeat: no-repeat;
+ background-size: cover;
+ border: none;
+ margin-left: 0;
+ padding-left: 1em;
+ padding-top: 1em;
+ padding-bottom: 1em;
+ height: 5em;
 }
-h2{
-  clear: both;
+h2.heading{
+ padding-left: 1.2em;
 }
 p{
-  line-height: 1.6em;
-  padding-left: .5%;
-  margin: 0;
+ line-height: 1.6em;
+ padding-left: .5%;
 }
 p.byline{
-  font-size: smaller;
+ font-size: smaller;
 }
 li{
-  line-height: 1.6em;
-  padding-bottom: .2em;
-  padding-left: .5%;
-  margin: 0;
-  margin-left: 5%;
+ line-height: 1.6em;
+ padding-bottom: .2em;
+ padding-left: .5%;
+ margin: 0;
+ margin-left: 5%;
 }
-/* Create unequal columns that float next to each other */
+mark {
+ background-color: yellow;
+ font-weight: bolder;
+}
+
+/* Mobile column layout, make columns full size on smaller screens */
 .column {
-  float: left;
-  padding: 1em;
+ width:inherit;
 }
-/* Left column */
-.column.side {
-  width: 20%;
+.column.main{
+ width:90%;
 }
-/* Middle column */
-.column.main {
-  width: 70%;
+.column.side{
+ width:90%;
 }
 /* Clear floats after the columns */
 .row:after {
-  content: "";
-  display: table;
-  clear: both;
+ content: "";
+ display: table;
+ clear: both;
 }
-
-section.clouds {clear:both;}
 
 /* -- For index.html -- would definitely have to have 2 sizes for media query -- */
-.indextagcloud{
-  font-size: 150%;
-  font-family: serif;
-  background-color:#000;
-  margin:1em 1em 0 1em;
-  border:2px solid #ddd;
-  padding:2em;
-  border-radius: .25em;
+.bigcloud{
+ font-size: 150%;
+ font-family: 'Nunito', sans-serif;
+ background-color:#000;
+ margin:1em 1em 0 1em;
+ border:2px solid #ddd;
+ padding:2em;
+ border-radius: .25em;
 }
+.bigcloud{line-height:2.4em;word-spacing:normal;letter-spacing:normal;text-transform:none;text-align:justify;text-indent:0}
+.bigcloud a:link{text-decoration:none}
+.bigcloud a:visited{text-decoration:none}
+.bigcloud a:hover{color:white;background-color:#05f}
+.bigcloud a:active{color:white;background-color:#03d}
 
-.indextagcloud{line-height:2.4em;word-spacing:normal;letter-spacing:normal;text-transform:none;text-align:justify;text-indent:0}
-.indextagcloud a:link{text-decoration:none}
-.indextagcloud a:visited{text-decoration:none}
-.indextagcloud a:hover{color:white;background-color:#05f}
-.indextagcloud a:active{color:white;background-color:#03d}
+/* for navigation -- if we want to do this? same colors as bigcloud */
+.navcloud{
+ font-family:'Nunito', sans-serif;
+ background-color:#000;
+ margin:1em 0 1em 1em;
+ border-top: 2px solid #ddd;
+ padding:2em;
+ overflow: hidden;
+ border-radius: .25em;
 
-.navtagcloud{
-  font-size: 40%;
-  font-family:'Nunito', sans-serif;
-  background-color:#e7ecec;
-  margin:1em 0 1em 1em;
-  border-top: 2px solid #ddd;
-  padding:2em;
-  height: 70em;
-  overflow: hidden;
-  border-radius: .25em
+ line-height:2.4em;
+ word-spacing:normal;
+ letter-spacing:normal;
+ text-transform:none;
+ text-align:justify;
+ text-indent:0
 }
+.navcloud a:link{text-decoration:none}
+.navcloud a:visited{text-decoration:none}
+.navcloud a:hover{color:white;background-color:#05f}
+.navcloud a:active{color:white;background-color:#03d}
 
-.navtagcloud{line-height:2.4em;word-spacing:normal;letter-spacing:normal;text-transform:none;text-align:justify;text-indent:0}
-.indextagcloud a:link{text-decoration:none}
-.indextagcloud a:visited{text-decoration:none}
-.indextagcloud a:hover{color:white;background-color:#05f}
-.indextagcloud a:active{color:white;background-color:#03d}
+.sidebar{
+ font-family:'Nunito', sans-serif;
+ color: white;
+ background-color:#000;
+ margin:1em 0 1em 1em;
+ border-top: 2px solid #ddd;
+ padding:2em;
+ overflow: hidden;
+ border-radius: .25em;
+
+ line-height:2.4em;
+   word-spacing:normal;
+   letter-spacing:normal;
+   text-transform:none;
+   text-align:justify;
+   text-indent:0
+}
 
 /* -- Gallery clouds -- */
-div.htmltagcloud{display: inline-block; float:left;}
-.htmltagcloud{
-  font-size: 40%;
-  width: 17%;		/* auto or fixed width, e.g. 500px   */
-  font-family:'Nunito', sans-serif;
-  background-color:#e7ecec;
-  margin:1em 0 1em 1em;
-  border-top: 2px solid #ddd;
-  padding:2em;
-  height: 40em;
-  overflow: hidden;
-  border-radius: .25em
-}
 .tagcaption{font-size: 250%; padding: 0; margin: 0 0 .5em 0; border: none;}
 
-.htmltagcloud{line-height:2.4em;word-spacing:normal;letter-spacing:normal;text-transform:none;text-align:justify;text-indent:0}
-.htmltagcloud a:link{text-decoration:none}
-.htmltagcloud a:visited{text-decoration:none}
-.htmltagcloud a:hover{color:white;background-color:#05f}
-.htmltagcloud a:active{color:white;background-color:#03d}
+.gallerycloud{
+ font-size: 50%;
+ font-family:'Nunito', sans-serif;
+ background-color:#e7ecec;
+ margin:1em 0 1em 1em;
+ border-top: 2px solid #ddd;
+ padding:2em;
+ border-radius: .25em;
+ width: 90%;
+ overflow: hidden;
+
+ line-height:2.4em;
+ word-spacing:normal;
+ letter-spacing:normal;
+ text-transform:none;
+ text-align:justify;
+ text-indent:0
+}
+
+.gallerycloud a:link{text-decoration:none}
+.gallerycloud a:visited{text-decoration:none}
+.gallerycloud a:hover{color:white;background-color:#05f}
+.gallerycloud a:active{color:white;background-color:#03d}
 .wrd{padding:0;position:relative}.wrd a{text-decoration:none}
+
 .tagcloud0{font-size:1.0em;color:red;z-index:10}
 .tagcloud0 a{color:red;}
 .tagcloud1{font-size:1.4em;color:green;z-index:9}
@@ -136,11 +164,31 @@ div.htmltagcloud{display: inline-block; float:left;}
 .tagcloud9 a{color:#133B97}
 .tagcloud10{font-size:4.5em;color:yellow;z-index:0}
 .tagcloud10 a{color:yellow}
-.freq{font-size:10pt !important;color:#bbb}
 
-@media screen and (max-width: 600px) {
-  body {width:90%;}
-  .column.side, .column.main {
-    width: 100%;
-  }
+
+@media screen and (min-width: 768px) {
+ /* Column layout and gallery resizes for medium-size and up*/
+ .column {
+   float: left;
+   padding: 1em;
+ }
+ /* Left column */
+ .column.side {
+   width: 30%;
+ }
+ /* Middle column */
+ .column.main {
+   width: 60%;
+ }
+ /* following only if we do horizontal layout option */
+div.gallerycloud{display: table-cell; float: left;}
+ .gallerycloud{
+   width: 15%;
+   height: 50em;
+ }
+ /*allows vertical layout and horizontal layout to play nicely in demo */
+.column.side .gallerycloud{
+ width: 100%;
+ height: auto;
+}
 }
