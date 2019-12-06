@@ -175,11 +175,11 @@ blockquote {
    float: left;
    padding: 1em;
  }
- /* Left column */
+ /* Right column */
  .column.side {
    width: 30%;
  }
- /* Middle column */
+ /* Main column */
  .column.main {
    width: 60%;
  }
