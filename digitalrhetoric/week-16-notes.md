@@ -18,6 +18,7 @@ You should have:
   - **Other tasks if assigned**
 
 Tasks (unless I've left something out):
+* **Oh yeah. Where do we put the author bylines or bios or "author" page?**
 * Migrate reflection/discussion/word clouds into HTML templates
 * Design
   - Check out vertical/horizontal layouts and other issues on the example.
