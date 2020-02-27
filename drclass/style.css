@@ -1,0 +1,296 @@
+@import url('https://fonts.googleapis.com/css?family=Nunito&display=swap');
+
+/* Eric Meyer CSS Reset Minified */
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{border:0;font-size:100%;font:inherit;vertical-align:baseline;margin:0;padding:0}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}body{line-height:1}blockquote,q{quotes:none}blockquote:before,blockquote:after,q:before,q:after{content:none}table{border-collapse:collapse;border-spacing:0;}
+
+html{
+  font-size: 1.125em;
+  line-height: 1.222em;
+  text-rendering: optimizeLegibility;
+  -webkit-text-size-adjust: 100%;
+  -moz-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+  background-color: var(--color-white);
+  font-family: 'Nunito', sans-serif;
+}
+/* color variables */
+:root {
+  --color-black: #191A61;  /* -- this will go deep purple */
+  --color-white: #eeeae3;
+  --color-gray: #908d8e;  /* need to change it */
+  --color-emphasis: #EE6666;  /* -- this will go pinky --*/
+  --color-link: #bdb7ac;
+}
+
+/* Typography past base */
+h1{
+  font-size: 1.777em;
+  line-height: 1.376em;
+  padding-bottom: 0.688em;
+  padding-left: 0.317em;
+}
+h2{
+  font-size: 1.333em;
+  line-height: 1.375em;
+  padding-bottom: 0.317em;
+}
+
+h1, h2, h3, h4, h5{
+  color: var(--color-emphasis);
+}
+
+p, ul, ol{
+  padding-bottom: 0.622em;
+}
+ul, ol{
+  margin-left: 1.222em;
+}
+.container > li{
+  padding-bottom: 0.311em;
+}
+.container > li:last-child{
+  padding-bottom: 0;
+}
+cite, blockquote, em{
+  font-style: italic;
+}
+
+strong{
+  font-weight: bold;
+  color: red;
+}
+
+blockquote{
+  margin-left: 1.222em;
+  padding-bottom: 0.622em;
+}
+
+/* Navigation styles are mobile-first */
+#navigation ul, #profile ul{
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+#navigation {
+  background-color: var(--color-black);
+  line-height: .3;
+}
+#navigation a{
+  display: block;
+  background-color: var(--color-black);
+  color: var(--color-link);
+  border-top: .1em solid var(--color-white);
+  text-align: center;
+  padding: 0.722em;
+}
+#navigation a:hover{
+  background-color: var(--color-gray);
+  color: var(--color-emphasis);
+}
+#profile{
+  background-color: var(--color-black);
+  color: var(--color-white);
+  text-align: center;
+  height: 2em;
+  border-top: .1em solid var(--color-white);
+}
+#profile li {
+  display: inline-block;
+}
+#profile img{
+  display: inline-block;
+  float: left;
+  height: 2em;
+  width: 2em;
+}
+#profile p{
+  display: none;
+}
+#profile a{
+  display: inline-block;
+  background-color: var(--color-black);
+  color: var(--color-link);
+  margin: .1em;
+  padding: 0.333em 0;
+}
+#profile a:hover{
+  background-color: var(--color-gray);
+  color: var(--color-emphasis);
+}
+/* Layout styles (mobile first) */
+
+#header{
+  background-color: var(--color-black);
+  color: var(--color-emphasis);
+}
+.container{
+  padding-left: 0.317em;
+  background-color: var(--color-white);
+  overflow: auto;
+}
+.column{
+  background-color: var(--color-white);
+}
+.main{
+}
+.side{
+}
+.class{
+}
+.row:after:{
+  content: "";
+  display: table;
+  clear:both;
+}
+
+div.classgrid{
+  display: table-cell;
+  float: left;
+  padding: .6em;
+  margin: .1em;
+  text-align: center;
+  border: 1px solid var(--color-gray);
+  border-radius: 2.5%;
+}
+
+div.classgrid img{
+  width: 4em;
+  height: 4em;
+}
+
+div.classgrid:hover{
+  background-color: var(--color-gray);
+}
+
+#classroom{
+}
+/* -- Gallery clouds, based on source at Tagcrowd.com -- */
+.tagcaption{
+  font-size: 250%;
+  padding: 0;
+  margin: 0 0 .5em 0;
+  border: none;
+  color: var(--color-black);
+}
+
+.gallerycloud{
+ font-size: 50%;
+ background-color: #C5f5cb;
+ border: .1em solid var(--color-black);
+ margin:.1em;
+ margin-bottom: 0.622em;
+ padding:.6em;
+ border-radius: .25em;
+ line-height:2.4em;
+ word-spacing:normal;
+ letter-spacing:normal;
+ text-transform:none;
+ text-align:justify;
+ text-indent:0
+}
+
+.gallerycloud a:link{text-decoration:none}
+.gallerycloud a:visited{text-decoration:none}
+.gallerycloud a:hover{color:white;background-color:#05f}
+.gallerycloud a:active{color:white;background-color:#03d}
+.wrd{padding:0;position:relative}.wrd a{text-decoration:none}
+.tagcloud0{font-size:1.0em;color:var(--color-black);z-index:10}
+.tagcloud0 a{color:var(--color-black)}
+.tagcloud1{font-size:1.4em;color:var(--color-black);z-index:9}
+.tagcloud1 a{color:var(--color-black)}
+.tagcloud2{font-size:1.8em;color:var(--color-black);z-index:8}
+.tagcloud2 a{color:var(--color-black)}
+.tagcloud3{font-size:2.2em;color:var(--color-black);z-index:7}
+.tagcloud3 a{color:var(--color-black)}
+.tagcloud4{font-size:2.6em;color:var(--color-black);z-index:6}
+.tagcloud4 a{color:var(--color-black)}
+.tagcloud5{font-size:3.0em;color:var(--color-black);z-index:5}
+.tagcloud5 a{color:var(--color-black)}
+.tagcloud6{font-size:3.3em;color:var(--color-black);z-index:4}
+.tagcloud6 a{color:var(--color-black)}
+.tagcloud7{font-size:3.6em;color:var(--color-black);z-index:3}
+.tagcloud7 a{color:var(--color-black)}
+.tagcloud8{font-size:3.9em;color:var(--color-black);z-index:2}
+.tagcloud8 a{color:var(--color-black)}
+.tagcloud9{font-size:4.2em;color:var(--color-black);z-index:1}
+.tagcloud9 a{color:var(--color-black)}
+.tagcloud10{font-size:4.5em;color:var(--color-black);z-index:0}
+.tagcloud10 a{color:var(--color-black)}
+
+.gallerycloud.index{
+  margin-top: 4.333em;
+  font-size: 70%;
+}
+
+@media screen and (min-width: 898px){
+
+  h1{font-size: 2.369em;}
+  h2{font-size: 1.777em;}
+  h3{font-size: 1.333em;}
+
+  div.classgrid img{
+    width: 9em;
+    height: 9em;
+  }
+
+  #header, #navigation{
+    max-width: 1344px; /* why this width? */
+  }
+  #navigation {
+    padding-bottom: 0.777em;
+  }
+  #navigation li{
+    display: inline-block;
+    border-left: .1em solid var(--color-white);
+    border-right: .1em solid var(--color-white);
+    border-top: none;
+    border-bottom: none;
+    border-radius: 2.5%;
+  }
+
+  #navigation a{
+    border-top: none;
+  }
+
+  #navigation li:first-child{border-left: none;}
+  #navigation li:last-child{border-right: none;}
+
+  #profile{
+    padding-bottom: 99999px; margin-bottom: -99999px;
+    padding-top: 2.369em;
+    width: 200px;
+    float: left;
+    border-top: none;
+  }
+  #profile img{
+    display: block;
+    height: 200px;
+    width: 200px;
+  }
+  #profile li, #profile a, #profile p{
+    display: block; clear: both;
+  }
+  /* Column layout and gallery resizes for medium-size and up  */
+  html{
+    padding: 0 1.618em 1.618em 1.618em;
+  }
+  .container{
+    padding-left: 0;
+    overflow: hidden;
+    /* add border images from sydney/emille's wireframe here? */
+  }
+  .column{
+    float: left;
+    padding: .6em;
+  }
+  .column.side{
+    width: 23em;
+  }
+  .column.main{
+    width: 36em;
+  }
+  .column.class{
+    width: 36em;
+  }
+}
