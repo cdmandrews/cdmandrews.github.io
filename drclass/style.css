@@ -46,10 +46,10 @@ p, ul, ol{
 ul, ol{
   margin-left: 1.222em;
 }
-.container > li{
+.main li{
   padding-bottom: 0.311em;
 }
-.container > li:last-child{
+.main li:last-child{
   padding-bottom: 0;
 }
 cite, blockquote, em{
