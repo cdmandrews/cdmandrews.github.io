@@ -60,7 +60,9 @@ strong{
   font-weight: bold;
   color: var(--color-emphasis);
 }
-
+highlight{
+  background-color: yellow;
+}
 blockquote{
   margin-left: 1.222em;
   padding-bottom: 0.622em;
@@ -102,7 +104,7 @@ figcaption {
   background-color: var(--color-black);
   color: var(--color-white);
   text-align: center;
-  height: 2em;
+  min-height: 2em;
   border-top: .1em solid var(--color-white);
 }
 #profile li {
@@ -244,6 +246,12 @@ div.classgrid:hover{
     height: 9em;
   }
 
+  .row{
+    display: grid;
+    grid-auto-flow: column;
+  }
+
+
   #header, #navigation{
     max-width: 1344px; /* why this width? */
   }
@@ -267,7 +275,6 @@ div.classgrid:hover{
   #navigation li:last-child{border-right: none;}
 
   #profile{
-    padding-bottom: 99999px; margin-bottom: -99999px;
     padding-top: 2.369em;
     width: 200px;
     float: left;
@@ -287,12 +294,11 @@ div.classgrid:hover{
   }
   .container{
     padding-left: 0;
-    overflow: hidden;
-    /* add border images from sydney/emille's wireframe here? */
   }
   .column{
     float: left;
     padding: .6em;
+    display: table-cell;
   }
   .column.side{
     width: 23em;
