@@ -43,6 +43,7 @@ h1, h2, h3, h4, h5{
 p, ul, ol{
   padding-bottom: 0.622em;
 }
+
 ul, ol{
   margin-left: 1.222em;
 }
@@ -240,6 +241,10 @@ div.classgrid:hover{
   h1{font-size: 2.369em;}
   h2{font-size: 1.777em;}
   h3{font-size: 1.333em;}
+
+  .column.main {
+    line-height: 1.3em;
+  }
 
   div.classgrid img{
     width: 9em;
