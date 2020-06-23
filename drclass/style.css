@@ -179,8 +179,6 @@ div.classgrid:hover{
   background-color: var(--color-gray);
 }
 
-#classroom{
-}
 /* -- Gallery clouds, based on source at Tagcrowd.com -- */
 .tagcaption{
   font-size: 250%;
@@ -261,7 +259,6 @@ div.classgrid:hover{
 
 
   #header, #navigation{
-    max-width: 1344px; /* why this width? */
   }
   #navigation {
     padding-bottom: 0.777em;
@@ -309,12 +306,13 @@ div.classgrid:hover{
     display: table-cell;
   }
   .column.side{
-    width: 23em;
+    min-width: 23em;
+
   }
   .column.main{
-    width: 36em;
+    min-width: 36em;
   }
   .column.class{
-    width: 36em;
+    min-width: 36em;
   }
 }
