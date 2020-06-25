@@ -1,0 +1,30 @@
+/* custom color and font stylesheet to layer over Bootstrap; */
+
+/* NEED TO CORRECT AND ADJUST */
+:root {
+  --color-important: #04a678;
+  --color-link: #db0a5b;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  color: var(--color-important);
+  font-weight: bold;
+  font-family: 'Roboto Slab', serif;
+}
+strong {color: var(--color-important);}
+
+#content{
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  -ms-hyphens: auto;
+  -moz-hyphens: auto;
+  -webkit-hyphens: auto;
+  hyphens: auto;
+}
+.htmlogo{
+  float: right;
+  height: 1em;
+}
