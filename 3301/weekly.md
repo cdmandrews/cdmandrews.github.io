@@ -1,3 +1,10 @@
+[syllabus](syllabus.md)
+[schedule](schedule.md)
+[journals](journals.md)
+[discussions](discussions.md)
+[project 1](project-1.md)
+[project 2](project-2.md)
+
 #Weekly schedule/overviews for 3301 (Spring 2020, with COVID-19 mods)
 
 # Week 01

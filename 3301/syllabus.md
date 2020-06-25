@@ -1,0 +1,6 @@
+[syllabus](syllabus.md)
+[schedule](schedule.md)
+[journals](journals.md)
+[discussions](discussions.md)
+[project 1](project-1.md)
+[project 2](project-2.md)
