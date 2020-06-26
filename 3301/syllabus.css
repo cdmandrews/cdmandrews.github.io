@@ -1,9 +1,11 @@
 /* custom color and font stylesheet to layer over Bootstrap; */
 
-/* NEED TO CORRECT AND ADJUST */
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap");
+
+
 :root {
   --color-important: #04a678;
-  --color-link: #db0a5b;
+  --color-highlight: #bad0e6;
 }
 
 h1,
@@ -24,7 +26,18 @@ strong {color: var(--color-important);}
   -webkit-hyphens: auto;
   hyphens: auto;
 }
-.htmlogo{
-  float: right;
-  height: 1em;
+
+.current{
+  background-color: var(--color-important);
 }
+
+p:hover, li:hover, tr:hover{
+  background-color: var(--color-highlight);
+}
+
+/* small screens */
+@media (max-width: 768px) {
+  /* override the Affix plugin so that the navigation isn't sticky */
+  nav.affix[data-toggle='toc'] {
+    display: none;
+  }

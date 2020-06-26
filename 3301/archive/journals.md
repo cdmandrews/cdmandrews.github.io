@@ -1,4 +1,3 @@
-[syllabus](syllabus.md)
 [schedule](schedule.md)
 [journals](journals.md)
 [discussions](discussions.md)

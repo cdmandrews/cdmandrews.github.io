@@ -1,4 +1,3 @@
-[syllabus](syllabus.md)
 [schedule](schedule.md)
 [journals](journals.md)
 [discussions](discussions.md)
@@ -6,6 +5,33 @@
 [project 2](project-2.md)
 
 #Weekly schedule/overviews for 3301 (Spring 2020, with COVID-19 mods)
+
+## Structure of the course
+
+This course is structured into three units. You will complete two major projects and a series of exercise and discussion assignments each week to help you consider workplace writing issues relevant to your field or discipline.
+
+### Unit 1: What is Technical Communication?
+- Weeks 1-5
+- Introduction to rhetoric, technical communication, purpose, audience, genres, and the basics of good technical and professional writing
+- Chapter Quizzes & Exercises based on The Essentials of Technical Communication
+
+### Unit 2: How do People Write in my Field?
+- Weeks 6-9
+- Survey and learn about writing styles, genres, and document designs in your field, discipline, or major.
+- Project 1: Reference Sheet: Analysis of Writing in your Field
+
+### Unit 3: What is TC in My Field?
+- Weeks 10-16
+- Explore formal reporting genres, do primary research about genres in your field, and apply core technical and professional communication concepts to writing in your field,
+- Project 2: Research Report: Writing in your Field
+
+## Overview of Major Projects
+Your major projects are focused on professional writing: they are designed to introduce the kinds of writing typical in your discipline or intended profession. You will research common genres that people write in your field, analyze samples, and and write about the rhetorical situations and genre features that distinguish them from other kinds of writing (in particular, that distinguish them from academic prose, or “school writing.” You will also practice the features, genres, and styles common to technical and professional writing situations.
+
+Some of you are already working in or have experience in your fields, and this will serve as an opportunity for you to systematize and reflect on what you’ve already been introduced to and to hone key writing and research skills. For others, this will serve as an introduction or awakening to the realities of writing at work and how it may resemble or differ from writing at school.
+
+See the folders below for assignment descriptions, instructions, and other related material
+
 
 # Week 01
 
