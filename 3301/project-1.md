@@ -1,4 +1,4 @@
-ENGL 3301: Technical &amp; Professional Writing
+[ENGL 3301, Fall 2020](../calendar.html)
 
 # Project 1: High-level Overview of Writing in Your Field
 
