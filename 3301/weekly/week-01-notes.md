@@ -12,7 +12,7 @@ Each week, I'll provide you an overview (just like this document). The informati
 
 If you find something in error, or are confused about any part of the instructions, please email me at [christopher.andrews@tamucc.edu](mailto:christopher.andrews@tamucc.edu). If your question is one that the entire class will benefit from hearing, I will likely repost it in course announcements or the Troubleshooting forum!
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRHBRH08gulIFo-REid2pU5IuI2cVcrvPBySYbx6nWu6M3sundDfy7ElQPtPh2pG15ie-WZkI2JJwGB/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRHBRH08gulIFo-REid2pU5IuI2cVcrvPBySYbx6nWu6M3sundDfy7ElQPtPh2pG15ie-WZkI2JJwGB/embed?start=false&loop=false&delayms=3000" frameborder="0" width="640" height="389"  allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 We have a lot to do for this first week:
 
