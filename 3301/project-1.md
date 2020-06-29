@@ -51,7 +51,7 @@ You must meet the following design constraints. Your design should help readers 
 
 - **Use design elements and graphics** (such as headings, color, layout) to highlight key information, reinforce relationships in your content, and make your fact sheet easy to read and visually appealing.
 - **Use text structures** (such as titles, subtitles, footnotes, and other elements) to clarify the audience, purpose, and scope of your text as well as present its content.
-- **Format** your fact sheet so that it fits on a single page in Word.
+- **Format** your fact sheet so that it fits on no more than 2 pages in Word.
 - **Proofread** your document; your work should be free from all surface errors.
 - *Do not turn in a docuent with double-spaced, 12pt Times New Roman manuscript formatting, a school-type heading, etc.*
 
@@ -86,6 +86,23 @@ For your visualization, you could create an informative table, an infographic, a
 We will have a series of peer review sessions using your group forums and journals where you will get feedback from myself and your classmates that you can apply as you work.
 
 We will look at some examples of fact sheets, but you should strive to make your document **your own**. Rather than make something that is mostly a copy of one of the examples, be creative as you apply concepts we've discussed related to helpful designs, usable illustrations, and readable prose.
+
+#### Find examples of fact sheets
+
+ - [American Association of Colleges of Nursing (AACN) fact sheets](https://www.aacnnursing.org/News-Information/Fact-Sheets)
+ - [American Occupational Therapy Association (AOTA) fact sheets](https://www.aota.org/About-Occupational-Therapy/Professionals/Master-List.aspx)
+ - [Occupational Safety and Health Admiinistration (OSHA) fact sheets](https://www.osha.gov/pls/publications/publication.AthruZ?pType=Types&pID=2)
+ - [International Dyslexia Association fact sheets](https://dyslexiaida.org/fact-sheets/)
+ - [Department of Homeland Security (DHS) fact sheets](https://www.dhs.gov/news-releases/fact-sheets)
+ - [NAACP Criminal Justice fact sheet](https://www.naacp.org/criminal-justice-fact-sheet/)
+ - [Sentencing Project fact sheets](https://www.sentencingproject.org/criminal-justice-facts/)
+ - [Health.gov Move Your Way campaign fact sheets](https://health.gov/our-work/physical-activity/move-your-way-campaign#factsheets) - great examples for varying audiences!
+ - [CDC Hand washing fact sheets](https://www.cdc.gov/handwashing/fact-sheets.html)
+ - [US Department of Health and Human Services, Office on Women's Health fact sheets](https://www.womenshealth.gov/patient-materials/resource/fact-sheets)
+ - [WHO index to fact sheets](https://www.who.int/news-room/fact-sheets)
+ - [WHO violence and disasters fact sheet](https://www.who.int/violence_injury_prevention/publications/violence/violence_disasters.pdf?ua=1)
+  - [CDC Coronavirus fact sheet](https://www.cdc.gov/coronavirus/2019-ncov/downloads/2019-ncov-factsheet.pdf)
+ - [Census.gov fact sheets](https://www.census.gov/library/fact-sheets.html)
 
 Writers of all abilities and experience levels can benefit from appointments with a Writing Consultant in the [CASA Writing Center](http://casa.tamucc.edu/wc.php). Formatting, spelling, and grammatical errors can make your chart difficult to read and understand or can undermine your content.
 
