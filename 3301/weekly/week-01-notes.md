@@ -27,7 +27,7 @@ We have a lot to do for this first week:
 
 2. Review the [course orientation slideshow](https://docs.google.com/presentation/d/e/2PACX-1vRHBRH08gulIFo-REid2pU5IuI2cVcrvPBySYbx6nWu6M3sundDfy7ElQPtPh2pG15ie-WZkI2JJwGB/pub?start=false&loop=false&delayms=3000)
 
-2. Also, overview our Blackboard course shell. Can you locate:
+2. Explore our Blackboard course shell. Can you locate:
   - Your group area?
   - Weekly assignments?
   - Major project descriptions?
