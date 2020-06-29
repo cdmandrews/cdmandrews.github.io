@@ -87,7 +87,7 @@ We will have a series of peer review sessions using your group forums and journa
 
 We will look at some examples of fact sheets, but you should strive to make your document **your own**. Rather than make something that is mostly a copy of one of the examples, be creative as you apply concepts we've discussed related to helpful designs, usable illustrations, and readable prose.
 
-#### Find examples of fact sheets
+#### Fact sheets and infographics from around the web
 
  - [American Association of Colleges of Nursing (AACN) fact sheets](https://www.aacnnursing.org/News-Information/Fact-Sheets)
  - [American Occupational Therapy Association (AOTA) fact sheets](https://www.aota.org/About-Occupational-Therapy/Professionals/Master-List.aspx)
@@ -101,9 +101,13 @@ We will look at some examples of fact sheets, but you should strive to make your
  - [US Department of Health and Human Services, Office on Women's Health fact sheets](https://www.womenshealth.gov/patient-materials/resource/fact-sheets)
  - [WHO index to fact sheets](https://www.who.int/news-room/fact-sheets)
  - [WHO violence and disasters fact sheet](https://www.who.int/violence_injury_prevention/publications/violence/violence_disasters.pdf?ua=1)
-  - [CDC Coronavirus fact sheet](https://www.cdc.gov/coronavirus/2019-ncov/downloads/2019-ncov-factsheet.pdf)
+ - [CDC Coronavirus fact sheet](https://www.cdc.gov/coronavirus/2019-ncov/downloads/2019-ncov-factsheet.pdf)
  - [Census.gov fact sheets](https://www.census.gov/library/fact-sheets.html)
 
-Writers of all abilities and experience levels can benefit from appointments with a Writing Consultant in the [CASA Writing Center](http://casa.tamucc.edu/wc.php). Formatting, spelling, and grammatical errors can make your chart difficult to read and understand or can undermine your content.
+<div style="background-color: #bad0e6; padding: 1em;">
+
+**Writers of all abilities and experience levels can benefit from appointments with a Writing Consultant in the [CASA Writing Center](http://casa.tamucc.edu/wc.php). Formatting, spelling, and grammatical errors can make your documents difficult to read and understand or can undermine your content.**
+
+</div>
 
 [1](#sdfootnote1anc) Adapted from a similar assignment by Traci Gardner and licensed under a Creative Commons license.
