@@ -7,6 +7,14 @@
   --color-important: #04a678;
   --color-highlight: #bad0e6;
 }
+body{
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  -ms-hyphens: auto;
+  -moz-hyphens: auto;
+  -webkit-hyphens: auto;
+  hyphens: auto;
+}
 
 h1,
 h2,
@@ -18,14 +26,6 @@ h4 {
 }
 strong {color: var(--color-important);}
 
-#content{
-  overflow-wrap: break-word;
-  word-wrap: break-word;
-  -ms-hyphens: auto;
-  -moz-hyphens: auto;
-  -webkit-hyphens: auto;
-  hyphens: auto;
-}
 
 .current{
   background-color: var(--color-important);
