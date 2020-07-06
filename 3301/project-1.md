@@ -4,7 +4,7 @@
 
 **Background**
 
-The major projects in this course are designed to introduce you to the kinds of writing typical in your discipline or intended profession. Here's the problem--though I'm an expert in technical communication, I am not an expert in every. single. field. out there. That's where YOU come in--to apply your own growing disciplinary content knowledge and build on that knowledge to make observations and draw conclusions about professional communication in your field.
+The major projects in this course are designed to introduce you to the kinds of writing typical in your discipline or intended profession. Here's the problem&mdash;though I'm an expert in technical communication, I am not an expert in every. single. field. out there. That's where YOU come in&mdash;to apply your own growing disciplinary content knowledge and build on that knowledge to make observations and draw conclusions about professional communication in your field.
 
 Some of you are already working in or have experience in your fields, and this series of projects will serve as an opportunity for you to go deeper on what you've already been introduced to and to hone key writing and research skills. For others, these two projects will serve as an introduction or awakening to the realities of future writing at work and how it may resemble or differ from writing at school.
 
