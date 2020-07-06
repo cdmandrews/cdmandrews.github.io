@@ -36,11 +36,11 @@ We have a lot to do for this first week:
 
 2. Upload a profile picture to Blackboard. If you need instructions, visit [Creating your Blackboard Profile](https://en-us.help.blackboard.com/Learn/9.1_Older_Versions/9.1_2014_and_2015/Student/030_Nav_My_Blackboard/Profiles).
 
-3. Post to your group's introductory discussion forum  **before midnight on Tuesday**. Write an introductory post in which you cover each of the following topics:
+3. Post to your group's introductory discussion forum  **before midnight on Thursday**. Write an introductory post in which you cover each of the following topics:
   - Introduce yourself, your background, and your #goals. What should we know about you and your identity?
   - Describe professional or job-related writing experience you have. Did you have to use a company email account for that internship? Did you write reports for twenty years before coming back to college? Did you ever take meeting minutes for a club you're in? Did you help manage an Instagram account for a nonprofit? Do you have a work email account? Have you ever had to write a personal statement to get a promotion?
   - Choose a fictional character that represents who you are. At the end of your introduction, [post a gif of the character ](https://youtu.be/jp9HA6en5BA)and explain why you chose this character.
-  - Respond to your group members' introductory statements. Say hello. Get to know each other. These are your fellow learners for the next 15 weeks.
+  - **Respond** to your group members' introductory statements. Say hello. Get to know each other. These are your fellow learners for the next 15 weeks.
 
 
 ## Looking ahead
