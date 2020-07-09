@@ -1,4 +1,4 @@
-[ENGL 3301, Fall 2020](calendar.html)
+[ENGL 3301, Fall 2020](index.html)
 
 # Project 1: High-level Overview of Writing in Your Field
 
@@ -17,8 +17,8 @@ You will eventually take the information from this project into the second major
 Along with our basic course SLOs (1, 2, 3) our specific goals with this assignment are:
 
 - Practice balancing clarity and concision as you try to describe genres both completely and succinctly for an audience using text and visuals.
-- Practice information and document design as you try to organize your findings in a way that suggests meaningful connections for an audience.
-- Research to learn the variety of written genres and rhetorical situations you might encounter in the workplace.
+- Practice information and document design as you organize your findings in a way that suggests meaningful connections for an audience.
+- Learn the characteristics of writing you will typically do in the workplace.
 - Identify ethical issues relevant to writing in your field.
 
 ## Requirements
@@ -110,4 +110,4 @@ We will look at some examples of fact sheets, but you should strive to make your
 
 </div>
 
-[1](#sdfootnote1anc) Adapted from a similar assignment by Traci Gardner and licensed under a Creative Commons license.
+[1] This project started life adapted from [a similar assignment by Traci Gardner](http://3764s16.tracigardner.com/assignments/project-2-analysis-of-writing-in-your-field-2/) and licensed under a Creative Commons license.
