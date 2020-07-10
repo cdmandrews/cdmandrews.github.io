@@ -6,6 +6,19 @@
 
 ### Ethics and justice and tech. comm.
 
+This week you need to read:
+-  [OTC Chapter 3, Ethics in Technical Communication](https://alg.manifoldapp.org/read/open-technical-communication/section/8b530f4b-5942-4071-845a-0a138601da10). The video in this chapter is definitely worth. your. time. Yes, it's a little longish, and yes it's just slightly dated in one or two areas, but on the whole it's solid. (In 2020, singular "they" is increasingly accepted as an appropriate nongendered usage. Also, the "use African-American/European-American vs use Black/White" topic has moved a bit since this video.)
+  - Important topics in that chapter:
+    - ethics: utility, rights, justice, and care
+    - consequences of faulty communication
+    - appropriate language (or imprecise/biased language)
+    - copyright and intellectual property
+    - analyzing and presenting data
+
+- Also review [this short resource on ethical presentation of research and data](https://openoregon.pressbooks.pub/technicalwriting/chapter/9-3-typical-ethics-issues-in-technical-writing/), which includes the following topics:
+  - selecting, cherry-picking, and suppressing information
+  - presenting visual data ethically
+
 At the center of technical communication is the idea that technologies and the communication that surrounds them should support human dignity and human rights. Rather than simply concerned with being efficient or easy (yes, those are important), we should be sensitive to the fact that tech comm is **for people** and should be **effective**. It affects people: it can help them or it can hurt them, it can confuse or it can clarify. It can enhance difference or erase it. It can advocate for change, or it can reinforce harmful perspectives and epistemologies.
 
 I'm just gonna put out there right now that I think good tech writing can't be neutral--that it must put people at the center, that it must value human life and dignity, that it can and should encompass cultural difference, that no duh if we're going to be all about audiences than we should take into account native languages and experiences of readers. The fundamental truth of how I've taught TC for years is "you are not your user." That is, the people who are reading/using/affected by your communication are **different** than you, and in all kinds of ways. There is no monoculture; there is no single way of being and doing in the world. That difference is a good thing. And it's also a communication problem for you to resolve--but you never ever do that by making things harder for your audience.
@@ -26,16 +39,6 @@ This week's material will also help you begin to look for the different ways fau
 
 
 ## For Tuesday
-1. Read [OTC Chapter 3, Ethics in Technical Communication](https://alg.manifoldapp.org/read/open-technical-communication/section/8b530f4b-5942-4071-845a-0a138601da10). The video in this chapter is definitely worth. your. time. Yes, it's a little longish, and yes it's just slightly dated in one or two areas, but on the whole it's solid. (In 2020, singular "they" is increasingly accepted as an appropriate nongendered usage. Also, the "use African-American/European-American vs use Black/White" topic has moved a bit since this video.)
-  - Important topics in that chapter:
-    - ethics: utility, rights, justice, and care
-    - consequences of faulty communication
-    - appropriate language (or imprecise/biased language)
-    - copyright and intellectual property
-    - analyzing and presenting data
-2. Also review [this short resource on ethical presentation of research and data](https://openoregon.pressbooks.pub/technicalwriting/chapter/9-3-typical-ethics-issues-in-technical-writing/), which includes the following topics:
-  - selecting, cherry-picking, and suppressing information
-  - presenting visual data ethically
 
 3. While you're letting all that percolate in your brain, write a discussion post in your group's "Communication Heroes" forum:
   - Identify a communication hero and tell the story of someone who supports ethics and social justice through communicative acts. This could be someone famous, or someone under the radar.
