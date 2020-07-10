@@ -33,7 +33,7 @@ If you can parse that statement, you'll find a pretty significant policy explana
 
 **Audience, justice, ethics.** This week we're opening up our concern with specific audiences and purposes to include justice and ethics, which introduces a number of concerns. It's easy to get into ethics and TPW as a list of do's and don'ts, and I don't only want to do that. What I really like about the chapter you'll read from this week is that it starts by reminding us that ethics is situational and rife with dilemmas: the competing obligations we have to our society, our employer, our profession, our colleagues, our families, and ourselves.
 
-"Utility, rights, justice, and care" are complex, and though we won't use them right away, I do encourage you to look at some of the "Sample ethical dilemmas" they link to in that chapter as examples of communication situations that might have multiple right answers, or where an answer that's right by one metric is totally wrong by another.
+"Utility, rights, justice, and care" are complex. I do encourage you to look at some of the "Sample ethical dilemmas" in the Open TC chapter, as they are good examples of communication situations that might have multiple right answers, or where an answer that's right by one metric is totally wrong by another.
 
 This week's material will also help you begin to look for the different ways faulty, unethical, and unjust communication happens--wether intentionally or unintentionally. For example, think about why [clear communication that emphasizes the main message isn't just just "good health communication" but also "ethical health communication"](https://medium.com/wehearthealthliteracy/reimagining-the-coronavirus-postcard-a42bc87d698f).
 
