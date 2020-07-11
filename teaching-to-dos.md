@@ -77,6 +77,8 @@ Need to ball up and have students do a professional writing interview project--s
 
 Work from "most important genres for tc workers" article (BLythe, Lauer, & Curran, TCQ); consider having students combine/compile results of interview data into vizzes? (oooh, cool).
 
+also--the questions in the back of the police literacies dissertation are interesante for sure.
+
 ## Presentations and modalities for the final project
 
 Make final project a powerpoint or (other software) presentation, then a write-up of that presentation?
