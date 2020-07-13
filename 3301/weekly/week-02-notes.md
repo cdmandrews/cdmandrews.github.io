@@ -57,8 +57,8 @@ and how they segment their audience into some specific roles.
 
 
 ## For Tuesday
-1. Locate three examples of what you consider technical and professional writing. These may include correspondence, journal articles, lab reports, manuals, web pages, or advertisements.
-2. In your group's "Intro to Tech Writing" forum, share your examples and discuss with your group members how your documents reflect the conventions and characteristics of technical writing you read about in this week's readings. Be sure to identify the specific audience(s) and purpose(s) for your example.
+1. Locate three examples of what you consider technical and professional writing. These may include correspondence, journal articles, lab reports, manuals, web pages, advertisements, or something else.
+2. In your group's "Intro to Tech Writing" forum, share your examples and discuss with your group members how your documents reflect specific conventions and characteristics of technical writing you read about in this week's readings. (Also worth considering: the difference between TPW and journalistic writing.) Quote relevant passages from our reading assignments in your post. Identify the specific audience(s) and purpose(s) for your examples. 
 
 ## For Thursday
 
