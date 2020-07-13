@@ -14,6 +14,8 @@ For this week you should read the following:
   - [TWE Chapter 1.4: The Cost of Poor Communication](https://pressbooks.bccampus.ca/technicalwriting/chapter/casestudy-costpoorcommunication/)
 
 Also read:
+  - [The Problem With Telling Women to Email Like Men](https://www.vice.com/en_us/article/8xyb5v/how-to-write-professional-work-email-women)
+  - [Why Emoji Are Suddenly Acceptable at Work](https://www.theatlantic.com/business/archive/2015/05/why-emoji-are-suddenly-acceptable-at-work/393191/)
   - [TWE 7.1: Correspondence](https://pressbooks.bccampus.ca/technicalwriting/chapter/correspondence/) briefly describes guidelines and format for email, memo, and other workplace formats.
   - [OTC 2.13: Memos and Emails](https://alg.manifoldapp.org/read/open-technical-communication/section/ae63b0b2-c5f8-4747-bd36-365f68a55c77) digs into culture and convention around correspondence formats, which will help you think about formats and styles.
 
