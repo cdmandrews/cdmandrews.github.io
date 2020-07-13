@@ -19,7 +19,6 @@ Also read:
   - [TWE 7.1: Correspondence](https://pressbooks.bccampus.ca/technicalwriting/chapter/correspondence/) briefly describes guidelines and format for email, memo, and other workplace formats.
   - [OTC 2.13: Memos and Emails](https://alg.manifoldapp.org/read/open-technical-communication/section/ae63b0b2-c5f8-4747-bd36-365f68a55c77) digs into culture and convention around correspondence formats, which will help you think about formats and styles.
 
-
 Okay--that's a lot of stuff. First up is audience:
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRCnu94gyM8eTxESllmHqX9V1Ikc3PWsyoaVb1Q9Bk1-vyKMgXCYnwCdr29HY8v6T-SiAha9vFlwJQY/embed?start=false&loop=false&delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
@@ -68,10 +67,10 @@ and how they segment their audience into some specific roles.
 
 1. Search the internet for at least three advice or how-to articles on workplace or professional email. (There are lots! Here's a starter for you, from the [Heroic Technical Writing blog](https://heroictechwriting.com/2011/12/20/using-the-tools-effectively)).
 1. Write a post in your group's "Email for Dummies" forum in which you do the following:
-  - Provide links to each article, and write a 50-word summary for each article's content.
-  - Discuss some of the most important **principles** for work email you read about in those three articles and your textbook chapters. These could be style tips as well as workplace culture tips like how frequently to check email, when to do email, etcetera.
+  - List links and titles for your three articles, and write a 50-word summary for each one.
+  - Discuss some of what you think are the most important **principles** for work email you read about in those three articles and your textbook chapters. These could be style tips as well as workplace culture tips like how frequently to check email or when to do email, or even reflections on gender, culture, and style.
   - Describe a recent example of an email you sent that either succeeds or fails by those principles. If it was great, explain specifically why it was; if it wasn't, explain how you might have done better in that situation.
-  - In your response, you should quote relevant passages from your reading assignments and connect your examples and summaries to ideas about audience and purpose.
+  - Quote relevant passages from our reading assignments in your post and connect your examples and summaries to ideas about audience and purpose.
 
 ## Looking ahead
 
