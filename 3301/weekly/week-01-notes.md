@@ -1,11 +1,9 @@
-# Overview for Week 1
-
 [ENGL 3301, Fall 2020](../calendar.html)
 
 <span style="color:red;">*No assignments or course documents, including the syllabus, should be considered to be in their final form until the first week of class begins.*</span>
 
 
-## Big picture
+# Overview for Week 01
 
 <img src="media/tech-comm-tarly.jpg" title="Always read the instructions" alt="Always read the instructions" style="float:right; width:50%;">
 

@@ -1,8 +1,6 @@
-# Overview for Week 2
-
 [ENGL 3301, Fall 2020](../calendar.html)
 
-## Big picture
+# Overview for Week 2
 
 For this week, we're continuing our general introduction to TPW, especially focusing on [audience](https://writingcommons.org/section/information-literacy/information/consider-your-audience/), [exigence/purpose](https://writingcommons.org/section/rhetoric/rhetorical-situation/purpose/), and [genre](https://writingcommons.org/section/genre/). These concepts are important, and we'll come back to them again and again for the entire semester. We'll also spend time talking about correspondence genres, especially email and memos.
 
@@ -19,7 +17,7 @@ Also read:
   - [TWE 7.1: Correspondence](https://pressbooks.bccampus.ca/technicalwriting/chapter/correspondence/) briefly describes guidelines and format for email, memo, and other workplace formats.
   - [OTC 2.13: Memos and Emails](https://alg.manifoldapp.org/read/open-technical-communication/section/ae63b0b2-c5f8-4747-bd36-365f68a55c77) digs into culture and convention around correspondence formats, which will help you think about formats and styles.
 
-Okay--that's a lot of stuff. First up is audience:
+## Audiences and TPW
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRCnu94gyM8eTxESllmHqX9V1Ikc3PWsyoaVb1Q9Bk1-vyKMgXCYnwCdr29HY8v6T-SiAha9vFlwJQY/embed?start=false&loop=false&delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
@@ -39,7 +37,6 @@ Doing audience analysis is not about assuming your audience is dumber than you. 
 
 The lazy person’s answer to “who’s your audience?” on social media and lots of government or organizational communication is “the general public.” That is wrong.  Here's a solid essay on the topic if you want to read someone other than me say it: [There is No General Public: Starting with Audience for Stronger Science Communication Plans](https://medium.com/science-communication-media/there-is-no-general-public-starting-with-audience-for-stronger-science-communication-plans-6603a81da8d6)
 
-
 One more time for the people in the back: "The general public" is not your audience.
 
 Certainly, everybody is able to see and access your stuff. That’s among the default implications of rhetorical velocity and social media as a delivery system and public access to information in a transparent democratic republic. But really we should be talking about publics and groups: audiences rather than some generic “the public.” **Audiences are people who need or will work with your content, and are those folks whom your content is designed specifically for.** That [publically available government web page about victim impact statements](https://www.justice.gov/usao-ak/victim-impact-statements) uses "you" and "your" in its language, and that pronoun is directed to very specific people: victims of a crime. That's substantially different from "the general public." The CCISD Facebook page might be out there for anyone and their aunt to see, but their audience is specifically CCISD community of parents, administration and staff, and students.
@@ -58,7 +55,7 @@ and how they segment their audience into some specific roles.
 
 ## For Tuesday
 1. Locate three examples of what you consider technical and professional writing. These may include correspondence, journal articles, lab reports, manuals, web pages, advertisements, or something else.
-2. In your group's "Intro to Tech Writing" forum, share your examples and discuss with your group members how your documents reflect specific conventions and characteristics of technical writing you read about in this week's readings. (Also worth considering: the difference between TPW and journalistic writing.) Quote relevant passages from our reading assignments in your post. Identify the specific audience(s) and purpose(s) for your examples. 
+2. In your group's "Intro to Tech Writing" forum, share your examples and discuss with your group members how your documents reflect specific conventions and characteristics of technical writing you read about in this week's readings. (Also worth considering: the difference between TPW and journalistic writing.) Quote relevant passages from our reading assignments in your post. Identify the specific audience(s) and purpose(s) for your examples.
 
 ## For Thursday
 

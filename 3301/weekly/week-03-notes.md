@@ -1,10 +1,8 @@
-# Overview for Week 3
-
 [ENGL 3301, Fall 2020](../calendar.html)
 
-## Big picture
+# Overview for Week 3
 
-### Ethics and justice and tech. comm.
+## Ethics and justice and tech. comm.
 
 This week you need to read:
 -  [OTC Chapter 3, Ethics in Technical Communication](https://alg.manifoldapp.org/read/open-technical-communication/section/8b530f4b-5942-4071-845a-0a138601da10). The video in this chapter is definitely worth. your. time. Yes, it's a little longish, and yes it's just slightly dated in one or two areas, but on the whole it's solid. (In 2020, singular "they" is increasingly accepted as an appropriate nongendered usage. Also, the "use African-American/European-American vs use Black/White" topic has moved a bit since this video.)
