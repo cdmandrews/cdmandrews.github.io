@@ -2,9 +2,17 @@
 
 # Overview for Week 5
 
+TWE: Style tips (https://pressbooks.bccampus.ca/technicalwriting/chapter/styletipsreadability/)
+
 ## Tech writing style
 
 This week is about style: the way you express your ideas in a document, from the paragraph level to sentence structure and the words and phrases you use. **Style** is different from **correctness**, which has to do with squeaky-clean grammar, mechanics, and spelling.
+
+### Writer-centered Style
+
+### Reader-centered style
+
+### 7 Cs
 
 Style is important because, as you've been learning, people aren't paid to read your documents. They're paid to work. This work often involves reading things, but that's not the primary focus of most jobs. When you place important information at the beginning of a document rather than the end and when you create short, information-rich paragraphs with clear, active sentence structures and jargon-less prose, you help readers understand and act on information safely and efficiently.
 
@@ -27,5 +35,18 @@ A lot of writers get hung up on grammar. These issues are important for writers 
 ## Tuesday
 
 ## Thursday
+
+A big part of the major projects in this course is locating information about and examples of technical and professional writing in your field. ([This is a good time to look at the first major project description if you haven't already](./project-1.md)) To help you do this, we'll develop and practice some advanced internet research skills. Over the next two weeks, you'll take this short [Power Searching with Google](https://coursebuilder.withgoogle.com/sample/course) course.
+
+For this Thursday, complete at least the following parts of the Power Searching course:
+  - Complete the pre-course assessment
+  - Complete Units 1, 2, and 3. Do all unit activities except for the embedded discussion forum posts.
+  - Complete the Mid-course assessment
+  - Take a screenshot of your mid-course assessment when you have successfully completed it.
+
+Participate in your group's "Power search forum" according to the prompt below:
+  1. Summarize what you have learned about power searching. (No shorter than 150 words) What new information about searching the internet did you pick up, and what skills did you add to your toolbox? How did you think your search skills were before taking the power searching course, and how do they match up now?
+  2. Post the screenshot of your mid-course assessment.
+  3. Responses to your group's posts are not required for this post--we'll get to that next week.
 
 ## Looking ahead
