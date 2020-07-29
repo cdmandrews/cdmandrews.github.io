@@ -31,9 +31,10 @@ For instance, you could:
 4. Write a series of engaging and informational blog posts about TPW in your field relevant to TAMUCC students.
 3. Create a detailed technical description of a particular mechanism, object, process, or genre in your field.
 4. Write an instruction set or training presentation relevant to technical and professional communicating in your field.
+5. Study [shifting voices and rhetorical strategies in professional writing spaces](https://www.workplace-writing.org/shifting-voice-in-new-writing-spaces-assignment/)
 6. Or, you can **propose your own idea**...
 
-Students who wish to collaborate on a complex project may do so. 
+Students who wish to collaborate on a complex project may do so.
 
 ## Requirements
 Yes, I know that's a whole lot of "whatever you want" so far. The following sections describe general requirements for the scope, character, and delivery of your project.
