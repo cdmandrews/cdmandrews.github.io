@@ -5,13 +5,12 @@
 ## Ethics and justice and tech. comm.
 
 This week you need to read:
--  [OTC Chapter 3, Ethics in Technical Communication](https://alg.manifoldapp.org/read/open-technical-communication/section/8b530f4b-5942-4071-845a-0a138601da10). The video in this chapter is definitely worth. your. time. Yes, it's a little longish, and yes it's just slightly dated in one or two areas, but on the whole it's solid. (In 2020, singular "they" is increasingly accepted as an appropriate nongendered usage. Also, the "use African-American/European-American vs use Black/White" topic has moved a bit since this video.)
-  - Important topics in that chapter:
-    - ethics: utility, rights, justice, and care
-    - consequences of faulty communication
-    - appropriate language (or imprecise/biased language)
-    - copyright and intellectual property
-    - analyzing and presenting data
+-  [OTC Chapter 3, Ethics in Technical Communication](https://alg.manifoldapp.org/read/open-technical-communication/section/8b530f4b-5942-4071-845a-0a138601da10). The video in this chapter is definitely worth. your. time. Yes, it's a little longish, and yes it's just slightly dated in one or two areas, but on the whole it's solid. (In 2020, singular "they" is increasingly accepted as an appropriate nongendered usage. Also, the "use African-American/European-American vs use Black/White" topic has moved a bit since this video.) Some important topics in that chapter:
+  - ethics: utility, rights, justice, and care
+  - consequences of faulty communication
+  - appropriate language (or imprecise/biased language)
+  - copyright and intellectual property
+  - analyzing and presenting data
 
 - Also review [this short resource on ethical presentation of research and data](https://openoregon.pressbooks.pub/technicalwriting/chapter/9-3-typical-ethics-issues-in-technical-writing/), which includes the following topics:
   - selecting, cherry-picking, and suppressing information
@@ -38,20 +37,22 @@ This week's material will also help you begin to look for the different ways fau
 
 ## For Tuesday
 
-3. While you're letting all that percolate in your brain, write a discussion post in your group's "Communication Heroes" forum:
-  - Identify a communication hero and tell the story of someone who supports ethics and social justice through communicative acts. This could be someone famous, or someone under the radar.
+ While you're letting all that percolate in your brain, write a discussion post in your group's "Communication Heroes" forum:
+  - Identify a communication hero and tell the story of someone who supports ethics and social justice through **communicative acts**. This could be someone famous, or someone under the radar; it could be someone you know personally, a teacher, family member, coworker or community member, or it could be someone you have researched and read about. Why are they a communication hero? What lessons can you learn from them? Why is that so important to you?
+  - Your post should be no shorter than 250 words, please.
 
 ## For Thursday
 Writers and professionals of all kinds should consider to whom they have ethical obligations, major types of unethical communication (whether intentional or unintentional), and issues around using copyrighted information in professional organizations.
 
 Just following rules of thumb for good writing is not enough. You've got to think about what you say and how your audience will be affected by it. Sadly, we can read about people communicating unethically, unjustly, or just plain awfully just about every day--and we can see (or worse, experience) the implications of their failure to be ethical.
 
-1. Participate in your group's "Unethical Writing Practices" forum according to the prompt below:
+Participate in your group's "How NOT to write" forum according to the prompt below:
 
-  - Go back through the [chapter on Ethics in Technical Communication]((https://alg.manifoldapp.org/read/open-technical-communication/section/8b530f4b-5942-4071-845a-0a138601da10) and identify at least three specific issues or topics that you see as particularly relevant to your professional goals. Write a discussion post about why you think they are important in the line of work you'd like to take up.
-  - Rather than writing one loooong paragraph, use subheadings to separate your discussions of your issues/topics/principles and describe each of them in turn. Use text formatting to emphasize important information.
-  - Share a link to a recent news story (must be from the last five years) that exemplifies one or more of the ideas you wrote about. Ideally, these should be about a professional in your field, but it's okay if it's not. What dilemmas or obligations did they have to resolve? How did they do so?
-  - Compare notes with your group members.
+  - Go back through the [chapter on Ethics in Technical Communication]((https://alg.manifoldapp.org/read/open-technical-communication/section/8b530f4b-5942-4071-845a-0a138601da10) and identify **at least three** specific issues or topics that you see as particularly relevant to your professional goals. Prepare a short slideshow about why you think they are important in the line of work you'd like to take up.
+    - Rather than writing loooong unbroken paragraphs on your slides, use a combination of headings, lists, and paragraphs to discuss issues/topics/principles and describe and give examples for each of them in turn. Think about your audience, and use text and slide formatting to emphasize important information. Make your slides easy to read and follow, and use visuals to provide examples or evidence.
+  - Close out your slideshow by sharing a link to a recent news story (must be from the last five years) that exemplifies one or more of the ideas you wrote about. Ideally, these should be about a professional in your field, but it's okay if it's not. What dilemmas or obligations did they have to resolve? How did they do so?
+    - [How to change the text of your hyperlinks to avoid long and ugly URLs](https://support.microsoft.com/en-gb/office/customize-the-text-for-a-hyperlink-63d4fdcc-bce2-41ea-9649-d8aaa900fe2f)
+  - In replies to each others' posts, compare notes with your group members.
 
 ## Looking ahead
 

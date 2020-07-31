@@ -17,21 +17,32 @@ Also read:
   - [TWE 7.1: Correspondence](https://pressbooks.bccampus.ca/technicalwriting/chapter/correspondence/) briefly describes guidelines and format for email, memo, and other workplace formats.
   - [OTC 2.13: Memos and Emails](https://alg.manifoldapp.org/read/open-technical-communication/section/ae63b0b2-c5f8-4747-bd36-365f68a55c77) digs into culture and convention around correspondence formats, which will help you think about formats and styles.
 
-## Audiences and TPW
-
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRCnu94gyM8eTxESllmHqX9V1Ikc3PWsyoaVb1Q9Bk1-vyKMgXCYnwCdr29HY8v6T-SiAha9vFlwJQY/embed?start=false&loop=false&delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-"Know your audience" and "You are not your audience" are important points to wrap your brains around. Audience analysis is the process of figuring out who your audience is so you can write to their needs rather than your own. Getting out of your own head and into an audience's head is HARD, and is something we'll practice a. lot. this semester.
+## Audiences and TPW
 
-Two big audience-related points that TPW students nearly always trip over are dumb audiences and general audiences, and I want to talk about them in a little bit of detail here.
+
+
+<img src="media/audience-work.png" width="50%"  style="float:right;"/>
+
+"**Know your audience**" and "**You are not your audience**" are important points to wrap your brains around. Audience analysis is the process of figuring out who your audience is so you can write to their needs rather than your own. Getting out of your own head and into an audience's head is HARD, and is something we'll practice a. lot. this semester.
+
+Two big audience-related points that TPW students nearly always trip over are dumb audiences and general audiences:
 
 ### Dumb Audiences, aka "Uncle Steve"
 
-I have this imaginary (slightly based in reality) figure in my classrooms named "Uncle Steve." Every family has an Uncle Steve--that person that needs things explained to them five times and still doesn't quite understand (and maybe doesn't want to). The dude who always derails your Facebook or Instagram comments with some irrelevant stuff about "kids these days don't know how to whatever anymore..." Uncle Steve is nice enough, and you love him, but he's kind of a moron.
+I have this imaginary (slightly based in reality) figure in my classrooms named "Uncle Steve." Every family has an Uncle Steve--that person that needs things explained to them five times and still doesn't quite understand (and maybe doesn't want to). The dude who always derails your Facebook or Instagram comments with some irrelevant stuff about "kids these days don't know how to whatever anymore..." Uncle Steve is nice enough, and you love him, but he kind of always misses the point.
 
-A lot of times in professional and technical writing you'll see guidance to "explain it to me like I'm six", which assumes that all technical writing is about making really complex things sensible to people with zero knowledge of the subject. That's a one-dimensional way of looking at professional and technical writing.
+Occasionally in professional and technical writing texts or articles you'll see guidance to "[explain it to me like I'm five](https://www.reddit.com/r/explainlikeimfive/)," which assumes that all technical writing is about making really complex things sensible to people with zero knowledge of the subject.
 
-Doing audience analysis is not about assuming your audience is dumber than you. (Put yourself in the reverse position--do you want everyone assuming you're the dumb one? nope.) It's about considering what they know, what they need to know, and how they need to know it. If you write like a 6th-grader to a Ph.D. or a small-business owner, you're going to make someone mad. Figure out who the specific person is on the other end of your communication (in User Experience we use something called [personas](https://www.usability.gov/how-to-and-tools/methods/personas.html) to do that) and write to them. [The Plain Language Act site has a great resource on this concept](https://plainlanguage.gov/guidelines/audience/).
+<iframe src="https://player.vimeo.com/video/27060669" width="640" height="361" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/27060669">The Office - LI5 Surplus</a> from <a href="https://vimeo.com/user1472744">Ryan Faucett</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+Unfortunately, that's often not true. In fact, that viewpoint is a one-dimensional and super-condescending way of looking at professional and technical writing. Doing audience analysis is NOT about assuming your audience is dumber than you. (Put yourself in the reverse position--do you want everyone assuming you're the dumb one? Nope.) Instead, audience analysis is about considering what your readers know already, what they need to know, and how they need to know it. If you write like a 6th-grader to a Ph.D. or a small-business owner, you're going to make someone mad. Figure out who the specific kind of person is on the other end of your communication and write to them (user experience and web designers use something called [personas](https://www.usability.gov/how-to-and-tools/methods/personas.html)).  
+
+
+
+The _Plain Language Act_ website has two great short resources on addressing audiences: [Do your research](https://plainlanguage.gov/guidelines/audience/do-your-research/) and  [Address the user](https://plainlanguage.gov/guidelines/audience/address-the-user/).
 
 ### General audiences, aka "The public"
 
@@ -39,12 +50,15 @@ The lazy person’s answer to “who’s your audience?” on social media and l
 
 One more time for the people in the back: "The general public" is not your audience.
 
-Certainly, everybody is able to see and access your stuff. That’s among the default implications of rhetorical velocity and social media as a delivery system and public access to information in a transparent democratic republic. But really we should be talking about publics and groups: audiences rather than some generic “the public.” **Audiences are people who need or will work with your content, and are those folks whom your content is designed specifically for.** That [publically available government web page about victim impact statements](https://www.justice.gov/usao-ak/victim-impact-statements) uses "you" and "your" in its language, and that pronoun is directed to very specific people: victims of a crime. That's substantially different from "the general public." The CCISD Facebook page might be out there for anyone and their aunt to see, but their audience is specifically CCISD community of parents, administration and staff, and students.
+Certainly, everybody is able to see and access your stuff. That’s among the default implications of rhetorical velocity and social media as a delivery system and public access to information in a transparent democratic republic. But really we should be talking about publics and groups: audiences rather than some generic “the public." **Audiences are people who need or will work with your content, and are those folks whom your content is designed specifically for.** That [publically available government web page about victim impact statements](https://www.justice.gov/usao-ak/victim-impact-statements) uses "you" and "your" in its language, and that pronoun is directed to very specific people: victims of a crime. That's substantially different from "the general public" because the audience in that case has specific tasks to do, specific knowledge to rely on and knowledge they don't have, and specific goals or problems to solve. Similarly, the Corpus Christi Independent School District (CCISD) Facebook page might be out there on social media for anyone and their aunt to see, but their audience is specifically the CCISD community of parents, administration and staff, and students.
 
-Even though "the public" might have access to your document, that doesn't mean your document's audience is the public. The public is a **stakeholder**--that's why we have access, because it affects us and we should be able to see how our federal, state, and local governments function to a reasonable extent. But the audience--the people for whose use it is purposefully written--is different. In the case of a police report, for example, there are really three (mostly unfriendly) audiences who are going to use/read the document in different ways:
+Even though "the public" might have access to your document, that doesn't mean your document's audience is the public. The public is a **stakeholder** in many federal, state, and municipal communications--that's why we have access, because it affects us and we should be able to see how our federal, state, and local governments function to a reasonable extent. But **the audience--the people for whose use a text is purposefully written**--is different. In the case of a police report, for example, there are really three (mostly unfriendly) audiences who are going to use/read the document in different ways:
 1. The supervisor, who is looking for incorrect grammar, missing details, incorrect facts/notations, and unclear narratives. Mostly wants to make sure the document is tight for CYA
 2. The district attorney/prosecutor, who doesn't care about grammar or how well the officer presents himself or herself; the DA is looking to determine if the suspect should be charged and prosecuted and is thus looking for details that will correspond with legal statutes.
-3. The defense attorney wants to derail the whole thing and looks for errors, missing information, contradictions, grammar errors that lead to confusion, and unethical/nonstandard police behaviors in the report.
+3. The defense attorney, who wants to derail the whole thing and looks for errors, missing information, contradictions, grammar errors that lead to confusion, and unethical or nonstandard police behaviors in the report.
+
+Notice who's not in the list: **people who the report is about** (i.e. suspects, victims, or people involved in the reported incident) and **the public**. Both groups do have a relative stake in a police report, but in most cases the report acts as a record that the person can obtain rather than a document that's written to them. Because it is about them, because they have a right to documentation that's about them, or because they have a vested interest in the outcome, they are a stakeholder, but not an audience. If you've ever gotten a traffic citation, on the other hand, it likely has instructions for how to handle the citation, where to pay a fine, what website or municipality you need to report to, and that sort of thing. For that stuff, you're most definitely the audience. But in that case, you're no longer "the public"--you're a specific audience "person who has received a citation", one with a different set of needs, goals, attitudes, and experiences from some general public.
+
 > <sub>The above information comes from Leslie Seawright's fine 2012 dissertation, "[The Literacy Practices of Law Enforcement](https://scholarworks.uark.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1294&context=etd)". She published this research in 2017 as [_Genres of Power_](https://www.amazon.com/Genre-Power-Writers-Readers-Rhetoric/dp/0814118429)</sub>
 
 **Some examples of distinguishing between audiences:**
@@ -54,8 +68,12 @@ and how they segment their audience into some specific roles.
 
 
 ## For Tuesday
-1. Locate three examples of what you consider technical and professional writing. These may include correspondence, journal articles, lab reports, manuals, web pages, advertisements, or something else.
-2. In your group's "Intro to Tech Writing" forum, share your examples and discuss with your group members how your documents reflect specific conventions and characteristics of technical writing you read about in this week's readings. (Also worth considering: the difference between TPW and journalistic writing.) Quote relevant passages from our reading assignments in your post. Identify the specific audience(s) and purpose(s) for your examples.
+
+Complete the "Introduction to Tech Writing" forum
+
+1. Find three examples of what you consider technical and professional writing. These might be correspondence, journal articles, lab reports, manuals, web pages, advertisements, or something else you consider to be TPW. You can use things you find online or that are lying around your home or workplace. Take a picture or screenshot, download a file, or get a link for each example.
+2. Add your links or pictures into a PowerPoint or Google slideshow. Share your examples and on each slide discuss how your documents reflect some of the conventions and characteristics of technical writing you read about in this week's readings. Quote relevant passages from our reading assignments in your slideshow. If you can, identify the specific audience(s) and purpose(s) for each example. Depending on your comments, you'll probably have at least six content slides and a title slide.
+3. Look at your peers' slideshows; post replies in to their post that compare findings, comment on each others' examples, and discuss some of the differences between TPW and academic, journalistic, and other kinds of writing you're familiar with.
 
 ## For Thursday
 
