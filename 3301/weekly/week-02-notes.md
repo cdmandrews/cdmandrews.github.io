@@ -2,9 +2,11 @@
 
 # Overview for Week 2
 
-For this week, we're continuing our general introduction to TPW, especially focusing on [audience](https://writingcommons.org/section/information-literacy/information/consider-your-audience/), [exigence/purpose](https://writingcommons.org/section/rhetoric/rhetorical-situation/purpose/), and [genre](https://writingcommons.org/section/genre/). These concepts are important, and we'll come back to them again and again for the entire semester. We'll also spend time talking about correspondence genres, especially email and memos.
+For this week, we're continuing our general introduction to TPW, especially focusing on [audience](https://writingcommons.org/section/information-literacy/information/consider-your-audience/) and [exigence/purpose](https://writingcommons.org/section/rhetoric/rhetorical-situation/purpose/). These concepts are important, and we'll come back to them again and again for the entire semester. We'll also spend time talking about correspondence [genres](https://writingcommons.org/section/genre/), especially email and memos.
 
-For this week you should read the following:
+<div style="background-color: aliceblue; padding: 1em;">
+
+To read this week:
   - Review [OTC Chapter 1](https://alg.manifoldapp.org/read/open-technical-communication/section/0debb16b-f623-4033-a47b-973d65ab0961) (we read it last week)
   - [TWE Chapter 1: What is Technical Communication?](https://pressbooks.bccampus.ca/technicalwriting/part/techcomm/)
   - [TWE Chapter 1.2: Conventions and Characteristics](https://pressbooks.bccampus.ca/technicalwriting/chapter/conventions/)
@@ -16,14 +18,11 @@ Also read:
   - [Why Emoji Are Suddenly Acceptable at Work](https://www.theatlantic.com/business/archive/2015/05/why-emoji-are-suddenly-acceptable-at-work/393191/)
   - [TWE 7.1: Correspondence](https://pressbooks.bccampus.ca/technicalwriting/chapter/correspondence/) briefly describes guidelines and format for email, memo, and other workplace formats.
   - [OTC 2.13: Memos and Emails](https://alg.manifoldapp.org/read/open-technical-communication/section/ae63b0b2-c5f8-4747-bd36-365f68a55c77) digs into culture and convention around correspondence formats, which will help you think about formats and styles.
+</div>
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRCnu94gyM8eTxESllmHqX9V1Ikc3PWsyoaVb1Q9Bk1-vyKMgXCYnwCdr29HY8v6T-SiAha9vFlwJQY/embed?start=false&loop=false&delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## Audiences and TPW
-
-
-
-<img src="media/audience-work.png" width="50%"  style="float:right;"/>
 
 "**Know your audience**" and "**You are not your audience**" are important points to wrap your brains around. Audience analysis is the process of figuring out who your audience is so you can write to their needs rather than your own. Getting out of your own head and into an audience's head is HARD, and is something we'll practice a. lot. this semester.
 
@@ -50,7 +49,7 @@ The lazy person’s answer to “who’s your audience?” on social media and l
 
 One more time for the people in the back: "The general public" is not your audience.
 
-Certainly, everybody is able to see and access your stuff. That’s among the default implications of rhetorical velocity and social media as a delivery system and public access to information in a transparent democratic republic. But really we should be talking about publics and groups: audiences rather than some generic “the public." **Audiences are people who need or will work with your content, and are those folks whom your content is designed specifically for.** That [publically available government web page about victim impact statements](https://www.justice.gov/usao-ak/victim-impact-statements) uses "you" and "your" in its language, and that pronoun is directed to very specific people: victims of a crime. That's substantially different from "the general public" because the audience in that case has specific tasks to do, specific knowledge to rely on and knowledge they don't have, and specific goals or problems to solve. Similarly, the Corpus Christi Independent School District (CCISD) Facebook page might be out there on social media for anyone and their aunt to see, but their audience is specifically the CCISD community of parents, administration and staff, and students.
+Certainly, in a lot of cases anybody will be able to see and access your stuff. That’s among the default implications of rhetorical velocity and social media as a delivery system and public access to information in a transparent democratic republic. But really we should be talking about publics and groups: audiences rather than some generic “the public." **Audiences are people who need or will work with your content, and are those folks whom your content is designed specifically for.** That [publically available government web page about victim impact statements](https://www.justice.gov/usao-ak/victim-impact-statements) uses "you" and "your" in its language, and that pronoun is directed to very specific people: victims of a crime. That's substantially different from "the general public" because the audience in that case has specific tasks to do, specific knowledge to rely on and knowledge they don't have, and specific goals or problems to solve. Similarly, the Corpus Christi Independent School District (CCISD) Facebook page might be out there on social media for anyone and their aunt to see, but their audience is specifically the CCISD community of parents, administration and staff, and students.
 
 Even though "the public" might have access to your document, that doesn't mean your document's audience is the public. The public is a **stakeholder** in many federal, state, and municipal communications--that's why we have access, because it affects us and we should be able to see how our federal, state, and local governments function to a reasonable extent. But **the audience--the people for whose use a text is purposefully written**--is different. In the case of a police report, for example, there are really three (mostly unfriendly) audiences who are going to use/read the document in different ways:
 1. The supervisor, who is looking for incorrect grammar, missing details, incorrect facts/notations, and unclear narratives. Mostly wants to make sure the document is tight for CYA
@@ -66,10 +65,12 @@ Notice who's not in the list: **people who the report is about** (i.e. suspects,
 - Another breakdown of audiences is over at the World Health Organization (WHO). See [“Goal and key audiences”](https://www.who.int/about/communications/goal-and-key-audiences)
 and how they segment their audience into some specific roles.
 
+## Exigence, Purpose, and Doing stuff with writing.
+
 
 ## For Tuesday
 
-Complete the "Introduction to Tech Writing" forum
+Complete the "Introduction to Tech Writing" discussion forum in your group
 
 1. Find three examples of what you consider technical and professional writing. These might be correspondence, journal articles, lab reports, manuals, web pages, advertisements, or something else you consider to be TPW. You can use things you find online or that are lying around your home or workplace. Take a picture or screenshot, download a file, or get a link for each example.
 2. Add your links or pictures into a PowerPoint or Google slideshow. Share your examples and on each slide discuss how your documents reflect some of the conventions and characteristics of technical writing you read about in this week's readings. Quote relevant passages from our reading assignments in your slideshow. If you can, identify the specific audience(s) and purpose(s) for each example. Depending on your comments, you'll probably have at least six content slides and a title slide.
@@ -79,6 +80,7 @@ Complete the "Introduction to Tech Writing" forum
 
   - My **correspondence video discusses you attitude and other nonsense.**
 
+Complete the "Email for dummies" discussion forum in your group
 
 1. Search the internet for at least three advice or how-to articles on workplace or professional email. (There are lots! Here's a starter for you, from the [Heroic Technical Writing blog](https://heroictechwriting.com/2011/12/20/using-the-tools-effectively)).
 1. Write a post in your group's "Email for Dummies" forum in which you do the following:

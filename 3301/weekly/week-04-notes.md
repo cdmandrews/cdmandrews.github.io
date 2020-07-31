@@ -4,7 +4,11 @@
 
 ## Document design and "looking professional"
 
-Read:
+What does how a document looks and how a document works have to do with what a document does? **finish writing this article**
+
+<div style="background-color: aliceblue; padding: 1em;">
+
+To read this week:
 - [Subheadings: Perhaps the Most Useful Technique in Technical Writing](https://idratherbewriting.com/2013/08/23/subheadings-perhaps-the-most-useful-technique-in-technical-writing/) is an excellent article about subheadings that also actually practices what it preaches.
 - [Guidelines for Print Document Design](https://www.aph.org/aph-guidelines-for-print-document-design/) describes optimal usability standards for creating documents that persons with low vision can use (from American Printing house for the Blind)
 - [TWE Chapter 3: Document Design](https://pressbooks.bccampus.ca/technicalwriting/part/documentdesign/) is a brief overview of essential factors for document design. Focus on the following sections:
@@ -15,7 +19,8 @@ Read:
   - [4.4 Headings](https://alg.manifoldapp.org/read/open-technical-communication/section/86acfd75-0fcf-4f84-81aa-da087f3748a5)
   - [4.5 Bulleted and numbered lists](https://alg.manifoldapp.org/read/open-technical-communication/section/186ea758-92f6-4495-b6df-01061e39ec68)
 
-What does how a document looks and how a document works have to do with what a document does? **finish writing this article**
+</div>
+
 
 <p><iframe width="640" height="389" src="https://docs.google.com/presentation/d/1-itoFjVtbyHlaBp79TP5tyXtl3fLC5Nt_cU00tC-neo/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></p>
 
