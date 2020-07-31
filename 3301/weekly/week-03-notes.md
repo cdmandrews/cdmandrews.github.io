@@ -34,7 +34,7 @@ If you can parse that statement, you'll find a pretty significant policy explana
 This week's material will also help you begin to look for the different ways faulty, unethical, and unjust communication happens--wether intentionally or unintentionally. For example, think about why [clear communication that emphasizes the main message isn't just just "good health communication" but also "ethical health communication"](https://medium.com/wehearthealthliteracy/reimagining-the-coronavirus-postcard-a42bc87d698f).
 
 
-## For Tuesday
+# For Tuesday
 
 Participate in the "Communication heroes" discussion forum in your group
 
@@ -42,7 +42,7 @@ Participate in the "Communication heroes" discussion forum in your group
   - Identify a communication hero and tell the story of someone who supports ethics and social justice through **communicative acts**. This could be someone famous, or someone under the radar; it could be someone you know personally, a teacher, family member, coworker or community member, or it could be someone you have researched and read about. Why are they a communication hero? What lessons can you learn from them? Why is that so important to you?
   - Your post should be no shorter than 250 words, please.
 
-## For Thursday
+# For Thursday
 Writers and professionals of all kinds should consider to whom they have ethical obligations, major types of unethical communication (whether intentional or unintentional), and issues around using copyrighted information in professional organizations.
 
 Just following rules of thumb for good writing is not enough. You've got to think about what you say and how your audience will be affected by it. Sadly, we can read about people communicating unethically, unjustly, or just plain awfully just about every day--and we can see (or worse, experience) the implications of their failure to be ethical.
@@ -55,7 +55,7 @@ Participate in the "How NOT to write" discussion forum in your group:
     - [How to change the text of your hyperlinks to avoid long and ugly URLs](https://support.microsoft.com/en-gb/office/customize-the-text-for-a-hyperlink-63d4fdcc-bce2-41ea-9649-d8aaa900fe2f)
   - In replies to each others' posts, compare notes with your group members.
 
-## Looking ahead
+# Looking ahead
 
 In [week 4](week-04-notes) we'll start our investigation of specific strategies and techniques by which technical and professional writers can make texts usable, readable, effective, and all that other stuff. Ethical. And it all starts with my favorite topic: subheadings.
 

@@ -31,16 +31,17 @@ Participate in your group's "Communicating with visuals" forum according to the 
     3. What do you notice about the creator's methods of numbering, labeling, and citation? Which guidelines in your readings do they follow?
   3. **Be sure to reply and respond to your group member's posts over the course of the week. Do you concur with their evaluation?**
 
-## Thursday
+# Thursday
 
 Continue working on your researching skills and finish the "Power Searching with Google" course. For this Thursday, complete the following:
  - Complete Units 4, 5, and 6. Do all unit activities except for the embedded discussion forum posts.
  - Complete the post-course assessment
  - Take a screenshot of your post-course assessment when you have successfully completed it.
 
-Go back to your "Power searching forum" post you created last week. Reply to yourself using the prompt below:
+Finish the Power Searching 2 assignment in the week 06 folder.
   1. Summarize what new things you have learned about power searching. (No shorter than 150 words)
-  2. Post the screenshot of your post-course assessment.
-  3. Respond to at least three other people in your group. Compare notes on what you learned, and share strategies you might use for finding examples of professional writing from your field. The upcoming major projects will ask you to use all your primary research skills to locate examples of professional writing to analyze and report on, so thinking about these strategies ahead of time will be useful.
+  3. Describe strategies you might use for finding examples of professional writing from your field. The upcoming major projects will ask you to use all your primary research skills to locate examples of professional writing to analyze and report on, so thinking about these strategies ahead of time will be useful.
+  3. **Actually, go ahead and insert some links or pdfs to three examples of professional writing from your field.**
+  4. Post the screenshot of your post-course assessment.
 
-## Looking ahead
+# Looking ahead

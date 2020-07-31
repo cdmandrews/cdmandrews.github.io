@@ -29,7 +29,7 @@ See also:
 EPA: https://www.epa.gov/nepa/national-environmental-policy-act-review-process
 NTSB: https://www.ntsb.gov/investigations/AccidentReports/Pages/AccidentReports.aspx
 
-## For Tuesday
+# For Tuesday
 
 For this post, review the [City of Corpus Christi 2020 Hurricane Preparedness handout](https://www-cdn.cctexas.com/sites/default/files/FIRDEP-eoc-hurricane-prepardness-information.pdf)
 
@@ -48,7 +48,7 @@ Later this week, respond to at least three other people in your group.
 
 As with all discussion forum assignments, post the text of your responses directly to the forum text box. Do not upload a separate document!
 
-## For Thursday
+# For Thursday
 
 Think about the word **professionalism**. What does that mean? What images does your mind's eye conjure up? If you [do a Google image search of "professional" whose picture are you most likely to see](https://theconversation.com/googles-algorithms-discriminate-against-women-and-people-of-colour-112516)?
 
@@ -70,7 +70,7 @@ How does all that translate over to professional writing? How do you want people
   - Yes, refer back to your readings as you develop your response.
   - Yes, discuss and converse with your group people.
 
-## Looking ahead
+# Looking ahead
 
 In [week 5](week-05-notes) we're getting into style: words, sentences, and all that good stuff. Buckle up!
 

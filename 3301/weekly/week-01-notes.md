@@ -55,7 +55,7 @@ The field of technical communication is essential in a wide range of fields and 
 
 Professional and technical writing helps readers **do things**: understand a new process, learn a new technique, make a complex decision, understand what happened, and so forth. In the context of workplace and technical communication, if your reader can't understand the writing there's a BIG problem. (And it ain't usually the reader's fault.) So spending time considering your audience's needs, values, and perspectives is critical to creating effective, successful TPW. If you know who you're writing to and why, you can make all kinds of [rhetorical](https://writingcommons.org/section/rhetoric/) choices. As a professional who's going to have to use writing to help other people do stuff, [rhetorical awareness (the ability to think about goals and situations for writing)](https://owl.purdue.edu/owl/subject_specific_writing/professional_technical_writing/effective_workplace_writing/index.html) is going to be a significant skill.
 
-## Due Thursday, August 20 before midnight
+# Due Thursday, August 20 before midnight
 
 1. Read [Chapter 1: Introduction to Technical Writing](https://alg.manifoldapp.org/read/open-technical-communication/section/0debb16b-f623-4033-a47b-973d65ab0961) from _Open Technical Communication_.
 
@@ -67,7 +67,7 @@ Professional and technical writing helps readers **do things**: understand a new
   - Write a paragraph that describes professional or job-related writing experience you have and how the writing you did reflect the **six characteristics of technical writing** from the Open TC chapter you read. Did you have to use a company email account for that internship? Did you write reports for twenty years before coming back to college? Did you ever take meeting minutes for a club you're in? Did you help manage an Instagram account for a nonprofit? Do you have a work email account? Have you ever had to write a personal statement to get a promotion?
   - **Respond** to your group members' introductory statements. Say hello. Swap stories. Make conversation. Get to know each other. These are your fellow learners for the next 15 weeks.
 
-## Looking ahead
+# Looking ahead
 
 In [week 2](week-02-notes) we're going to keep digging in on _audience_, talk about something called a _rhetorical situation_, and talk about the exciting world of _email_.
 
