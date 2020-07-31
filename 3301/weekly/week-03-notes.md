@@ -6,7 +6,7 @@
 
 At the center of technical communication is the idea that technologies and the communication that surrounds them should support human dignity and human rights. Rather than simply concerned with being efficient or easy (yes, those are important), we should be sensitive to the fact that tech comm is **for people** and should be **effective**. It affects people: it can help them or it can hurt them, it can confuse or it can clarify. It can enhance difference or erase it. It can advocate for change, or it can reinforce harmful perspectives and epistemologies.
 
-**To read this week:**
+<mark>To read this week:</mark>
 -  [OTC Chapter 3, Ethics in Technical Communication](https://alg.manifoldapp.org/read/open-technical-communication/section/8b530f4b-5942-4071-845a-0a138601da10). The video in this chapter is definitely worth. your. time. Yes, it's a little longish, and yes it's just slightly dated in one or two areas, but on the whole it's solid. (In 2020, singular "they" is increasingly accepted as an appropriate nongendered usage. Also, the "use African-American/European-American vs use Black/White" topic has moved a bit since this video.) Some important topics in that chapter:
   - ethics: utility, rights, justice, and care
   - consequences of faulty communication

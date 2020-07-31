@@ -2,9 +2,7 @@
 
 <span style="color:red;">*No assignments or course documents, including the syllabus, should be considered to be in their final form until the first week of class begins.*</span>
 
-
 # Overview for Week 01
-
 
 Each week, I'll provide you an overview (just like this document). These docs will detail specific readings, exercises, and due dates for each week. In general, when people email me about being confused about what to do that week, I will ask them "Did you check the overview?" Always check these weekly documents first! I will structure coursework around a Tuesday/Thursday schedule, so you will see assignments and readings broken up into two days each week. To read more about how and why the course is scheduled the way it is, please review the "Course Conduct" section of our syllabus.
 

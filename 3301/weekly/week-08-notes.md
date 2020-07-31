@@ -4,6 +4,8 @@
 
 ## Big picture
 
+<mark>To read this week:</mark>
+
 ## Tuesday
 
 ## Thursday

@@ -8,6 +8,9 @@ TWE: Style tips (https://pressbooks.bccampus.ca/technicalwriting/chapter/styleti
 
 This week is about style: the way you express your ideas in a document, from the paragraph level to sentence structure and the words and phrases you use. **Style** is different from **correctness**, which has to do with squeaky-clean grammar, mechanics, and spelling.
 
+<mark>To read this week:</mark>
+
+
 ### Writer-centered Style
 
 ### Reader-centered style

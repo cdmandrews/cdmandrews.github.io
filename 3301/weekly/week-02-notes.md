@@ -48,7 +48,7 @@ One more time for the people in the back: "The general public" is not your audie
 
 Certainly, in a lot of cases anybody will be able to see and access your stuff. That’s among the default implications of rhetorical velocity and social media as a delivery system and public access to information in a transparent democratic republic. But really we should be talking about publics and groups: audiences rather than some generic “the public." **Audiences are people who need or will work with your content, and are those folks whom your content is designed specifically for.** That [publically available government web page about victim impact statements](https://www.justice.gov/usao-ak/victim-impact-statements) uses "you" and "your" in its language, and that pronoun is directed to very specific people: victims of a crime. That's substantially different from "the general public" because the audience in that case has specific tasks to do, specific knowledge to rely on and knowledge they don't have, and specific goals or problems to solve. Similarly, the Corpus Christi Independent School District (CCISD) Facebook page might be out there on social media for anyone and their aunt to see, but their audience is specifically the CCISD community of parents, administration and staff, and students.
 
-Even though "the public" might have access to your document, that doesn't mean your document's audience is the public. The public is a **stakeholder** in many federal, state, and municipal communications--that's why we have access, because it affects us and we should be able to see how our federal, state, and local governments function to a reasonable extent. But **the audience--the people for whose use a text is purposefully written**--is different. In the case of a police report, for example, there are really three (mostly unfriendly) audiences who are going to use/read the document in different ways:
+Even though "the public" might have access to your document, that doesn't mean your document's audience is the public. The public is a **stakeholder** in many federal, state, and municipal communications--that's why we have access, because it affects us and we should be able to see how our federal, state, and local governments function to a reasonable extent. But **the audience--the people for whose use a text is purposefully written**--is different. In the case of a police report, for example, there are really three audiences who are going to use/read the document in different ways:
 1. The supervisor, who is looking for incorrect grammar, missing details, incorrect facts/notations, and unclear narratives. Mostly wants to make sure the document is tight for CYA
 2. The district attorney/prosecutor, who doesn't care about grammar or how well the officer presents himself or herself; the DA is looking to determine if the suspect should be charged and prosecuted and is thus looking for details that will correspond with legal statutes.
 3. The defense attorney, who wants to derail the whole thing and looks for errors, missing information, contradictions, grammar errors that lead to confusion, and unethical or nonstandard police behaviors in the report.
@@ -63,6 +63,43 @@ Notice who's not in the list: **people who the report is about** (i.e. suspects,
 and how they segment their audience into some specific roles.
 
 ## Exigence, Purpose, and Doing stuff with writing.
+
+Now hold on a second and back up to that list of readers for the police report. Not only did that one teensy little narrative have three different audiences, but each of those audiences had an entirely different reason for using the police report. So, when we're talking about TPW... not only do texts frequently have multiple different audiences, those audiences probably have different needs and purposes.
+
+Let's break this down in a table:
+
+| Audiences of a police report | Purposes for reading a police report |
+| --- | --- |
+| The officer's supervisor | Reviews and collaborates (via editing and feedback) to ensure document is complete, correct, and clear; wants document to represent department well. |
+| The district attorney or prosecutor | Reviews for details related to chargeable and prosecutable offenses; looks for details so they can make a decision and build a strong case. |
+| The defense attorney | Reviews for errors, gaps, problems; wants to find problems with the report that undermine its or the officer's authority. |
+
+Another example. The National Transportation Safety Board (NTSB) investigates civil aviation, highway, marine, and other kinds of accidents. Their goal is to collect and record facts and determine probable cause, but the NTSB isn't regulatory). Part of their process is generating lots and lots of reports. NTSB accident report audiences are broadly summarized as "anyone who can affect change to improve transportation safety" ([NTSB style guide 1-3](https://www.governmentattic.org/30docs/NTSBwritigGuides_2014_2000.pdf)), but that includes a diverse bunch of people with different needs: Congress, Government transportation agencies, industry officials, and the news media.
+
+**Purpose refers to why writers are writing, but it also has to do with why audiences are reading**. So, with your writing, you might have generic purposes like documenting or creating a record, giving or requesting information, coordinating resources, justifying a decision, or persuading someone. Now think about audiences' different purposes for reading: are they trying learn something new? make a decision? implement a course of action? advise someone else? select from different options? What are they going to DO with what you've written?
+
+I can remember lots of times in school or college where I mostly just sat at a blinking computer screen thinking "Why do I have to write this?" In school, mostly the purpose for writing is to display your knowledge or mastery and to get a good grade. The audience (your teacher) already knows the material or at least the method involved, and wants you to show them that you know what they say you should know, and that you know that they know you know. With workplace writing, proving your brilliance generally ain't the point. Your purpose is all about getting sh** done or helping other people get their sh** done.
+
+As a writer, a clear sense of purpose can inform your invention and writing process, and can help you make choices about genre and style. If you have a clear sense for why you're writing and what you're trying to accomplish with it, you'll be able to make lots of decisions along the way about what to include or leave out, what voice or tone to use, or how much you have to explain about your graphs and tables.
+
+As a reader, being able to determine the purpose of a document can help you know what to do with it and whether or not it's relevant to your needs. A clear title, subject line, or introduction helps you understand the text's subject, why you should read it, and what you need to do with it. Sometimes a purpose becomes so inherent and repeated in an organization that it becomes presumed as part of a genre's reason for being and doesn't have to be stated anymore. That's why things like syllabi, resumes, and product manuals don't always have purpose statements. But you'll see from examples throughout the semester that explicit statements of purpose are common in many professional and technical genres. Some examples:
+
+| Example | Purpose statement from the text
+| --- | --- |
+| [How-to article, installing window unit A/Cs](https://www.popularmechanics.com/home/how-to/a6030/how-to-install-a-window-air-conditioner/) | "Here, I’ll share some tips on what to consider when buying an air conditioner, and then how to install it securely and remove it for winter storage." |
+| [NOAA Service Assessment report, Hurricane Katrina](https://www.weather.gov/media/publications/assessments/Katrina.pdf) | "This report provides specific recommendations and highlights best practices to be applied to NWS operations in future hazardous events." |
+| [OSHA Guidance on Preparing Workplaces for COVID-19](https://www.osha.gov/Publications/OSHA3990.pdf) | "The Occupational Safety and Health Administration (OSHA) developed this COVID-19 planning guidance based on traditional infection prevention and industrial hygiene practices. It focuses on the need for employers to implement engineering, administrative, and work practice controls and personal protective equipment (PPE), as well as considerations for doing so. This guidance is intended for planning purposes. Employers and workers should use this planning guidance to help identify risk levels in workplace settings and to determine any appropriate control measures to implement." |
+
+Not every document has an explicit statement of purpose, but once you start looking for them you'll start seeing them all over the place. Some of your teachers might frown on this kind of purpose statement, but this class is a safe space for you to try them out. I encourage you to start drafting with some version of the following; doing so will help you clarify what you're trying to do early on when purpose can be kind of nebulous:
+- The purpose of this memo is to ...
+- In this report, I will ...
+- This fact sheet ...
+
+You'll also sometimes see introductions (such as the OSHA example in the table above) that clarify purpose and audience at the same time. These statements help readers decide whether a document is relevant to their needs and if they should read it or not:
+- This design specification is for test engineers supporting Project Frambus.
+- This guide explains how to train a AlienWarez model, and how to serve the model in production.
+
+Even if it feels a little training wheels-ish at first, that's okay; you can always revise those statements into something more appropriate for your audience in a later draft. I won't talk about them here, but titles and subject lines are other key spaces where we can pick up information about audience and purpose.
 
 
 # For Tuesday

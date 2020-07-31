@@ -1,7 +1,7 @@
 [ENGL 3301, Fall 2020](../calendar.html)
 # Overview for Week 6
 
-Read:
+<mark>To read this week:</mark>
  - OTC 4.8: Graphics (https://alg.manifoldapp.org/read/open-technical-communication/section/d03f3bce-d354-4976-b0cd-63a1476416c2)
  - OTC 4.7: Tables, Charts, and graphs (https://alg.manifoldapp.org/read/open-technical-communication/section/b1ca4069-52c9-49bb-9e47-510858d4e6f3)
  - TWE 3.4: Figures and tables (https://pressbooks.bccampus.ca/technicalwriting/chapter/figurestables/)
