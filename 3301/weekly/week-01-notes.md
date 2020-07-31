@@ -5,15 +5,14 @@
 
 # Overview for Week 01
 
-<img src="media/tech-comm-tarly.jpg" title="Always read the instructions" alt="Always read the instructions" style="float:right; width:50%;">
 
 Each week, I'll provide you an overview (just like this document). These docs will detail specific readings, exercises, and due dates for each week. In general, when people email me about being confused about what to do that week, I will ask them "Did you check the overview?" Always check these weekly documents first! I will structure coursework around a Tuesday/Thursday schedule, so you will see assignments and readings broken up into two days each week. To read more about how and why the course is scheduled the way it is, please review the "Course Conduct" section of our syllabus.
 
-If you find something in error, or are confused about any part of the instructions, please email me at [christopher.andrews@tamucc.edu](mailto:christopher.andrews@tamucc.edu). If your question is one that the entire class will benefit from hearing, I will likely repost it in course announcements or the Troubleshooting forum!
+<img src="media/tech-comm-tarly.jpg" title="Always read the instructions" alt="Always read the instructions">
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRHBRH08gulIFo-REid2pU5IuI2cVcrvPBySYbx6nWu6M3sundDfy7ElQPtPh2pG15ie-WZkI2JJwGB/embed?start=false&loop=false&delayms=3000" frameborder="0" width="640" height="389"  allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+If you find something in error, or are confused about any part of the instructions, please email me at [christopher.andrews@tamucc.edu](mailto:christopher.andrews@tamucc.edu). If your question is one that the entire class will benefit from hearing, I will likely share the answer with everyone!
 
-We have a lot to do for this first week:
+## We have a few things to do during the first week:
 
 - Clarify the nature of and goals for the course
 - Get situated for online learning
@@ -23,13 +22,13 @@ We have a lot to do for this first week:
 Before you dig into class materials, be sure that you have:
 
  1. Located and carefully read our [course syllabus](http://cdmandrews.github.io/3301/index.html).
- 2. Reviewed the [course orientation slideshow](https://docs.google.com/presentation/d/e/2PACX-1vRHBRH08gulIFo-REid2pU5IuI2cVcrvPBySYbx6nWu6M3sundDfy7ElQPtPh2pG15ie-WZkI2JJwGB/pub?start=false&loop=false&delayms=3000)
- 2. Explored our Blackboard course shell. Can you locate:
-   - Your group area?
-   - Weekly assignments?
-   - Major project descriptions?
-   - Troubleshooting forum?
-   - Policies for late work, revision, and other issues that commonly come up in a semester?
+ 2. Reviewed the [course introduction slideshow](https://docs.google.com/presentation/d/e/2PACX-1vRHBRH08gulIFo-REid2pU5IuI2cVcrvPBySYbx6nWu6M3sundDfy7ElQPtPh2pG15ie-WZkI2JJwGB/pub?start=false&loop=false&delayms=3000)
+ 2. Viewed the [course orientation video](linkforthcoming) and explored our Blackboard course shell. Can you locate:
+   - your group area and discussion forums?
+   - weekly folders?
+   - major project descriptions?
+   - information about contacting your winsome professor?
+   - policies for late work and other issues that commonly come up in a semester?
  2. Uploaded a profile picture to Blackboard. If you need instructions, visit [Creating your Blackboard Profile](https://en-us.help.blackboard.com/Learn/9.1_Older_Versions/9.1_2014_and_2015/Student/030_Nav_My_Blackboard/Profiles).
 
 ## Okay, let's start with "Technical Writing" (Whatever that is)
@@ -58,15 +57,15 @@ Professional and technical writing helps readers **do things**: understand a new
 
 ## Due Thursday, August 20 before midnight
 
-1. Read [Chapter 1: Introduction to Technical Writing](https://alg.manifoldapp.org/read/open-technical-communication/section/0debb16b-f623-4033-a47b-973d65ab0961) from Open Technical Communication.
+1. Read [Chapter 1: Introduction to Technical Writing](https://alg.manifoldapp.org/read/open-technical-communication/section/0debb16b-f623-4033-a47b-973d65ab0961) from _Open Technical Communication_.
 
 2. If you skipped my "Okay, let's start with technical writing (whatever that is)" notes above, back up and read them as well.
 
-3. Post to your group's "Welcome" forum  **before midnight on Thursday**. Write a post in which you cover each of the following topics:
-  - Introduce yourself, your background, and your #goals. What should we know about you and your identity? Also, have you taken online classes before, or is this your first? What strategies would you offer to your classmates for succeeding in an online class?
-  - Choose a fictional character that represents who you are. At the end of your introduction, [post a gif of the character ](https://youtu.be/jp9HA6en5BA)and explain why you chose this character.
-  - Describe professional or job-related writing experience you have and how the writing you did reflect the **six characteristics of technical writing** from the Open TC chapter you read. Did you have to use a company email account for that internship? Did you write reports for twenty years before coming back to college? Did you ever take meeting minutes for a club you're in? Did you help manage an Instagram account for a nonprofit? Do you have a work email account? Have you ever had to write a personal statement to get a promotion?
-  - **Respond** to your group members' introductory statements. Say hello. Get to know each other. These are your fellow learners for the next 15 weeks.
+3. Post to your group's "<strong>Welcome to the group!"</strong> forum  **before midnight on Thursday**. Write a post in which you cover each of the following topics:
+  - Write a paragraph to introduce yourself, your background, and your #goals. What should we know about you and your identity? Also, have you taken online classes before, or is this your first? What strategies would you offer to your classmates for succeeding in an online class?
+  - Somewhere after that first paragraph, [insert a gif of a fictional character that represents who you are](https://youtu.be/jp9HA6en5BA) and explain why you chose this character.
+  - Write a paragraph that describes professional or job-related writing experience you have and how the writing you did reflect the **six characteristics of technical writing** from the Open TC chapter you read. Did you have to use a company email account for that internship? Did you write reports for twenty years before coming back to college? Did you ever take meeting minutes for a club you're in? Did you help manage an Instagram account for a nonprofit? Do you have a work email account? Have you ever had to write a personal statement to get a promotion?
+  - **Respond** to your group members' introductory statements. Say hello. Swap stories. Make conversation. Get to know each other. These are your fellow learners for the next 15 weeks.
 
 ## Looking ahead
 
