@@ -62,25 +62,29 @@ Notice who's not in the list: **people who the report is about** (i.e. suspects,
 - Another breakdown of audiences is over at the World Health Organization (WHO). See [“Goal and key audiences”](https://www.who.int/about/communications/goal-and-key-audiences)
 and how they segment their audience into some specific roles.
 
-## Exigence, Purpose, and Doing stuff with writing.
+## Purpose, or Doing stuff with writing.
 
-Now hold on a second and back up to that list of readers for the police report. Not only did that one teensy little narrative have three different audiences, but each of those audiences had an entirely different reason for using the police report. So, when we're talking about TPW... not only do texts frequently have multiple different audiences, those audiences probably have different needs and purposes.
+Now hold on a second and back up to that list of readers for the police report. Not only did that one teensy little narrative have three different audiences, but each of those audiences had an entirely different reason for using the police report. So, when we're talking about TPW, not only do texts frequently have multiple different audiences, those audiences probably have different needs and purposes.
 
-Let's break this down in a table:
+### Multiple audiences, multiple purposes, multiple aaaack.
 
-| Audiences of a police report | Purposes for reading a police report |
+Let's break our police report example down in a table:
+
+| Audiences of a police report | and their purpose for reading that report |
 | --- | --- |
 | The officer's supervisor | Reviews and collaborates (via editing and feedback) to ensure document is complete, correct, and clear; wants document to represent department well. |
 | The district attorney or prosecutor | Reviews for details related to chargeable and prosecutable offenses; looks for details so they can make a decision and build a strong case. |
 | The defense attorney | Reviews for errors, gaps, problems; wants to find problems with the report that undermine its or the officer's authority. |
 
-Another example. The National Transportation Safety Board (NTSB) investigates civil aviation, highway, marine, and other kinds of accidents. Their goal is to collect and record facts and determine probable cause, but the NTSB isn't regulatory). Part of their process is generating lots and lots of reports. NTSB accident report audiences are broadly summarized as "anyone who can affect change to improve transportation safety" ([NTSB style guide 1-3](https://www.governmentattic.org/30docs/NTSBwritigGuides_2014_2000.pdf)), but that includes a diverse bunch of people with different needs: Congress, Government transportation agencies, industry officials, and the news media.
+Another example: The National Transportation Safety Board (NTSB) investigates civil aviation, highway, marine, and other kinds of accidents. Their goal is to collect and record facts and determine probable cause, but the NTSB isn't regulatory). Part of their process is generating lots and lots of reports. NTSB accident report audiences are broadly summarized as "anyone who can affect change to improve transportation safety" ([NTSB style guide 1-3](https://www.governmentattic.org/30docs/NTSBwritigGuides_2014_2000.pdf)), but that includes a diverse bunch of people with different needs: Congress, Government transportation agencies, industry officials, and the news media.
 
 **Purpose refers to why writers are writing, but it also has to do with why audiences are reading**. So, with your writing, you might have generic purposes like documenting or creating a record, giving or requesting information, coordinating resources, justifying a decision, or persuading someone. Now think about audiences' different purposes for reading: are they trying learn something new? make a decision? implement a course of action? advise someone else? select from different options? What are they going to DO with what you've written?
 
 I can remember lots of times in school or college where I mostly just sat at a blinking computer screen thinking "Why do I have to write this?" In school, mostly the purpose for writing is to display your knowledge or mastery and to get a good grade. The audience (your teacher) already knows the material or at least the method involved, and wants you to show them that you know what they say you should know, and that you know that they know you know. With workplace writing, proving your brilliance generally ain't the point. Your purpose is all about getting sh** done or helping other people get their sh** done.
 
-As a writer, a clear sense of purpose can inform your invention and writing process, and can help you make choices about genre and style. If you have a clear sense for why you're writing and what you're trying to accomplish with it, you'll be able to make lots of decisions along the way about what to include or leave out, what voice or tone to use, or how much you have to explain about your graphs and tables.
+### Explicit purpose statements
+
+As a writer, a clear sense of purpose can inform your invention and writing process, and can help you make choices about genre and style. If you have a clear sense for why you're writing and what you're trying to accomplish with it, you'll be able to make lots of decisions along the way about what to include or leave out, what voice or tone to use, or how much you have to explain about your graphs and tables. (And that's all stuff we'll talk about through the semester.)
 
 As a reader, being able to determine the purpose of a document can help you know what to do with it and whether or not it's relevant to your needs. A clear title, subject line, or introduction helps you understand the text's subject, why you should read it, and what you need to do with it. Sometimes a purpose becomes so inherent and repeated in an organization that it becomes presumed as part of a genre's reason for being and doesn't have to be stated anymore. That's why things like syllabi, resumes, and product manuals don't always have purpose statements. But you'll see from examples throughout the semester that explicit statements of purpose are common in many professional and technical genres. Some examples:
 
