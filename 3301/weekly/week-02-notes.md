@@ -4,8 +4,6 @@
 
 For this week, we're continuing our general introduction to TPW, especially focusing on [audience](https://writingcommons.org/section/information-literacy/information/consider-your-audience/) and [exigence/purpose](https://writingcommons.org/section/rhetoric/rhetorical-situation/purpose/). These concepts are important, and we'll come back to them again and again for the entire semester. We'll also spend time talking about correspondence [genres](https://writingcommons.org/section/genre/), especially email and memos.
 
-<div style="background-color: aliceblue; padding: 1em;">
-
 To read this week:
   - Review [OTC Chapter 1](https://alg.manifoldapp.org/read/open-technical-communication/section/0debb16b-f623-4033-a47b-973d65ab0961) (we read it last week)
   - [TWE Chapter 1: What is Technical Communication?](https://pressbooks.bccampus.ca/technicalwriting/part/techcomm/)
@@ -18,8 +16,7 @@ Also read:
   - [Why Emoji Are Suddenly Acceptable at Work](https://www.theatlantic.com/business/archive/2015/05/why-emoji-are-suddenly-acceptable-at-work/393191/)
   - [TWE 7.1: Correspondence](https://pressbooks.bccampus.ca/technicalwriting/chapter/correspondence/) briefly describes guidelines and format for email, memo, and other workplace formats.
   - [OTC 2.13: Memos and Emails](https://alg.manifoldapp.org/read/open-technical-communication/section/ae63b0b2-c5f8-4747-bd36-365f68a55c77) digs into culture and convention around correspondence formats, which will help you think about formats and styles.
-</div>
-
+  
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRCnu94gyM8eTxESllmHqX9V1Ikc3PWsyoaVb1Q9Bk1-vyKMgXCYnwCdr29HY8v6T-SiAha9vFlwJQY/embed?start=false&loop=false&delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## Audiences and TPW

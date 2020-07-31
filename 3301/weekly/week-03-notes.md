@@ -6,22 +6,19 @@
 
 At the center of technical communication is the idea that technologies and the communication that surrounds them should support human dignity and human rights. Rather than simply concerned with being efficient or easy (yes, those are important), we should be sensitive to the fact that tech comm is **for people** and should be **effective**. It affects people: it can help them or it can hurt them, it can confuse or it can clarify. It can enhance difference or erase it. It can advocate for change, or it can reinforce harmful perspectives and epistemologies.
 
-<div style="background-color: aliceblue; padding: 1em;">
-
-To read this week:
+**To read this week:**
 -  [OTC Chapter 3, Ethics in Technical Communication](https://alg.manifoldapp.org/read/open-technical-communication/section/8b530f4b-5942-4071-845a-0a138601da10). The video in this chapter is definitely worth. your. time. Yes, it's a little longish, and yes it's just slightly dated in one or two areas, but on the whole it's solid. (In 2020, singular "they" is increasingly accepted as an appropriate nongendered usage. Also, the "use African-American/European-American vs use Black/White" topic has moved a bit since this video.) Some important topics in that chapter:
   - ethics: utility, rights, justice, and care
   - consequences of faulty communication
   - appropriate language (or imprecise/biased language)
   - copyright and intellectual property
   - analyzing and presenting data
-
 - Also review [this short resource on ethical presentation of research and data](https://openoregon.pressbooks.pub/technicalwriting/chapter/9-3-typical-ethics-issues-in-technical-writing/), which includes the following topics:
   - selecting, cherry-picking, and suppressing information
   - presenting visual data ethically
-</div>
 
-I'm just gonna put out there right now that I think good tech writing can't be neutral--that it must put people at the center, that it must value human life and dignity, that it can and should encompass cultural difference, that no duh if we're going to be all about audiences than we should take into account native languages and experiences of readers. The fundamental truth of how I've taught TC for years is "you are not your user." That is, the people who are reading/using/affected by your communication are **different** than you, and in all kinds of ways. There is no monoculture; there is no single way of being and doing in the world. That difference is a good thing. And it's also a communication problem for you to resolve--but you never ever do that by making things harder for your audience.
+
+I'm just going to put out there right now that I think good tech writing can't be neutral--that it must put people at the center, that it must value human life and dignity, that it can and should encompass cultural difference, that no duh if we're going to be all about audiences than we should take into account native languages and experiences of readers. The fundamental truth of how I've taught TC for years is "you are not your user." That is, the people who are reading/using/affected by your communication are **different** than you, and in all kinds of ways. There is no monoculture; there is no single way of being and doing in the world. That difference is a good thing. And it's also a communication problem for you to resolve--but you never ever do that by making things harder for your audience.
 
 **Burying (Hiding?) important information.** For example, this ICE memo released on July 6 2020 by the US Department of Homeland Security (https://www.ice.gov/doclib/sevis/pdf/bcm2007-01.pdf). The memo explains to college administrators that their international (nonimmigrant) students must take either onsite courses or a mix of onsite and online courses in the Fall 2020 semester to remain in the United States. Unfortunately, the memo is generally unclear, burying information in long, dense paragraphs and sentences. Look at the following sentence:
 > If a school changes its operational stance mid-semester, and as a result a nonimmigrant student switches to only online classes, or a nonimmigrant student changes their course selections, and as a result, ends up taking an entirely online course load, schools are reminded that nonimmigrant students within the United States are not permitted to take a full course of study through online classes
@@ -29,7 +26,6 @@ I'm just gonna put out there right now that I think good tech writing can't be n
 If you can parse that statement, you'll find a pretty significant policy explanation, considering our experiences in Spring 2020 and the ongoing COVID-19 crisis. Now look at the memo and try to find that sentence. Burying such a key fact in a long, passive sentence in a long, dense, paragraph in the middle of a long memo raises some serious ethical questions. It's bad enough that it's a cruel policy, but what are the implications of that statement in particular being located where it is? We can't know _why_ it's buried, but we can think about the _effects and implications_ of someone doing it.
 
 **AKA oppression through content prioritization.** Or here's another one. Go to the [DHS ICE website](https://www.ice.gov/) and look at the menu options. Compare the menu in English to the menu en Espa&ntilde;ol. What's changed in one version to the other? What's prioritized in each? Note how numerous content tabs are removed from the Spanish version of the site, including the "Careers" tab. This tab includes career opportunities and other content. What does its complete removal reveal about the goals and perspectives of the organization?
-
 
 **Audience, justice, ethics.** This week we're opening up our concern with specific audiences and purposes to include justice and ethics, which introduces a number of concerns. It's easy to get into ethics and TPW as a list of do's and don'ts, and I don't only want to do that. What I really like about the chapter you'll read from this week is that it starts by reminding us that ethics is situational and rife with dilemmas: the competing obligations we have to our society, our employer, our profession, our colleagues, our families, and ourselves.
 

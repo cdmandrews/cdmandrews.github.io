@@ -104,10 +104,8 @@ We will look at some examples of fact sheets, but you should strive to make your
  - [CDC Coronavirus fact sheet](https://www.cdc.gov/coronavirus/2019-ncov/downloads/2019-ncov-factsheet.pdf)
  - [Census.gov fact sheets](https://www.census.gov/library/fact-sheets.html)
 
-<div style="background-color: #bad0e6; padding: 1em;">
-
-**Writers of all abilities and experience levels can benefit from appointments with a Writing Consultant in the [CASA Writing Center](http://casa.tamucc.edu/wc.php). Formatting, spelling, and grammatical errors can make your documents difficult to read and understand or can undermine your content.**
-
+<div style="background-color: aliceblue; padding: 1em;">
+<p>Writers of all abilities and experience levels can benefit from appointments with a Writing Consultant in the <a href="http://casa.tamucc.edu/wc.php" >CASA Writing Center</a>. Formatting, spelling, and grammatical errors can make your documents difficult to read and understand or can undermine your content.</p>
 </div>
 
 [1] This project started life adapted from [a similar assignment by Traci Gardner](http://3764s16.tracigardner.com/assignments/project-2-analysis-of-writing-in-your-field-2/) and licensed under a Creative Commons license.

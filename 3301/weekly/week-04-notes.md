@@ -6,9 +6,7 @@
 
 What does how a document looks and how a document works have to do with what a document does? **finish writing this article**
 
-<div style="background-color: aliceblue; padding: 1em;">
-
-To read this week:
+**To read this week:**
 - [Subheadings: Perhaps the Most Useful Technique in Technical Writing](https://idratherbewriting.com/2013/08/23/subheadings-perhaps-the-most-useful-technique-in-technical-writing/) is an excellent article about subheadings that also actually practices what it preaches.
 - [Guidelines for Print Document Design](https://www.aph.org/aph-guidelines-for-print-document-design/) describes optimal usability standards for creating documents that persons with low vision can use (from American Printing house for the Blind)
 - [TWE Chapter 3: Document Design](https://pressbooks.bccampus.ca/technicalwriting/part/documentdesign/) is a brief overview of essential factors for document design. Focus on the following sections:
@@ -19,14 +17,12 @@ To read this week:
   - [4.4 Headings](https://alg.manifoldapp.org/read/open-technical-communication/section/86acfd75-0fcf-4f84-81aa-da087f3748a5)
   - [4.5 Bulleted and numbered lists](https://alg.manifoldapp.org/read/open-technical-communication/section/186ea758-92f6-4495-b6df-01061e39ec68)
 
-</div>
-
 
 <p><iframe width="640" height="389" src="https://docs.google.com/presentation/d/1-itoFjVtbyHlaBp79TP5tyXtl3fLC5Nt_cU00tC-neo/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></p>
 
 An effective document design helps your intended audience locate and understand the information they need when they need it. As you may realize from reading the assigned texts, designing uncluttered pages that are easy to read, meet and audience's genre expectations, and satisfiy our own purposes is not as simple as it might sound. Because of all of the bells and whistles in our word processors, it's very easy to create ineffective documents.
 
-[This Google Drive folder contains two Environmental Impact Statements (including all attachments) and a small selection of NTSB Accident reports.]() They are just a resource so you can see examples of different styles of headings in reports. As you review them, think about how headings help readers with different agendas or purposes navigate documents? What can you tell about the intended audiences of the document by looking at the headings and how they present and guide readers through content? How would executive readers use the document differently than technical readers? How does the report support those (and other kinds) of reading?
+[This Google Drive folder contains two Environmental Impact Statements (including all attachments) and a small selection of NTSB Accident reports.](http) They are just a resource so you can see examples of different styles of headings in reports. As you review them, think about how headings help readers with different agendas or purposes navigate documents? What can you tell about the intended audiences of the document by looking at the headings and how they present and guide readers through content? How would executive readers use the document differently than technical readers? How does the report support those (and other kinds) of reading?
 
 See also:
 

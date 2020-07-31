@@ -63,8 +63,6 @@ As an addendum to your project you must also turn in a 2-page [memo](https://owl
 - Number of pages? **Long enough to meet the needs of the rhetorical situation**.
 
 
-<div style="background-color: #bad0e6; padding: 1em;">
-
-**Writers of all abilities and experience levels can benefit from appointments with a Writing Consultant in the [CASA Writing Center](http://casa.tamucc.edu/wc.php). Formatting, spelling, and grammatical errors can make your documents difficult to read and understand or can undermine your content.**
-
+<div style="background-color: aliceblue; padding: 1em;">
+<p>Writers of all abilities and experience levels can benefit from appointments with a Writing Consultant in the <a href="http://casa.tamucc.edu/wc.php" >CASA Writing Center</a>. Formatting, spelling, and grammatical errors can make your documents difficult to read and understand or can undermine your content.</p>
 </div>
