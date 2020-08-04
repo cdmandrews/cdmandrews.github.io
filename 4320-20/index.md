@@ -21,9 +21,9 @@ We will study knowledge work, ethics of networked identities and organizations, 
 ## Course Outcomes
 Upon successful completion of this course, students will be able to:
 - Apply rhetorical skills relevant to digital composing and social media, including:
- - Planning, composing, and revising accessible, rhetorical content
- - Repurposing content for different delivery media
- - Working with governance and content strategy
+  - Planning, composing, and revising accessible, rhetorical content
+  - Repurposing content for different delivery media
+  - Working with governance and content strategy
 - Explain ethical, social, and technological issues relevant to professional and personal uses of social media
 - Evaluate distinctive social media practices in professions, organizations, or communities relevant to their academic interests or career field
 
