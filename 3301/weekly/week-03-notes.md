@@ -27,7 +27,7 @@ If you can parse that statement, you'll find a pretty significant policy explana
 
 **AKA oppression through content prioritization.** Or here's another one. Go to the [DHS ICE website](https://www.ice.gov/) and look at the menu options. Compare the menu in English to the menu en Espa&ntilde;ol. What's changed in one version to the other? What's prioritized in each? Note how numerous content tabs are removed from the Spanish version of the site, including the "Careers" tab. This tab includes career opportunities and other content. What does its complete removal reveal about the goals and perspectives of the organization?
 
-**Audience, justice, ethics.** This week we're opening up our concern with specific audiences and purposes to include justice and ethics, which introduces a number of concerns. It's easy to get into ethics and TPW as a list of do's and don'ts, and I don't only want to do that. What I really like about the chapter you'll read from this week is that it starts by reminding us that ethics is situational and rife with dilemmas: the competing obligations we have to our society, our employer, our profession, our colleagues, our families, and ourselves.
+**Audience, justice, ethics.** This week we're opening up our concern with specific audiences and purposes to include justice and ethics, which introduces a number of concerns. It's easy to get into ethics and TPW as a list of do's and don'ts, and I don't only want to do that. What I really like about the chapter you'll read from this week is that it starts by reminding us that ethics is situational and rife with dilemmas: the competing obligations we have to our society, our employer, our profession, our colleagues, our families, and ourselves. You need to be able to identify ethical challenges as they arise in the workplace and you need to be able to resolve them.
 
 "Utility, rights, justice, and care" are complex. I do encourage you to look at some of the "Sample ethical dilemmas" in the Open TC chapter, as they are good examples of communication situations that might have multiple right answers, or where an answer that's right by one metric is totally wrong by another.
 
@@ -36,22 +36,22 @@ This week's material will also help you begin to look for the different ways fau
 
 # For Tuesday
 
-Participate in the "Communication heroes" discussion forum in your group
+Participate in the "Postcard ethics" discussion forum in your group
 
- 1. While you're letting all that percolate in your brain, write a discussion post in your group's "Communication Heroes" forum:
-  - Identify a communication hero and tell the story of someone who supports ethics and social justice through **communicative acts**. This could be someone famous, or someone under the radar; it could be someone you know personally, a teacher, family member, coworker or community member, or it could be someone you have researched and read about. Why are they a communication hero? What lessons can you learn from them? Why is that so important to you?
-  - Your post should be no shorter than 250 words, please.
+ - Review the short ["Reimagining the Coronavirus Postcard" article](https://medium.com/wehearthealthliteracy/reimagining-the-coronavirus-postcard-a42bc87d698f). You probably received the "President Trump's Coronavirus Guidelines for America" postcard in your mailbox earlier this year. The authors of the article noticed some issues with the postcard and redesigned it according to three basic health communication strategies: use everyday language, strike a conversational tone, emphasize the main message. Review the Before and After versions of the card and note some of the changes.
+ - In the forum, discuss the following with your group:
+    - What impression does each version of the card make? In what sense are those three strategies about **ethics** as well as about **style** (the kinds of words and sentences you use) and **design** (how things look on the page)? As you discuss the communication situation for this postcard, apply conceptual categories from this week's assigned chapter: *utility, rights, justice, and caring*.
+    - Your post should be no shorter than 250 words.
 
 # For Thursday
-Writers and professionals of all kinds should consider to whom they have ethical obligations, major types of unethical communication (whether intentional or unintentional), and issues around using copyrighted information in professional organizations.
-
-Just following rules of thumb for good writing is not enough. You've got to think about what you say and how your audience will be affected by it. Sadly, we can read about people communicating unethically, unjustly, or just plain awfully just about every day--and we can see (or worse, experience) the implications of their failure to be ethical.
+Just following rules of thumb for good writing is not enough. You've got to think about what you say and how your audience will be affected by it. Sadly, we can read about people communicating unethically, unjustly, or just plain awfully just about every day--and we can see (or worse, experience) the implications of their failure to be ethical. Writers and professionals of all kinds should consider their ethical obligations, major types of unethical communication (whether intentional or unintentional), and issues around using copyrighted information in professional organizations.
 
 Participate in the "How NOT to write" discussion forum in your group:
 
-  - Go back through the [chapter on Ethics in Technical Communication]((https://alg.manifoldapp.org/read/open-technical-communication/section/8b530f4b-5942-4071-845a-0a138601da10) and identify **at least three** specific issues or topics that you see as particularly relevant to your professional goals. Prepare a short slideshow about why you think they are important in the line of work you'd like to take up.
+  - Go back through the [chapter on Ethics in Technical Communication]((https://alg.manifoldapp.org/read/open-technical-communication/section/8b530f4b-5942-4071-845a-0a138601da10) and identify **at least three** specific issues or topics that you see as particularly relevant to your professional goals.
+  - Prepare a short slideshow (5+ slides) about why you think those three topics are important in the line of work you'd like to take up.
     - Rather than writing loooong unbroken paragraphs on your slides, use a combination of headings, lists, and paragraphs to discuss issues/topics/principles and describe and give examples for each of them in turn. Think about your audience, and use text and slide formatting to emphasize important information. Make your slides easy to read and follow, and use visuals to provide examples or evidence.
-  - Close out your slideshow by sharing a link to a recent news story (must be from the last five years) that exemplifies one or more of the ideas you wrote about. Ideally, these should be about a professional in your field, but it's okay if it's not. What dilemmas or obligations did they have to resolve? How did they do so?
+  - Close out your slideshow by sharing a link to a recent news story (ideally from the last five years) that exemplifies one or more of the ideas you wrote about. Ideally, these should be about a professional in your field. What dilemmas or obligations did they have to resolve? How did they do so?
     - [How to change the text of your hyperlinks to avoid long and ugly URLs](https://support.microsoft.com/en-gb/office/customize-the-text-for-a-hyperlink-63d4fdcc-bce2-41ea-9649-d8aaa900fe2f)
   - In replies to each others' posts, compare notes with your group members.
 

@@ -11,7 +11,6 @@
 
 1. Participate in the "Outer limits of professional and technical communication" nearpod (?)
 
-
 # Tuesday
 
 1. Participate in your group's mid-term discussion forum according to the following prompt:

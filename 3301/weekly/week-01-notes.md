@@ -21,7 +21,7 @@ Before you dig into class materials, be sure that you have:
 
  1. Located and carefully read our [course syllabus](http://cdmandrews.github.io/3301/index.html).
  2. Reviewed the [course introduction slideshow](https://docs.google.com/presentation/d/e/2PACX-1vRHBRH08gulIFo-REid2pU5IuI2cVcrvPBySYbx6nWu6M3sundDfy7ElQPtPh2pG15ie-WZkI2JJwGB/pub?start=false&loop=false&delayms=3000)
- 2. Viewed the [course orientation video](linkforthcoming) and explored our Blackboard course shell. Can you locate:
+ 2. Viewed the [course orientation video](https://youtu.be/D6NADNhfLdU) and explored our Blackboard course shell. Can you locate:
    - your group area and discussion forums?
    - weekly folders?
    - major project descriptions?
@@ -30,7 +30,7 @@ Before you dig into class materials, be sure that you have:
  2. Uploaded a profile picture to Blackboard. If you need instructions, visit [Creating your Blackboard Profile](https://en-us.help.blackboard.com/Learn/9.1_Older_Versions/9.1_2014_and_2015/Student/030_Nav_My_Blackboard/Profiles).
 
 ## Okay, let's start with "Technical Writing" (Whatever that is)
-<sub>(Adapted from https://www.prismnet.com/~hcexres/textbook/intro.htm)</sub>
+<sub>(This article contains material adapted from https://www.prismnet.com/~hcexres/textbook/intro.htm)</sub>
 
 Technical and professional writing (TPW) courses introduce you to some of the most important aspects of writing in the worlds of science, technology, and business—in other words, _the kind of writing that scientists, nurses, doctors, computer specialists, government officials, engineers, and other such people do as a part of their regular work_.
 

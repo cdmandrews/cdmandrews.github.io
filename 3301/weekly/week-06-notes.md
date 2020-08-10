@@ -1,20 +1,19 @@
 [ENGL 3301, Fall 2020](../calendar.html)
 # Overview for Week 6
 
-<mark>To read this week:</mark>
- - OTC 4.8: Graphics (https://alg.manifoldapp.org/read/open-technical-communication/section/d03f3bce-d354-4976-b0cd-63a1476416c2)
- - OTC 4.7: Tables, Charts, and graphs (https://alg.manifoldapp.org/read/open-technical-communication/section/b1ca4069-52c9-49bb-9e47-510858d4e6f3)
- - TWE 3.4: Figures and tables (https://pressbooks.bccampus.ca/technicalwriting/chapter/figurestables/)
-
-
 ## Pics or it didn't happen
 Humans are incredibly visual creatures. Look at any Instagram account and you will see evidence that we are able to communicate rich, specific information in an incredibly short time with a picture. (Insert that cliché we all know about a thousand words here.)
 
 As your readings made clear, professional communicators often rely on  **illustrations**  along with or instead of words to convey our messages. We can break illustrations into two categories:  **tables**  and  **figures**. Depending on your academic background, you may or may not have a lot of experience working with tables and figures, but as professional writers, alternate methods of presenting data and information are valuable. You must be able to decide when to use an illustration and evaluate whether or not your illustration will be effective.
 
-Some of you in an earlier assignment pointed out that the &quot;Know&quot; photograph in the Ready Corpus Christi hurricane preparedness flier was a problem: it was a good quality photo, and while it was thematically relevant, it didn't fit the brief, informative purpose of the document. The photo also took up too much space on the page; the space might have been better suited to more complete information about emergency routes or the ReverseAlert system.
+<mark>To read this week:</mark>
+ - OTC 4.8: Graphics (https://alg.manifoldapp.org/read/open-technical-communication/section/d03f3bce-d354-4976-b0cd-63a1476416c2)
+ - OTC 4.7: Tables, Charts, and graphs (https://alg.manifoldapp.org/read/open-technical-communication/section/b1ca4069-52c9-49bb-9e47-510858d4e6f3)
+ - TWE 3.4: Figures and tables (https://pressbooks.bccampus.ca/technicalwriting/chapter/figurestables/)
 
-This week, you'll continue working and thinking about illustrations. In fact, your first major project, the reference sheet on writing in your field will rely just as much on visual design and spatial arrangement as it will on clean written content.
+## Visuals with purpose
+
+Think back to that &quot;Know&quot; photograph in the Ready Corpus Christi hurricane preparedness flier a few weeks ago. I look at it, and it's kind of weird: it was a good quality photo, and while it was thematically relevant, it didn't fit the brief, informative purpose of the document. The photo also took up too much space on the page; the space might have been better suited to more complete information about emergency routes or the ReverseAlert system.
 
 - quality graphics
 - kinds of graphics
