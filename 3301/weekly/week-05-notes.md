@@ -4,9 +4,9 @@
 
 ## Tech writing style: Who's kicking whom?
 
-> Langauge changes over time. It always has. Our expectations of appropriate style also change over time. They always have.
+> Langauge changes over time. It always has. Our expectations of appropriate style also change over time. They always have.  (Janice Redish, *Letting Go of the Words*)
 
-This week is about style: the way you express your ideas in a document, from the paragraph level to sentence structure and the words and phrases you use. **Style** is different from **correctness**, which has to do with squeaky-clean grammar, mechanics, and spelling. As your reading this week will point out, style guidelines (such as the 7Cs) can conflict with each other, and there are always tradeoffs. You need to be able to **notice** different styles when you see them and **make decisions** about when to use a particular style or not.
+This week's readings are about style: the way you express your ideas in a document, from the paragraph level to sentence structure and the words and phrases you use. **Style** is different from **correctness**, which has to do with squeaky-clean grammar, mechanics, and spelling. As your reading this week will point out, style guidelines (such as the 7Cs) can conflict with each other, and there are always tradeoffs. You need to be able to **notice** different styles when you see them and **make decisions** about when to use a particular style or not.
 
 Oh by the way, this ain't a grammar course. I ain't fixin' your grammar for fifteen weeks. What I'd really like to focus us on this week&mdash;and beyond&mdash;is how we make choices with our words and sentences and the implications of those choices. What's style got to do with audience? Purpose? Context? And what the heck does **clear** mean?
 
@@ -62,7 +62,7 @@ Good&mdash;ethical, just, human, awesome&mdash;communicators write inclusively a
 
 ### The 7Cs and style at work.
 
-Style is important because, as you've been learning, people aren't paid to read your documents. They're paid to work. This work often involves reading things, but that's not the primary focus of most jobs. When you place important information at the beginning of a document rather than the end and when you create short, information-rich paragraphs with clear, active sentence structures and jargon-less prose, you help readers understand and act on information safely and efficiently.
+An appropriate style matters because, as you've been learning, people aren't paid to read your documents. They're paid to work. This work often involves reading things, but that's not the primary focus of most jobs. When you place important information at the beginning of a document rather than the end and when you create short, information-rich paragraphs with clear sentence structures and words appropriate for the audience's reading needs, you help readers understand and act on information safely and efficiently.
 
 I won't go into the 7Cs at length here&mdash;[that's what the textbook is for](https://pressbooks.bccampus.ca/technicalwriting/chapter/communicatingprecision/). But I'll add the list here so you can have a quick reference to it. Communication needs to be:
 - Clear
@@ -73,13 +73,13 @@ I won't go into the 7Cs at length here&mdash;[that's what the textbook is for](h
 - Complete
 - Courteous
 
-One more time for the people in the back: the basic principles of effective style listed in your readings are all about readers. While correctness is important, using a style that is understandable and conventional for readers and will help them meet their goals is critical.
+One more time for the people in the back: the basic principles of effective style listed in your readings are *all about readers*. While correctness is important, using a style that is understandable and conventional for readers *and* will help them meet their goals *is critical*.
 
 # Tuesday
 
 Participate in the "Make it plain" discussion forum in your group. You've got a two-part task this time out:
 
-- Write reflectively in response to this week's readings:  What is a "professional style"? What does it look like, sound like, feel like? What did you think that phrase meant six weeks ago (if you thought about it all)? What do you think that means for you today?
+- First, write reflectively in response to this week's readings:  What is a "professional style"? What does it look like, sound like, feel like? What did you think that phrase meant six weeks ago (if you thought about it all)? What do you think that means for you today?
 
 - Choose ten concepts, technical terms, processes, acronyms, or jargon from your major.
   - List your ten terms, along with definitions that would be appropriate for a professional or academic in that field.
@@ -102,3 +102,7 @@ Finish the Power Searching 1 assignment in the Week 05 folder.
   2. Post the screenshot of your mid-course assessment.
 
 # Looking ahead
+
+In [week 6](week-06-notes) we're taking a quick dive into visuals: tables, charts, pictures, and other graphical goodness.
+
+Oh, and bedbugs. Get ready!!

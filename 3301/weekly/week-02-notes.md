@@ -36,8 +36,6 @@ Occasionally in professional and technical writing texts or articles you'll see 
 
 Unfortunately, that's often not true. In fact, that viewpoint is a one-dimensional and super-condescending way of looking at professional and technical writing. Doing audience analysis is NOT about assuming your audience is dumber than you. (Put yourself in the reverse position--do you want everyone assuming you're the dumb one? Nope.) Instead, audience analysis is about considering what your readers know already, what they need to know, and how they need to know it. If you write like a 6th-grader to a Ph.D. or a small-business owner, you're going to make someone mad. Figure out who the specific kind of person is on the other end of your communication and write to them (user experience and web designers use something called [personas](https://www.usability.gov/how-to-and-tools/methods/personas.html)).  
 
-
-
 The _Plain Language Act_ website has two great short resources on addressing audiences: [Do your research](https://plainlanguage.gov/guidelines/audience/do-your-research/) and  [Address the user](https://plainlanguage.gov/guidelines/audience/address-the-user/).
 
 ### General audiences, aka "The public"

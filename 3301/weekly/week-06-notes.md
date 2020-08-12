@@ -44,3 +44,9 @@ Finish the Power Searching 2 assignment in the week 06 folder.
   4. Post the screenshot of your post-course assessment.
 
 # Looking ahead
+
+[Week 7](week-07-notes) marks the end of the first unit of the course. In Weeks 1 through 6, you've gotten a rapid-fire introduction to some primary strategies, elements, and approaches to technical and professional writing. It was quick and dirty, I know! Don't worry--through the next two units of the course, we'll return to these ideas, refine them and look at examples in your fields, that will help you put them into action.
+
+Next week, you will zoom out and think broadly again about what technical and professional writing/communication is all about and how some of the things you've learned apply to the kinds of writing you see yourself doing 'out there' in the professional world.
+
+As you'll remember from [the syllabus](../index.html), there's no mid-term exam in the course. Next week's discussion is basically your mid-term, so bring your best efforts to bear.

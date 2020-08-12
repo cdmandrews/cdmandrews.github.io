@@ -23,6 +23,23 @@ What does how a document looks and how a document works have to do with what a d
 
 An effective document design helps your intended audience locate and understand the information they need when they need it. As you may realize from reading the assigned texts, designing uncluttered pages that are easy to read, meet and audience's genre expectations, and satisfiy our own purposes is not as simple as it might sound. Because of all of the bells and whistles in our word processors, it's very easy to create ineffective documents.
 
+## Formats, Templates, and Reinventing the Wheel
+
+## Genres and TPW
+
+| Basic Genres of TPW | But really we're talking genres like: |
+|---|---|
+| Correspondence | Letters, Memos, Email, Text Messages, Instant messaging, Social media posts |
+| Reports | Technical reports, Progress reports, Recommendation reports, Feasibility reports, Research reports, Laboratory reports, Oral reports |
+| Proposals | Grant proposals, White papers, Internal & External proposals, Solicited & Unsolicited proposals, Requests for proposals |
+| Manuals | Product manuals, User manuals, Operations manuals, other kinds of manuals... |
+| Stuff that doesn't quite fit in those categories | Meeting minutes, Resumes, Policies and Procedures, Blogs, Website copy, MIssion/Purpose statements, Forms of many different kinds, Statements of many different kinds, Stuff that's super-specific to fields and workplaces, |
+| And there's even more that I couldn't list here... |   |
+
+[Genre in technical communication](https://genreacrossborders.org/research/technical-communication)
+Swales 2004, "constellations of genres"
+Bazerman 1994, genre system, "interrelated genres that interact with each other in specific settings"
+
 
 # For Tuesday
 
@@ -38,7 +55,7 @@ Complete the "Hurricane DocDesign" assignment in the Week 4 folder
   - Are words and illustrations complementary?
   - Does the designer use frequent, descriptive, and distinctive headings?
 
-Write a letter, memo or email that you might send to the City of Corpus Christi Office of Emergency Management suggesting your revisions. You could write this from the perspective of a concerned citizen, a thoughtful city employee, or some other role. In your communication, help your readers scan and locate information by using descriptive, distinctive headings and other document design elements.
+Write a letter, memo or email that you might send to the City of Corpus Christi Office of Emergency Management suggesting your revisions. Decide whether you want to write this from the perspective of a concerned citizen, a thoughtful city employee, or some other role, and select an appropriate genre and format. In your communication, help your readers scan and locate information by using descriptive, distinctive headings and other document design elements.
 
 Upload your letter, memo,﻿ or email as a ﻿﻿﻿﻿﻿﻿﻿Word document to the assignment in Blackboard. ﻿﻿﻿﻿﻿﻿﻿﻿﻿ In the "comments" with your submission, explain why you chose the format you did and what difficulties or successes you had.﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿
 
