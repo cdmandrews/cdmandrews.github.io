@@ -4,7 +4,7 @@
 
 ## Big picture
 
-<mark>To read this week:</mark>
+<mark>Assigned to read this week:</mark>
  - [Academic disciplines and professional literacies](https://openenglishatslcc.pressbooks.com/chapter/so-you-wanna-be-an-engineer-a-welder-a-teacher-academic-disciplines-and-professional-literacies/)
  - [&quot;What is Technical Communication&quot;](https://www.youtube.com/watch?v=Fi5eZ2XLJc4) from Carol Siri Johnson
  - [&quot;Professional and Technical Communication: An Overview&quot;](https://writingcommons.org/article/professional-and-technical-communication-an-overview/) from Writing Commons

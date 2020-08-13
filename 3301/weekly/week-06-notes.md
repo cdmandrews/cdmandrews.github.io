@@ -6,7 +6,7 @@ Humans are incredibly visual creatures. Look at any Instagram account and you wi
 
 As your readings made clear, professional communicators often rely on  **illustrations**  along with or instead of words to convey our messages. We can break illustrations into two categories:  **tables**  and  **figures**. Depending on your academic background, you may or may not have a lot of experience working with tables and figures, but as professional writers, alternate methods of presenting data and information are valuable. You must be able to decide when to use an illustration and evaluate whether or not your illustration will be effective.
 
-<mark>To read this week:</mark>
+<mark>Assigned to read this week:</mark>
  - OTC 4.8: Graphics (https://alg.manifoldapp.org/read/open-technical-communication/section/d03f3bce-d354-4976-b0cd-63a1476416c2)
  - OTC 4.7: Tables, Charts, and graphs (https://alg.manifoldapp.org/read/open-technical-communication/section/b1ca4069-52c9-49bb-9e47-510858d4e6f3)
  - TWE 3.4: Figures and tables (https://pressbooks.bccampus.ca/technicalwriting/chapter/figurestables/)

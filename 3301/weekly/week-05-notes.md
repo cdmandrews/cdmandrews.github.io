@@ -12,7 +12,7 @@ Oh by the way, this ain't a grammar course. I ain't fixin' your grammar for fift
 
 The messy thing about style is that there are LOTS of rules, but those rules are bound up in context, purpose, and audience. The answer to everything in this course is rhetoric: what's going to work best for my particular readers in their particular situations in their particular use-contexts? Write thusly.
 
-<mark>To read this week:</mark>
+<mark>Assigned to read this week:</mark>
 
 - [TWE Chapter 2: Professional Style](https://pressbooks.bccampus.ca/technicalwriting/part/style/) overviews the usual sorts of style issues in technical writing:
   - [2.1 Reader-Centered Writing](https://pressbooks.bccampus.ca/technicalwriting/chapter/readercentred/)

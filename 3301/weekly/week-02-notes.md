@@ -4,7 +4,7 @@
 
 For this week, we're continuing our general introduction to TPW, especially focusing on [audience](https://writingcommons.org/section/information-literacy/information/consider-your-audience/) and [exigence/purpose](https://writingcommons.org/section/rhetoric/rhetorical-situation/purpose/). These concepts are important, and we'll come back to them again and again for the entire semester. We'll also spend time talking about correspondence [genres](https://writingcommons.org/section/genre/), especially email and memos.
 
-<mark>To read this week:</mark>
+<mark>Assigned to read this week:</mark>
   - Review [OTC Chapter 1](https://alg.manifoldapp.org/read/open-technical-communication/section/0debb16b-f623-4033-a47b-973d65ab0961) (we read it last week)
   - [TWE Chapter 1: What is Technical Communication?](https://pressbooks.bccampus.ca/technicalwriting/part/techcomm/)
   - [TWE Chapter 1.2: Conventions and Characteristics](https://pressbooks.bccampus.ca/technicalwriting/chapter/conventions/)
@@ -113,8 +113,6 @@ Complete the "Introduction to Tech Writing" discussion forum in your group
 3. Look at your peers' slideshows; post replies in to their post that compare findings, comment on each others' examples, and discuss some of the differences between TPW and academic, journalistic, and other kinds of writing you're familiar with.
 
 # For Thursday
-
-  - My **correspondence video discusses you attitude and other nonsense.**
 
 Complete the "Email for dummies" discussion forum in your group
 
