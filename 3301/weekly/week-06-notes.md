@@ -23,7 +23,8 @@ Think back to that &quot;Know&quot; photograph in the Ready Corpus Christi hurri
 ## Tuesday
 
 Participate in your group's "Communicating with visuals" forum according to the prompt below:
-  1. Analyze and discuss different types of illustrations in this EPA document, [Tackling Bed Bugs: A Starter Guide for Local Government](http://npic.orst.edu/pest/bedbug/tacklingbbstarterguide.pdf). Using principles from your readings, evaluate the effectiveness of the guide;s visuals:
+  1. Analyze and discuss different types of illustrations in this EPA document, [Tackling Bed Bugs: A Starter Guide for Local Government](http://npic.orst.edu/pest/bedbug/tacklingbbstarterguide.pdf). Using principles from your readings, evaluate the effectiveness of the guide's visuals:
+
     1. What is the document's specific purpose and specific audience? (Hint: It is NOT the &quot;general public&quot; or &quot;people who have bedbugs in their houses.&quot;)
     2. How effective are illustrations in the document? That is, are tables and figures well-suited to the document's purpose and audience? What are the illustrations there to *do*?
     4. Are illustrations genuinely informative or are they decorative?
