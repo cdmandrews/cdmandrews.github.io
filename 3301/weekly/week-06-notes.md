@@ -13,7 +13,7 @@ As your readings made clear, professional communicators often rely on  **illustr
 
 ## Visuals with purpose
 
-Think back to that &quot;Know&quot; photograph in the Ready Corpus Christi hurricane preparedness flier a few weeks ago. I look at it, and it's kind of weird: it was a good quality photo, and while it was thematically relevant, it didn't fit the brief, informative purpose of the document. The photo also took up too much space on the page; the space might have been better suited to more complete information about emergency routes or the ReverseAlert system.
+Think back to that "Know" photograph in the Ready Corpus Christi hurricane preparedness flier a few weeks ago. I look at it, and it's kind of weird: it was a good quality photo, and while it was thematically relevant, it didn't fit the brief, informative purpose of the document. The photo also took up too much space on the page; the space might have been better suited to more complete information about emergency routes or the ReverseAlert system.
 
 - quality graphics
 - kinds of graphics
@@ -23,16 +23,16 @@ Think back to that &quot;Know&quot; photograph in the Ready Corpus Christi hurri
 ## Tuesday
 
 Participate in your group's "Communicating with visuals" forum according to the prompt below:
-  1. Analyze and discuss different types of illustrations in this EPA document, [Tackling Bed Bugs: A Starter Guide for Local Government](http://npic.orst.edu/pest/bedbug/tacklingbbstarterguide.pdf). Using principles from your readings, evaluate the effectiveness of the guide's visuals:
 
-    - What is the document's specific purpose and specific audience? (Hint: It is NOT the &quot;general public&quot; or &quot;people who have bedbugs in their houses.&quot;)
-    - How effective are illustrations in the document? That is, are tables and figures well-suited to the document's purpose and audience? What are the illustrations there to *do*?
-    - Are illustrations genuinely informative or are they decorative?
-    - What do you notice about the creator's methods of numbering, labeling, and citation? Which guidelines in your readings do they follow?
+1. Analyze and discuss different types of illustrations in this EPA document, [Tackling Bed Bugs: A Starter Guide for Local Government](http://npic.orst.edu/pest/bedbug/tacklingbbstarterguide.pdf). Using principles from your readings, evaluate the effectiveness of the guide's visuals:
+  - What is the document's specific purpose and specific audience? (Hint: It is NOT the "general public" or "people who have bedbugs in their houses.")
+  - How effective are illustrations in the document? That is, are tables and figures well-suited to the document's purpose and audience? What are the illustrations there to *do*?
+  - Are illustrations genuinely informative or are they decorative?
+  - What do you notice about the creator's methods of numbering, labeling, and citation? Which guidelines in your readings do they follow?
 
-  3. Be sure to reply and respond to your group member's posts over the course of the week. Do you concur with their evaluation?
+2. Be sure to reply and respond to your group member's posts over the course of the week. Do you concur with their evaluation?
 
-# Thursday
+## Thursday
 
 Continue working on your researching skills and finish the "Power Searching with Google" course. For this Thursday, complete the following:
  - Complete Units 4, 5, and 6. Do all unit activities except for the embedded discussion forum posts.
