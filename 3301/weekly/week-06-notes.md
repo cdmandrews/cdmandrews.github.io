@@ -1,5 +1,5 @@
 [ENGL 3301, Fall 2020](../calendar.html)
-# Overview for Week 6
+# Notes and Overview for Week 6
 
 ## Pics or it didn't happen
 Humans are incredibly visual creatures. Look at any Instagram account and you will see evidence that we are able to communicate rich, specific information in an incredibly short time with a picture. (Insert that cliché we all know about a thousand words here.)

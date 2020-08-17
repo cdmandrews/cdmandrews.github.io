@@ -2,13 +2,19 @@
 
 <span style="color:red;">*No assignments or course documents, including the syllabus, should be considered to be in their final form until the first week of class begins.*</span>
 
-# Overview for Week 01
+# Notes and Overview for Week 01
 
 Each week, I'll provide you an overview (just like this document). These docs will detail specific readings, exercises, and due dates for each week. In general, when people email me about being confused about what to do that week, I will ask them "Did you check the overview?" Always check these weekly documents first! I will structure coursework around a Tuesday/Thursday schedule, so you will see assignments and readings broken up into two days each week. To read more about how and why the course is scheduled the way it is, please review the "Course Conduct" section of our syllabus.
 
 <img src="media/tech-comm-tarly.jpg" title="Always read the instructions" alt="Always read the instructions">
 
 If you find something in error, or are confused about any part of the instructions, please email me at [christopher.andrews@tamucc.edu](mailto:christopher.andrews@tamucc.edu). If your question is one that the entire class will benefit from hearing, I will likely share the answer with everyone!
+
+## Week 01 welcome video
+
+This video was also sent out with the first week's announcements.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eKJY8tQgh0M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## We have a few things to do during the first week:
 
@@ -60,9 +66,11 @@ Professional and technical writing helps readers **do things**: understand a new
 2. If you skipped my "Okay, let's start with technical writing (whatever that is)" notes above, back up and read them as well.
 
 3. Post to your group's "<strong>Welcome to the group!"</strong> forum  **before midnight on Thursday**. Write a post in which you cover each of the following topics:
-  - Write a paragraph to introduce yourself, your background, and your #goals. What should we know about you and your identity? Also, have you taken online classes before, or is this your first? What strategies would you offer to your classmates for succeeding in an online class?
+  - Write a paragraph to introduce yourself, your background, and your #goals. What should we know about you and your identity?
+  - Have you taken online classes before, or is this your first? What strategies would you offer to your groupmates for succeeding in an online class?
   - Somewhere after that first paragraph, [insert a gif of a fictional character that represents who you are](https://youtu.be/jp9HA6en5BA) and explain why you chose this character.
   - Write a paragraph that describes professional or job-related writing experience you have and how the writing you did reflect the **six characteristics of technical writing** from the Open TC chapter you read. Did you have to use a company email account for that internship? Did you write reports for twenty years before coming back to college? Did you ever take meeting minutes for a club you're in? Did you help manage an Instagram account for a nonprofit? Do you have a work email account? Have you ever had to write a personal statement to get a promotion?
+  - <span style="color: purple;">**Want to post this week's discussion in a video? Cool with me. Post a link or embed in the discussion forum.**</span>
   - **Respond** to your group members' introductory statements. Say hello. Swap stories. Make conversation. Get to know each other. These are your fellow learners for the next 15 weeks.
 
 # Looking ahead

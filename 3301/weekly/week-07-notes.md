@@ -1,6 +1,6 @@
-# Overview for Week 7
-
 [ENGL 3301, Fall 2020](../calendar.html)
+# Notes and Overview for Week 7
+
 
 ## Big picture
 

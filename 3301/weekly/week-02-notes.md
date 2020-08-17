@@ -1,6 +1,6 @@
 [ENGL 3301, Fall 2020](../calendar.html)
 
-# Notes for Week 2
+# Notes and Overview for Week 2
 
 For this week, we're continuing our general introduction to TPW, especially focusing on [audience](https://writingcommons.org/section/information-literacy/information/consider-your-audience/) and [exigence/purpose](https://writingcommons.org/section/rhetoric/rhetorical-situation/purpose/). These concepts are important, and we'll come back to them again and again for the entire semester. We'll also spend time talking about correspondence [genres](https://writingcommons.org/section/genre/), especially email and memos.
 

@@ -1,6 +1,6 @@
 [ENGL 3301, Fall 2020](../calendar.html)
 
-# Overview for Week 3
+# Notes and Overview for Week 3
 
 ## Ethics and justice and tech. comm.
 
