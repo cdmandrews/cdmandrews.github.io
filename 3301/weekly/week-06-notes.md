@@ -2,7 +2,7 @@
 # Notes and Overview for Week 6
 
 ## Pics or it didn't happen
-Humans are incredibly visual creatures. Look at any Instagram account and you will see evidence that we are able to communicate rich, specific information in an incredibly short time with a picture. (Insert that cliché we all know about a thousand words here.)
+Humans are incredibly visual creatures. Look at any Instagram account and you will see evidence that we are able to communicate rich, specific information in an incredibly short time with a picture. (Insert that cliché we all know about a thousand words here.) Another of the important characteristics of technical communication is that it consists of words or images or both (and frequently both!).
 
 As your readings made clear, professional communicators often rely on  **illustrations**  along with or instead of words to convey our messages. We can break illustrations into two categories:  **tables**  and  **figures**. Depending on your academic background, you may or may not have a lot of experience working with tables and figures, but as professional writers, alternate methods of presenting data and information are valuable. You must be able to decide when to use an illustration and evaluate whether or not your illustration will be effective.
 

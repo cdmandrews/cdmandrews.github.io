@@ -21,9 +21,9 @@ Also read:
 
 ## Audiences and TPW
 
-"**Know your audience**" and "**You are not your audience**" are important points to wrap your brains around. Audience analysis is the process of figuring out who your audience is so you can write to their needs rather than your own. Getting out of your own head and into an audience's head is HARD, and is something we'll practice a. lot. this semester.
+"**Know your audience**" and "**You are not your audience**" are important points to wrap your brains around. Audience analysis is the process of figuring out who your audience is so you can write to their needs rather than your own. Remember: technical communication addresses **particular readers** and **helps those readers solve problems**. Getting out of your own head and into an audience's head is HARD, and is something we'll practice a. lot. this semester.
 
-Two big audience-related points that TPW students nearly always trip over are dumb audiences and general audiences:
+Two big audience-related myths (overgeneralizations, really) that TPW students nearly always trip over are dumb audiences and general audiences:
 
 ### Dumb Audiences, aka "Uncle Steve"
 
