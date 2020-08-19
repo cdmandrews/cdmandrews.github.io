@@ -48,7 +48,7 @@ Just following rules of thumb for good writing is not enough. You've got to thin
 
 Participate in the "How NOT to write" discussion forum in your group:
 
-  - Go back through the [chapter on Ethics in Technical Communication]((https://alg.manifoldapp.org/read/open-technical-communication/section/8b530f4b-5942-4071-845a-0a138601da10) and identify **at least three** specific issues or topics that you see as particularly relevant to your professional goals.
+  - Go back through the [chapter on Ethics in Technical Communication](https://alg.manifoldapp.org/read/open-technical-communication/section/8b530f4b-5942-4071-845a-0a138601da10) and identify **at least three** specific issues or topics that you see as particularly relevant to your professional goals.
   - Prepare a short slideshow (5+ slides) about why you think those three topics are important in the line of work you'd like to take up.
     - Rather than writing loooong unbroken paragraphs on your slides, use a combination of headings, lists, and paragraphs to discuss issues/topics/principles and describe and give examples for each of them in turn. Think about your audience, and use text and slide formatting to emphasize important information. Make your slides easy to read and follow, and use visuals to provide examples or evidence.
   - Close out your slideshow by sharing a link to a recent news story (ideally from the last five years) that exemplifies one or more of the ideas you wrote about. Ideally, these should be about a professional in your field. What dilemmas or obligations did they have to resolve? How did they do so?
