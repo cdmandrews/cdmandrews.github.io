@@ -4,6 +4,9 @@
 
 ## Ethics and justice and tech. comm.
 
+> "[T]he stronger this faculty is, the more necessary it is for it to be combined with integrity and supreme wisdom, and if we bestow fluency of speech on persons devoid of those virtues, we shall not have made orators of them, but shall have put weapons into the hands of madmen"-Cicero, De Oratore III: xiv. 55.
+
+
 At the center of technical communication is the idea that technologies and the communication that surrounds them should support human dignity and human rights. Rather than simply concerned with being efficient or easy (yes, those are important), we should be sensitive to the fact that tech comm is **for people** and should be **effective**. It affects people: it can help them or it can hurt them, it can confuse or it can clarify. It can enhance difference or erase it. It can advocate for change, or it can reinforce harmful perspectives and epistemologies.
 
 <mark>Assigned to read this week:</mark>
@@ -17,6 +20,8 @@ At the center of technical communication is the idea that technologies and the c
     - selecting, cherry-picking, and suppressing information
     - presenting visual data ethically
 
+
+In technical communication circles (especially scholarly ones), there is a well-known article by Steven Katz titled "The Ethic of Expediency." ([Katz, 1992](https://www.jstor.org/stable/378062?seq=1)) Katz discusses the criteria by which we should judge a piece of technical communication. Is a memo good because it's flawlessly written from a stylistic and organizational perspective, or is it good because of some higher standard? Then Katz presents a 1942 memo detailing improvements to Nazi gassing vans: “By any formal criteria in technical communication, it is an almost perfect document”—organization, purpose, document design, accuracy, logic, and style are all by the book. But the memo is, as Katz claims, “too technical, too logical” in its horrifyingly unconcerned treatment of human extermination (p. 197). The problem—here taken to an extreme we would call hyperbolic if it weren’t so real&mdash;is a focus on **expediency: “on technical criteria as a means to an end”** (p. 197). Expediency is all about getting to the end result--a technical success is an ethical success. The “officially sanctioned ethos grounded in expediency” is, for Katz, deeply complicit in the memo’s rhetoric. He suggests that “it is the ethic of expediency that enables deliberative rhetoric and gives impulse to most of our actions in technological capitalism as well”—an ethic that is ultimately dangerous (198). That is, the horrific goals of the Third Reich were supported and promoted through the efficiency/expediency logics inherent to technical culture and technical writing. The holocaust becomes a result of Western expediency, of Western culture, rather than just an aberration."
 
 I'm just going to put out there right now that I think good tech writing can't be neutral--that it must put people at the center, that it must value human life and dignity, that it can and should encompass cultural difference, that no duh if we're going to be all about audiences than we should take into account native languages and experiences of readers. The fundamental truth of how I've taught TC for years is "you are not your user." That is, the people who are reading/using/affected by your communication are **different** than you, and in all kinds of ways. There is no monoculture; there is no single way of being and doing in the world. That difference is a good thing. And it's also a communication problem for you to resolve--but you never ever do that by making things harder for your audience.
 
