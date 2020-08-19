@@ -4,7 +4,7 @@
 
 ## Document design and "looking professional"
 
-What does how a document looks and how a document works have to do with what a document does and who it's for? Technical communicators use design to increase readability. That is, an effective document design helps your intended audience locate and understand the information they need when they need it. As you may realize from reading the assigned texts, designing uncluttered pages that are easy to read, meet and audience's genre expectations, and satisfy our own purposes is not as simple as it might sound. Because of all of the bells and whistles in our word processors, it's very easy to create ineffective documents. 
+What does how a document looks and how a document works have to do with what a document does and who it's for? Technical communicators use design to increase readability. That is, an effective document design helps your intended audience locate and understand the information they need when they need it. As you may realize from reading the assigned texts, designing uncluttered pages that are easy to read, meet and audience's genre expectations, and satisfy our own purposes is not as simple as it might sound. Because of all of the bells and whistles in our word processors, it's very easy to create ineffective documents.
 
 <mark>Assigned to read this week:</mark>
 - [Subheadings: Perhaps the Most Useful Technique in Technical Writing](https://idratherbewriting.com/2013/08/23/subheadings-perhaps-the-most-useful-technique-in-technical-writing/) is an excellent article about subheadings that also actually practices what it preaches.
@@ -22,7 +22,13 @@ What does how a document looks and how a document works have to do with what a d
 
 ## Formats, Templates, and Reinventing the Wheel
 
-**Formats are rhetorical** A lot of us are probably familiar (at least in theory) with "APA Format" or "MLA Format" or some similar discipline-specific guideline for how your academic papers should *look* when you turn them in. More properly, these are referred to as "APA Manuscript Format" (etc.), because they're the editorial and design guidelines for preparing research and scholarly manuscripts (journal articles and books) for publication in those two organizations. The features of the school format are familiar, and many of you probably don't ever stop to think about them:
+**Formats are rhetorical** A lot of us are probably familiar (at least in theory) with "APA Format" or "MLA Format" or some similar discipline-specific guideline for how your academic papers should *look* when you turn them in. More properly, these are referred to as "Manuscript Format" (etc.), because they're the editorial and design guidelines for preparing research and scholarly manuscripts (journal articles and books) for publication. Sometimes you'll see manuscript format referred to as "school format," because it's used more commonly there than most anywhere else.
+
+<img src="media/format-block-ms.png" title="Block and Manuscript format example" alt="Block versus manuscript formatting.">
+<p><em>Caption: What are some visual design differences between "Block format" and "Manuscript format"?</em></p>
+
+
+The features of the manuscript or school format are familiar, and many of us probably don't ever stop to think about them:
 
 - Double-spaced
 - 1-inch margins
