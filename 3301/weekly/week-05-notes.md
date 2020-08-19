@@ -49,6 +49,18 @@ For negative situations, writer-centered messages prove more effective than read
 
 Along with using "you", writers can also be reader-centered by writing in a conversational tone rather than a stiff, legalistic one: "*The changes agreed upon per our conversation are herein included.*" is exceedingly formal and doesn't really sound like it's written for human consumption. On the other hand, "*The changes included here were the ones we discussed during our telephone conversations*" sounds like there's a person on the other end of the line.
 
+### Technical terms and jargon
+
+Technical terms are essential in technical and professional writing--especially when you're dealing with technical and scientific fields, but also with all kinds of professions and areas. Each field uses a vocabulary to relay specialized concepts by means of technical language. These special terms convey concentrated meanings that have been built up over time and use. Technical terms are really devices for efficiency among experts: they take big ideas and information and condense it all into a single word. The same thing goes for acronyms and abbreviations: when people share knowledge or a discourse community, they can use acronyms and initialisms (RADAR, LARPing, TDY, ADHD, YOLO, ROTFLMAO) and abbreviations (2D, 5G, app, demo, IP) to communicate more quickly and efficiently.
+
+At the same time, technical terms can make your prose dense and difficult to understand, even for the specialized reader. So it's not a question of using it all the time or ignoring it all the time--like everything else, words are choices. If you're going to used specialized terminology, stick to the following guidelines:
+
+- Match terminology to your audience's needs and background. Don't assume they know it all. What is their level of understanding of the topic? Do you need to use more general terms?  
+- Provide clear definitions or explanations of unfamiliar terms. If you are using a specialized term that is not widely used in your audience, even if the audience is an expert one, be sure you provide a clear definition of your term. That just helps everyone be on the same page.
+- If you want to use an acronym that's not popularly known, spell out the entire thing the first time you use it and provide the acronym in parenthesis directly afterward. Then you can use the acronym for the rest of your document.
+- Use a terminology list when you are introducing a variety of new terms into your discussion. Glossaries or terminology lists, very common in science and engineering, helps readers who want to remind themselves what you mean by a term.
+
+Also be aware of how [jargon can be used to dress up or obfuscate the truth](https://plainlanguage.gov/resources/articles/keep-it-jargon-free/). Are we in a "period of economic readjustment," or a "recession"? Is your company "implementing a skills mix adjustment" or "downsizing" or did you really just get fired?
 
 ### Style and inclusive language
 <sub>(This article contains material adapted from [Intro to Professional Communications](https://pressbooks.bccampus.ca/professionalcomms/chapter/4-3-inclusive-language/), CC BY-NC-SA 4.0)</sub>
@@ -79,11 +91,11 @@ One more time for the people in the back: the basic principles of effective styl
 
 Participate in the "Make it plain" discussion forum in your group. You've got a two-part task this time out:
 
-- First, write reflectively in response to this week's readings:  What is a "professional style"? What does it look like, sound like, feel like? What did you think that phrase meant six weeks ago (if you thought about it all)? What do you think that means for you today?
+- First, write reflectively in response to this week's readings: What is a "professional style"? What does it look like, sound like, feel like? What did you think that phrase meant six weeks ago (if you thought about it all)? What do you think that means for you today?
 
-- Choose ten concepts, technical terms, processes, acronyms, or jargon from your major.
-  - List your ten terms, along with definitions that would be appropriate for a professional or academic in that field.
-  - Then write a one- to three-sentence definition for each term that explains it in plain language.  (Plain language examples to get you started: [Coronavirus Plain Language Glossary](https://acl.gov/sites/default/files/common/Words-To-Know-About-the-Coronavirus-in-Plain-Language.pdf), [COVID-19 in Plain Language](https://ilny.us/phocadownload/covid-19-plain-language-flyer-with-facemask.pdf))
+- Choose **five** concepts, technical terms, processes, acronyms, or jargon from your major. (If you're absolutely stuck and can't think of any, you may pick from these jargon lists for [medicine](https://www.ruf.rice.edu/~kemmer/Words04/usage/jargon_medical.html), [finance](https://www.ruf.rice.edu/~kemmer/Words04/usage/jargon_financial.html), and the [law](https://www.ruf.rice.edu/~kemmer/Words04/usage/jargon_legal.html).)
+  - List your five terms and provide relatively technical definitions that would be appropriate for a professional or academic in that field. (If you want to use definitions from another published source, that's okay; please provide some kind of brief citation)
+  - Then write your own one- to three-sentence definitions for each term, attempting to explainin it in plain language. (Plain language examples to get you started: [Coronavirus Plain Language Glossary](https://acl.gov/sites/default/files/common/Words-To-Know-About-the-Coronavirus-in-Plain-Language.pdf), [COVID-19 in Plain Language](https://ilny.us/phocadownload/covid-19-plain-language-flyer-with-facemask.pdf))
 - In your groups, discuss, share strategies, reflect on assigned readings, and talk out what you noticed this week.
 
 
