@@ -2,7 +2,9 @@
 
 # Notes and Overview for Week 2
 
-For this week, we're continuing our general introduction to TPW, especially focusing on [audience](https://writingcommons.org/section/information-literacy/information/consider-your-audience/) and [exigence/purpose](https://writingcommons.org/section/rhetoric/rhetorical-situation/purpose/). These concepts are important, and we'll come back to them again and again for the entire semester. We'll also spend time talking about correspondence [genres](https://writingcommons.org/section/genre/), especially email and memos.
+Please take a few minutes to complete [this short questionnaire about your computer access](https://docs.google.com/forms/d/e/1FAIpQLSd2RtKrP8xO2ypqiHhbPDDz1MPAbXcDNH2BHkie_1hi4iItBg/viewform). I'll report on the results after everyone's completed it.
+
+This week, we're continuing our general introduction to TPW, especially focusing on [audience](https://writingcommons.org/section/information-literacy/information/consider-your-audience/) and [exigence/purpose](https://writingcommons.org/section/rhetoric/rhetorical-situation/purpose/). These concepts are important, and we'll come back to them again and again for the entire semester. We'll also spend time talking about correspondence [genres](https://writingcommons.org/section/genre/), especially email and memos.
 
 <mark>Assigned to read this week:</mark>
   - Review [OTC Chapter 1](https://alg.manifoldapp.org/read/open-technical-communication/section/0debb16b-f623-4033-a47b-973d65ab0961) (we read it last week)
