@@ -114,6 +114,10 @@ Complete the "Introduction to Tech Writing" discussion forum in your group
 2. Add your links or pictures into a PowerPoint or Google slideshow. Share your examples and on each slide discuss how your documents reflect some of the conventions and characteristics of technical writing you read about in this week's readings. Quote relevant passages from our reading assignments in your slideshow. If you can, identify the specific audience(s) and purpose(s) for each example. Depending on your comments, you'll probably have at least six content slides and a title slide.
 3. Look at your peers' slideshows; post replies in to their post that compare findings, comment on each others' examples, and discuss some of the differences between TPW and academic, journalistic, and other kinds of writing you're familiar with.
 
+Related: This fine Week 02 video:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NVUOt71Szu8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+
 # For Thursday
 
 Complete the "Email for dummies" discussion forum in your group
