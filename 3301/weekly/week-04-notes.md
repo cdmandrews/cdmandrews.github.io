@@ -4,11 +4,13 @@
 
 ## Document design and "looking professional"
 
-What does how a document looks and how a document works have to do with what a document does and who it's for? Technical communicators use design to increase readability. That is, an effective document design helps your intended audience locate and understand the information they need when they need it. As you may realize from reading the assigned texts, designing uncluttered pages that are easy to read, meet and audience's genre expectations, and satisfy our own purposes is not as simple as it might sound. Because of all of the bells and whistles in our word processors, it's very easy to create ineffective documents.
+What does *how a document looks* have to do with what a document does and who it's for? Technical communicators use design to increase **readability** and **[usability](https://www.usability.gov/what-and-why/usability-evaluation.html)**. That is, an effective document design helps your intended audience locate and understand the information they need when they need it. Usability means users can satisfactorily use a document to find information or complete tasks. Effective design should also be **[accessible](https://webaim.org/intro/)**--it should work for as many people as possible, despite visual or cognitive disabilities or other conditions of access like slow connection speeds or small screens.
+
+As you may realize from reading the assigned texts, designing uncluttered pages that are easy to read, meet an audience's genre expectations, and satisfy our own purposes is not as simple as it might sound. Because of all of the bells and whistles in our word processors, it's very easy to create ineffective documents.
 
 <mark>Assigned to read this week:</mark>
 - [Subheadings: Perhaps the Most Useful Technique in Technical Writing](https://idratherbewriting.com/2013/08/23/subheadings-perhaps-the-most-useful-technique-in-technical-writing/) is an excellent article about subheadings that also actually practices what it preaches.
-- [Guidelines for Print Document Design](https://www.aph.org/aph-guidelines-for-print-document-design/) describes optimal usability standards for creating documents that persons with low vision can use (from American Printing house for the Blind)
+- [Guidelines for Print Document Design](https://www.aph.org/aph-guidelines-for-print-document-design/) describes optimal usability/accessibility standards for creating documents that persons with low vision can use (from American Printing house for the Blind)
 - [TWE Chapter 3: Document Design](https://pressbooks.bccampus.ca/technicalwriting/part/documentdesign/) is a brief overview of essential factors for document design. Focus on the following sections:
   - [3.1 Readability](https://pressbooks.bccampus.ca/technicalwriting/chapter/readability/),
   - [3.2 Headings](https://pressbooks.bccampus.ca/technicalwriting/chapter/headings/), and
@@ -77,7 +79,7 @@ In other words, genres are really **texts-in-use**, or **texts that facilitate a
 
 Knowing who uses a text and why they use it helps us to figure out what the content of a piece of writing needs to be as well as how to present that content. Consider the job description again: It typically begins with an overview of the job as well as minimum qualifications. Why does it begin there? Why isn’t this information at the end, or in the middle somewhere? The overview acts as a kind of advertisement; it is there to attract candidates to the position. But the minimum qualifications quickly help candidates to consider whether or not they should apply–which in turn saves the company extra work identifying people who do not qualify. In that sense, the minimum qualifications help both the job searcher and the company work more efficiently.
 
-But, some of you might be thinking, sometimes the minimum qualifications are found later in the job description. That is true. Can you imagine a reason for that? If so, you have identified another important principle that applies to genres: **genres often have typical features and designs, but genres aren’t formulas**. In other words, there is not one exact way to write them. Instead, genres are governed by what are called “conventions” or guiding principles. We can speak generally about how to write any given genre, but there are always likely to be exceptions based in specific communities and organizations that circulate genres. (This is why adopting a curious attitude about writing, instead of simply looking for the “right way” to write something, will serve you better as a professional. It will also help alleviate frustration when what you thought was the “right way” to write something ends up requiring editing or modification.)
+But, some of you might be thinking, sometimes the minimum qualifications are found later in the job description. That is true. Can you imagine a reason for that? If so, you have identified another important principle that applies to genres: **genres often have typical features and designs, but genres aren’t formulas**. In other words, there is not one exact way to write them. Instead, genres are governed by what are called “**conventions**” or guiding principles. We can speak generally about how to write any given genre, but there are always likely to be exceptions based in specific communities and organizations that circulate genres. This is why adopting a curious attitude about writing, instead of simply looking for the “right way” to write something, will serve you better as a professional. It will also help alleviate frustration when what you thought was the “right way” to write something ends up requiring editing or modification.
 
 The table below shows some of the most common [genres we talk about in technical communication](https://genreacrossborders.org/research/technical-communication). Of course, there are many, many others specific to particular professions, communities, and organizations.
 
@@ -88,11 +90,7 @@ The table below shows some of the most common [genres we talk about in technical
 | Proposals | Grant proposals, White papers, Internal & External proposals, Solicited & Unsolicited proposals, Requests for proposals |
 | Manuals | Product manuals, User manuals, Operations manuals, other kinds of manuals... |
 | Stuff that doesn't quite fit in those categories | Meeting minutes, Resumes, Policies and Procedures, Blogs, Website copy, MIssion/Purpose statements, Forms of many different kinds, Statements of many different kinds, Stuff that's super-specific to fields and workplaces, |
-| And there's even more that I couldn't list here... |   |
-
-
-Swales 2004, "constellations of genres"
-Bazerman 1994, genre system, "interrelated genres that interact with each other in specific settings"
+| And there's even more that I couldn't list here... |  See other concepts, like: 1) Swales 2004, "constellations of genres"; 2) Bazerman 1994, genre systems, "interrelated genres that interact with each other in specific settings" |
 
 
 # For Tuesday
@@ -111,9 +109,7 @@ Complete the "Hurricane DocDesign" assignment in the Week 4 folder
 
 Write a letter, memo or email that you might send to the City of Corpus Christi Office of Emergency Management suggesting your revisions. Decide whether you want to write this from the perspective of a concerned citizen, a thoughtful city employee, or some other role, and select an appropriate genre and format. In your communication, help your readers scan and locate information by using descriptive, distinctive headings and other document design elements.
 
-Upload your letter, memo,﻿ or email as a ﻿﻿﻿﻿﻿﻿﻿Word document to the assignment in Blackboard. ﻿﻿﻿﻿﻿﻿﻿﻿﻿ In the "comments" with your submission, explain why you chose the format you did and what difficulties or successes you had.﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿
-
-Bonus: Use the "Styles" option in Word to create your headings and other design elements.
+Upload your letter, memo,﻿ or email as a ﻿﻿﻿﻿﻿﻿﻿Word document or PDF to the assignment in Blackboard. ﻿﻿﻿﻿﻿﻿﻿﻿﻿ In the "comments" with your submission, explain why you chose the format you did and what difficulties or successes you had.﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿
 
 
 # For Thursday
@@ -138,9 +134,9 @@ How does all that translate over to professional writing? How do you want people
   - When working within the standard written genre conventions and document designs of resumes, formal letters, emails, and text messages, how can you maintain (or convey a sense of) who you are and what you value?
   - What institutions and/or structures shape how you understand “professional behavior”? What’s considered “normal” professional behavior? What are the consequences of participating in structures that reinforce normative notions of professionalism? What might it look like to resist such structures?
   - Yes, refer back to your readings as you develop your response.
-  - Yes, discuss and converse with your group.
+  - Yes, discuss and converse with at least 3 other folks in your group.
   - Yes, write no fewer than 250 words. Probably more for this one.
 
 # Looking ahead
 
-In [week 5](week-05-notes) we're getting into style: words, sentences, and all that good stuff. Buckle up!
+In [week 5](week-05-notes) we're dipping our toes into style: words, sentences, and all that good stuff. Buckle up!
