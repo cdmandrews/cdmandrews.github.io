@@ -51,7 +51,7 @@ I don't plan to wax especially philosophical about templates&mdash;document form
 
 Built-in templates are a standard feature for word processing software. Use them, but use them critically and be aware that although templates provide tons of style, they don't provide substance for you. In lots of cases, they are catch-alls that can't account for the variety of ways people might need to put together genres like a resume, cover letter, or formal report.
 
-**Reinventing the wheel** I mean, you don't have to do that most of the time. If there's a template or format out there, feel free to use it. On the other hand, this class is a safe space to experiment and try weird stuff out with document design features. Just be ready to back your play and explain why you did what you did!
+**Reinventing the wheel** I mean, you don't have to do that most of the time. If there's a template or format out there, feel free to use it for this class. (If you were in the Doc Design class, of course, the professor would tell you no templates allowed; that's because if you're expected to be doing the design work yourself, templates are verboten.) On the other hand, this class is a safe space to experiment and try weird stuff out with document design features. Just be ready to back your play and explain why you did what you did!
 
 ## Genres and TPW
 
