@@ -4,6 +4,9 @@
 
 Got a minute? Please take a short survey about your experiences in the course thus far: [https://forms.gle/3U9qhhFNbopJ9uDa9](https://forms.gle/3U9qhhFNbopJ9uDa9)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tHS0vqw3AiY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Me, answering questions you asked in the Week 4 check-in survey.
+
 ## Document design and "looking professional"
 
 What does *how a document looks* have to do with what a document does and who it's for? Technical communicators use design to increase **readability** and **[usability](https://www.usability.gov/what-and-why/usability-evaluation.html)**. That is, an effective document design helps your intended audience locate and understand the information they need when they need it. Usability means users can satisfactorily use a document to find information or complete tasks. Effective design should also be **[accessible](https://webaim.org/intro/)**--it should work for as many people as possible, despite visual or cognitive disabilities or other conditions of access like slow connection speeds or small screens.
