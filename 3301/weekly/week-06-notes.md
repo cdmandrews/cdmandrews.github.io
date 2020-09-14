@@ -2,7 +2,7 @@
 # Notes and Overview for Week 6
 
 ## Pics or it didn't happen
-Humans are incredibly visual creatures. Look at any Instagram account and you will see evidence that we are able to communicate rich, specific information in an incredibly short time with a picture. (Insert that cliché we all know about a thousand words here.) Another of the important characteristics of technical communication is that it consists of words or images or both (and frequently both!).
+Humans are incredibly visual creatures. Look at any Instagram account and you will see evidence that we are able to communicate rich, specific information in an incredibly short time with a picture. (Insert that cliché we all know about a thousand words here.) Another of the important characteristics of technical communication is that it consists of words or images or both. Because readers [respond to visuals](https://idratherbewriting.com/2013/10/03/learning-how-to-communicate-visually-in-documentation/)--often before they check out the text itself--understanding how images and text work together to help readers [understand complex information](https://idratherbewriting.com/2013/10/03/learning-how-to-communicate-visually-in-documentation/) is an increasingly valuable skill for professional communicators.
 
 As your readings made clear, professional communicators often rely on  **illustrations**  along with or instead of words to convey our messages. We can break illustrations into two categories:  **tables**  and  **figures**. Depending on your academic background, you may or may not have a lot of experience working with tables and figures, but as professional writers, alternate methods of presenting data and information are valuable. You must be able to decide when to use an illustration and evaluate whether or not your illustration will be effective.
 
@@ -11,12 +11,18 @@ As your readings made clear, professional communicators often rely on  **illustr
  - [OTC 4.7: Tables, Charts, and graphs](https://alg.manifoldapp.org/read/open-technical-communication/section/b1ca4069-52c9-49bb-9e47-510858d4e6f3)
  - [TWE 3.4: Figures and tables](https://pressbooks.bccampus.ca/technicalwriting/chapter/figurestables/)
 
+## General guidelines for writing with visuals
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSbSv-TWbUe9NWOjYMm_JWWBeibb1bF3afF5Sxv46JcQg9UTM1WlVBDxMm3J0yv0MH8HgRo_Cbrlqia/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 ## Visuals with purpose
 
 Think back to that "Know" photograph in the Ready Corpus Christi hurricane preparedness flier a few weeks ago. I look at it, and it's kind of weird: it was a good quality photo, and while it was thematically relevant, it didn't fit the brief, informative purpose of the document. The photo also took up too much space on the page; the space might have been better suited to more complete information about emergency routes or the ReverseAlert system.
 
+(notes forthcoming)
+
 - quality graphics
-- kinds of graphics
+- types of graphics
 - ethical graphics
 - accessible graphics
 
@@ -24,13 +30,14 @@ Think back to that "Know" photograph in the Ready Corpus Christi hurricane prepa
 
 Participate in your group's "Communicating with visuals" forum according to the prompt below:
 
-1. Analyze and discuss different types of illustrations in this EPA document, [Tackling Bed Bugs: A Starter Guide for Local Government](http://npic.orst.edu/pest/bedbug/tacklingbbstarterguide.pdf). Using principles from your readings, evaluate the effectiveness of the guide's visuals:
+1. Analyze and discuss different types of illustrations in this EPA document, [Tackling Bed Bugs: A Starter Guide for Local Government](http://npic.orst.edu/pest/bedbug/tacklingbbstarterguide.pdf). Citing concepts from your readings, evaluate the effectiveness of the guide's visuals:
   - What is the document's specific purpose and specific audience? (Hint: It is NOT the "general public" or "people who have bedbugs in their houses.")
+  - What different types of illustrations are included, and what are the writers trying to show with these different visualizations?
   - How effective are illustrations in the document? That is, are tables and figures well-suited to the document's purpose and audience? What are the illustrations there to *do*?
-  - Are illustrations genuinely informative or are they decorative?
+  - Which illustrations are informative, and which are decorative?
   - What do you notice about the creator's methods of numbering, labeling, and citation? Which guidelines in your readings do they follow?
 
-2. Be sure to reply and respond to your group member's posts over the course of the week. Do you concur with their evaluation?
+2. Reply and respond to your group member's posts over the course of the week. Do you concur with their evaluation?
 
 ## Thursday
 
@@ -42,7 +49,7 @@ Continue working on your researching skills and finish the "Power Searching with
 Finish the Power Searching 2 assignment in the week 06 folder.
   1. Summarize what new things you have learned about power searching. (No shorter than 150 words)
   3. Describe strategies you might use for finding examples of professional writing from your field. The upcoming major projects will ask you to use all your primary research skills to locate examples of professional writing to analyze and report on, so thinking about these strategies ahead of time will be useful.
-  3. **Actually, go ahead and insert a list of three examples of technical or professional writing from your field that you've found online. These could be reports, brochures, instructions, correspondence, etc. Include information about the organization the example comes from, the site you found it at, and a link to the example.**
+  3. **Add a list of three examples of technical or professional writing from your field that you've found online. These could be reports, brochures, instructions, correspondence, etc. Include information about the organization the example comes from, information about the site where you found it, and a direct link to the example.**
   4. Paste the screenshot of your post-course assessment in your document. Label and caption your screenshot appropriately, according to what you've read this week.
 
 # Looking ahead
