@@ -87,7 +87,7 @@ I won't go into the 7Cs at length here&mdash;[that's what the textbook is for](h
 
 One more time for the people in the back: the basic principles of effective style listed in your readings are *all about readers*. While correctness is important, using a style that is understandable and conventional for readers *and* will help them meet their goals *is critical*.
 
-# Tuesday
+# For Tuesday
 
 Participate in the "Make it plain" discussion forum in your group. You've got a two-part task this time out:
 
@@ -100,7 +100,7 @@ Participate in the "Make it plain" discussion forum in your group. You've got a 
 - In your groups, discuss, share strategies, reflect on assigned readings, and talk out what you noticed this week.
 
 
-# Thursday
+# For Thursday
 
 A big part of the major projects in this course is locating information about and examples of technical and professional writing in your field. ([This is a good time to look at the first major project description if you haven't already](./project-1.md)) To help you do this, we'll develop and practice some advanced internet research skills. Over the next two weeks, you'll take this short [Power Searching with Google](https://coursebuilder.withgoogle.com/sample/course) course.
 
