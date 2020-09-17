@@ -21,7 +21,7 @@ Think back to that "Know" photograph in the Ready Corpus Christi hurricane prepa
 
 Graphics are important in technical communication, and one of the things I like about doing tech writing is that we use lots of graphics: drawings, charts, tables, bar charts, and on and on and on. You know the drill at this point if you read the assigned chapters. Purpose and audience, right? Remember that in most cases (unless you're working on a solely visual genre as a graphic designer) you're clarifying, illustrating, and augmenting the written text, not completely replacing it. Use both words and images to make your tech writing useful and usable by your audiences!
 
-I'm not going to go on at length in this text-lecture about graphics--it's mostly all been said by now--but I will point you to some useful resources for working with graphics in your word processors: 
+I'm not going to go on at length in this text-lecture about graphics--it's mostly all been said by now--but I will point you to some useful resources for working with graphics in your word processors:
 
 ### Adding different kinds of graphics to your Word documentation
 
@@ -65,12 +65,16 @@ Continue working on your researching skills and finish the "Power Searching with
  - Complete the post-course assessment
  - Take a screenshot of your post-course assessment when you have successfully completed it.
 
-Finish the Power Searching 2 assignment in the week 06 folder.
-  1. Summarize what new things you have learned about power searching. (No shorter than 150 words)
-  3. Describe strategies you might use for finding examples of professional writing *from your field*. The upcoming major projects will ask you to use all your primary research skills to locate examples of professional writing to analyze and report on, so thinking about these strategies ahead of time will be useful.
-  3. In fact, let's go ahead and give it a go: **Find three examples of technical or professional writing from your field online**. These could be reports, brochures, instructions, correspondence, or anything you can think of, as long as it's specific *to your field*.
-  4. In your document, create a table to present information about your examples. Your table should include at least the following: the name of the organization the example comes from (i.e. its sponsor), information about the web site where you found it, what genre it's an example of, and a hyperlink to the example. Include appropriate column or row headings and a label/title, according to what you've read this week.
-  4. Finally, paste a screenshot of your post-course assessment in your document. Label and caption your screenshot appropriately, according to what you've read this week.
+Finally, write a memo and upload it to this Power Searching assignment. In it, do the following:
+  - Use memo format, and address it to me, your professor.
+  - Include subheadings in your memo.
+  - Block format, please. Single-space, left-aligned, a single line between paragraphs, etc.
+  - Contents of your memo:
+      1. Summarize what new things you have learned about power searching. (No shorter than 150 words)
+      2. Describe strategies you might use for finding examples of professional writing *from your field*. The upcoming major projects will ask you to use all your primary research skills to locate examples of professional writing to analyze and report on, so thinking about these strategies ahead of time will be useful.
+        - In fact, let’s go ahead and give it a go: **Find three examples of technical or professional writing from your field online**. These could be reports, brochures, instructions, correspondence, fact sheets, or anything you can think of, as long as it’s *specific to your field*.
+      3. In your document, create a table to present information about your examples. Your table should include at least the following: the name of the organization the example comes from (i.e. its sponsor), information about the web site where you found it, what genre it’s an example of, and a hyperlink to the example. *Include appropriate column or row headings and a label/title, according to what you’ve read this week*.
+      4. Finally, paste a screenshot of your post-course assessment in your document. *Label and caption your screenshot appropriately, according to what you’ve read this week*.
 
 # Looking ahead
 
