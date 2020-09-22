@@ -37,8 +37,8 @@ Criteria for success:
 
 #  For Thursday
 
-There's nothing due today. Take a break, take a nap, work on something for another course, or get some early work and thinking done on the [first major project for this course](./project-1).
+There's nothing due today. Take a break, take a nap, work on something for another course, or get some early work and thinking done on the [first major project for this course](../project-1).
 
 #  Looking ahead
 
-I will update this with information about Week 08 soon. Read the description for the [first major project](./project-1), and start a list of questions you have about what I'm asking you to do.
+I will update this with information about Week 08 soon. Read the description for the [first major project](../project-1), and start a list of questions you have about what I'm asking you to do.
