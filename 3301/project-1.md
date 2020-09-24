@@ -53,7 +53,7 @@ You must meet the following design constraints. Your design should help readers 
 - **Use text structures** (such as titles, subtitles, footnotes, and other elements) to clarify the audience, purpose, and scope of your text as well as present its content.
 - **Format** your fact sheet so that it fits on no more than 2 pages in Word.
 - **Proofread** your document; your work should be free from all surface errors.
-- *Do not turn in a docuent with double-spaced, 12pt Times New Roman manuscript formatting, a school-type heading, etc.*
+- *Do not turn in a document with double-spaced, 12pt Times New Roman manuscript formatting, a school-type heading, etc.*
 
 This should be written for a nontechnical audience. Think of the audience for this project as someone thinking about entering the profession, career, or discipline.
 
@@ -65,7 +65,13 @@ To begin, you must decide on a career field, major, or job that you are interest
 
 ### Step 2: Research writing in that career or field
 
-Research the kinds of writing individuals in your chosen career field do and come up with a list that is as comprehensive as possible. Your list will encompass all sorts of writing, from everyday to infrequent, from informal to formal. Don&#39;t overlook social media, as that has become an important venue for technical and professional writing in the 21st century.
+Research the kinds of writing individuals in your chosen career field do and come up with a list that is as comprehensive as possible. Your list will encompass all sorts of writing, from everyday to infrequent, from informal to formal. Don&#39;t overlook social media, as that has become an important venue for technical and professional writing in the 21st century. Figure 1 is a mind map that you might find helpful in thinking through possible contexts, purposes, and other features for workplace writing.
+
+<figure>
+<img src="weekly/media/writing-work.png" alt="Mind map about writing that gets work done, with branches including audience, purpose, context, formality, medium, and frequency./>
+<figcaption><i>Figure 1: What are audiences, purposes, contexts you might write for as a professional? Click to enlarge image. Mind map made with https://tobloef.com/text2mindmap/</i></figcaption>
+</figure>
+<p></p>
 
 Your chart must be the result of **research** , not generalizations you can come up with off the top of your head. You can locate information about writing through a variety of activities:
 
