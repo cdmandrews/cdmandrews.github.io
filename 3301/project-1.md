@@ -68,7 +68,7 @@ To begin, you must decide on a career field, major, or job that you are interest
 Research the kinds of writing individuals in your chosen career field do and come up with a list that is as comprehensive as possible. Your list will encompass all sorts of writing, from everyday to infrequent, from informal to formal. Don&#39;t overlook social media, as that has become an important venue for technical and professional writing in the 21st century. Figure 1 is a mind map that you might find helpful in thinking through possible contexts, purposes, and other features for workplace writing.
 
 <figure>
-<img src="weekly/media/writing-work.png" alt="Mind map about writing that gets work done, with branches including audience, purpose, context, formality, medium, and frequency./>
+<img src="weekly/media/writing-work.png" alt="Mind map about writing that gets work done, with branches including audience, purpose, context, formality, medium, and frequency."/>
 <figcaption><i>Figure 1: What are audiences, purposes, contexts you might write for as a professional? Click to enlarge image. Mind map made with https://tobloef.com/text2mindmap/</i></figcaption>
 </figure>
 <p></p>
