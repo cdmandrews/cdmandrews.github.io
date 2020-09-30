@@ -41,7 +41,7 @@ There's nothing due today. Take a break, take a nap, work on something for anoth
 
 #  Looking ahead
 
-I will update this with information about Week 08 soon. Read the description for the [first major project](../project-1), and start a list of questions you have about what I'm asking you to do.
+ [See the Week 08 notes](week-08-notes). Read the description for the [first major project](../project-1), and start a list of questions you have about what I'm asking you to do.
 
 Before you do anything else, your group needs to do two things. There's a "Group A Whatever forum" in your group area, and you can deliberate there if you don't have another means of communication you're using.
 
