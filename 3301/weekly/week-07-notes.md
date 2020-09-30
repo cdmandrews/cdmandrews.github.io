@@ -42,3 +42,9 @@ There's nothing due today. Take a break, take a nap, work on something for anoth
 #  Looking ahead
 
 I will update this with information about Week 08 soon. Read the description for the [first major project](../project-1), and start a list of questions you have about what I'm asking you to do.
+
+Before you do anything else, your group needs to do two things. There's a "Group A Whatever forum" in your group area, and you can deliberate there if you don't have another means of communication you're using.
+
+**Task 1**: Pick a group name. Rather than having myself pick dumb names for each group, I'd like you to select a name for yourselves. (Because honestly, once it gets out that a group got named "House Stark" you'd all know I'm playing favorites!) Pick whatever kind of name you like; ideally, one that fits the particular character or makeup of your group. My only constraints are that 1) everyone agree, and 2) your group's name begin with the letter that's already used to identify your group (Group A, B, C, D, or E.)
+
+**Task 2**. Elect or select a **coordinator**. This is a light duty job, but best suited to people who 1) aren't afraid to email folks,  2) usually post assignments early rather than later in the week, and 3) are very good at self-starting. The coordinator will have a specific job helping the group get organized on weekly assignments in weeks to come (starting Week 08) as we shift to some different kinds of collaboration.
