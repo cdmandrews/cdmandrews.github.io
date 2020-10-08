@@ -4,7 +4,7 @@
 
 ### What are recurrent rhetorical features (styles, designs, visuals) for fact sheets?
 
-- **Style features and special content**
+Style features and special content might include things like:
 
  - Concise and clear (hard to generalize here)
  - Summaries of key information (aka "bottom line up front" or "conclusion-first" writing)
@@ -16,8 +16,7 @@
       - [Bulleted reference list](https://app.box.com/s/139h18adpfu8l18xl13gxwyf2nlk9hku) (like many ed/social/humanities disciplines)
       - [Footnotes or Simple source citation in bottom of second page](https://www.sentencingproject.org/wp-content/uploads/2016/02/US-Prison-Population-Trends-1999-2015.pdf)
 
-
-- **Design Features**
+Design features might include things like:
 
  - Often follow a color scheme/design scheme of the organization
  - Subheadings (lots--usually 1 or 2 levels of subdivision)
@@ -26,7 +25,7 @@
  - Paragraph texts (yep)
  - Single or double-column designs
 
-- **Visualization or Graphics Features**
+Visualization or graphics features might include things like:
 
  - Logo for organization — to let readers know the info is “official” (ethos)
  - Some have text callout boxes for the keyest of key facts, such as “[important considerations](https://www.osha.gov/OshDoc/data_Hurricane_Facts/general_decontamination_fact.pdf)”
@@ -47,6 +46,7 @@
 - Persuade or advocate
 
 ### Finally, what do these examples tell you or show you that you can apply as you’re creating your own fact sheets?
-- Audience and purpose inform each of these choices and features. Fact sheets for experts differ from fact sheets for parents, families, preprofessionals, publics, decision-makers, laborers, women, people speaking English, people speaking español, and so forth.
-- The “fact sheet” is a recognizable genre that circulates, but there’s also a lot of variety in that genre.
-- There's not one "right way" to do a fact sheet, but looking at these examples we can get a sense of the typical features, purposes, and social actions in the genre. We can see fact sheets are both [stable and dynamic](https://openenglishatslcc.pressbooks.com/chapter/on-genre/#3).
+
+Audience and purpose inform each of these choices and features. Fact sheets for experts differ from fact sheets for parents, families, preprofessionals, publics, decision-makers, laborers, women, people speaking English, people speaking español, and so forth. Fact sheets from medical and public health organizations are stylistically distinct from OSHA and census.gov style sheets--though not as wildly distinct as some genres. 
+
+The “fact sheet” is a recognizable genre that circulates, but there’s also a lot of variety in that genre. That is, there's not one "right way" to do a fact sheet, but looking at these examples we can get a sense of the typical features, purposes, and social actions in the genre. We can see fact sheets are both [stable and dynamic](https://openenglishatslcc.pressbooks.com/chapter/on-genre/#3).
