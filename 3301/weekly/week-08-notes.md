@@ -80,3 +80,5 @@ This discussion activity will be collaborative. So that you get the benefit of e
  - **The group discussion part of the assignment is *not* optional for the group coordinator.**
 
 ## Looking ahead
+
+[See the Week 09 notes](week-09-notes). Get to researching! Also, we'll explore the joy of progress reports.

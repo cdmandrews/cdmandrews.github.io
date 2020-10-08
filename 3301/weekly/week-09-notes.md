@@ -14,7 +14,7 @@ This week will include a short progress report, and I've put together some of my
 
 ## Tuesday
 
-Work on that research. No post today. Review my [notes on fact sheets]() and continue working on your research.
+Work on that research. No post today. Review my [notes on fact sheets](facts-about-fact-sheets) and continue working on your research.
 
 <mark>If you have questions, please ask them! Lots of questions early on means fewer freak-outs later!</mark>
 
