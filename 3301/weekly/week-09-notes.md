@@ -18,6 +18,8 @@ Work on that research. No post today. Review my [notes on fact sheets](facts-abo
 
 <mark>If you have questions, please ask them! Lots of questions early on means fewer freak-outs later!</mark>
 
+There is an **optional** activity in the Weeks 8-11 folder on Blackboard for this week. Assignment 09.1 "Styles and Graphical Elements in MSWord" is extra practice for those students interested in an introduction to Word stylesheets and other intermediate features. The instructions for this activity are on Blackboard.
+
 ## Thursday
 
 Participate in the "Project 1 Progress Reports" forum thread in your group.
