@@ -2,13 +2,15 @@
 
 ## Facts (?) About Fact Sheets
 
-### What are recurrent rhetorical features (styles, designs, visuals) for fact sheets?
+The “fact sheet” is a recognizable genre, but as with any genre, you can also find plenty of variety. Fact sheets are both [stable and dynamic](https://openenglishatslcc.pressbooks.com/chapter/on-genre/#3). That is, there’s not one “right way” to do a fact sheet, but looking at these lists of features and examples we can get a sense of the **typical features, purposes, audiences, and social actions** for the genre.
 
-Style features and special content might include things like:
+### Fact sheets have recurrent style, design, and visual features.
 
- - Concise and clear (hard to generalize here)
+Style features might include things like:
+
+ - Clear and concise language; fact sheets are brief and generally in "lay terms" (words that an average person might understand)
  - Summaries of key information (aka "bottom line up front" or "conclusion-first" writing)
- - “Facts” (what are facts?)
+ - “Facts” ([what are facts?](https://writing.colostate.edu/guides/teaching/co300man/pop12d.cfm))
  - Identifying information about the org, such as website, etc.
  - Sometimes, multi-language options ([English and Spanish census](https://www.census.gov/library/fact-sheets/2019/dec/respond-to-2020-census-spanish/respond-to-2020-census-english.html))
  - Citations appear in varying styles
@@ -39,14 +41,12 @@ Visualization or graphics features might include things like:
     - Tables of data ([change in state prison populations](https://www.sentencingproject.org/wp-content/uploads/2016/02/US-Prison-Population-Trends-1999-2015.pdf))
     - Graphs: ([bar charts, other data-oriented visuals](https://criminaljustice.cityofnewyork.us/wp-content/uploads/2020/09/Supervised-Release-Annual-Scorecard-2019_September-2020.pdf))
 
-### What typical actions or purposes (i.e. _exigences_) are fact sheets used to accomplish?
+### Fact sheets accomplish a range of related actions or purposes (i.e. _exigences_).
 - Instruct or inform (safety info; new medical information or research; define key facts about complex medical conditions, safety information; information about an organization’s purpose or processes; [FAQs](https://www.dhs.gov/news/2018/11/01/myth-vs-fact-caravan))
 - Explain how to do something or give instructions (how to go through a process, how to recognize an official census-taker)
 - Promote something (a program, an activity)
 - Persuade or advocate
 
-### Finally, what do these examples tell you or show you that you can apply as you’re creating your own fact sheets?
+### What do these examples show you that you can apply as you’re creating your own fact sheets?
 
-Audience and purpose inform each of these choices and features. Fact sheets for experts differ from fact sheets for parents, families, preprofessionals, publics, decision-makers, laborers, women, people speaking English, people speaking español, and so forth. Fact sheets from medical and public health organizations are stylistically distinct from OSHA and census.gov style sheets--though not as wildly distinct as some genres. 
-
-The “fact sheet” is a recognizable genre that circulates, but there’s also a lot of variety in that genre. That is, there's not one "right way" to do a fact sheet, but looking at these examples we can get a sense of the typical features, purposes, and social actions in the genre. We can see fact sheets are both [stable and dynamic](https://openenglishatslcc.pressbooks.com/chapter/on-genre/#3).
+Audience and purpose inform each of these choices and features. Fact sheets for experts differ from fact sheets for parents, families, preprofessionals, publics, decision-makers, laborers, women, people speaking English, people speaking español, and so forth. Fact sheets from medical and public health organizations are stylistically distinct from OSHA and census.gov style sheets--though not as wildly distinct as some genres.
