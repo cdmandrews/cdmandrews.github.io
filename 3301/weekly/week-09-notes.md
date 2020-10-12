@@ -10,7 +10,9 @@ It's tempting to start with a template and start filling things in from there--b
 
 Among the important things to do with your fact sheets is to give them a sense of unity and coherence. **There should be a coherent, central, key message to your fact sheets**. Notice that none of the examples we looked at last week were "A Bunch of Random Stuff About X", right? They each had key messages, whether they were instructional, informational, or persuasive.
 
-This week will include a short progress report, and I've put together some of my own notes and examples about fact sheets to go along with yours. Finally, I've prepared a short video about genre, genre sets, and genre ecologies to help you think through your findings.
+This week will include a short progress report, and I've put together some of [my own notes and examples about fact sheets](facts-about-fact-sheets) to go along with yours. Finally, I've prepared a short video about genre, genre sets, and genre ecologies to help you think through your findings.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FrpFdoIrPjg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Tuesday
 
