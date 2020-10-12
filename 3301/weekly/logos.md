@@ -4,7 +4,7 @@
 
 A few folks--noticing that most of the fact sheets we've seen thus far have logos on them--have asked if you're required to design a logo for your own fact sheets. If you would like to design a logo, you may do so.
 
-For convenience' sake, I prepared a handful of versions of a standard logo that you're welcome to use. Simply download the image file and add it to your document. Word should permit you to recolor the file, if one of these don't quite *pop* for you.
+For convenience' sake, I prepared a handful of versions of a standard logo that you're welcome to use. Right-click to download the image file and then add it to your document. Word should permit you to recolor the file, if one of these don't quite *pop* for you.
 
 I made these in minutes with [Canva](https://www.canva.com/design/DADAuwR2Ehk/share/preview?token=je2a2LONwgIyQORqxNdFbg&role=EDITOR&utm_content=DADAuwR2Ehk&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton).
 

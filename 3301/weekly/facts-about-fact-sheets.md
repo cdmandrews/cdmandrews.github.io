@@ -29,7 +29,7 @@ Design features might include things like:
 
 Visualization or graphics features might include things like:
 
- - Logo for organization — to let readers know the info is “official” (ethos)
+ - [Logo for the organization](logos) — to let readers know the info is “official” (ethos)
  - Some have text callout boxes for the keyest of key facts, such as “[important considerations](https://www.osha.gov/OshDoc/data_Hurricane_Facts/general_decontamination_fact.pdf)”
  -  Icons - These might be for types of communication, such as [icons  representing a phone, a person, a computer;](https://www.census.gov/library/fact-sheets/2019/dec/2020-census-accessible.html) other fact sheets have icons [representing actions or activities](https://health.gov/sites/default/files/2019-11/PAG_MYW_OlderAdults_FS.pdf).
     - <mark>(Two resources for icons if you want to use them in your fact sheet: [The Noun Project](https://thenounproject.com/) and [Material Design](https://material.io/resources/icons/?style=baseline)) </mark>
