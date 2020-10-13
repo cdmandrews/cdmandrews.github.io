@@ -8,6 +8,7 @@ The “fact sheet” is a recognizable genre, but as with any genre, you can als
 
 Style features might include things like:
 
+ - A key message or central idea. The fact sheet is never a list of random facts about X. It has a subject, a purpose or goal in mind for the reader, and a coherent focus or main takeaway. 
  - Clear and concise language; fact sheets are brief and generally in "lay terms" (words that an average person might understand)
  - Summaries of key information (aka "bottom line up front" or "conclusion-first" writing)
  - “Facts” ([what are facts?](https://writing.colostate.edu/guides/teaching/co300man/pop12d.cfm))
