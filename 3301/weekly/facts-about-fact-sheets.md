@@ -4,16 +4,25 @@
 
 The “fact sheet” is a recognizable genre, but as with any genre, you can also find plenty of variety. Fact sheets are both [stable and dynamic](https://openenglishatslcc.pressbooks.com/chapter/on-genre/#3). That is, there’s not one “right way” to do a fact sheet, but looking at these lists of features and examples we can get a sense of the **typical features, purposes, audiences, and social actions** for the genre.
 
+### Fact sheets accomplish a range of related actions or purposes (i.e. _exigences_).
+- **Inform** (provide safety or emergency information; summarize new research; define a medical condition; give information about an organization’s purpose or processes; [FAQs](https://www.dhs.gov/news/2018/11/01/myth-vs-fact-caravan))
+- **Explain how to do something or give instructions** (how to go through a process, how to recognize an official census-taker)
+- **Promote** (why to participate in a program or an activity)
+- **Persuade or advocate** (provide facts in support of a decision or position)
+
 ### Fact sheets have recurrent style, design, and visual features.
+
+Audience and purpose inform each of these design choices and rhetorical features.
+
+Fact sheets for *experts* will differ from fact sheets for *parents, families, preprofessionals, publics, decision-makers, laborers, women, people speaking a different language* and so forth--they provide definitions, explanations, terminology, and data that will help specific audiences achieve their purposes for turning to the fact sheet.
 
 Style features might include things like:
 
- - A key message or central idea. The fact sheet is never a list of random facts about X. It has a subject, a purpose or goal in mind for the reader, and a coherent focus or main takeaway.
- - Clear and concise language; fact sheets are brief and generally in "lay terms" (words that an average person might understand)
- - Summaries of key information (aka "bottom line up front" or "conclusion-first" writing)
+ - Opening with a key message or summary: AKA **bottom-line-up-front** or **conclusion-first** writing. The fact sheet is never a list of random facts about X. It has a subject, a purpose or goal in mind for the reader, and a coherent focus or main takeaway. Look at the title and opening paragraphs to see indicators of purpose, audience, and key message.
+ - Clear and concrete language; fact sheets are brief and generally in "lay terms" (words that an average person might understand) unless the audience's needs dictate otherwise.
  - “Facts” ([what are facts?](https://writing.colostate.edu/guides/teaching/co300man/pop12d.cfm))
- - Identifying information about the org, such as website, etc.
- - Sometimes, multi-language options ([English and Spanish census](https://www.census.gov/library/fact-sheets/2019/dec/respond-to-2020-census-spanish/respond-to-2020-census-english.html))
+ - Identifying information about the organization that is producing it: a website or perhaps contact information.
+ - Sometimes include multi-language options ([English and Spanish census](https://www.census.gov/library/fact-sheets/2019/dec/respond-to-2020-census-spanish/respond-to-2020-census-english.html))
  - Citations appear in varying styles
       - [Number-style citations](https://www.aacnnursing.org/News-Information/Fact-Sheets/Nursing-Fact-Sheet) (like many science disciplines)
       - [Bulleted reference list](https://app.box.com/s/139h18adpfu8l18xl13gxwyf2nlk9hku) (like many ed/social/humanities disciplines)
@@ -27,6 +36,7 @@ Design features might include things like:
  - Bulleted or Numbered lists (lots)
  - Paragraph texts (yep)
  - Single or double-column designs
+ - Use of white space (margins, space between columns and sections, surrounding visuals)
 
 Visualization or graphics features might include things like:
 
@@ -42,12 +52,4 @@ Visualization or graphics features might include things like:
     - Tables of data ([change in state prison populations](https://www.sentencingproject.org/wp-content/uploads/2016/02/US-Prison-Population-Trends-1999-2015.pdf))
     - Graphs: ([bar charts, other data-oriented visuals](https://criminaljustice.cityofnewyork.us/wp-content/uploads/2020/09/Supervised-Release-Annual-Scorecard-2019_September-2020.pdf))
 
-### Fact sheets accomplish a range of related actions or purposes (i.e. _exigences_).
-- Instruct or inform (safety info; new medical information or research; define key facts about complex medical conditions, safety information; information about an organization’s purpose or processes; [FAQs](https://www.dhs.gov/news/2018/11/01/myth-vs-fact-caravan))
-- Explain how to do something or give instructions (how to go through a process, how to recognize an official census-taker)
-- Promote something (a program, an activity)
-- Persuade or advocate
-
 ### What do these examples show you that you can apply as you’re creating your own fact sheets?
-
-Audience and purpose inform each of these choices and features. Fact sheets for experts differ from fact sheets for parents, families, preprofessionals, publics, decision-makers, laborers, women, people speaking English, people speaking español, and so forth. Fact sheets from medical and public health organizations are stylistically distinct from OSHA and census.gov style sheets--though not as wildly distinct as some genres.
