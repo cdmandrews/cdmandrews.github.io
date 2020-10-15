@@ -14,6 +14,8 @@ This week will include a short progress report, and I've put together some of [m
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FrpFdoIrPjg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5GQiYSGJMkI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Tuesday
 
 Work on that research. No post today. Review my [notes on fact sheets](facts-about-fact-sheets) and continue working on your research. I also made a big pile of [logos](logos) you may use if you like.

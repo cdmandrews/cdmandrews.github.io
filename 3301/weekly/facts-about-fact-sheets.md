@@ -4,6 +4,8 @@
 
 The “fact sheet” is a recognizable genre, but as with any genre, you can also find plenty of variety. Fact sheets are both [stable and dynamic](https://openenglishatslcc.pressbooks.com/chapter/on-genre/#3). That is, there’s not one “right way” to do a fact sheet, but looking at these lists of features and examples we can get a sense of the **typical features, purposes, audiences, and social actions** for the genre.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5GQiYSGJMkI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Fact sheets accomplish a range of related actions or purposes (i.e. _exigences_).
 - **Inform** (provide safety or emergency information; summarize new research; define a medical condition; give information about an organization’s purpose or processes; [FAQs](https://www.dhs.gov/news/2018/11/01/myth-vs-fact-caravan))
 - **Explain how to do something or give instructions** (how to go through a process, how to recognize an official census-taker)
