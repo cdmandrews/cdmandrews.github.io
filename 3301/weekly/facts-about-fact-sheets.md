@@ -8,7 +8,7 @@ The “fact sheet” is a recognizable genre, but as with any genre, you can als
 
 Style features might include things like:
 
- - A key message or central idea. The fact sheet is never a list of random facts about X. It has a subject, a purpose or goal in mind for the reader, and a coherent focus or main takeaway. 
+ - A key message or central idea. The fact sheet is never a list of random facts about X. It has a subject, a purpose or goal in mind for the reader, and a coherent focus or main takeaway.
  - Clear and concise language; fact sheets are brief and generally in "lay terms" (words that an average person might understand)
  - Summaries of key information (aka "bottom line up front" or "conclusion-first" writing)
  - “Facts” ([what are facts?](https://writing.colostate.edu/guides/teaching/co300man/pop12d.cfm))
@@ -33,7 +33,7 @@ Visualization or graphics features might include things like:
  - [Logo for the organization](logos) — to let readers know the info is “official” (ethos)
  - Some have text callout boxes for the keyest of key facts, such as “[important considerations](https://www.osha.gov/OshDoc/data_Hurricane_Facts/general_decontamination_fact.pdf)”
  -  Icons - These might be for types of communication, such as [icons  representing a phone, a person, a computer;](https://www.census.gov/library/fact-sheets/2019/dec/2020-census-accessible.html) other fact sheets have icons [representing actions or activities](https://health.gov/sites/default/files/2019-11/PAG_MYW_OlderAdults_FS.pdf).
-    - <mark>(Two resources for icons if you want to use them in your fact sheet: [The Noun Project](https://thenounproject.com/) and [Material Design](https://material.io/resources/icons/?style=baseline)) </mark>
+    - (<mark>Two resources for icons if you want to use them in your fact sheet</mark>: [The Noun Project](https://thenounproject.com/) and [Material Design](https://material.io/resources/icons/?style=baseline)
  - Humanizing pictures of people in activities ([sensory integration, picture of child](https://www.aota.org/-/media/Corporate/Files/AboutOT/Professionals/WhatIsOT/CY/Fact-Sheets/FactSheet_SensoryIntegration.pdf))
  - Pictures and technical illustrations, for example:
     - Pictures identifying objects ([census.gov, what census-takers’ bags and phones should look like)](https://www.census.gov/library/fact-sheets/2020/dec/how-to-identify-a-census-taker.html)
