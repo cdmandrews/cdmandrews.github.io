@@ -8,7 +8,11 @@ Keep chomping away at your fact sheets. A few pieces of information for this wee
 
 1. Sharing Documents in Office online
 
+[insert video]
+
 2. Using Track Changes and Comments in Office online
+
+[insert video]
 
 ## Tuesday
 
