@@ -34,4 +34,4 @@ Upload your document to the Week 09 forum in your group. No discussion necessary
 
 ## Looking ahead
 
-Next week we'll concern ourselves with continued research and revision work, and the first round of peer review on your fact sheets. Move to drafting!
+[Next week](week-10-notes) we'll concern ourselves with continued research and revision work, and the first round of peer review on your fact sheets. Move to drafting!
