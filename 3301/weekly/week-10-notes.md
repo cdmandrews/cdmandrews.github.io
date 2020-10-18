@@ -8,7 +8,7 @@ Keep chomping away at your fact sheets. A few pieces of information for this wee
 
 1. Sharing Documents in Office online
 
-[insert video]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ve1LI6ytrQk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 2. Using Track Changes and Comments in Office online
 
