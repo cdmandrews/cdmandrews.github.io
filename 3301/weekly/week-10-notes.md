@@ -32,6 +32,11 @@ Instead of a discussion in the Week 10 forum, use the **sharing** feature of Wor
 
 Please have your draft shared with me by Tuesday so we can do peer and instructor review for the rest of the week.
 
+Also, if you have a two-column design and Word online is throwing you off, don't freak out. Word online does *not* present columns, but the columns are retained in your documents regardless. A video overview of this issue:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/575BUD1ycEs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 ## Thursday
 
 Peer review!
