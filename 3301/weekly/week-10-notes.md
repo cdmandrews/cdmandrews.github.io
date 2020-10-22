@@ -67,6 +67,8 @@ A few things to remember about feedback:
 4. Take the opportunity to learn from what others are doing. Be attentive.
 5. Give feedback to others as you would have feedback given to you. Give writers specific feedback about particular things. This sentence, this word, this picture, this color. Telling writers "It's great you just have to finish" isn't helpful--they know that already. Offer specific ideas about how and what to revise or finish.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fwAjB4lHjRo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 I don't like to wave points around, but some folks don't always take peer review seriously.  Peer review sessions are worth 50 points, and should not be skipped. Peer review is an opportunity to share, learn, and improve your writing--not participating hurts your final product and the final products of others. Do your group a solid and be present for peer review!!
 
 ## Looking ahead
