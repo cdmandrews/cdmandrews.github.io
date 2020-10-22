@@ -45,7 +45,17 @@ Peer review!
 
 **Tech writers**, share your fact sheet (again using Office Online) with your two or three peer reviewers (as well as with me--this must be the same file you shared with me earlier in the week) If you are not sure how to share files in Office online, view the video on this page.
 
-Review each others' work. Use Word's commenting and review features to provide peer feedback and commentary. Read each others' fact sheets carefully and generously. Provide at least 5 actionable comments to each writer on any or all of the following areas:
+Review each others' work. Use Word's commenting and review features to provide peer feedback and commentary. For most of your designs you will need to use the "Open in Desktop App" button to see the design as intended (see Figure 1). If you've done so correctly, using the "Save" button for that downloaded version *should* sync back to the online version of the document (see Figure 2).
+
+<figure><img src="media/word-open-desktop.png" title="Screenshot: Click the 'Open in Destkop App' button" alt="Click the 'Open in Destkop App' button">
+<figcaption><i>Figure 1: Use the "Open in Dekstop App" button in the Word Online interface</i></figcaption></figure>
+
+<figure><img src="media/word-sync-save.png" title="Screenshot: Sync and save button" alt="Screenshot: Sync and save button">
+<figcaption><i>Figure 2: Use the save and sync button in the Word desktop interface; this button has two circular arrows at the bottom right of the icon.</i></figcaption></figure>
+
+
+
+Read each others' fact sheets carefully and generously. Provide <mark>at least two</mark> actionable comments to each writer on any or all of the following areas:
 - Writing style (how effectively are the writer's sentences, paragraphs, lists, and words explaining their content?)
 - Page design (how effective is the writer's use of white space, overall page alignment, use of color, CRAP principles, and other aspects of page design?)
 - Visual elements (Howe effective, appropriate, and rhetorical are visual elements?)
