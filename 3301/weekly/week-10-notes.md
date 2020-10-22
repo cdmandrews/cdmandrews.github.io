@@ -64,3 +64,5 @@ I don't like to wave points around, but some folks don't always take peer review
 Next week is a get. it. done. week. You will not have an assignment for Tuesday. If you want to use that time for an individual consultation, please let me know and we'll get it scheduled.
 
 The fact sheet is due (!) October 29th. Then we'll rest and get set for the second--and final--project.
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=420&href=https%3A%2F%2Fwww.facebook.com%2Fsameguysdancing%2Fvideos%2F362007418579868%2F&show_text=false&width=560" width="560" height="420" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe>
