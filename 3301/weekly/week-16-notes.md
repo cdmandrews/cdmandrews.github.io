@@ -2,10 +2,8 @@
 
 [ENGL 3301, Fall 2020](../calendar.html)
 
-## Big picture
+## Big picture (Draft draft)
 
-## Tuesday
-
-## Thursday
+Final project is due, turn in any time between Tuesday December 1 to Saturday December 5. Include reflection memo.
 
 ## Looking ahead
