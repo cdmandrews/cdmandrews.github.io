@@ -25,7 +25,7 @@ This project begins with the work you did for your fact sheet and visualizations
 For instance, you could:
 
 1. Interview and profile a technical and professional communicator in your field about writing and communicating in their work and report on your findings for other students in the major.
-2. Write a research report on a particular genre or rhetorical situation, describing important exigencies, audiences, features, and other rhetorical issues.
+2. Write an analytical, evaluative, or research report on a particular genre or rhetorical situation, describing important exigencies, audiences, features, and other rhetorical issues.
 5. Create a "Guide to TPC" for a particular field to add to [this course's resources](https://cdmandrews.github.io/3301/searching-professional-writing.html),  including links to examples and descriptions of audiences, exigencies, and other relevant commentary.
 3. Research a contemporary communication problem for your field and write a proposal or feasibility study with recommendations for important stakeholders or decision-makers.
 4. Write a series of engaging and informational blog posts about TPW in your field relevant to TAMUCC students.
