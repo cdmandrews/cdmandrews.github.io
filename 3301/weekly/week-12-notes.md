@@ -9,7 +9,7 @@
 Participate in the &quot;Project 2 Q&amp;A&quot; forum thread in your group:
 
   1. The second project asks you to select a professional communication topic, problem, or genre that you’d like to expand on from Project 1 and create a technical or professional document that will will help a specific audience learn, do, or make a decision about something. For today&#39;s post, you will locate relevant information about this project, assess the task, and ask questions about it.
-  2. Before you write your response to this post, you should review the [project description for Project 1](https://cdmandrews.github.io/3301/project-2).
+  2. Before you write your response to this post, you should review the [project description for Project 2](https://cdmandrews.github.io/3301/project-2).
   3. Post a reply to the &quot;Project 2 Q&amp;A&quot; discussion thread about your understanding of the first major project. Write about your understanding of the assignment, and any questions you have about it.
   4. Return to this thread later in the week. Review your group members&#39; responses and see if what others have written helps you answer your question. Try to answer questions posted by your fellow students!
   5. **You must discuss and respond to each others' questions and threads to get full credit on this one. I will, too. Interactivity is the whole point.**
