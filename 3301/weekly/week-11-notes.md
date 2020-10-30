@@ -10,12 +10,12 @@ Some key concerns to attend to as you're revising:
 2. This isn't a document design class, so I won't ding you on simple designs. What I am looking for is a usable design that helps readers understand and sift through the information you're presenting.
 3. Don't hold back on a draft because you think it's awful or incomplete. Better to get feedback and know what to do to move forward than to get stuck!
 
-## Tuesday
+## For Tuesday
 Nothing due today.
 
 If you need to schedule a conference with me, please do so sooner rather than later before my schedule fills up!
 
-## Thursday
+## For Thursday
 
 Your fact sheets and visualizations (whether one file or two) are due today at 5:00 pm. Upload all of your final files to the “Project 1: High-level overview of writing in your field” assignment on Blackboard.
 

@@ -52,7 +52,7 @@ Table 1: Genres in TPW
 | Stuff that doesn't quite fit in those categories | Meeting minutes, Resumes, Policies and Procedures, Blogs, Website copy, MIssion/Purpose statements, Forms of many different kinds, Statements of many different kinds, Stuff that's super-specific to fields and workplaces, |
 | And there's even more that I couldn't list here... |  See other concepts, like: 1) Swales 2004, "constellations of genres"; 2) Bazerman 1994, genre systems, "interrelated genres that interact with each other in specific settings" |
 
-## Tuesday
+## For Tuesday
 
 Participate in the &quot;Project 1 Q&amp;A&quot; forum thread in your group:
 
@@ -62,7 +62,7 @@ Participate in the &quot;Project 1 Q&amp;A&quot; forum thread in your group:
   4. Return to this thread later in the week. Review your group members&#39; responses and then go back to edit your original post. See if what others have written helps you answer your question. Try to answer questions posted by your fellow students!
   5. **You must discuss and respond to each others' questions and threads to get full credit on this one. I will, too. Interactivity is the whole point.**
 
-## Thursday
+## For Thursday
 
 Participate in the "Fact sheets examples and analysis" forum thread in your group.
 

@@ -32,7 +32,7 @@ If you're interested, check out some of these Requests for Proposals (RFPs), whi
 - [Nueces County Community Action Agency RFP for weatherization assistance program](https://tacaa.org/files/2016-06nccaarfp.pdf)
 
 
-## Tuesday
+## For Tuesday
 
 Participate in the &quot;Project 2 Q&amp;A&quot; forum thread in your group:
 
@@ -42,7 +42,7 @@ Participate in the &quot;Project 2 Q&amp;A&quot; forum thread in your group:
   4. Return to this thread later in the week. Review your group members&#39; responses and see if what others have written helps you answer your question. Try to answer questions posted by your fellow students!
   5. **You must discuss and respond to each others' questions and threads to get full credit on this one. I will, too. Interactivity is the whole point.**
 
-## Thursday (draft draft)
+## For Thursday
 
 Submit a proposal for your second project. We'll use a template as we did for the first major project, but to simplify things a bit I will share files with you to fill in. **Check your email for an invitation to share from me and have your proposal filled out by Thursday evening**.
 

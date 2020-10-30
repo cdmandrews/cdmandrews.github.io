@@ -14,7 +14,7 @@ Keep chomping away at your fact sheets. A few pieces of information for this wee
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rv5R6jVmiBI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Tuesday
+## For Tuesday
 
 A common problem area in professional writing is faulty parallel structure. Review the following materials about grammatical parallelism and style in technical and professional writing:
 
@@ -37,7 +37,7 @@ Also, if you have a two-column design and Word online is throwing you off, don't
 <iframe width="560" height="315" src="https://www.youtube.com/embed/575BUD1ycEs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-## Thursday
+## For Thursday
 
 Peer review!
 
