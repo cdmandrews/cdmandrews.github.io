@@ -4,7 +4,7 @@
 
 ## Big picture
 
-This week, you're working on wrapping your heads around the first project. To help you do that, we'll write a common genre: **the proposal**.
+This week, you're working on wrapping your heads around the second project. To help you do that, we'll write a common genre: **the proposal**.
 
 A proposal (in some fields it might be called a *pitch*) is usually an offer or bid to do something for someone. Proposals might be invited, or they might be unsolicited. Often, proposals are written in response to a "Request for Proposals" or RFP. Whichever the case, and whatever its specific details, **a proposal is a persuasive document that describes the goals and methods of a project clearly as part of making a case for the reader to approve the project**.
 
