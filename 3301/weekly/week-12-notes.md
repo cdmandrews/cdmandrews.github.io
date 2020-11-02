@@ -48,6 +48,8 @@ Submit a proposal for your second project. We'll use a template as we did for th
 
 Write a proposal that describes what you're thinking of doing for Project 2. Write to me as if I'm your manager or funder, not just your instructor. Remember to provide specific details rather than vague generalizations. If you are collaborating with other students, include all of your names in the "from" line; you are only required to submit one proposal for the group.
 
+Remember that it’s most likely that the audience for the project you are proposing will be different from the audience for the proposal itself. That is, you might be proposing to do an interview project and create a series of infographics that will benefit undergraduate students in the Environmental Science BS program; but the proposal itself is directed to me, your TPW professor who will either approve your proposal and tell you to go ahead or reject your proposal and ask you to revise.
+
 Your proposal should do the following:
   1. Describe the problem, issue, or topic you want to work on: what's the subject and what do you want to create?
   2. Explain why your project is beneficial or needed: what will the communication you want to create DO for its audience? Why should I be interested in or approve this project?
