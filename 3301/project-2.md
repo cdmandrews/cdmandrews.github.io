@@ -8,7 +8,7 @@ Select a professional communication topic, problem, or genre that you’d like t
 
 Take the content knowledge you’ve built about writing in your field and create a piece of professional and technical communication that will help a specific audience learn, do, or make a decision about something. Select an appropriate medium and genre for your audience and purpose and make rhetorical, contextual decisions about how you will communicate.
 
-Your final product is very much up to you, and the text you create could take a variety of forms: a formal report, a technical description, an informative website, a tutorial presentation, etc. Regardless of format, your second project should apply technical and professional communication strategies to inform, persuade, or instruct your audience about specialized aspects of communication in your field.
+Your final product is very much up to you, and the text you create could take a variety of forms: a formal report, a technical description, an informative website, a tutorial presentation, etc. Regardless of format, your second project should apply technical and professional communication strategies to inform, persuade, or instruct your audience <mark>about specialized aspects of communication in your field</mark>.
 
 ## Goals
 
