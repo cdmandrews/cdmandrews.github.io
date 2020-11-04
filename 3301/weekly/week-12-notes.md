@@ -43,6 +43,7 @@ Participate in the &quot;Project 2 Q&amp;A&quot; forum thread in your group:
   5. **You must discuss and respond to each others' questions and threads to get full credit on this one. I will, too. Interactivity is the whole point.**
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTOgCloS4czNN7_sI4wfZqSl2Fb6tAC18AigpVGj5MmvZE4VZ1rAbFBOVoRX-pCRcaGFv8Ttza_3WdS/embed?start=false&loop=false&delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+([And accompanying YT video](https://youtu.be/nQz46_m3PdQ))
 
 ## For Thursday
 
