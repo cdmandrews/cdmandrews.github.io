@@ -42,7 +42,7 @@ Participate in the &quot;Project 2 Q&amp;A&quot; forum thread in your group:
   4. Return to this thread later in the week. Review your group members&#39; responses and see if what others have written helps you answer your question. Try to answer questions posted by your fellow students!
   5. **You must discuss and respond to each others' questions and threads to get full credit on this one. I will, too. Interactivity is the whole point.**
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTOgCloS4czNN7_sI4wfZqSl2Fb6tAC18AigpVGj5MmvZE4VZ1rAbFBOVoRX-pCRcaGFv8Ttza_3WdS/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ7xOrP1iQGNtFngb932bL5IQJt39DhtoqV5IsnzystPPLRv_1g8EKZKbHzI9EV26LemH9vw0ggfvYn/embed?start=false&loop=false&delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## For Thursday
 
