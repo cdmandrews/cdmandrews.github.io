@@ -53,6 +53,8 @@ Along with using "you", writers can also be reader-centered by writing in a conv
 
 Technical terms are essential in technical and professional writing--especially when you're dealing with technical and scientific fields, but also with all kinds of professions and areas. Each field uses a vocabulary to relay specialized concepts by means of technical language. These special terms convey concentrated meanings that have been built up over time and use. Technical terms are really devices for efficiency among experts: they take big ideas and information and condense it all into a single word. The same thing goes for acronyms and abbreviations: when people share knowledge or a discourse community, they can use acronyms and initialisms (RADAR, LARPing, TDY, ADHD, YOLO, ROTFLMAO) and abbreviations (2D, 5G, app, demo, IP) to communicate more quickly and efficiently.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/igPIk79wAPg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 At the same time, technical terms can make your prose dense and difficult to understand, even for the specialized reader. So it's not a question of using it all the time or ignoring it all the time--like everything else, words are choices. If you're going to used specialized terminology, stick to the following guidelines:
 
 - Match terminology to your audience's needs and background. Don't assume they know it all. What is their level of understanding of the topic? Do you need to use more general terms?  

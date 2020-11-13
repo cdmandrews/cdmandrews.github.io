@@ -4,19 +4,23 @@
 
 ## Big picture
 
-## Tuesday (draft draft)
+Writing, researching, designing, more writing. We are SO. CLOSE.
 
-Submit a progress report for your second project. We'll use the same template as last time, but to simplify things a bit I will share files with you to fill in. Check your email for an invitation to share from me.
+## Tuesday
 
-Write a progress report that updates me on your project's status. Write to me as if I'm your manager or funder, not just your instructor. Remember to provide specific details rather than vague generalizations. If you are collaborating with other students, include all of your names in the "from" line; you are only required to submit one progress report for the group.
-- The introduction should provide details about the nature and scope of your project--remind me what you're working on, who it's for, and what your intentions are for the document you're creating.
-- The progress/tasks section should provide a breakdown of what tasks or stages you've identified for your project and how far along you are in completing them. It's also a good spot to describe problems you've come across or that you're actively trying to solve. If you are collaborating, indicate who is responsible for which tasks or parts of the process.
-- The summary/conclusion section should summarize the overall status of your project and describe how it's going in general.
+Submit a progress report for your second project. To simplify file-sharing, please **just add your progress report on to the end of your project 2 proposal**
+1. Add a page break at the end of your progress report.
+2. Use the same format as the last progress report: 1) Status summary, 2) Timeline or Overview (you can just copy/paste your timeline from the proposal and update it with new information), 3) Issues and questions, 4) Conclusion
+4. Remember to provide **specific details** and not vague generalizations.
+3. Tag me in a comment to let me know that your progress report is ready.
+
 
 ## Thursday
 
 Keep working on your projects, collaborating with your peers, discussing how things are going with me, and otherwise seeking help early and often.
 
+<iframe src="https://giphy.com/embed/Ok2oKVZNe8lO9tr7qo" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/historyuk-history-channel-forged-in-fire-Ok2oKVZNe8lO9tr7qo">via GIPHY</a></p>
+
 ## Looking ahead
 
-Our major activity for [next week](week-15-notes) is peer review. We did this before, but now you've had a chance to iron the bugs out, so it should be smoother sailing.
+[Next week](week-15-notes) will be a final round of peer review. We have done this before, so it should be fairly smooth sailing. You may begin peer review at any time before next week if you like.
