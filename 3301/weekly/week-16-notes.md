@@ -6,7 +6,7 @@
 
 This is the finish! Your final project is due and you may turn it in any time between Tuesday December 1 and Saturday December 5. Don't forget to include your reflection memo.
 
-<div style='position:relative; padding-bottom:calc(75.50% + 44px)'><iframe src='https://gfycat.com/ifr/NegligibleFoolishDragonfly' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
+<div style='position:relative; padding-bottom:calc(75.50% + 44px)'><iframe src='https://gfycat.com/ifr/NegligibleFoolishDragonfly' frameborder='0' scrolling='no' width='50%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 
 ## Looking ahead
 
