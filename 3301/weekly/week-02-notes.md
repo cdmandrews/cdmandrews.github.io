@@ -1,8 +1,5 @@
-[ENGL 3301, Fall 2020](../calendar.html)
-
 # Notes and Overview for Week 2
-
-Please take a few minutes to complete [this short questionnaire about your computer access](https://docs.google.com/forms/d/e/1FAIpQLSd2RtKrP8xO2ypqiHhbPDDz1MPAbXcDNH2BHkie_1hi4iItBg/viewform). I'll report on the results after everyone's completed it.
+[ENGL 3301, Fall 2021](../calendar.html)
 
 This week, we're continuing our general introduction to TPW, especially focusing on [audience](https://writingcommons.org/section/information-literacy/information/consider-your-audience/) and [exigence/purpose](https://writingcommons.org/section/rhetoric/rhetorical-situation/purpose/). These concepts are important, and we'll come back to them again and again for the entire semester. We'll also spend time talking about correspondence [genres](https://writingcommons.org/section/genre/), especially email and memos.
 
@@ -21,13 +18,20 @@ Also read:
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRCnu94gyM8eTxESllmHqX9V1Ikc3PWsyoaVb1Q9Bk1-vyKMgXCYnwCdr29HY8v6T-SiAha9vFlwJQY/embed?start=false&loop=false&delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
+## Defining technical communication (again)
+On definitions: helping give us focus, boundaries, entry points.
+
+In _Open Technical Writing_, Adam Pope defines technical writing as "writing and communication that conveys essential information that can’t be changed without causing damage to the outcome of using that information. But, we take that with the caveat that who shares that information, they way they share that information, and who they share it to, all of these things will have an impact on the final reception of the technical information. <mark>Technical writing then, is an act of translation.</mark> We may have to alter a great many things so that our reader/recipient properly understands what we’re getting at, but we’re still trying to get them to understand the same thing we started with. It just may look a lot different after we’ve translated it for them, and they may treat it differently than they would if someone else had shared it with them." (2018, p. 23)
+
+<comment comment>
+
 ## Audiences and TPW
 
 "**Know your audience**" and "**You are not your audience**" are important points to wrap your brains around. Audience analysis is the process of figuring out who your audience is so you can write to their needs rather than your own. Remember: technical communication addresses **particular readers** and **helps those readers solve problems**. Getting out of your own head and into an audience's head is HARD, and is something we'll practice a. lot. this semester.
 
 Two big audience-related myths (overgeneralizations, really) that TPW students can sometimes trip over are *dumb audiences* and *general audiences*:
 
-### Dumb Audiences, aka "Uncle Steve"
+### Audience Myth 1: Dumb Audiences, aka "Uncle Steve"
 
 I have this imaginary (slightly based in reality) figure I use as an example in lectures sometimes named "Uncle Steve." Every family has an Uncle Steve--that person that needs things explained to them five times and still doesn't quite understand (and maybe doesn't want to). The dude who always derails your Facebook or Instagram comments with some irrelevant stuff about "kids these days don't know how to whatever anymore..." Uncle Steve is nice enough, and you love him, but he kind of always misses the point.
 
@@ -40,7 +44,7 @@ Unfortunately, that's often not true. In fact, that viewpoint is a one-dimension
 
 The _Plain Language Act_ website has two great short resources on addressing audiences: [Do your research](https://plainlanguage.gov/guidelines/audience/do-your-research/) and  [Address the user](https://plainlanguage.gov/guidelines/audience/address-the-user/).
 
-### General audiences, aka "The public"
+### Audience Myth 2: General audiences, aka "The public"
 
 The lazy person’s answer to “who’s your audience?” on social media and lots of government or organizational communication is “the general public.” That is wrong.  Here's a solid essay on the topic if you want to read someone other than me say it: [There is No General Public: Starting with Audience for Stronger Science Communication Plans](https://medium.com/science-communication-media/there-is-no-general-public-starting-with-audience-for-stronger-science-communication-plans-6603a81da8d6)
 
@@ -60,11 +64,11 @@ Notice who's not in the list: **people who the report is about** (i.e. suspects,
 **Some examples of distinguishing between audiences:**
 - Look at the [Centers for Disease Control and Prevention (CDC)’s Guide to Writing for Social Media, appendix A](https://www.cdc.gov/socialmedia/tools/guidelines/pdf/GuidetoWritingforSocialMedia.pdf). See chapter 2 to read about how the CDC segments their audience and the roles they segment their audience into.
 - Another breakdown of audiences is over at the World Health Organization (WHO). See [“Goals and key audiences”](https://www.who.int/about/communications/goal-and-key-audiences)
-and how they segment their audience into some specific roles.
+and how they segment their audience into distinct groups with specific roles and content needs.
 
 ## Purpose, or Doing stuff with writing.
 
-Now hold on a second and back up to that list of readers for the police report. Not only did that one teensy little narrative have three different audiences, but each of those audiences had an entirely different reason for using the police report. So, when we're talking about TPW, not only do texts frequently have multiple different audiences, those audiences probably have different needs and purposes.
+Now hold on a second and back up to that list of readers for the police report. Not only did that one teensy little narrative have three different audiences, but each of those audiences had an entirely different reason for using the police report. So, when we're talking about TPW, not only do texts frequently have multiple audiences, those audiences probably have different needs and purposes.
 
 ### Multiple audiences, multiple purposes, multiple aaaack.
 
@@ -105,8 +109,7 @@ You'll also sometimes see introductions (such as the OSHA example in the table a
 
 Even if it feels a little training wheels-ish at first, that's okay; you can always revise those statements into something more appropriate for your audience in a later draft. I won't talk about them here, but titles and subject lines are other key spaces where we can pick up information about audience and purpose.
 
-
-# For Tuesday
+## For Tuesday
 
 Complete the "Introduction to Tech Writing" discussion forum in your group
 
@@ -117,27 +120,8 @@ Complete the "Introduction to Tech Writing" discussion forum in your group
 Related: This fine Week 02 video:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NVUOt71Szu8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
+## For Thursday
 
-# For Thursday
+## Looking ahead
 
-Complete the "Email for dummies" discussion forum in your group
-
-1. Search the internet for at least three advice or how-to articles on workplace or professional email. (There are lots! Here's a starter for you, from the [Heroic Technical Writing blog](https://heroictechwriting.com/2011/12/20/using-the-tools-effectively)).
-1. Write a post in your group's "Email for Dummies" forum in which you do the following:
-  - List links and titles for your three articles, and write a 50-word summary for each one.
-  - Discuss some of what you think are the most important **principles** for work email you read about in those three articles and your textbook chapters. These could be style tips as well as workplace culture tips like how frequently to check email or when to do email, or even reflections on gender, culture, and style.
-  - Describe a recent example of an email you sent that either succeeds or fails by those principles. If it was great, explain specifically why it was; if it wasn't, explain how you might have done better in that situation.
-  - Quote relevant passages from our reading assignments in your post and connect your examples and summaries to ideas about audience and purpose.
-  - Enjoy this fine video about email.
-
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/hm_yHwnySX8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-# Looking ahead
-
-In [week 3](week-03-notes) we'll continue exploring audience and turn to focus specifically on social justice and ethics. Spoilers: [professional and technical writing should not be used to exploit, repress, or oppress human beings](https://attw.org/blog/the-just-use-of-imagination-a-call-to-action/).
-
-The topic is charged, especially right now, and always runs the risk of getting a little prickly. Though we don't normally have real explosions or problems in the discussion forums in this class, I will take this moment to remind everyone about the syllabus' "Statement of Civility":
-
->Texas A&M University-Corpus Christi has a diverse student population that represents the population of the state. Our goal is to provide you with a high quality educational experience that is free from repression. You are responsible for following the rules of the University, city, state and federal government. We expect that you will behave in a manner that is dignified, respectful and courteous to all people, regardless of sex, ethnic/racial origin, religious background, sexual orientation or disability. Behaviors that infringe on the rights of another individual will not be tolerated.
-
-This statement does not mean "don't disagree," but it does mean that we all expect our backgrounds, identities, and personhoods to be respected; name-calling, threats, and angry flaming are all unacceptable.
+[Week 3](week-03-notes)

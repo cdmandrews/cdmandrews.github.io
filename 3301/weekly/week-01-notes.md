@@ -1,12 +1,13 @@
-[ENGL 3301, Fall 2020](../calendar.html)
-
-<span style="color:red;">*No assignments or course documents, including the syllabus, should be considered to be in their final form until the first week of class begins.*</span>
-
 # Notes and Overview for Week 01
+[ENGL 3301, Fall 2021](../calendar.html)
+
+<span style="color:red;">*Important: No assignments or course documents, including the syllabus, should be considered to be in their final form until the first week of class begins.*</span>
 
 Each week, I'll provide you an overview (just like this document). These docs will detail specific readings, exercises, and due dates for each week. In general, when people email me about being confused about what to do that week, I will ask them "Did you check the overview?" Always check these weekly documents first! I will structure coursework around a Tuesday/Thursday schedule, so you will see assignments and readings broken up into two days each week. To read more about how and why the course is scheduled the way it is, please review the "Course Conduct" section of our syllabus.
 
-<img src="media/tech-comm-tarly.jpg" title="Always read the instructions" alt="Always read the instructions">
+<figure><img src="media/tech-comm-tarly.jpg" alt="Game of Thrones meme, Samuel Tarly reading a book.">
+<figcaption>Always read the instructions</figcaption>
+</figure>
 
 If you find something in error, or are confused about any part of the instructions, please email me at [christopher.andrews@tamucc.edu](mailto:christopher.andrews@tamucc.edu). If your question is one that the entire class will benefit from hearing, I will likely share the answer with everyone!
 
@@ -49,34 +50,22 @@ To learn how to write effectively for the world of work, in this class you'll st
 This TPW course will build on what you've learned in other writing courses, adding deeper consideration of audience and situation and special writing and design strategies to your communication toolbox. If you currently have a job or internship in which you do some writing, you'll discover that you can put what you learn in your TPW course to immediate use.
 
 ### About Technical Communication
-The field of technical communication is essential in a wide range of fields and occupations. It is a fully professional field with degree programs, certifications, research, and theory. [It's a good field with a lot of growth and income potential](https://www.bls.gov/ooh/media-and-communication/technical-writers.htm); and this introductory TPW course is a good way to start if you are interested in a career in this field.
+The field of technical communication is essential in a wide range of fields and occupations. It is a fully professional field with degree programs, certifications, research, and theory. [It's a good field with a lot of growth and income potential](https://www.bls.gov/ooh/media-and-communication/technical-writers.htm); and this introductory TPW course is a good way to start if you are interested in a career in this field. Some foundational
 
-**Workplace writing.** The focus for this particular TPW course is not necessarily a career as a technical writer but [an introduction to the kinds of writing skills you need in practically any professional job](https://medium.com/@kesiparker/business-writing-vs-technical-writing-3389b5648c50). No matter what sort of professional work you do, you're likely to do lots of writing, and much of it will be technical in nature. The more you know about some basic tech. writing skills, the better job of writing you're likely to do. [And that will be good for the projects you work on, for the organizations you work in, the society you live in, and most definitely good for you and your career](https://www.forbes.com/sites/gretasolomon/2018/08/09/why-mastering-writing-skills-can-help-future-proof-your-career).
+**Writing is social** Elaborate. Other people, other contexts, not isolated/alone writers. And as one of our textbook's authors will point out, technical communication is essentially **an act of translation**.
 
-**The meaning of "technical."** Technical communication—or technical writing, as the course is often called—is not writing about a specific technical topic such as computers, but about any technical topic. The term "technical" refers to knowledge that is not widespread, that is the territory of experts and specialists. Whatever your major is, you are developing an expertise in concepts and processes and content knowledge: you are becoming a specialist in a particular technical area. And whenever you try to write or say anything about your field, you are engaged in technical communication.
+**Workplace writing.** The focus for this particular TPW course is not necessarily a career as a technical writer but instead [an introduction to the kinds of writing skills you need in practically any professional job](https://medium.com/@kesiparker/business-writing-vs-technical-writing-3389b5648c50). No matter what sort of professional work you do, you're likely to do lots of writing, and much of it will be technical in nature. The more you know about some basic tech. writing skills, the better job of writing you're likely to do. [And that will be good for the projects you work on, for the organizations you work in, the society you live in, and most definitely good for you and your career](https://www.forbes.com/sites/gretasolomon/2018/08/09/why-mastering-writing-skills-can-help-future-proof-your-career).
 
-**Importance of audience.** Another key part of the definition of technical communication is the audience. For the first few weeks of the course, we're going to talk about a lot of concepts, but the thing that we'll really circle back to every time is _audience_. Technical communication is **transactional**: it is a "purposeful transaction between sender and receiver that provides specific information for practical and specific purposes and is usually geared towards the needs of a specific audience" ([TWE Ch 1](https://pressbooks.bccampus.ca/technicalwriting/part/techcomm/)). Because of this transactional nature, professional and technical writers must adapt information to their audiences' needs, level of understanding, and background.
+**The meaning of "technical."** Technical communication-—or technical writing, as the course is often called—-is not just writing about a specific technical topic such as computers, but about any technical topic. The term "technical" refers to knowledge that is not widespread: knowledge that is the territory of experts or specialists. Whatever your major is, you are developing an expertise in concepts and processes and content knowledge: you are becoming a specialist in a particular technical area. And whenever you try to write or say anything about your field or your domain or out of your expertise, you are engaged in technical communication. This is not just limited to the world of work--grandma's carne guisada recipe is technical communication, too.
 
-Professional and technical writing helps readers **do things**: understand a new process, learn a new technique, make a complex decision, understand what happened, and so forth. In the context of workplace and technical communication, if your reader can't understand the writing there's a BIG problem. (And it ain't usually the reader's fault.) So spending time considering your audience's needs, values, and perspectives is critical to creating effective, successful TPW. If you know who you're writing to and why, you can make all kinds of [rhetorical](https://writingcommons.org/section/rhetoric/) choices. As a professional who's going to have to use writing to help other people do stuff, [rhetorical awareness (the ability to think about goals and situations for writing)](https://owl.purdue.edu/owl/subject_specific_writing/professional_technical_writing/effective_workplace_writing/index.html) is going to be a significant skill.
+**Audience is often at the center.** Another key part of the definition of technical communication is the audience. For the first few weeks of the course, we're going to talk about a lot of concepts, but the thing that we'll really circle back to every time is _audience_. Technical communication is **transactional**: it is a "purposeful transaction between sender and receiver that provides specific information for practical and specific purposes and is usually geared towards the needs of a specific audience" ([TWE Ch 1](https://pressbooks.bccampus.ca/technicalwriting/part/techcomm/)). Because of this transactional nature, professional and technical writers must adapt information to their audiences' needs, level of understanding, and background.
 
-# Due Thursday, August 20 before midnight
+Most importantly, and regardless of specifics of context, location, or sponsorship, professional and technical writing helps readers **do things**: understand a new process, learn a new technique, make a complex decision, understand what happened, make a thig, and so forth. In the context of workplace and technical communication, if your reader can't understand the writing there's a BIG problem. (And it ain't usually the reader's fault.) If your kid can't understand the instructions you left for starting dinner because you didn't write your note in a way that makes sense to them, that's not their fault either! Spending time considering your audience's needs, values, and perspectives and how you will have to translate information for them is critical to creating effective, successful TPW. If you know who you're writing to and why, you can make all kinds of [rhetorical](https://writingcommons.org/section/rhetoric/) choices. As a person who's going to have to use writing and communication to help other people do stuff, [rhetorical awareness (the ability to think about goals and situations for writing)](https://owl.purdue.edu/owl/subject_specific_writing/professional_technical_writing/effective_workplace_writing/index.html) is going to be a significant skill.
 
-1. Read [Chapter 1: Introduction to Technical Writing](https://alg.manifoldapp.org/read/open-technical-communication/section/0debb16b-f623-4033-a47b-973d65ab0961) from _Open Technical Communication_.
+## For Tuesday
 
-2. If you skipped my "Okay, let's start with technical writing (whatever that is)" notes above, back up and read them as well.
+## For Thursday
 
-3. Post to your group's "<strong>Welcome to the group!"</strong> forum  **before midnight on Thursday**. Write a post in which you cover each of the following topics:
-  - Write a paragraph to introduce yourself, your background, and your #goals. What should we know about you and your identity?
-  - Have you taken online classes before, or is this your first? What strategies would you offer to your groupmates for succeeding in an online class?
-  - Somewhere after that first paragraph, [insert a gif of a fictional character that represents who you are](https://youtu.be/jp9HA6en5BA) and explain why you chose this character.
-  - Write a paragraph that describes professional or job-related writing experience you have and how the writing you did reflect the **six characteristics of technical writing** from the Open TC chapter you read. Did you have to use a company email account for that internship? Did you write reports for twenty years before coming back to college? Did you ever take meeting minutes for a club you're in? Did you help manage an Instagram account for a nonprofit? Do you have a work email account? Have you ever had to write a personal statement to get a promotion?
-  - <span style="color: purple;">**Want to post this week's discussion in a video? Cool with me. Post a link or embed in the discussion forum.**</span>
-  - **Respond** to your group members' introductory statements. Say hello. Swap stories. Make conversation. Get to know each other. These are your fellow learners for the next 15 weeks.
+## Looking ahead
 
-# Looking ahead
-
-In [week 2](week-02-notes) we're going to keep digging in on _audience_, talk about something called a _rhetorical situation_, and talk about the exciting world of _email_.
-
-&#x1F525;&#x1F525;&#x1F4E7;&#x1F525;&#x1F525;
-
-Remember that you can read/work ahead, but you are still responsible for engaging in actual discussion with your group members. They need to hear from you, and you need to hear from them. That's part of how you'll learn. Which is why you're here.
+[Week 2](week-02-notes)

@@ -8,15 +8,17 @@ The major projects in this course are designed to introduce you to the kinds of 
 
 Some of you are already working in or have experience in your fields, and this series of projects will serve as an opportunity for you to go deeper on what you've already been introduced to and to hone key writing and research skills. For others, these two projects will serve as an introduction or awakening to the realities of future writing at work and how it may resemble or differ from writing at school.
 
+Read these instructions thoroughly: they're setting up the rhetorical problem you'll need to solve for Project 1.
+
 ## Scenario
 
-You are a new employee at your dream job. In two weeks, the local community college is holding a job fair, and your employer has reserved a booth. The display table will have an assortment of the usual brochures and freebies: basic information about careers in that field, a "how to apply" handout, keychains and other swag, and some special topics brochures about important issues and trends in the profession.
+You are a new employee at your dream job. In a few weeks, the local community college is holding a job fair, and your employer has reserved a booth. The display table will have an assortment of the usual brochures and freebies: basic information about careers in that field, a "how to apply" handout, keychains or koozies and other swag, and an assortment of special topics brochures about important issues and trends in the profession.
 
-Your boss is well known around the office for talking all the time about how important that the writing around the office really needs to be up to specs, and how that's always a surprise to new hires. She has also noticed that you've got some decent writing and design chops, so she's asked you to prepare a new handout to add to the table offerings.
+Your boss is well known around the office for talking all the time about how important it is that the writing around the office really needs to be up to specs, and how that's always a surprise to new hires. She has also noticed that you've got some decent writing and design chops, so she's asked you to prepare a new handout to add to the usual set of brochures.
 
-Your boss asks you to put together a handout or fact sheet about writing on the job. She wants you to make clear to students (potential interns, graduates, and eventually new hires) that writing and communicating are important workplace skills and involve a variety of different audiences, situations, and tasks--something they'll need to keep working on and thinking about even after college. All of the other handouts are only single-pagers, so you've got the front and back of a single page (or maybe a trifold brochure) to get your message across. The document should also be appropriate for sending to interns and colleges in the region. Also, your doc should look professional and represent your employer well.
+Your boss asks you to put together a fact sheet about writing on the job. She wants you to make clear to those college students (i.e. potential interns, graduates, and eventually new hires) that writing and communicating are important workplace skills and involve a variety of different audiences, situations, and tasks--something they'll need to keep working on and thinking about even after college. All of the other handouts are only single-pagers, so you've got the front and back of a single page (or maybe a trifold brochure) to get your message across. The document should also be appropriate for emailing to internship directors and colleges in the region. Also, your doc should look professional and represent your employer well.
 
-Create a **fact sheet** that will meet everyone's needs in the above scenario. (You can make up the details for your dream job.) This text should **present a bird's-eye overview of writing in your chosen profession to that unfamiliar, nontechnical audience**. Research to collect information about the types, or genres, of technical and professional communication that professionals in your profession create. Use the features and strategies of TPC that you're learning about to highlight connections and explain important ideas for your audience.
+Create a **fact sheet** that will meet everyone's needs in the above scenario. (You can make up the details for your dream job.) This text should **present a bird's-eye overview of writing in your chosen profession to your unfamiliar, nontechnical audience**. Research to collect information about the types, or genres, of technical and professional communication that professionals in your profession create. Use the features and strategies of TPC that you're learning about to highlight connections and explain important ideas for your audience.
 
 ## Learning goals for this assignment:
 
@@ -32,29 +34,23 @@ Along with our basic course SLOs (1, 2, 3) our specific goals with this assignme
 
 ### Content Requirements
 
-1. Your fact sheet will summarize key information **at least 10 different kinds (genres) of writing**.
+1. Your fact sheet needs to summarize key information about **at least 10 different kinds (genres) of TPC**, **specific readers and purposes for writing in that profession**, **distinctive features or characteristics of TPC in that profession**, and **ethical or social issues relevant to writers in that profession**.
 
-2. Your fact sheet should include an appropriate technical illustration or graphic. It muse be conceptual or informational, not solely decorative.
+2. Your fact sheet should have key messages or controlling ideas and not be a randomly organized assortment of statements.
 
-3. Include the following content:
+2. Your fact sheet should include at least one relevant technical illustration or graphic. It muse be conceptual or informational, not decorative. You may include other decorative elements.
 
-- Short descriptions of **10 types or genres of TPC** in a particular profession, job, or field
-- **Specific readers** or users for each kind of TPC
-- **Specific exigences** or purposes for each kind of TPC
-- **Special features** or characteristics distinctive to each kind of TPC
-- **Ethical or social justice issues** relevant to the professionals creating the TPC
+3. You may include other information you find interesting or relevant in your fact sheet sheet.
 
-You may include other information you find interesting or relevant in your fact sheet sheet.
-
-Respect the intellectual property rights of others by citing and linking to sources, whether using commons-based or copyright-protected content.
+4. Respect the intellectual property rights of others by citing and linking to sources, whether you use commons-based or copyright-protected content. Look at examples to see how other fact sheet writers have handled this.
 
 ### Design Requirements
 
-Your fact sheet must meet the following design constraints. Your design should help readers use and understand your document and should suggest meaningful connections between bits of information.
+An effective design will help readers use and understand your document and should suggest meaningful connections between bits of information.
 
-- Use design elements and graphics (such as headings, color, layout) to highlight key information, reinforce relationships in your content, and make your fact sheet easy to read and visually appealing.
 - Use text structures (such as titles, subtitles, footnotes, and other elements) to clarify the audience, purpose, and scope of your text as well as present its content.
-- Format your fact sheet so that it fits on no more than 2 pages in MS Word.
+- Use design elements and graphics to highlight key information, reinforce relationships in your content, and make your fact sheet easy to read and visually appealing.
+- Format your fact sheet so that it fits on no more than 2 pages in MS Word (i.e. it could be printed out front-to-back on a single piece of standard printer paper).
 - Proofread your document; your work should be free from surface errors.
 - *Do not turn in a document with double-spaced, 12pt Times New Roman manuscript formatting, a school-type heading, etc.*
 
@@ -70,7 +66,7 @@ Research the kinds of writing individuals in your chosen career field do and com
 </figure>
 <p></p>
 
-Your fact sheet must be the result of **research** , not generalizations you can come up with off the top of your head. You can locate information about writing and communication through a variety of activities:
+Your fact sheet should be the result of **research** , not generalizations you can come up with off the top of your head. You can locate information about writing and communication through a variety of activities:
 
 - interview working professionals
 - reviewing your textbooks for examples and information
