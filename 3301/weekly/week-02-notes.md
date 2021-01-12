@@ -23,7 +23,7 @@ On definitions: helping give us focus, boundaries, entry points.
 
 In _Open Technical Writing_, Adam Pope defines technical writing as "writing and communication that conveys essential information that can’t be changed without causing damage to the outcome of using that information. But, we take that with the caveat that who shares that information, they way they share that information, and who they share it to, all of these things will have an impact on the final reception of the technical information. <mark>Technical writing then, is an act of translation.</mark> We may have to alter a great many things so that our reader/recipient properly understands what we’re getting at, but we’re still trying to get them to understand the same thing we started with. It just may look a lot different after we’ve translated it for them, and they may treat it differently than they would if someone else had shared it with them." (2018, p. 23)
 
-<comment comment>
+**keep revising**
 
 ## Audiences and TPW
 
