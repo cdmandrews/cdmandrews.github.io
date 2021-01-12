@@ -4,17 +4,8 @@
 This week, we're continuing our general introduction to TPW, especially focusing on [audience](https://writingcommons.org/section/information-literacy/information/consider-your-audience/) and [exigence/purpose](https://writingcommons.org/section/rhetoric/rhetorical-situation/purpose/). These concepts are important, and we'll come back to them again and again for the entire semester. We'll also spend time talking about correspondence [genres](https://writingcommons.org/section/genre/), especially email and memos.
 
 <mark>Assigned to read this week:</mark>
-  - Review [OTC Chapter 1](https://alg.manifoldapp.org/read/open-technical-communication/section/0debb16b-f623-4033-a47b-973d65ab0961) (we read it last week)
-  - [TWE Chapter 1: What is Technical Communication?](https://pressbooks.bccampus.ca/technicalwriting/part/techcomm/)
-  - [TWE Chapter 1.2: Conventions and Characteristics](https://pressbooks.bccampus.ca/technicalwriting/chapter/conventions/)
-  - [TWE Chapter 1.3: Understanding the Rhetorical Situation](https://pressbooks.bccampus.ca/technicalwriting/chapter/understandingrhetoricalsituation/)
-  - [TWE Chapter 1.4: The Cost of Poor Communication](https://pressbooks.bccampus.ca/technicalwriting/chapter/casestudy-costpoorcommunication/)
-
-Also read:
-  - [The Problem With Telling Women to Email Like Men](https://www.vice.com/en_us/article/8xyb5v/how-to-write-professional-work-email-women)
-  - [Why Emoji Are Suddenly Acceptable at Work](https://www.theatlantic.com/business/archive/2015/05/why-emoji-are-suddenly-acceptable-at-work/393191/)
-  - [TWE 7.1: Correspondence](https://pressbooks.bccampus.ca/technicalwriting/chapter/correspondence/) briefly describes guidelines and format for email, memo, and other workplace formats.
-  - [OTC 2.13: Memos and Emails](https://alg.manifoldapp.org/read/open-technical-communication/section/ae63b0b2-c5f8-4747-bd36-365f68a55c77) digs into culture and convention around correspondence formats, which will help you think about formats and styles.
+  - Review [OTC Chapter 1](https://alg.manifoldapp.org/read/open-technical-communication/section/0debb16b-f623-4033-a47b-973d65ab0961) (we read it last week, but look back over it)
+  - Read [Open Technical Writing Chapter 1](https://scholarworks.uark.edu/cgi/viewcontent.cgi?article=1003&context=oer) (sounds the same, but this is a different book)
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRCnu94gyM8eTxESllmHqX9V1Ikc3PWsyoaVb1Q9Bk1-vyKMgXCYnwCdr29HY8v6T-SiAha9vFlwJQY/embed?start=false&loop=false&delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
@@ -24,6 +15,15 @@ On definitions: helping give us focus, boundaries, entry points.
 In _Open Technical Writing_, Adam Pope defines technical writing as "writing and communication that conveys essential information that can’t be changed without causing damage to the outcome of using that information. But, we take that with the caveat that who shares that information, they way they share that information, and who they share it to, all of these things will have an impact on the final reception of the technical information. <mark>Technical writing then, is an act of translation.</mark> We may have to alter a great many things so that our reader/recipient properly understands what we’re getting at, but we’re still trying to get them to understand the same thing we started with. It just may look a lot different after we’ve translated it for them, and they may treat it differently than they would if someone else had shared it with them." (2018, p. 23)
 
 **keep revising**
+
+Race's six characteristics of TC:
+- focused on audience,
+- rhetorical, persuasive, purposeful, and problem-oriented
+- professional
+- design centered
+- research and technology oriented
+- ethical
+We'll get into each of these in more detail in turn, but this week we'll focus in on the first two: focused on audience, and purposeful/problem-oriented.
 
 ## Audiences and TPW
 
@@ -111,14 +111,7 @@ Even if it feels a little training wheels-ish at first, that's okay; you can alw
 
 ## For Tuesday
 
-Complete the "Introduction to Tech Writing" discussion forum in your group
 
-1. Find three examples of what you consider technical and professional writing. These might be correspondence, journal articles, lab reports, manuals, web pages, advertisements, or something else you consider to be TPW. You can use things you find online or that are lying around your home or workplace. Take a picture or screenshot, download a file, or get a link for each example.
-2. Add your links or pictures into a PowerPoint or Google slideshow. Share your examples and on each slide discuss how your documents reflect some of the conventions and characteristics of technical writing you read about in this week's readings. Quote relevant passages from our reading assignments in your slideshow. If you can, identify the specific audience(s) and purpose(s) for each example. Depending on your comments, you'll probably have at least six content slides and a title slide.
-3. Look at your peers' slideshows; post replies in to their post that compare findings, comment on each others' examples, and discuss some of the differences between TPW and academic, journalistic, and other kinds of writing you're familiar with.
-
-Related: This fine Week 02 video:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NVUOt71Szu8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 ## For Thursday
 

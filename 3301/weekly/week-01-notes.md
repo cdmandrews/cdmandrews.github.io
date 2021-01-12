@@ -56,7 +56,7 @@ The field of technical communication is essential in a wide range of fields and 
 
 **Workplace writing.** The focus for this particular TPW course is not necessarily a career as a technical writer but instead [an introduction to the kinds of writing skills you need in practically any professional job](https://medium.com/@kesiparker/business-writing-vs-technical-writing-3389b5648c50). No matter what sort of professional work you do, you're likely to do lots of writing, and much of it will be technical in nature. The more you know about some basic tech. writing skills, the better job of writing you're likely to do. [And that will be good for the projects you work on, for the organizations you work in, the society you live in, and most definitely good for you and your career](https://www.forbes.com/sites/gretasolomon/2018/08/09/why-mastering-writing-skills-can-help-future-proof-your-career).
 
-**The meaning of "technical."** Technical communication-—or technical writing, as the course is often called—-is not just writing about a specific technical topic such as computers, but about any technical topic. The term "technical" refers to knowledge that is not widespread: knowledge that is the territory of experts or specialists. Whatever your major is, you are developing an expertise in concepts and processes and content knowledge: you are becoming a specialist in a particular technical area. And whenever you try to write or say anything about your field or your domain or out of your expertise, you are engaged in technical communication. This is not just limited to the world of work--grandma's carne guisada recipe is technical communication, too.
+**The meaning of "technical."** Technical communication-—or technical writing, as the course is often called—-is not just writing about a specific technical topic such as computers, but about any technical topic. The term "technical" refers to knowledge that is not widespread: knowledge that is the territory of experts or specialists. Whatever your major is, you are developing an expertise in concepts and processes and content knowledge: you are becoming a specialist in a particular technical area. And whenever you try to write or say anything about your field or your domain or out of your expertise, you are engaged in technical communication. This is not limited to the world of work, though--my grandma's carne guisada recipe is technical communication, too.
 
 **Audience is often at the center.** Another key part of the definition of technical communication is the audience. For the first few weeks of the course, we're going to talk about a lot of concepts, but the thing that we'll really circle back to every time is _audience_. Technical communication is **transactional**: it is a "purposeful transaction between sender and receiver that provides specific information for practical and specific purposes and is usually geared towards the needs of a specific audience" ([TWE Ch 1](https://pressbooks.bccampus.ca/technicalwriting/part/techcomm/)). Because of this transactional nature, professional and technical writers must adapt information to their audiences' needs, level of understanding, and background.
 
@@ -64,8 +64,27 @@ Most importantly, and regardless of specifics of context, location, or sponsorsh
 
 ## For Tuesday
 
+1. Post to your group’s <mark>“Welcome to the group!” forum<mark> before 5:00 pm on Tuesday. Write a post in which you cover each of the following topics:
+  - Write a paragraph to introduce yourself, your background, and your #goals. What should we know about you and your identity?
+  - Have you taken online classes before, or is this your first? What strategies would you offer to your groupmates for succeeding in an online class?
+  - Somewhere after that first paragraph, [insert a gif of a fictional character that represents who you are](https://youtu.be/jp9HA6en5BA) and explain why you chose this character.
+  - Write a paragraph that describes professional or job-related writing experience you have. Did you have to use a company email account for that internship? Did you write reports for twenty years before coming back to college? Did you ever take meeting minutes for a club you’re in? Did you help manage an Instagram account for a nonprofit? Do you have a work email account? Have you ever had to write a personal statement to get a promotion? What does "professional and technical writing" mean to you today, on the first day of this class, maybe without ever having thought about the term before?
+2. Respond to your group members’ introductory statements. Say hello. Swap stories. Make conversation. Get to know each other. These are your fellow learners for the next 15 weeks.
+3. Come up with a name for your group--something other than "Group A, Group B, Group Z", etc.
+
 ## For Thursday
+
+1. Read [Chapter 1: Introduction to Technical Writing](https://alg.manifoldapp.org/read/open-technical-communication/section/0debb16b-f623-4033-a47b-973d65ab0961) by Cassandra Race, from _Open Technical Communication_.
+2. Complete the <mark>“Intro to TPW 1: TPWhat?” discussion forum</mark> in your group before 5:00 pm on Thursday.
+  - Find three examples of what you consider technical and professional writing. These might be correspondence, journal articles, lab reports, manuals, web pages, advertisements, or something else you consider to be TPW. You can use things you find online or that are lying around your home or workplace. Take a picture or screenshot, download a file, or get a link for each example.
+  - Add your links and pictures into a PowerPoint or Google slideshow. Share your examples and on each slide discuss how your documents reflect the conventions and characteristics of technical writing you read about in this week’s readings. Quote relevant passages from our reading assignments in your slideshow and show how your examples reflect Race's six characteristics of technical communication. If you can, identify the specific audience(s) and purpose(s) for each example. Depending on your comments, you’ll probably have at least six content slides and a title slide.
+  - Upload your slideshow to the discussion forum and post a summative, introductory comment.
+3. Look at and reply to your peers’ slideshows. Your replies should compare findings, comment on examples, and discuss some of the differences between TPW and academic, journalistic, creative, and other kinds of writing you’re familiar with.
 
 ## Looking ahead
 
-[Week 2](week-02-notes)
+In [Week 2](week-02-notes) we’re going to think about the meaning of "technical and professional communication" some more, explore "audience" and "purpose" in greater detail, and begin collecting resources about writing in your field that will be useful in the weeks to come.
+
+🔥🔥📧🔥🔥
+
+Remember that you may read/work ahead, but you are still responsible for engaging in actual discussion with your group members. They need to hear from you, and you need to hear from them. That’s part of how you’ll learn. Which is why you’re here.
