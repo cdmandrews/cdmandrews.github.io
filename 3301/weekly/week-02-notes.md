@@ -49,8 +49,8 @@ I have this imaginary (slightly based in reality) figure I use as an example in 
 
 Occasionally in professional and technical writing articles online you'll see guidance to "[explain it to me like I'm five](https://www.reddit.com/r/explainlikeimfive/)," which assumes that all technical writing is about making really complex things sensible to people with zero knowledge of the subject.
 
-<figure><iframe src="https://player.vimeo.com/video/27060669" width="640" height="361" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/27060669">
+<figure>
+<iframe src="https://player.vimeo.com/video/27060669" width="640" height="361" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 <figcaption><i>Figure 2: TV people are dumb.</i></figcaption>
 </figure>
 
