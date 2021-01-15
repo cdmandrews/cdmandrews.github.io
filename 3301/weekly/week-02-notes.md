@@ -1,18 +1,31 @@
 # Notes and Overview for Week 2
 [ENGL 3301, Fall 2021](../calendar.html)
 
-This week, we're continuing our general introduction to TPW, especially focusing on [audience](https://writingcommons.org/section/information-literacy/information/consider-your-audience/) and [exigence/purpose](https://writingcommons.org/section/rhetoric/rhetorical-situation/purpose/). These concepts are important, and we'll come back to them again and again for the entire semester. We'll also spend time talking about correspondence [genres](https://writingcommons.org/section/genre/), especially email and memos.
+This week, we're continuing our general introduction to TPW, especially focusing on [audience](https://writingcommons.org/section/information-literacy/information/consider-your-audience/) and [exigence/purpose](https://writingcommons.org/section/rhetoric/rhetorical-situation/purpose/). These concepts are important, and we'll come back to them again and again for the entire semester. I'll also introduce correspondence [genres](https://writingcommons.org/section/genre/), especially email and memos.
 
 <mark>Assigned to read this week:</mark>
   - Review [OTC Chapter 1](https://alg.manifoldapp.org/read/open-technical-communication/section/0debb16b-f623-4033-a47b-973d65ab0961) (we read it last week, but look back over it)
   - Read [Open Technical Writing Chapter 1](https://scholarworks.uark.edu/cgi/viewcontent.cgi?article=1003&context=oer) (sounds the same, but this is a different book)
+  - [TWE 7.1: Correspondence](https://pressbooks.bccampus.ca/technicalwriting/chapter/correspondence/) briefly describes guidelines and format for email, memo, and other workplace formats.
+  - [OTC 2.13: Memos and Emails](https://alg.manifoldapp.org/read/open-technical-communication/section/ae63b0b2-c5f8-4747-bd36-365f68a55c77) digs into culture and convention around correspondence formats, which will help you think about formats and styles.
+  - [The Problem With Telling Women to Email Like Men](https://www.vice.com/en_us/article/8xyb5v/how-to-write-professional-work-email-women)
+  - [Why Emoji Are Suddenly Acceptable at Work](https://www.theatlantic.com/business/archive/2015/05/why-emoji-are-suddenly-acceptable-at-work/393191/)
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRCnu94gyM8eTxESllmHqX9V1Ikc3PWsyoaVb1Q9Bk1-vyKMgXCYnwCdr29HY8v6T-SiAha9vFlwJQY/embed?start=false&loop=false&delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## Defining technical communication (again)
-On definitions: helping give us focus, boundaries, entry points.
+Why am I spending so much time ensuring you've got a definition of technical and professional writing lodged in your brains? Definitions are useful boundary objects&mdash;as long as they are flexible. They (at least temporarily) set up what we're focused on and what we're not. They help frame our critical gaze and sift through the things around us.
 
-In _Open Technical Writing_, Adam Pope defines technical writing as "writing and communication that conveys essential information that can’t be changed without causing damage to the outcome of using that information. But, we take that with the caveat that who shares that information, they way they share that information, and who they share it to, all of these things will have an impact on the final reception of the technical information. <mark>Technical writing then, is an act of translation.</mark> We may have to alter a great many things so that our reader/recipient properly understands what we’re getting at, but we’re still trying to get them to understand the same thing we started with. It just may look a lot different after we’ve translated it for them, and they may treat it differently than they would if someone else had shared it with them." (2018, p. 23)
+<figure><iframe width="560" height="315" src="https://www.youtube.com/embed/5gr3jopJmVg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<figcaption><i>Figure 1: What we look through matters.</i></figcaption>
+</figure>
+
+
+At the same time, we should be careful of defintions&mdash;beacuse they are by their very nature exclusive, these exclusions can be used to create or reinforce power differentials between different groups. Putting together some of the things we introduced last week, we can say that **technical communication is an activity where we create/share communication about specialized knowledge that will help particular audiences or communities take specific action**. Expert knowledge--technical knowledge--is based in community, that is what a community values as knowledge. But here's the problem: what happens when people outside that community don't share that community's values or think that a community's forms of discourse don't "count" as discourse? Can a culture's songs, dances, rituals, and storytelling be technical communication just like manuals, resumes, and reports? A lot of traditional definitions of technical communication would say yes&mdash;and they would be wrong AF.
+
+In _Open Technical Writing_, Adam Pope defines technical writing as
+> "writing and communication that conveys essential information that can’t be changed without causing damage to the outcome of using that information. But, we take that with the caveat that who shares that information, they way they share that information, and who they share it to, all of these things will have an impact on the final reception of the technical information. <mark>Technical writing then, is an act of translation.</mark> We may have to alter a great many things so that our reader/recipient properly understands what we’re getting at, but we’re still trying to get them to understand the same thing we started with. It just may look a lot different after we’ve translated it for them, and they may treat it differently than they would if someone else had shared it with them." (2018, p. 23)
+
 
 **keep revising**
 

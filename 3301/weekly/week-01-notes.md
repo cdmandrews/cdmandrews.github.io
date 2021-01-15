@@ -76,9 +76,7 @@ The first part of the course will explore some fundamental concepts for helping 
 
 **Writing is not just writing anymore.** I'll try not to do it too much, but I do tend to slip freely between using  "technical and professional writing" and "technical communication." That's because technical writing has never really been just about the words. Technical writers and communicators use all five modes of communication to translate meanings to their audiences: linguistic (words), visual (images), spatial (arrangement in space), aural (sound), and gestural (movement). Technical writers work _multimodally_, at the very least using both words and images, but commonly more than that when they're communicating with their audiences.
 <figure><img src="https://s3-us-west-2.amazonaws.com/courses-images/wp-content/uploads/sites/2483/2018/02/28185118/modes.jpg" alt="The five modes of communication: visual, aural, gestural, spatial, linguistic.">
-<figcaption><i>Figure 4: In any medium, we communicate using multiple modes. For example, this figure combines visual and linguistic modes to express meaning. </i>Source: Kristen Arola, Jennifer Shepherd, and Cheryl Ball, <i>Writer/Designer</i>.
-
-</i></figcaption>
+<figcaption><i>Figure 4: In any medium, we communicate using multiple modes. For example, this figure combines visual and linguistic modes to express meaning. </i>Source: Kristen Arola, Jennifer Shepherd, and Cheryl Ball, <i>Writer/Designer.</i></figcaption>
 </figure>
 
 
