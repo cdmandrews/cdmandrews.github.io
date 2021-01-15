@@ -27,7 +27,7 @@ This video was also sent out with the first week's announcements.
 Before you dig into class materials, be sure that you have:
 
  1. Located and carefully read our [course syllabus](http://cdmandrews.github.io/3301/index.html).
- 2. Reviewed the [course introduction slideshow](https://docs.google.com/presentation/d/e/2PACX-1vRHBRH08gulIFo-REid2pU5IuI2cVcrvPBySYbx6nWu6M3sundDfy7ElQPtPh2pG15ie-WZkI2JJwGB/pub?start=false&loop=false&delayms=3000)
+ 2. Reviewed the [course introduction slideshow](https://docs.google.com/presentation/d/e/2PACX-1vReXq7B9dYlJRqfha537G4AjTzi6pUuAxG2Zlni8YNViiXNkPj0M13nPXkWRnjvnZMJv1T5eMjvXfoo/pub?start=false&loop=false&delayms=3000)
  2. Viewed the [course orientation video](https://youtu.be/D6NADNhfLdU) and explored our Blackboard course shell. Can you locate:
    - your group area and discussion forums?
    - weekly folders?
