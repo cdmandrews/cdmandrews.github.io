@@ -11,8 +11,6 @@ This week, we're continuing our general introduction to TPW, especially focusing
   - [The Problem With Telling Women to Email Like Men](https://www.vice.com/en_us/article/8xyb5v/how-to-write-professional-work-email-women)
   - [Why Emoji Are Suddenly Acceptable at Work](https://www.theatlantic.com/business/archive/2015/05/why-emoji-are-suddenly-acceptable-at-work/393191/)
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRCnu94gyM8eTxESllmHqX9V1Ikc3PWsyoaVb1Q9Bk1-vyKMgXCYnwCdr29HY8v6T-SiAha9vFlwJQY/embed?start=false&loop=false&delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
 ## Defining technical communication (again)
 Why am I spending so much time ensuring you've got a definition of technical and professional writing lodged in your brains? Definitions are useful boundary objects&mdash;as long as they are flexible. They (at least temporarily) set up what we're focused on and what we're not. They help frame our critical gaze and sift through the things around us.
 
@@ -21,26 +19,27 @@ Why am I spending so much time ensuring you've got a definition of technical and
 </figure>
 
 
-At the same time, we should be careful of defintions&mdash;beacuse they are by their very nature exclusive, these exclusions can be used to create or reinforce power differentials between different groups. Putting together some of the things we introduced last week, we can say that **technical communication is an activity where we create/share communication about specialized knowledge that will help particular audiences or communities take specific action**. Expert knowledge--technical knowledge--is based in community, that is what a community values as knowledge. But here's the problem: what happens when people outside that community don't share that community's values or think that a community's forms of discourse don't "count" as discourse? Can a culture's songs, dances, rituals, and storytelling be technical communication just like manuals, resumes, and reports? A lot of traditional definitions of technical communication would say yes&mdash;and they would be wrong AF.
+At the same time, we should be careful of defintions&mdash;beacuse they are by their very nature exclusive, these exclusions can be used to create or reinforce power differentials between different groups. Putting together some of the things we introduced last week, we can say that **technical communication is an activity where we create/share communication about specialized knowledge that will help particular audiences or communities take specific action**. Expert knowledge--technical knowledge--is based in community and what a community values as knowledge. But here's the problem: what happens when people outside that community don't share that community's values or think that a community's forms of discourse don't "count" as discourse? Can a culture's songs, dances, rituals, and storytelling be technical communication just like manuals, resumes, and reports? A lot of traditional definitions of technical communication would say no, that songs or dances or rituals shouldn't count&mdash;and they would be wrong AF.
 
 In _Open Technical Writing_, Adam Pope defines technical writing as
 > "writing and communication that conveys essential information that can’t be changed without causing damage to the outcome of using that information. But, we take that with the caveat that who shares that information, they way they share that information, and who they share it to, all of these things will have an impact on the final reception of the technical information. <mark>Technical writing then, is an act of translation.</mark> We may have to alter a great many things so that our reader/recipient properly understands what we’re getting at, but we’re still trying to get them to understand the same thing we started with. It just may look a lot different after we’ve translated it for them, and they may treat it differently than they would if someone else had shared it with them." (2018, p. 23)
 
 
-**keep revising**
-
-Race's six characteristics of TC:
+In your readings this week, really keep going back to and connecting with Race's six characteristics of TC. Put them in your personal notes, if you haven't already. According to Race (OTC Chapter 1), TC is:
 - focused on audience,
 - rhetorical, persuasive, purposeful, and problem-oriented
 - professional
 - design centered
 - research and technology oriented
 - ethical
-We'll get into each of these in more detail in turn, but this week we'll focus in on the first two: focused on audience, and purposeful/problem-oriented.
+
+We'll unpack each of these in more detail as we go, but this week we'll focus on the first two: TC is focused on audience, and TC is purposeful and problem-oriented.
 
 ## Audiences and TPW
 
 "**Know your audience**" and "**You are not your audience**" are important points to wrap your brains around. Audience analysis is the process of figuring out who your audience is so you can write to their needs rather than your own. Remember: technical communication addresses **particular readers** and **helps those readers solve problems**. Getting out of your own head and into an audience's head is HARD, and is something we'll practice a. lot. this semester.
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRCnu94gyM8eTxESllmHqX9V1Ikc3PWsyoaVb1Q9Bk1-vyKMgXCYnwCdr29HY8v6T-SiAha9vFlwJQY/embed?start=false&loop=false&delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 Two big audience-related myths (overgeneralizations, really) that TPW students can sometimes trip over are *dumb audiences* and *general audiences*:
 
@@ -48,12 +47,12 @@ Two big audience-related myths (overgeneralizations, really) that TPW students c
 
 I have this imaginary (slightly based in reality) figure I use as an example in lectures sometimes named "Uncle Steve." Every family has an Uncle Steve--that person that needs things explained to them five times and still doesn't quite understand (and maybe doesn't want to). The dude who always derails your Facebook or Instagram comments with some irrelevant stuff about "kids these days don't know how to whatever anymore..." Uncle Steve is nice enough, and you love him, but he kind of always misses the point.
 
-Occasionally in professional and technical writing texts or articles you'll see guidance to "[explain it to me like I'm five](https://www.reddit.com/r/explainlikeimfive/)," which assumes that all technical writing is about making really complex things sensible to people with zero knowledge of the subject.
+Occasionally in professional and technical writing articles online you'll see guidance to "[explain it to me like I'm five](https://www.reddit.com/r/explainlikeimfive/)," which assumes that all technical writing is about making really complex things sensible to people with zero knowledge of the subject.
 
 <iframe src="https://player.vimeo.com/video/27060669" width="640" height="361" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/27060669">The Office - LI5 Surplus</a> from <a href="https://vimeo.com/user1472744">Ryan Faucett</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<p><a href="https://vimeo.com/27060669"><i>Figure 2: The Office - LI5 Surplus</a> from <a href="https://vimeo.com/user1472744">Ryan Faucett</a> on <a href="https://vimeo.com">Vimeo</a></i>.</p>
 
-Unfortunately, that's often not true. In fact, that viewpoint is a one-dimensional and super-condescending way of looking at professional and technical writing. Doing audience analysis is NOT about assuming your audience is dumber than you. (Put yourself in the reverse position--do you want everyone assuming you're the dumb one? Nope.) Instead, audience analysis is about considering what your readers know already, what they need to know, and how they need to know it. If you write like a 6th-grader to a Ph.D. or a small-business owner, you're going to make someone mad. Figure out who the specific kind of person is on the other end of your communication and write to them (user experience and web designers use something called [personas](https://www.usability.gov/how-to-and-tools/methods/personas.html)).  
+Unfortunately, that's often not true. In fact, that viewpoint is a one-dimensional and ultra-condescending way of looking at professional and technical writing. Doing audience analysis is NOT about assuming your audience is dumber than you. (Put yourself in the reverse position--do you want everyone assuming you're the dumb one? Nope.) Instead, audience analysis is about considering what your readers know already, what they need to know, and how they need to know it. If you write like a 6th-grader to a Ph.D. or a small-business owner, you're going to make someone mad. Figure out who the specific kind of person is on the other end of your communication and write to them (user experience and web designers use something called [personas](https://www.usability.gov/how-to-and-tools/methods/personas.html)).  
 
 The _Plain Language Act_ website has two great short resources on addressing audiences: [Do your research](https://plainlanguage.gov/guidelines/audience/do-your-research/) and  [Address the user](https://plainlanguage.gov/guidelines/audience/address-the-user/).
 
@@ -70,7 +69,9 @@ Even though "the public" might have access to your document, that doesn't mean y
 2. The district attorney/prosecutor, who doesn't care about grammar or how well the officer presents himself or herself; the DA is looking to determine if the suspect should be charged and prosecuted and is thus looking for details that will correspond with legal statutes.
 3. The defense attorney, who wants to derail the whole thing and looks for errors, missing information, contradictions, grammar errors that lead to confusion, and unethical or nonstandard police behaviors in the report.
 
-Notice who's not in the list: **people who the report is about** (i.e. suspects, victims, or people involved in the reported incident) and **the public**. Both groups do have a relative stake in a police report, but in most cases the report acts as a record that the person can obtain rather than a document that's written to them. Because it is about them, because they have a right to documentation that's about them, or because they have a vested interest in the outcome, they are a stakeholder, but not an audience. If you've ever gotten a traffic citation, on the other hand, it likely has instructions for how to handle the citation, where to pay a fine, what website or municipality you need to report to, and that sort of thing. For that stuff, you're most definitely the audience. But in that case, you're no longer "the public"--you're a specific audience "person who has received a citation", one with a different set of needs, goals, attitudes, and experiences from some general public.
+Notice who's not in the list: **people who the report is about** (i.e. suspects, victims, or people involved in the reported incident) and **the public**. Both groups do have a relative stake in a police report, but in most cases the report acts as a record that the person can obtain rather than a document that's written to them. Because it is about them, because they have a right to documentation that's about them, or because they have a vested interest in the outcome, they are a stakeholder, but not an audience. If you've ever gotten a traffic citation, on the other hand, it likely has instructions for how to handle the citation, where to pay a fine, what website or municipality you need to report to, and that sort of thing. For that stuff, you're most definitely the audience. But in that case, you're no longer "the public"&mdash;you're a specific audience "person who has received a citation", one with a different set of needs, goals, attitudes, and experiences from some general public.
+
+I don't want to push this "public" rant too far&mdash;I'm not saying it's not a real thing or that documents aren't directed to the public ever. What I _am_ saying is that "the public" is a less useful construct for us as writers than a more specific vision of a community or of types of persons we're addressing or communicating with through our writing.
 
 > <sub>The above information comes from Leslie Seawright's fine 2012 dissertation, "[The Literacy Practices of Law Enforcement](https://scholarworks.uark.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1294&context=etd)". She published this research in 2017 as [_Genres of Power_](https://www.amazon.com/Genre-Power-Writers-Readers-Rhetoric/dp/0814118429)</sub>
 
@@ -123,8 +124,6 @@ You'll also sometimes see introductions (such as the OSHA example in the table a
 Even if it feels a little training wheels-ish at first, that's okay; you can always revise those statements into something more appropriate for your audience in a later draft. I won't talk about them here, but titles and subject lines are other key spaces where we can pick up information about audience and purpose.
 
 ## For Tuesday
-
-
 
 ## For Thursday
 
