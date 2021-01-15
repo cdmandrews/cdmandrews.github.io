@@ -49,8 +49,10 @@ I have this imaginary (slightly based in reality) figure I use as an example in 
 
 Occasionally in professional and technical writing articles online you'll see guidance to "[explain it to me like I'm five](https://www.reddit.com/r/explainlikeimfive/)," which assumes that all technical writing is about making really complex things sensible to people with zero knowledge of the subject.
 
-<iframe src="https://player.vimeo.com/video/27060669" width="640" height="361" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/27060669"><i>Figure 2: The Office - LI5 Surplus</a> from <a href="https://vimeo.com/user1472744">Ryan Faucett</a> on <a href="https://vimeo.com">Vimeo</a></i>.</p>
+<figure><iframe src="https://player.vimeo.com/video/27060669" width="640" height="361" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/27060669">
+<figcaption><i>Figure 2: TV people are dumb.</i></figcaption>
+</figure>
 
 Unfortunately, that's often not true. In fact, that viewpoint is a one-dimensional and ultra-condescending way of looking at professional and technical writing. Doing audience analysis is NOT about assuming your audience is dumber than you. (Put yourself in the reverse position--do you want everyone assuming you're the dumb one? Nope.) Instead, audience analysis is about considering what your readers know already, what they need to know, and how they need to know it. If you write like a 6th-grader to a Ph.D. or a small-business owner, you're going to make someone mad. Figure out who the specific kind of person is on the other end of your communication and write to them (user experience and web designers use something called [personas](https://www.usability.gov/how-to-and-tools/methods/personas.html)).  
 
