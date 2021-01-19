@@ -127,8 +127,47 @@ Even if it feels a little training wheels-ish at first, that's okay; you can alw
 
 ## For Tuesday
 
+Complete the <mark>"Intro to TPW 2: Readers & Purposes" discussion forum</mark> in your group before 5:00 pm on Tuesday.
+
+In [this Google Drive folder](https://drive.google.com/drive/folders/1Ssc8jXJeNmJCMsV2shKdTC_t2k0zxnSH?usp=sharing) I have a pretty weird and random collection of professional reports, technical documents, manuals, and other stuff. Pick any three items out of the folder. For each of the three items:
+
+- Briefly summarize the subject, audience, and purpose for each doc. What makes it TPW?
+- Take screenshots of the places in the document that clued you in to its purpose and audience. Was it a title? An explicit purpose statement? A section in the executive summary? Something else?
+- Include a short caption or explanatory text for each screenshot that tells what the picture is showing.
+
+Put all of the above into a PowerPoint or Google Slideshow and share it in the 02.1 discussion forum.
+
+Look at and reply to your peers’ slideshows, compare notes, and discuss the variety of ways the documents reveal their audience and purpose (or do not). What worked? What made that info easy to find? What made it hard to find? When should information about purpose and audience even be included in a document? When might you not need to include that info?
+
 ## For Thursday
+
+Complete the <mark>"Intro to TPW 3: Professional sites and resources in your field" discussion forum</mark> in your group before 5:00 pm on Thursday.
+
+The major projects in this course are designed to introduce you to the kinds of writing typical in your discipline or intended profession; the weekly assignments over the next few weeks will increasingly be directed at helping you find resources and begin to develop ideas about writing in your fields and prepare you for the major projects.
+
+Here’s the problem—though I’m an expert in technical communication, I am not an expert in every. single. field. out there. That’s where YOU come in—to apply your own growing disciplinary content knowledge and build on that knowledge to make observations and draw conclusions about professional communication in your field. Some of you are already working in or have experience in your fields, and this series of projects will serve as an opportunity for you to go deeper on what you’ve already been introduced to and to hone key writing and research skills. For others, weekly assignments and projects will serve as an introduction or awakening to the realities of future writing at work and how it may resemble or differ from writing at school.
+
+**For this short assignment, you’re going to begin collecting professional resources, publications, and websites that you’ll be able to use as you move through the course.**
+
+Go to https://guides.library.tamucc.edu/ and locate a TAMUCC library “Research Guide” for your major. If there is not a specific one for your major, use one of the general guides or one that you find interesting to you.
+
+Use your research guide and your online research skills to collect the following information:
+1. At least two (2) names of scholarly journals (define) or trade publications (define) related to your field or major. Briefly summarize the audiences, subjects, and purposes for each publication.
+2. Citations for at least two (2) articles from any of those journals on a professional writing- or communication-related topic or problem. Any standard citation will be fine (APA, MLA, Chicago, etc).
+3. Names and links for at least two (2) professional resource websites (define). These might be professional associations, online versions of trade publications, professional blogs, or websites with specialized information for people in the particular profession or field you’re interested in. Briefly summarize the kinds of resources available on each website.
+4. Names and links to at least two (2) public professional social media accounts. (The library research guide won’t help on this one.) These might be the personal accounts of individual professionals who use social media to share info and talk about professional issues at least part of the time, or you might find social media accounts for a professional organization, institution, or potential employer. Briefly summarize at least three recent posts on the account--their audience, their subject, and their purpose.
+
+Report on your findings on the 02.2 forum. Use a [memo format](https://owl.purdue.edu/owl/subject_specific_writing/professional_technical_writing/memos/sample_memo.html) for your post. TWE chapter 7.1 (from this week's readings) describes memo format. Your post should include your best approximation of the following:
+
+- A memo header (the to/from/date/subject section)
+- A subject line that conveys the specific content or subject of your discussion (i.e. NOT “Thursday assignment” or “Intro to TPW 3” or “Javier’s post”)
+- An opening section that overviews your subject and gives your readers (me and your group) context we might need to understand the rest of the memo.
+- Identifiable subsections with a mixture of lists and paragraphs.
+
+For this assignment be more interested in your content and your structure than perfect spelling, fancy formatting, or mechanics--just do your best to hit all of the topics above!
+
+<mark>Do not upload an external document. Paste the text of your memo directly into the forum.</mark>
 
 ## Looking ahead
 
-[Week 3](week-03-notes)
+In [Week 3](week-03-notes) we'll spend time reading and talking about rhetoric and other foundational concepts that will help you understand and practice technical and professional writing this semester.
