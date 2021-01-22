@@ -1,6 +1,6 @@
 # Overview for Week 11
 
-[ENGL 3301, Fall 2020](../calendar.html)
+[ENGL 3301, Fall 2020](calendar.html)
 
 ## Big picture
 Time to finish up those fact sheets. Work with commentary you've gotten from your instructor and your peers as you wrap those up.
