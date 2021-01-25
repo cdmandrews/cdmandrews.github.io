@@ -32,6 +32,10 @@ Before you dig into any of this week's assignments, be sure that you have:
    - policies for late work and other issues that commonly come up in a semester?
  2. Uploaded a profile picture to Blackboard. If you need instructions, visit [Creating your Blackboard Profile](https://en-us.help.blackboard.com/Learn/9.1_Older_Versions/9.1_2014_and_2015/Student/030_Nav_My_Blackboard/Profiles).
 
+## Week 01 Welcome video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L8TPKP_8itQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<i>A short welcome from me, your professor.</i>
+
 ## Okay, let's start with "Technical Writing" (Whatever that is)
 <sub>(This article contains material adapted from https://www.prismnet.com/~hcexres/textbook/intro.htm)</sub>
 
