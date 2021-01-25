@@ -13,12 +13,6 @@ I have structured coursework around a Tuesday/Thursday schedule, so you will see
 
 If you find something in error, or are confused about any part of the instructions, please email me at [christopher.andrews@tamucc.edu](mailto:christopher.andrews@tamucc.edu). If your question is one that the entire class will benefit from hearing, I will likely share the answer with everyone!
 
-## Week 01 welcome video
-
-This video was also sent out with the first week's announcements.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eKJY8tQgh0M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ## We have a few things to do during the first week:
 
 - Clarify the nature of and goals for the course
