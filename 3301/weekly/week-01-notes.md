@@ -100,6 +100,9 @@ Most importantly, and regardless of specifics of context, location, or sponsorsh
   - Upload your slideshow to the discussion forum and post a summative, introductory comment.
 3. Look at and reply to your peers’ slideshows. Your replies should compare findings, comment on examples, and discuss some of the differences between TPW and academic, journalistic, creative, and other kinds of writing you’re familiar with.
 
+Oh, here's mine:
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSrbIDwX7JwV-tdEcN6E1E9wdXuGJrMNtMD78RgJtaM6LkIUV5lzJJFVVAY1iog2Jn2DuOVWTQRAFDj/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 ## Looking ahead
 
 In [Week 2](week-02-notes) we’re going to think about the meaning of "technical and professional communication" some more, explore "audience" and "purpose" in greater detail, and begin collecting resources about writing in your field that will be useful in the weeks to come.
