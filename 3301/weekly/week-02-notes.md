@@ -139,6 +139,9 @@ Put all of the above into a PowerPoint or Google Slideshow and share it in the 0
 
 Look at and reply to your peers’ slideshows, compare notes, and discuss the variety of ways the documents reveal their audience and purpose (or do not). What worked? What made that info easy to find? What made it hard to find? When should information about purpose and audience even be included in a document? When might you not need to include that info?
 
+Here's my version of it:
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTUjwdRUUqxOQBqj5yv5HOFEqgAKHqIYXP1TX3KwjXuNVOSt9JDVtNBLPZUSm4qVNUTKpQd97G_UxlO/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 ## For Thursday
 
 Complete the <mark>"Intro to TPW 3: Professional sites and resources in your field" discussion forum</mark> in your group before 5:00 pm on Thursday.
