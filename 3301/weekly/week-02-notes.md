@@ -135,7 +135,7 @@ In [this Google Drive folder](https://drive.google.com/drive/folders/1Ssc8jXJeNm
 - Take screenshots of the places in the document that clued you in to its purposes and audiences. Was it a title? An explicit purpose statement? A section in the executive summary? Something else?
 - Include a **short caption or explanatory text for each screenshot** that tells what the picture is showing.
 
-Put all of the above into a PowerPoint or Google Slideshow and share it in the 02.1 discussion forum.
+Put all of the above into a PowerPoint or Google Slideshow and share it in the 02.1 discussion forum. As with all file uploads, please include a short introductory comment--summarize the contents of your slideshow or describe something you learned about audiences and purposes for this assignment.
 
 Look at and reply to your peers’ slideshows, compare notes, and discuss the variety of ways the documents reveal their audience and purpose (or do not). What worked? What made that info easy to find? What made it hard to find? When should information about purpose and audience even be included in a document? When might you not need to include that info?
 
