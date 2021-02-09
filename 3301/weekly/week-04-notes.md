@@ -1,7 +1,7 @@
 # Notes and Overview for Week 4
 [ENGL 3301, Fall 2021](../calendar.html)
 
-Over the next few weeks (4-8) we're going to explore elements of technical and professional writing. With our foundational work with audience, purpose, and rhetoric in mind, in this unit we'll survey and learn about specific writing styles, document designs, visual features and other concerns for writers in your field, discipline, or major. In order to do that, we'll focus on two things:
+Over the next few weeks (4-8) we're exploring elements of technical and professional writing. With our foundational work with audience, purpose, and rhetoric in mind, in this unit we'll survey and learn about specific writing styles, document designs, visual features and other concerns for writers in your field, discipline, or major. In order to do that, we'll focus on two things:
 
 1. Each week, as we discuss and read about document design, writing styles, and visual components, you'll apply those practices to iterative revisions of your "Professional sites and resources" memo you turned in during week 02.
 2. You'll also begin working on the first major project: [A fact sheet about writing in your field](https://cdmandrews.github.io/3301/project-1). Your fact sheets are due during Week 08, and we will do a couple of collaborative discussions and peer review sessions over the next few weeks to help you understand the task and to get feedback from your group on the document you're working on.
