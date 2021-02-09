@@ -58,7 +58,7 @@ Templates are fine Here's an example of a template you've hopefully seen at this
 
 <figure>
 <img src="media/batman-robin-blank.jpg" alt="A popular internet meme shows Batman slapping Robin with a blank speech bubble for meme generators to fill in.">
-<figcaption><i>Figure 2: Visual memes are a kind of template.</i></figcaption><figure>
+<figcaption><i>Figure 2: Visual memes are a kind of template.</i></figcaption></figure>
 
 I don't plan to wax especially philosophical about templates&mdash;document formats that let you just 'fill in the blanks' and have a document that looks and smells nice. For sure you should learn to use them; many workplaces will have document templates they'll want you to use, and knowing how document styles work is helpful. Some of you will even have to create templates for others to use. Built-in templates are a standard feature for word processing software. Use them, but use them critically and be aware that although templates provide tons of style, they don't provide substance for you. **Templates are not genres** (more on genre in the next section). In lots of cases, templates are catch-alls that can't account for the variety of ways people might need to put together genres like a resume, cover letter, or formal report.
 
