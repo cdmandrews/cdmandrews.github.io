@@ -52,11 +52,11 @@ This TPW course will build on what you've learned in other writing courses, addi
 A lot of times, people will tell me that technical communication is dry, boring, awful stuff. And sure, some of it is. (See Figure 2.) But technical writers and communicators (whether they're professionals or not) cover just about every topic (Figure 3), and once you start looking for it, you'll realize technical communication comes in some really interesting, creative, engaging, and because of that, deeply useful forms.
 
 <figure>
-<img src="media/old-tw-book.jpg" alt="A title page and complex technical drawing from a 1911 technical writing textbook.">
+<img src="media/old-tw-book.jpg" alt="A title page and complex technical drawing of a mechanical device from a 1911 technical writing textbook.">
 <figcaption><i>Figure 2: What you might think of when you think about technical writing?</i></figcaption>
 </figure>
 <figure>
-<img src="media/skyrim-video.png" alt="A Skyrim beginner's guide video on YouTube">
+<img src="media/skyrim-video.png" alt="A title card from a YouTube video, A Beginner's Guide to Skyrim.">
 <figcaption><i>Figure 3: What I might think of when I think about technical writing?</i></figcaption>
 </figure>
 
@@ -73,7 +73,7 @@ The first part of the course will explore some fundamental concepts for helping 
 **The meaning of "technical."** Technical communication-—or technical writing, as the course is often called—-is not just writing about a specific technical topic such as computers, but about any technical topic. The term "technical" refers to knowledge that is not widespread: knowledge that is the territory of experts or specialists. Whatever your major is, you are developing an expertise in concepts and processes and content knowledge: you are becoming a specialist in a particular technical area. And whenever you try to write or say anything about your field or your domain or out of your expertise, you are engaged in technical communication. This is not limited to the world of work, though--my grandma's carne guisada recipe is technical communication, too.
 
 **Writing is not just writing anymore.** I'll try not to do it too much, but I do tend to slip freely between using  "technical and professional writing" and "technical communication." That's because technical writing has never really been just about the words. Technical writers and communicators use all five modes of communication to translate meanings to their audiences: linguistic (words), visual (images), spatial (arrangement in space), aural (sound), and gestural (movement). Technical writers work _multimodally_, at the very least using both words and images, but commonly more than that when they're communicating with their audiences.
-<figure><img src="https://s3-us-west-2.amazonaws.com/courses-images/wp-content/uploads/sites/2483/2018/02/28185118/modes.jpg" alt="The five modes of communication: visual, aural, gestural, spatial, linguistic.">
+<figure><img src="https://s3-us-west-2.amazonaws.com/courses-images/wp-content/uploads/sites/2483/2018/02/28185118/modes.jpg" alt="A pie chart with five equal slices for the five modes of communication: visual, aural, gestural, spatial, linguistic.">
 <figcaption><i>Figure 4: In any medium, we communicate using multiple modes. For example, this figure combines visual and linguistic modes to express meaning. </i>Source: Kristen Arola, Jennifer Shepherd, and Cheryl Ball, <i>Writer/Designer.</i></figcaption>
 </figure>
 
