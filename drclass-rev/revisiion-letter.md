@@ -1,6 +1,10 @@
 # Revision letter for "Cumulus Culminations: Learning to read the clouds"
 Christopher Andrews et al.
 
+
+pick up http://kairos.technorhetoric.net/25.1/praxis/cheatle-et-al/cirrus.html  overview of clouds
+
+
 ## Reviewer recommendations:
 1. wanted to read more about the context of the whole course and the student population
 2. a bit more unpacking of the theories (both useful and not-so-useful) of distant reading, particularly better defining jargon:

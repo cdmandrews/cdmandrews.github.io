@@ -102,7 +102,7 @@ Another example: The National Transportation Safety Board (NTSB) investigates ci
 
 I can remember lots of times in school or college where I mostly just sat at a blinking computer screen thinking "Why do I have to write this?" In school, mostly the purpose for writing is to display your knowledge or mastery and to get a good grade. The audience (your teacher) already knows the material or at least the method involved, and wants you to show them that you know what they say you should know, and that you know that they know you know. With workplace writing, proving your brilliance generally ain't the point. Your purpose is all about getting sh** done or helping other people get their sh** done.
 
-### Explicit purpose statements
+### Explicit purpose statements are good
 
 As a writer, a clear sense of purpose can inform your invention and writing process, and can help you make choices about genre and style. If you have a clear sense for why you're writing and what you're trying to accomplish with it, you'll be able to make lots of decisions along the way about what to include or leave out, what voice or tone to use, or how much you have to explain about your graphs and tables. (And that's all stuff we'll talk about through the semester.)
 
