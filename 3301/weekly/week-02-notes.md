@@ -51,7 +51,7 @@ Occasionally in professional and technical writing articles online you'll see gu
 
 <figure>
 <iframe src="https://player.vimeo.com/video/27060669" width="640" height="361" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<figcaption><i>Figure 2: TV people are dumb.</i></figcaption>
+<figcaption><i>Figure 2: TV people being TV people.</i></figcaption>
 </figure>
 
 Unfortunately, that's often not true. In fact, that viewpoint is a one-dimensional and ultra-condescending way of looking at professional and technical writing. Doing audience analysis is NOT about assuming your audience is dumber than you. (Put yourself in the reverse position--do you want everyone assuming you're the dumb one? Nope.) Instead, audience analysis is about considering what your readers know already, what they need to know, and how they need to know it. If you write like a 6th-grader to a Ph.D. or a small-business owner, you're going to make someone mad. Figure out who the specific kind of person is on the other end of your communication and write to them (user experience and web designers use something called [personas](https://www.usability.gov/how-to-and-tools/methods/personas.html)).  
