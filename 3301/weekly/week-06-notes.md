@@ -1,6 +1,8 @@
 # Notes and Overview for Week 6
 [ENGL 3301, Fall 2021](../calendar.html)
 
+This week, along with the two weekly assignments, you should continue working on, researching for, and asking questions about [your own fact sheets](../project-1). This "[facts about fact sheets](facts-about-fact-sheets)" page puts together many of your observations about the examples you looked at last week. I will also make some student examples available through Blackboard in the Weeks 04-08 folder.
+
 ## Tech writing, style, and ethics: Who's kicking whom?
 
 > Langauge changes over time. It always has. Our expectations of appropriate style also change over time. They always have.  (Janice Redish, *Letting Go of the Words*)
