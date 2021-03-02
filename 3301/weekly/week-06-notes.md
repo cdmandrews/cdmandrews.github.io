@@ -137,7 +137,9 @@ Complete the <mark>Elements 2: Writing styles and reader-centered writing indivi
 
 ## For Thursday
 
-Participate in the <mark>"TPW, Ethics, and Justice"</mark> discussion thread in your group before 5:00 pm on Thursday.
+**You are not required to complete this assignment.**
+
+**If you are in need of extra credit** you can participate in the <mark>"TPW, Ethics, and Justice"</mark> discussion thread in your group before 5:00 pm on Thursday.
 
 Go back through the [chapter on Ethics in Technical Communication](https://alg.manifoldapp.org/read/open-technical-communication/section/8b530f4b-5942-4071-845a-0a138601da10) and identify **at least three** specific issues or topics that you see as particularly relevant to you. These might connect to your family and life experiences, to communities you live and work in now, or to professional goals you have for your future.
 
