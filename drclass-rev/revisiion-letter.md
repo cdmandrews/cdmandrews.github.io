@@ -3,7 +3,7 @@ Christopher Andrews et al.
 
 
 pick up http://kairos.technorhetoric.net/25.1/praxis/cheatle-et-al/cirrus.html  overview of clouds
-
+and work in https://kairos.technorhetoric.net/24.2/interviews/mcelroy-et-al/scholars.html pedagogy and digital rhetoric
 
 ## Reviewer recommendations:
 1. wanted to read more about the context of the whole course and the student population
