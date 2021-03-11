@@ -79,7 +79,7 @@ Complete the <mark>Elements 4: Titles, headings, sentences, parallelism</mark> a
 
 Post a rough draft of your fact sheet for project 1 in your group's "Fact sheet draft review" discussion thread before 5:00 pm on Thursday.
 
-This draft will most likely be that [shitty first draft]((https://wrd.as.uky.edu/sites/default/files/1-Shitty%20First%20Drafts.pdf) for you, and **that is okay**. Whatever it is, share it with us! The only way to do this wrong is to skip it entirely or turn in a blank document.
+This draft will most likely be that [shitty first draft](https://wrd.as.uky.edu/sites/default/files/1-Shitty%20First%20Drafts.pdf) for you, and **that is okay**. Whatever it is, share it with us! The only way to do this wrong is to skip it entirely or turn in a blank document.
 
 1. The best practice here is to get organized within your groups and make sure that everyone has at least two people to read their drafts--that way all the feedback doesn't go to two people. Please use your group email, discussions, or whatever group chats you've set up to facilitate that.
 
