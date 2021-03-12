@@ -38,9 +38,9 @@ Criteria for success:
 
 ## For Thursday
 
-1. Turn in "Project 1: Fact Sheet about writing in your field" on Blackboard.
+1. <mark>Turn in "Project 1: Fact Sheet about writing in your field" on Blackboard.</mark>
 
-2. Also turn in a short reflection on your project. This can be as part of the "comments" with your submission or as a second document you upload with the assignment. For this reflection, I'm asking for something a little more structured, and it may sound like an odd prompt--but don't underestimate it!
+2. <mark>Also turn in a short reflection on your project</mark>. This can be as part of the "comments" with your submission or as a second document you upload with the assignment. For this reflection, I'm asking for something a little more structured, and it may sound like an odd prompt--but don't underestimate it!
 
 **Your prompt for reflecting**:
 
