@@ -43,19 +43,19 @@ Finally, one last reminder that I'll pull from one of the chapters, from David M
 
 ## For Tuesday
 
-You have no assignment for Tuesday. Spend time reviewing, revising, and working on your fact sheet.
+You have no assignment for Tuesday. Spend time reviewing, researching, revising, and working on your fact sheet.
 
 ## For Thursday
 
-Complete a second round of peer review on your fact sheet. Post an updated draft of your fact sheet for project 1 in your group's "Another fact sheet draft review" discussion thread before 5:00 pm on Thursday.
+Complete a <mark>second round of peer review</mark> on your fact sheet. Post an updated draft of your fact sheet for project 1 in your group's "Another fact sheet draft review" discussion thread before 5:00 pm on Thursday.
 
-1. Again, work to ensure that everyone has at least two people to read their drafts--that way all the feedback doesn't go to two people. Use your group email, discussions, or whatever group chats you've set up to facilitate that.
+1. Again, work to ensure that everyone has at least two people read their drafts--that way all the feedback doesn't go to just a few folks. Use your group email, discussions, or whatever group chats you've set up to facilitate the process.
 
 2. You can either post your feedback to the forum in a reply to the writer's original post, or you can upload a document with comments inserted. Use whichever method you are most comfortable with.
 
 3. Read each others' fact sheets carefully and generously. Each time you review you should provide <mark>at least two</mark> actionable comments to each writer on any or all of the following areas:
-  - Writing style (how effectively are the writer's sentences, paragraphs, lists, and words explaining their content?)
-  - Page design (how effective is the writer's use of white space, overall page alignment, use of color, CRAP principles, and other aspects of page design?)
+  - Writing style (How effective are the writer's sentences, paragraphs, lists, and words?)
+  - Page design (How effective is the writer's use of white space, overall page alignment, use of color, CRAP principles, and other aspects of page design?)
   - Visual elements (How effective, appropriate, and rhetorical are visual elements?)
 
 A few things to remember about feedback:
@@ -70,10 +70,10 @@ Peer review is an opportunity to share, learn, and improve your writing. Not par
 
 ## Looking ahead
 
-[Week 9](week-09-notes) marks us coming to the end of the first unit of the course. In the first half of the course, you've gotten a rapid-fire introduction to primary strategies, elements, and approaches to technical and professional writing. It was quick and dirty, I know! Don't worry--through the next part of the course, we'll return to these ideas, refine them and look at examples in your fields, that will help you put them into action.
+[Week 9](week-09-notes) marks a transition in the course. In the first half of the course, you've gotten a rapid-fire introduction to primary strategies, elements, concepts, and approaches to technical and professional writing. It was quick and dirty, I know! Don't worry--through the next part of the course, we'll return to these ideas, refine them and look at more examples in your fields, that will help you put them into action.
 
-Next week, you will zoom out and think broadly again about what technical and professional writing/communication is all about and how some of the things you've learned apply to the kinds of writing you see yourself doing 'out there' in the professional world.
+Next week, you will zoom out and think broadly again about what technical and professional writing/communication is all about and how some of the things you've learned apply to the kinds of writing you see yourself doing 'out there' in the professional world. We'll do two things:
 
-As you'll remember from [the syllabus](../index.html), there's no mid-term exam in the course. Next week's Tuesday discussion is mid-term-ish in spirit, in that I'm asking you to return to some of the very first questions we asked in the course.
+ 1. Next week's Tuesday discussion is mid-term-ish in spirit, in that you'll participate in a discussion forum that asks you to return to some of the very first questions we asked in the course. As noted on [the syllabus](../index.html), there is **no mid-term exam** in the course.
 
-Next Thursday, you will also turn in your fact sheet on professional writing in your field.
+ 2. Then on Thursday, you will turn in your fact sheet on professional writing in your field.
