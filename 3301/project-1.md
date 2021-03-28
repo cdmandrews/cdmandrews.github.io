@@ -1,4 +1,4 @@
-[ENGL 3301, Fall 2020](index.html)
+[ENGL 3301, Spring 2021](index.html)
 
 # Project 1: Fact Sheet about Writing in Your Field
 
