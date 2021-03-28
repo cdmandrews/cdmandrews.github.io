@@ -8,7 +8,7 @@ Importantly, those two questions aren't only relevant to the workplace. As we've
 1. Do a "deep dive" on three professional genres that you feel are particularly pertinent for your field or professional goals.
 2. Do a "deep dive" on user-created technical communication related to a non-work activity you participate in or are interested in.
 
-The end result for either option will be similar: you'll wprofntext you've identified, whether it's a workplace, a profession, or a hobbyist subreddit.
+The end result for either option will be similar: you'll write a report on your research findings, translating the primary and secondary research you'll do into a coherent set of claims about what constitutes "good" technical writing. You'll also need to address things that writers must do in order to produce effective technical documentation in the context you've identified, whether it's a workplace, a profession, or a hobbyist subreddit.
 
 You might think of your audience for this report in a couple of ways, and any one of these will be a good audience for your report:
  - Other folx in your major. That is, write your report directed at people who are staring down a future in the career. What's important for them to know as professionals-who-will-write, and what is the secret recipe for understanding the documents and situations you've studied? How might your report serve their needs?
