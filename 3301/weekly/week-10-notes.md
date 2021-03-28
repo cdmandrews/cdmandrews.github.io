@@ -31,14 +31,15 @@ Participate in your group's "Project 2 Q&amp;A" discussion thread before 5:00 pm
 Before you write your response to this post, make sure you have read the [project description for Project 2](https://cdmandrews.github.io/3301/project-2) carefully and completely.
 
 Post a reply to the Q&amp;A" thread about your understanding of the second major project. Write about:
-1.  your understanding of the project,
+1.  your understanding of what we're doing with this project,
 2. what documents you are thinking of exploring and why, and
-3. at least two questions you have about it that aren't answered on the description page.
+3. at least two questions you have about this project that aren't answered on the description page.
 
 Return to this thread on Thursday evening and Friday. Review your group members' responses, see if what others have written helps you answer your question, and try to answer questions posted by your fellow students!
 
 ## Looking ahead
 ![Traffic warning sign reading 'Looking Ahead'](https://i1.wp.com/www.hudsonvalleysportsreport.com/wp-content/uploads/2015/07/Looking-Ahead.jpg?w=400&ssl=1)
+
 Get started on that project. Find resources, and contact me if you're not sure how to begin.
 
 During [Week 11](week-11-notes) we will begin the final "unit" in the course and explore a range of issues related to ethics and justice in technical and professional writing. Alongside working on your project we will do introductory dives into the following:
