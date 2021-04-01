@@ -45,7 +45,7 @@ You will <mark>coalesce your research into a report that makes a series of claim
 - Rely on a mixture of primary and secondary research sources, including at minimum:
   - The 3 examples of TC you have selected
   - Our course readings
-  - No fewer than 3 articles from academic and professional journals from your independent research
+  - No fewer than 3 [articles from academic and professional journals](weekly/academic-journals) from your independent research
 
 - Attend to writing and revision process through multiple drafts
 - Adhere to APA, MLA, or another appropriate style guide requirements for in-text source integration and documentation (I don't care which guide you use, as long as you follow its requirements)
