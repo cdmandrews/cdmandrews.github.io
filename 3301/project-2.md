@@ -20,7 +20,7 @@ This option picks up where we left off with project 1. Choose three (3) types of
 
 After selecting three (3) genres that will provide the focus of your project two research, you will then need to **locate actual examples of this type of writing from your field**. These need to be **real documents**, not hypotheticals or template forms that you pull off the internet.
 
-As well as locating three documents, you must also conduct research (both primary and secondary) into *what makes these documents effective*. You have many points of entry into your research here since, as part of project one, you’ve already started to identify the rhetorical aspects of professional writing in your field. Project 2 is an opportunity to go into more depth and detail and examine not just what these elements are but how they function to create effective documentation. Your research should reference our course readings. You should also rely on [Johndan Johnson-Eilola's 1996 article "Relocating the Value of Work: Technical Communication in a Post-industrial Age" (TCQ 5.3)](https://www.tandfonline.com/doi/abs/10.1207/s15427625tcq0503_1) as a jumping-off point *You'll mostly want to focus on his discussions of _symbolic-analytic workers_. In addition, you will need to conduct independent research (from academic and professional journals) to supplement and extend our course materials. Remember, you are researching what makes this piece of technical communication good and what technical writers have to do in order to produce it.
+As well as locating three documents, you must also conduct research (both primary and secondary) into *what makes these documents effective*. You have many points of entry into your research here since, as part of project one, you’ve already started to identify the rhetorical aspects of professional writing in your field. Project 2 is an opportunity to go into more depth and detail and examine not just what these elements are but how they function to create effective documentation. Your research should reference our course readings. In addition, you will need to conduct independent research (from academic and professional journals) to supplement and extend our course materials. Remember, you are researching what makes this piece of technical communication good and what technical writers have to do in order to produce it.
 
 You will <mark>coalesce your research into a report that makes a series of claims about what constitutes “good” technical writing in your field and how writers produce it</mark>
 
@@ -46,7 +46,6 @@ You will <mark>coalesce your research into a report that makes a series of claim
   - The 3 examples of TC you have selected
   - Our course readings
   - No fewer than 3 articles from academic and professional journals from your independent research
-  - Either "Relocating the Value of Work" or "The Golden Age of Technical Communication," depending on the project option you selected
 
 - Attend to writing and revision process through multiple drafts
 - Adhere to APA, MLA, or another appropriate style guide requirements for in-text source integration and documentation (I don't care which guide you use, as long as you follow its requirements)
