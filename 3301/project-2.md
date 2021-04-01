@@ -51,6 +51,7 @@ You will <mark>coalesce your research into a report that makes a series of claim
 - Adhere to APA, MLA, or another appropriate style guide requirements for in-text source integration and documentation (I don't care which guide you use, as long as you follow its requirements)
 - Aim for 1500-2500 words long
 
+![When in doubt: Email your professor. He loves it. It gives him validation. It makes him feel needed and wanted, like a fuzzy puppy.](weekly/media/email-me.png)
 
 <div style="background-color: aliceblue; padding: 1em;">
 <p>Writers of all abilities and experience levels can benefit from appointments with a Writing Consultant in the <a href="http://casa.tamucc.edu/wc.php" >CASA Writing Center</a>. Formatting, spelling, and grammatical errors can make your documents difficult to read and understand or can undermine your content.</p>
