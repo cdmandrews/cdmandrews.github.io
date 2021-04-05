@@ -21,7 +21,7 @@ I recommend starting with the following journals, which publish writing and comm
 -	*Journal of Technical Writing and Communication*
 -	*Written Communication*
 -	*Technical Communication*
--	*Technical Communication Quarterly*
+-	*Technical Communication Quarterly* (usefully, this journal has published a lot about [tactical tech comm](tactical-tech-comm))
 -	*Connexions: International Professional Communication Journal*
 -	*International Journal of Business Communication*
 -	*IEEE Transactions on Professional Communication*
