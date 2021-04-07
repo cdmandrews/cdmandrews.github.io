@@ -73,7 +73,7 @@ Go back and look at a previous assignment in this class where you used images th
 6. Think ahead: what are some situations in your future profession (or maybe your current one) where you might need to make a choice regarding copyright infringement?
 
 ## For Thursday
-Complete the "Progress Report for Project 2" assignment. This assignment is located in the "Weeks 11-16" folder in Blackboard.
+Complete the "Progress Report for Project 2" assignment. This assignment is located in the "Weeks 11-16" folder in Blackboard. An example progress report is posted with the assignment on Blackboard.
 
 A progress report is a common workplaces document that shows the progress you or your team is making towards a goal or project. I call them "hit by a bus" documents, as they overview what's going on for people that aren't necessarily involved in the details the same way you are. In most workplaces, projects are larger than one or two people, and if one person gets hit by a bus on the way to work, the project must continue. Project documentation such as progress reports help people collaborate and report on projects to superiors and colleagues. You might want to skim the following chapter on progress reports: [OTC 2.5 Progress Reports](https://alg.manifoldapp.org/read/open-technical-communication/section/732cb3dd-26de-4732-a854-4184dd2fae86)
 

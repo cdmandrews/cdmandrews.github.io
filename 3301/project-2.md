@@ -2,6 +2,10 @@
 
 # Project 2: Report on TPW
 
+Below is my video overview for the project, but you must still **read this page completely**.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eoQWvg3wEf8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 We started out this semester by asking the question, “What is technical and professional writing?” In your first project, you started to answer this question by surveying and examining the types of writing that actually happen in your prospective fields and professions. Put differently, project one was all about naming the various kinds of writing in your field. However, it’s important for us as writers to move beyond simply *being aware* of the kinds of writing we are likely to encounter as we continue to develop as professionals-who-write; we also need to *understand how to produce technical documentation that is effective*, and we need to have at least a working understanding of *why some writing is effective and others are not*. In other words, in order to become producers of effective technical documentation we need to be able to answer the following questions: **What makes technical writing good in my field? And what do I, as a professional-who-writes, have to do in order to produce it?** These two questions are the driving force behind writing project two.
 
 Importantly, those two questions aren't only relevant to the workplace. As we've talked about throughout the semester, *technical communication is everywhere*, and is sponsored by individuals and communities outside of official organizations just as much as it is sponsored by workplaces and institutions. With that in mind, **you have **two directions you can choose from for this project**:
