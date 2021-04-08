@@ -39,7 +39,7 @@ You will <mark>coalesce your research into a report that makes a series of claim
 
 ## Requirements (same for both options)
 
-- Adopt a report format that applies strategies for accessible, rhetorical, readable, and ethical technical writing. You could use a memo format or create a formal report with a cover sheet, or you might approximate some other relevant genre.
+- Adopt a [report format that applies strategies for accessible, rhetorical, readable, and ethical technical writing](weekly/memo-format-memo.pdf). You could use a memo format or create a formal report with a cover sheet, or you might approximate some other relevant genre.
   - Use a writing style appropriate to your audience, purpose, and rhetorical situation
   - Include headings and subheadings to make your document more accessible and your key messages comprehensible.
   - Include visuals, figures, or illustrations in your document that will help readers understand your message
