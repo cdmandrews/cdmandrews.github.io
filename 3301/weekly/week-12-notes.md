@@ -41,6 +41,13 @@ Keep in mind the core questions you're trying to answer with your research and e
 
 - Option 2 asks: What makes these user-created examples technical communication? What interesting features typify it? What possibilities does present for technical communicators inside and outside the workplace?
 
+Important resources as you're developing your projects:
+- [Project 2 description and video overview](https://cdmandrews.github.io/3301/project-2)
+- [My notes on tactical vs strategic technical communication](https://cdmandrews.github.io/3301/weekly/tactical-tech-comm)
+- [My notes and nudges on finding research in professional and academic journals](https://cdmandrews.github.io/3301/weekly/academic-journals)
+- [My generic guide to finding examples of tpw for projects in the course](https://cdmandrews.github.io/3301/searching-professional-writing.html)
+- [Review of informal/memo report formats](https://cdmandrews.github.io/3301/weekly/memo-format-memo.pdf)
+
 ## Looking ahead
 
-[Week 13](week-13-notes)
+During [Week 13](week-13-notes) we will have a rough (rough) draft review session and return to the 7Cs again. Mostly, just work on your research and analysis projects.
