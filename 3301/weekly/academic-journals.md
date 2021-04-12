@@ -1,6 +1,6 @@
 [ENGL 3301, Fall 2021](../calendar.html)
 
-# Freakin' research, many
+# Research
 
 Sorry, gang. This is college. That means research and stuff. This page includes information on:
 1. Distinctions between primary and secondary research
