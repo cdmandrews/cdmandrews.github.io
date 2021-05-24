@@ -1,8 +1,17 @@
 # Revision letter for "Cumulus Culminations: Learning to read the clouds"
 Christopher Andrews et al.
 
+what to do with "cloud storage" or "cloud transfer"??
 
-pick up http://kairos.technorhetoric.net/25.1/praxis/cheatle-et-al/cirrus.html  overview of clouds
+pick up http://kairos.technorhetoric.net/25.1/praxis/cheatle-et-al/cirrus.html  overview of clouds,
+    -- clouds are a "Swiss Army Knife" of information visualization tools (cirrus.html), used for research, pedagogy, individual reflection and analysis (such as creating a data viz of an article or dissertation), pre-reading strategies (Bandeen & Sawin, 2012) and assessment. Often used pedagogically because they are easy and quick version of language analysis, relying only on word frequency and stop lists (LINK HERE TO OUR STOP LIST AND HOW WE GOT THERE?), they are at the same time simplistic as a method and really only get at cursory, highly-abstracted findings for data sets (Cheatle, Giaimo, Hastings, and Modey, 2020, cirrus.html). Cheatle et al's review of Voyant's cirrus function noted that one of the tool's strengths and weaknesses is its being "geared toward a more novice user population." Clouds may be useful for individuals doing low-stakes reviews of text data but are unsuited to careful analysis because they are relatively uncustomizable (as compared to more advanced text-based data analytics), they trade precision for user-friendliness, and they are difficult to interpret when readers don't already know a lot about the relative relationships between words being visualized.  
+
+https://link.springer.com/content/pdf/10.1007/s11528-014-0750-9.pdf (clouds and assessment--strengths and weaknesses as a graphical representation)  
+DePaolo, C.A., Wilkinson, K. Get Your Head into the Clouds: Using Word Clouds for Analyzing Qualitative Assessment Data. <cite>Tech Trends 58</cite>, 38–44 (2014). https://doi.org/10.1007/s11528-014-0750-9
+
+
+
+  -- "quick, intuitive sense of a text" by relying on high-level data and visual, artistic presentation (DePaolo and Wilkinson, 2014, p. 44).
 and work in https://kairos.technorhetoric.net/24.2/interviews/mcelroy-et-al/scholars.html pedagogy and digital rhetoric
 
 ## Reviewer recommendations:
@@ -13,8 +22,12 @@ and work in https://kairos.technorhetoric.net/24.2/interviews/mcelroy-et-al/scho
 3. "what's not shown" in clouds and what general masters students might be able to take away from this in a semester (or not)
 4. more on cloud-making as a writerly or compositional act" (i.e. tension between inventional/generative and interpretive/analytical goals)
 5. bringing scholarly content that students read to light in the introduction to the assignment
+
+
 6. beefing up conclusion so impacts are broader, speaking more to the expectations of what students learned and what their outcomes show about the field (see R3)
   - i.e., how would one use the technique being described? Who might benefit from following the author's approach and why?
+
+
 7. navigational revisions
   - link to next student explanations
   - rename "classroom" page/menu?

@@ -81,6 +81,10 @@ figcaption {
   padding-bottom: 0.622em;
 
 }
+/* rev class for revision process to mark new and revised items */
+.revision {
+  background-color: yellow
+}
 
 /* Navigation styles are mobile-first */
 #navigation ul, #profile ul{
