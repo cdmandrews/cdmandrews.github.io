@@ -4,14 +4,13 @@ Christopher Andrews et al.
 what to do with "cloud storage" or "cloud transfer"??
 
 pick up http://kairos.technorhetoric.net/25.1/praxis/cheatle-et-al/cirrus.html  overview of clouds,
-    -- clouds are a "Swiss Army Knife" of information visualization tools (cirrus.html), used for research, pedagogy, individual reflection and analysis (such as creating a data viz of an article or dissertation), pre-reading strategies (Bandeen & Sawin, 2012) and assessment. Often used pedagogically because they are easy and quick version of language analysis, relying only on word frequency and stop lists (LINK HERE TO OUR STOP LIST AND HOW WE GOT THERE?), they are at the same time simplistic as a method and really only get at cursory, highly-abstracted findings for data sets (Cheatle, Giaimo, Hastings, and Modey, 2020, cirrus.html). Cheatle et al's review of Voyant's cirrus function noted that one of the tool's strengths and weaknesses is its being "geared toward a more novice user population." Clouds may be useful for individuals doing low-stakes reviews of text data but are unsuited to careful analysis because they are relatively uncustomizable (as compared to more advanced text-based data analytics), they trade precision for user-friendliness, and they are difficult to interpret when readers don't already know a lot about the relative relationships between words being visualized.  
 
 https://link.springer.com/content/pdf/10.1007/s11528-014-0750-9.pdf (clouds and assessment--strengths and weaknesses as a graphical representation)  
+
 DePaolo, C.A., Wilkinson, K. Get Your Head into the Clouds: Using Word Clouds for Analyzing Qualitative Assessment Data. <cite>Tech Trends 58</cite>, 38–44 (2014). https://doi.org/10.1007/s11528-014-0750-9
 
+-  "quick, intuitive sense of a text" by relying on high-level data and visual, artistic presentation (DePaolo and Wilkinson, 2014, p. 44).
 
-
-  -- "quick, intuitive sense of a text" by relying on high-level data and visual, artistic presentation (DePaolo and Wilkinson, 2014, p. 44).
 and work in https://kairos.technorhetoric.net/24.2/interviews/mcelroy-et-al/scholars.html pedagogy and digital rhetoric
 
 ## Reviewer recommendations:
@@ -19,23 +18,23 @@ and work in https://kairos.technorhetoric.net/24.2/interviews/mcelroy-et-al/scho
 2. a bit more unpacking of the theories (both useful and not-so-useful) of distant reading, particularly better defining jargon:
   - word watchers
   - threshold concepts
+    - going to pull back from this concept, it wasn't so important--might mention that students thought of these as maybe offering threshold concepts (as they'd been introduced to them earlier in other courses, but that's not realyl what they offer--words are not fully-fledged statements like TCs are...)
 3. "what's not shown" in clouds and what general masters students might be able to take away from this in a semester (or not)
+  --guess here's where the TC got in the... way?
+  -- Introductory nature, and really showing off the weakness of clouds as infovizzes, they really demand a lot from readers/writers, you have to know the text, the context, to really "read" them and ultimately the readings are fairly surface after all???  Mueller's clouds are useful to experienced WS folx and professionalizing WS folx because we have these words pre-screened already. We know what they mean (or think we do), but when you're coming at them fresh, they really do seem to be just words...
 4. more on cloud-making as a writerly or compositional act" (i.e. tension between inventional/generative and interpretive/analytical goals)
+    cloud-making as compositional act
+    distant reading as writerly, inventional act. (connect to Ramsey's Reading Machines)
 5. bringing scholarly content that students read to light in the introduction to the assignment
-
-
 6. beefing up conclusion so impacts are broader, speaking more to the expectations of what students learned and what their outcomes show about the field (see R3)
   - i.e., how would one use the technique being described? Who might benefit from following the author's approach and why?
-
-
+  - get at "what's shown" and "what's not shown"
+  - what's useful, what's not.
+  - and digital rhetoric is diverse and big and hard to get into from the broader survey-sense of eyman etc. You might have to come in from a more specific angle, and then present "o here are these other things"
 7. navigational revisions
-  - link to next student explanations
-  - rename "classroom" page/menu?
-  - un-linked clouds where links not needed.
+  - link to Next Student's Clouds explanations (dun it) (and considering more)
+  - rename "classroom" page/menu? (working on it)
+  - un-linked clouds where links not needed. (dun it)
 
-
-## Finally, feedback on our reviewer questions
-
-It's funny how differently we read simple questions when we're standing on the flipside. Speaking as editorial staff, I think the questions are thoughtful, but realize I may have only given deep thought to some of the most-recently added questions (i.e trying to figure out how to ask about methods and citing inclusively).
-
-Now speaking as one of the reviewed, I think the questions offer--on the whole--a reasonable measuring stick. One always wonders how broad questions will be applied to their particular situation, and I think that the reviewers exercised a great deal of phronesis in their use of the heuristic. I do look at that first question: "is it new?" and wonder if it's really the right way to put that. Considering some of our recent T1 reviewing re: blogs and zines, I wonder how me might reflect this quality without equating it to novelty. That is, the problem with the blogs piece that we reviewed recently wasn't that blogs are old hat--after all, they're still a popular and usable tool in classrooms and platforms everywhere. Rather, there was something to the framing--that I'm still trying to figure out as I continually learn how to dev edit generously. It's not that it's not novel, and it's not that it's not original. On both of those counts, one could possibly mark down my ow clouds webtext--teaching/classroom research isn't exactly about novelty, and the reviewers make that distinction. For each reviewer, there's a pretty clear understanding about the purpose or scope of each section. I wonder if this question might be better as something about Is the webtext appropriate to the scope of its proposed section?
+  - add skip to content nav link
+  - explore skip content link for word clouds?

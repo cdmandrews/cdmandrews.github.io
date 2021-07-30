@@ -86,6 +86,8 @@ figcaption {
   background-color: yellow
 }
 
+mark {background-color: orange; text-decoration: line-through; color: red;}
+
 /* Navigation styles are mobile-first */
 #navigation ul, #profile ul{
   list-style-type: none;
