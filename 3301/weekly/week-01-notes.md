@@ -23,8 +23,7 @@ If you find something in error, or are confused about any part of the instructio
 Before you dig into any of this week's assignments, be sure that you have:
 
  1. Located and carefully read our [course syllabus](http://cdmandrews.github.io/3301/index.html).
- 2. Reviewed the [course introduction slideshow](https://docs.google.com/presentation/d/e/2PACX-1vReXq7B9dYlJRqfha537G4AjTzi6pUuAxG2Zlni8YNViiXNkPj0M13nPXkWRnjvnZMJv1T5eMjvXfoo/pub?start=false&loop=false&delayms=3000)
- 2. Viewed the [course orientation video](https://youtu.be/D6NADNhfLdU) and explored our Blackboard course shell. Can you locate:
+ 2. Viewed the course [introduction slideshow](https://docs.google.com/presentation/d/e/2PACX-1vRpR4uQSGRi-Vz1FZJeZQs00UGUGliU8XheQb9nfdWnRU6kqUmpGHypwxgdymTFfYd2HymRXiZVVNEN/pub?start=false&loop=false&delayms=3000) and [orientation video](https://youtu.be/D6NADNhfLdU) and explored our Blackboard course shell. Can you locate:
    - your group area and discussion forums?
    - weekly folders?
    - major project descriptions?
@@ -95,8 +94,8 @@ Most importantly, and regardless of specifics of context, location, or sponsorsh
 
 1. Read [Chapter 1: Introduction to Technical Writing](https://alg.manifoldapp.org/read/open-technical-communication/section/0debb16b-f623-4033-a47b-973d65ab0961) by Cassandra Race, from _Open Technical Communication_.
 2. Complete the <mark>“Intro to TPW 1: TPWhat?” discussion forum</mark> in your group before 5:00 pm on Thursday.
-  - Find three examples of what you consider technical and professional writing. These might be correspondence, journal articles, lab reports, manuals, web pages, advertisements, or something else you consider to be TPW. You can use things you find online or that are lying around your home or workplace. Take a picture or screenshot, download a file, or get a link for each example.
-  - Add your links and pictures to a PowerPoint or Google slideshow. Share your examples and on each slide discuss how your documents reflect the conventions and characteristics of technical writing you read about in this week’s readings. Quote relevant passages from our reading assignments in your slideshow and show how your examples reflect Race's six characteristics of technical communication. If you can, identify the specific audience(s) and purpose(s) for each example. Depending on your comments, you’ll probably have at least six content slides and a title slide.
+  - Find **three** examples of what you consider technical and professional writing. These might be correspondence, journal articles, lab reports, manuals, web pages, advertisements, or something else you consider to be TPW. You can use things you find online or that are lying around your home or workplace. Take a picture or screenshot, download a file, or get a link for each example.
+  - Add your links and pictures to a PowerPoint or Google slideshow. Share your examples and on each slide discuss how your documents reflect specific conventions and characteristics of technical writing you read about in this week’s readings. Quote relevant passages from our reading assignments in your slideshow and show how your examples reflect those six characteristics of technical communication. If you can, identify the specific audience(s) and purpose(s) for each example. Depending on your comments, you’ll have at least six content slides and a title slide.
   - Upload your slideshow to the discussion forum and post a summative, introductory comment.
 3. Look at and reply to your peers’ slideshows. Your replies should compare findings, comment on examples, and discuss some of the differences between TPW and academic, journalistic, creative, and other kinds of writing you’re familiar with.
 
