@@ -129,7 +129,7 @@ Even if it feels a little training wheels-ish at first, that's okay; you can alw
 
 Complete the <mark>"1.3 Readers & Purposes" discussion thread</mark> in your group forum before 5:00 pm on Tuesday.
 
-<mark>Along with the assignment itself, this will be the first time I'm **requiring** you to use Office 365 to *share* documents with your group through a link rather than *upload* documents to Blackboard. [This walkthrough](/media/walkthrough-share-365.pdf) explains how to share documents through Office 365 and post a link to them in Blackboard.</mark>
+<mark>Along with the assignment itself, this will be the first time I'm **requiring** you to use Office 365 to *share* documents with your group through a link rather than *upload* documents to Blackboard.</mark> [This walkthrough](/media/walkthrough-share-365.pdf) explains how to share documents through Office 365 and post a link to them in Blackboard.
 
 In [this folder](https://drive.google.com/drive/folders/1oPA1YoOyI-1RI0rGsSqKnhKBLgiyQ6RC?usp=sharing) I have a pretty weird and random collection of professional reports, technical documents, manuals, and other stuff. Pick any three items out of the folder. For each of the three items:
 
