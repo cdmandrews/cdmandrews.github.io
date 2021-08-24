@@ -85,7 +85,6 @@ Most importantly, and regardless of specifics of context, location, or sponsorsh
 
 1. Post to your group’s <mark>“Welcome to the group!” forum</mark> before 5:00 pm on Tuesday. Write a post in which you cover each of the following topics:
   - Write a paragraph to introduce yourself, your background, and your #goals. What should we know about who you are?
-  - Have you taken online classes before, or is this your first? What strategies would you offer to your groupmates for succeeding in an online class?
   - Somewhere after that first paragraph, [insert a gif of a fictional character that represents who you are](https://youtu.be/jp9HA6en5BA) and explain why you chose this character.
   - Finally, write a paragraph or two that describe professional or job-related writing experience you have. What does "professional and technical writing" mean to you today, on the first day of this class, maybe without ever having thought about the term before?
   - Respond to your group members’ introductory statements. Say hello. Swap stories. Make conversation. Get to know each other. These are your fellow learners for the next 15 weeks.
