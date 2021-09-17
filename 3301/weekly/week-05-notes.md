@@ -68,7 +68,7 @@ Review the [instructions for Project 1](https://cdmandrews.github.io/3301/projec
 
 Participate in the <mark>"2.4: Readability"</mark> discussion thread in your group before 5:00 pm on Thursday.
 
-Can you take a complex topic and explain it in a way that someone unfamiliar with the field can understand? For this post, you're going to use the "Up-Goer Five Text Editor" (https://splasho.com/upgoer5/) to explain a hard idea using only the ten hundred most used words. The "Up-Goer Five Text Editor" was inspired by an [XKCD comic](https://xkcd.com/1133/); when you type in the text entry box, the tool compares the words you enter against a list of the most commonly used English words and flags you when you use a word that's not on it. For example, Figure 1 is Alex Pope's definition of technical communication--we looked at it in Week 2. I plopped it into the editor, and it flagged nine words as not on the list!
+Can you take a complex topic and explain it in a way that someone unfamiliar with the field can understand? For this post, you're going to use the ["Up-Goer Five Text Editor"] (https://splasho.com/upgoer5/) to explain a hard idea using only the ten hundred most used words. The "Up-Goer Five Text Editor" was inspired by an [XKCD comic](https://xkcd.com/1133/); when you type in the text entry box, the tool compares the words you enter against a list of the most commonly used English words and flags you when you use a word that's not on it. For example, Figure 1 is Alex Pope's definition of technical communication--we looked at it in Week 2. I plopped it into the editor, and it flagged nine words as not on the list!
 
 <figure><img src="media/up-goer-five-tc.png" alt="The Up Goer Five Editor.">
 <figcaption><i>Figure 1: The red squiggles aren't spelling errors; they are words that aren't on the list of common English words</i></figcaption>
@@ -81,7 +81,7 @@ So, I revised it until I got a definition that got no red flags. See Figure 2:
 </figure>
 
 Here's your prompt:
-1. Pick a complex word or phrase that you've learned about in one of your other classes, preferably a highly specialized concept from your major. The harder, the better! () Use the Up-Goer Five Text Editor to write an explanation of that concept, using ONLY the words it permits you to. Copy and paste your explanation and post it as a reply on this thread.
+1. Pick a complex word or phrase that you've learned about in one of your other classes, preferably a highly specialized concept from your major. The harder, the better! Use the Up-Goer Five Text Editor at https://splasho.com/upgoer5/ to write an explanation of that concept, using ONLY the words it permits you to. Copy and paste your explanation and post it as a reply on this thread.
 2. Then start a new paragraph and reflect and comment on the experience. How did that writing experience go for you? What words were hardest for you to 'translate'? This is an extreme example, and the Up-Goer Five Editor isn't necessarily how you should approach technical writing, but what did you learn about writing style or explaining difficult concepts as a result of this activity?
 3. Come back later and read your peers' explanations and reflections, and talk about what you learned.
 
