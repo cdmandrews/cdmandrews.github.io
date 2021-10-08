@@ -70,7 +70,7 @@ Peer review is an opportunity to share, learn, and improve your writing. Not par
 
 ## Looking ahead
 
-[Week 8](week-89-notes) marks a transition in the course. In the first half of the course, you've gotten a rapid-fire introduction to primary strategies, elements, concepts, and approaches to technical and professional writing. It was quick and dirty, I know! Don't worry--through the next part of the course, we'll return to these ideas, refine them and look at more examples in your fields, that will help you put them into action.
+[Week 8](week-08-notes) marks a transition in the course. In the first half of the course, you've gotten a rapid-fire introduction to primary strategies, elements, concepts, and approaches to technical and professional writing. It was quick and dirty, I know! Don't worry--through the next part of the course, we'll return to these ideas, refine them and look at more examples in your fields, that will help you put them into action.
 
 Next week, we will zoom out and think broadly again about what technical and professional writing/communication is all about and how some of the things you've learned apply to the kinds of writing you see yourself doing 'out there' in the professional world. We'll do two things:
 
