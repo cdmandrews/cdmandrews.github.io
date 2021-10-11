@@ -13,6 +13,7 @@ ENGL 4320 is "Professional writing workshop" and varies by topic. This is a comm
 - jr/sr Technical & Professional Writing minors (who come from communication, graphic design & journalism programs, and a variety of social and natural sciences) or Comm/Graphic Design majors who take them as upper-level electives.
 - jr/sr English majors, mostly Writing Studies track, some Lit Studies track
 
+
 ## About THIS Course
 This course explores social media from the perspective of technical and professional writing: both how companies, organizations, and professionals adapt social media to their own ends and how user-generated content has changed the meaning and activities of technical and professional writers more generally.
 
@@ -28,7 +29,9 @@ Upon successful completion of this course, students will be able to:
 - Evaluate distinctive social media practices in professions, organizations, or communities relevant to their academic interests or career field
 
 
-## Course materials
+## Course syllabus
+
+[The course syllabus sans university boilerplate and some policy stuff](https://docs.google.com/document/d/1B_cmlSjHtdo8OkJ7EY41M5d4g-ngLPjL7qRr5VT3IIc/edit?usp=sharing)
 
 ### Week-to-week docs
 Spring 2020. We shut down halfway through and went online for the pandemic, so the second half of the semester was a weird transition with some really great outcomes.
