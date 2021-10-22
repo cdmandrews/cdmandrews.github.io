@@ -24,7 +24,7 @@ I got your back.
 
 ## For Tuesday
 
-Review my notes on Tactical and Strategic technical communication and wrap your brain around major distinctions between the two kinds. Then think about what you'd like to focus your second main project on.
+Review my [notes on tactical and strategic technical communication](tactical-tech-comm) and wrap your brain around major distinctions between the two kinds. Then think about what you'd like to focus your second main project on.
 
 ## For Thursday
 <mark>Participate in your group's "Project 2 Q&amp;A" discussion thread before 5:00 pm on Thursday:</mark>
