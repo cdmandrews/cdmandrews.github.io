@@ -73,18 +73,8 @@ Go back and look at a previous assignment in this class where you used images th
 6. Think ahead: what are some situations in your future profession (or maybe your current one) where you might need to make a choice regarding copyright infringement?
 
 ## For Thursday
-Complete the "Progress Report for Project 2" assignment. This assignment is located in the "Weeks 11-16" folder in Blackboard. An example progress report is posted with the assignment on Blackboard.
-
-A progress report is a common workplaces document that shows the progress you or your team is making towards a goal or project. I call them "hit by a bus" documents, as they overview what's going on for people that aren't necessarily involved in the details the same way you are. In most workplaces, projects are larger than one or two people, and if one person gets hit by a bus on the way to work, the project must continue. Project documentation such as progress reports help people collaborate and report on projects to superiors and colleagues. You might want to skim the following chapter on progress reports: [OTC 2.5 Progress Reports](https://alg.manifoldapp.org/read/open-technical-communication/section/732cb3dd-26de-4732-a854-4184dd2fae86)
-
-Write a progress report that updates me on [your project's](./project-2) status thus far. Keep it simple, but provide specific details rather than vague generalizations. Set it up as a letter or memo to me. Your progress report should have the following subheaded sections:
- 1. **Status summary**: State that the document is a progress report and overview its contents. Briefly review the purpose, scope, and status of your project. Describe what you're going to do for the project, name the genres/documents you're going to examine, explain your rationale for why those are appropriate for your project, and list the potential scholarly sources you've collected on the topic so far. Summarize your status: how's it going, more or less? If you have any interesting findings to report already, go ahead and talk about them. *This will probably be the longest section of your progress report, and should be a couple of short paragraphs long*.
- 2. **Timeline**: Create a list or table that overviews your timeline or milestones for completing the project. Be realistic with yourself. Identify work you've completed, work that is currently in progress, and work that remains to be done.
- 3. **Issues and questions**: Describe issues you've come up against, unexpected problems you're having, and questions you have for me about your research project. Don't hold back on questions because you think they're silly or obvious--ask now and regret not!
- 4. **Conclusion**: Overall, summarize the project to date, appraise me of your progress, and let me know how it's going.
-
-Upload your document to the Progress Report for Project 2 assignment in Blackboard. No other discussion is necessary, but checking in on your people and giving them cheers and hearty waves is always good!
+No assignment is due this Thursday; work on research and invention for your 2nd major project. If you're stuck, lost, or have questions, schedule an appointment with Dr Andrews and get some HELP!
 
 ## Looking ahead
 
-During [Week 12](week-12-notes) we'll turn to evaluating the idea of "professionalism" and whatever it means to "be professional." Otherwise, you mostly need to get the hustle on and work on your research project!.
+During [Week 12](week-12-notes) we'll turn to evaluating the idea of "professionalism" and whatever it means to "be professional." You'll also share a progress report on your project. I will provide a template.
