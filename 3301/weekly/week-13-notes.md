@@ -89,7 +89,7 @@ Get Sh!+ Done Club will meet at 1:00 to 3:00 pm CST in my Zoom as usual. If you 
 
 This draft will most likely be that [shitty first draft](https://wrd.as.uky.edu/sites/default/files/1-Shitty%20First%20Drafts.pdf) for you, and **that is okay**. Whatever it is, share it with us! The only way to do this wrong is to skip it entirely or turn in a blank document.
 
-WHATEVER YOU DO, JUST TURN SOME CRAP IN PLEASE!
+WHATEVER YOU DO, JUST TURN SOMETHING IN PLEASE!
 
 1. As before, it's useful to get organized within your groups and make sure that everyone has at least two people to read their drafts--that way all the feedback doesn't go to two people. Please use your group email, discussions, or whatever group chats you've set up to facilitate that.
 
@@ -117,4 +117,4 @@ Peer review is an opportunity to share, learn, and improve your writing. Not par
 
 ## Looking Ahead
 
-During [Week 14](week-14-notes) we'll chat about accessibility and professional writing and complete another round of peer review. I'll go over some quotation/citation stuff, review integrating visuals, and probably some other teachery stuff. Congratulations for reading this far. You are a hero.
+During [Week 14](week-15-notes) we'll chat about accessibility and professional writing and complete another round of peer review. I'll go over some quotation/citation stuff, review integrating visuals, and probably some other teachery stuff. Congratulations for reading this far. You are a hero.
