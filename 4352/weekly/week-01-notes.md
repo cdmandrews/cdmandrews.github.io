@@ -1,4 +1,4 @@
-# Notes and Overview for Week 01
+# Agenda for Week 01
 [ENGL 4352, Spring 2022](../calendar.html)
 
 <span style="color:red;">*Important: No assignments or course documents, including the syllabus, should be considered to be in their final form until the first week of class begins.*</span>
@@ -17,4 +17,4 @@ It's Martin Luther King, Jr. Day; no classes.
 
 ## Looking ahead
 
-In [Week 2](week-02-notes) we’re going to 
+In [Week 2](week-02-notes) we’re going to
