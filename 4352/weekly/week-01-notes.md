@@ -11,10 +11,31 @@ It's Martin Luther King, Jr. Day; no classes.
 
 ## Wednesday, January 19
 
-- Intro stuff
-- Tech stuff
-- WTH We doing here stuff?
+1. Welcome to ENGL 4352 (Capstone)! Once class starts, I'll:
+- Review BB,
+- major assignments,
+- and the first-day handout.
 
-## Looking ahead
+2. Sharing in OneDrive: For your portfolios and other projects, you will create and share folders on OneDrive. We'll start today with a "raw materials" folder in which you should start collecting materials for your two portfolios. Name your folder: **lastname-4352-rawmaterials**
 
-In [Week 2](week-02-notes) we’re going to
+3. Within this, you might create folders for the major assignments:
+- Portfolio 1
+- Portfolio 2
+- Revision Project
+- and so on
+
+4. Mapping our experiences with writing
+- courses and projects (DegreePlanner, transcripts, etc.)?
+- extracurricular - personal
+- work-related
+- other?
+
+
+## Friday, January 21 (asynch)
+- Finish map (don't make it a timeline!) at home and post to BB -> Writing Map class blog
+- Email me a link to your "Raw Materials" folder.
+- Continue to gather "raw materials"
+
+For Week 2
+- Monday, Reading Journal 1: Naming What We Know excerpt (read it all, but respond to 1.1, 1.2, 1.3) and begin talking about RRR prompts and 1st portfolio
+- Wednesday, Reading Journal 2: Yancey chapter on eportfolio theory
