@@ -9,30 +9,32 @@ Each week, I'll provide you notes and an overview of the week's content (just li
 
 It's Martin Luther King, Jr. Day; no classes.
 
-## Wednesday, January 19
+## Wednesday, January 19 (inclass)
 
 1. Welcome to ENGL 4352 (Capstone)! Once class starts, I'll:
-- Review BB,
-- major assignments,
-- and the first-day handout.
+  - Review BB,
+  - major assignments,
+  - and the first-day handout.
+
 
 2. Sharing in OneDrive: For your portfolios and other projects, you will create and share folders on OneDrive. We'll start today with a "raw materials" folder in which you should start collecting materials for your two portfolios. Name your folder: **lastname-4352-rawmaterials**
 
+
 3. Within this, you might create folders for the major assignments:
-- Portfolio 1
-- Portfolio 2
-- Revision Project
-- and so on
+  - Portfolio 1
+  - Portfolio 2
+  - Revision Project
+  - and so on
+
 
 4. Mapping our experiences with writing
-- courses and projects (DegreePlanner, transcripts, etc.)?
-- extracurricular - personal
-- work-related
-- other?
-
+  - courses and projects (DegreePlanner, transcripts, etc.)?
+  - extracurricular - personal
+  - work-related
+  - other?
 
 ## Friday, January 21 (asynch)
-- Finish map (don't make it a timeline!) at home and post to BB -> Writing Map class blog
+- Finish your map (don't make it a timeline!) at home and post to Bb, Writing Map class blog
 - Email me a link to your "Raw Materials" folder.
 - Continue to gather "raw materials"
 
