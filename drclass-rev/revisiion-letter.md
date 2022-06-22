@@ -13,12 +13,14 @@ DePaolo, C.A., Wilkinson, K. Get Your Head into the Clouds: Using Word Clouds fo
 
 and work in https://kairos.technorhetoric.net/24.2/interviews/mcelroy-et-al/scholars.html pedagogy and digital rhetoric
 
+see Faris & Wilson p. 77 in Framworks for Sustaining TPC book (comments on generative mapping), (my students saw things as proof, not provocations)
+
 ## Reviewer recommendations:
 1. wanted to read more about the context of the whole course and the student population
 2. a bit more unpacking of the theories (both useful and not-so-useful) of distant reading, particularly better defining jargon:
   - word watchers
   - threshold concepts
-    - going to pull back from this concept, it wasn't so important--might mention that students thought of these as maybe offering threshold concepts (as they'd been introduced to them earlier in other courses, but that's not realyl what they offer--words are not fully-fledged statements like TCs are...)
+    - going to pull back A LOT from this concept, it wasn't so important--might mention that students thought of these as maybe offering threshold concepts (as they'd been introduced to them earlier in other courses, but that's not realyl what they offer--words are not fully-fledged statements like TCs are...), they were a frame of reference that may have actually been harmful?
 3. "what's not shown" in clouds and what general masters students might be able to take away from this in a semester (or not)
   --guess here's where the TC got in the... way?
   -- Introductory nature, and really showing off the weakness of clouds as infovizzes, they really demand a lot from readers/writers, you have to know the text, the context, to really "read" them and ultimately the readings are fairly surface after all???  Mueller's clouds are useful to experienced WS folx and professionalizing WS folx because we have these words pre-screened already. We know what they mean (or think we do), but when you're coming at them fresh, they really do seem to be just words...
@@ -34,6 +36,7 @@ and work in https://kairos.technorhetoric.net/24.2/interviews/mcelroy-et-al/scho
 7. navigational revisions
   - link to Next Student's Clouds explanations (dun it) (and considering more)
   - rename "classroom" page/menu? (working on it)
+        --change to "cloud readings" or something like that?
   - un-linked clouds where links not needed. (dun it)
 
   - add skip to content nav link
