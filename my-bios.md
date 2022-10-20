@@ -41,3 +41,7 @@ Chris Andrews is the incoming coordinator of the technical writing program at Te
 ## Twitter, current as of 2021, and just for lulz
 
 Assistant prof at TAMUCC. Tech comm, technorhetorics, webtexts. Teaching folks how and why to use subheadings good. Views my own but probably parroted. He/him
+
+## Tenure bio for P&T Event, Fall 2022
+
+Christopher Andrews earned his Ph.D. in Technical Communication and Rhetoric in 2013 from Texas Tech and is currently the coordinator for Writing Studies at TAMU-CC. A writing teacher since 2004, at TAMU-CC he teaches technical communication, writing for the web and social media, and editing, helping students learn to see themselves as professional writers who communicate effectively and ethically across multiple media. He is a managing editor with the open-access peer-reviewed journal Kairos: A Journal of Rhetoric, Technology, and Pedagogy, and has a deep understanding of managing editorial processes and collaborating with authors to create accessible, sustainable, and user-centered scholarly digital multimedia. His research explores programmatic issues in writing studies, rhetorics of technology, and how people use digital networks to learn and professionalize online.
