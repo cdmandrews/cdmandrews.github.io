@@ -2,10 +2,7 @@
 A workshop for CASA Writing Center @ TAMUCC
 October 25, 2019
 
-![tutor qr code](tutor-qr.png)
-
-
-## First principles:
+## First Principles
 Tutoring Engineering and Technical Writing is the same as tutoring everything else. Tutors should:
 1. read and assess based on rhetorical concepts: audience, purpose, context
 2. have a grasp of grammatical rules and myths
