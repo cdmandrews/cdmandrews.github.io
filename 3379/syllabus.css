@@ -1,0 +1,48 @@
+/* custom color and font stylesheet to layer over Bootstrap; */
+
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap");
+
+
+:root {
+  --color-important: #e06609;
+  --color-highlight: #bad0e6;
+}
+body{
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  -ms-hyphens: auto;
+  -moz-hyphens: auto;
+  -webkit-hyphens: auto;
+  hyphens: auto;
+}
+
+h1,
+h2{
+  color: var(--color-important);
+  font-weight: bold;
+  font-family: 'Roboto Slab', serif;
+}
+h3,
+h4 {
+  color: var(--color-important);
+  font-family: 'Roboto Slab', serif;
+}
+
+strong {color: var(--color-important);}
+
+
+.current{
+  background-color: var(--color-important);
+}
+
+p:hover, li:hover, tr:hover{
+  background-color: var(--color-highlight);
+}
+
+/* small screens */
+@media (max-width: 768px) {
+  /* override the Affix plugin so that the navigation isn't sticky */
+  nav.affix[data-toggle='toc'] {
+    display: none;
+  }
+}
