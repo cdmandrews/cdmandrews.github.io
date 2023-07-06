@@ -5,7 +5,7 @@
 
 :root {
   --color-important: #e06609;
-  --color-highlight: #bad0e6;
+  --color-highlight: #f8f52a;
 }
 body{
   overflow-wrap: break-word;
@@ -26,6 +26,11 @@ h3,
 h4 {
   color: var(--color-important);
   font-family: 'Roboto Slab', serif;
+}
+h2 {
+  padding-top: 5px; 
+  border-top: 2px solid;
+  border-top-color: var(--color-highlight);
 }
 
 strong {color: var(--color-important);}
