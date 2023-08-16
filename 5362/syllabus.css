@@ -27,6 +27,11 @@ h4 {
   color: var(--color-important);
   font-family: 'Tahoma', serif;
 }
+h2 {
+  padding-top: 5px; 
+  border-top: 2px solid;
+  border-top-color: var(--color-highlight);
+}
 
 strong {color: var(--color-important);}
 
@@ -45,3 +50,4 @@ p:hover, li:hover, tr:hover{
   nav.affix[data-toggle='toc'] {
     display: none;
   }
+}
