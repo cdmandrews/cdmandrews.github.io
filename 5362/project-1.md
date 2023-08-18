@@ -38,6 +38,8 @@ I expect you to <mark>spend 1-2 hours per week</mark> on this assignment through
 <p>Writers of all abilities and experience levels can benefit from appointments with a Writing Consultant in the <a href="http://casa.tamucc.edu/wc.php" >CASA Writing Center</a>. Formatting, spelling, and grammatical errors can make your documents difficult to read and understand or can undermine your content.</p>
 </div> --->
 
-[1] Based on an assignment by Dr. John Gallager at University of Illionois Urbana-Champaign] This project description is licensed under a Creative Commons license.
+<hr>
+ 
+[1] Based on an assignment by Dr. John Gallager at University of Illionois Urbana-Champaign
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
