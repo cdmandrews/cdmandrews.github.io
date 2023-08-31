@@ -152,17 +152,6 @@ You may have been told in the past not to skim. Those people were wrong. There i
 
 Nobody reads an academic article (or chapter) effectively one time through. You engage with it several times and in different ways--quick up first, slower later.
 
-<div style="background-color:aquamarine; margin-left: 50px;">
-
-For further reading:
-- [Reading like a Mongrel](https://thesiswhisperer.com/2011/03/08/reading-like-a-mongrel/) by Inger Mewburn 
-- [Skimming for Content](https://docs.google.com/document/d/1o31XzrRuvEL6EUIUeLZw2-uxVy4togYPzbyIMdZD0UM/edit#heading=h.26f33dn0vl36) by Pamela Oliver 
-- [How to Read an Academic Article](https://docs.google.com/presentation/d/16XTjMgGRA55ISGVykjISPoYCa3vwW6_6/edit#slide=id.p1) by Holly Walters
-- [Strategies for Reading Academic Articles](https://writingcenter.gmu.edu/writing-resources/reading-practices/strategies-for-reading-academic-articles) from George Mason University Writing Center
-- [Brooke Notes](https://cgbrooke.medium.com/brooke-notes-46f3f9ffc708) by Collin Brooke
-
-</div>
-
 Why to skim:
 - you have to read a lot and for a variety of purposes; it's your job, and you should be able to do it effieciently and effectively
 - to have a general idea of what kinds of research is being done about X
@@ -221,6 +210,14 @@ Tips:
 - Monitor comprehension and take breaks.
 - Don't read academic articles in bed; pay attention to when and where and how you focus appropriately
 - Know you can come back and read them later. I have been re-reading Lanham articles since the early 00s, it's okay.
+
+For further reading:
+- [Reading like a Mongrel](https://thesiswhisperer.com/2011/03/08/reading-like-a-mongrel/) by Inger Mewburn 
+- [Skimming for Content](https://docs.google.com/document/d/1o31XzrRuvEL6EUIUeLZw2-uxVy4togYPzbyIMdZD0UM/edit#heading=h.26f33dn0vl36) by Pamela Oliver 
+- [How to Read an Academic Article](https://docs.google.com/presentation/d/16XTjMgGRA55ISGVykjISPoYCa3vwW6_6/edit#slide=id.p1) by Holly Walters
+- [Strategies for Reading Academic Articles](https://writingcenter.gmu.edu/writing-resources/reading-practices/strategies-for-reading-academic-articles) from George Mason University Writing Center
+- [Brooke Notes](https://cgbrooke.medium.com/brooke-notes-46f3f9ffc708) by Collin Brooke
+
 
 ## For Next Time
 
