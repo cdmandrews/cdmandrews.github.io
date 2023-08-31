@@ -169,7 +169,8 @@ Why to skim:
 - to sift through lots of stuff quickly in order to find the small quantity of stuff you need to read more closely
 - to stay out of the reading death spiral. There is always something else to read, and that can crush us and keep us from writing. 
 
-Reading strategies;
+Reading strategies:
+
 1) understand what different genres are, why they are written
     - primary sources: might be literrary works, rhetorical artifacts, texts, or qualitative/quantitative data
     - theory: provides philosophical or methodological approach to an issue or phenomenon
@@ -198,25 +199,28 @@ Reading strategies;
 
 
 AIC Method of Reading is good for a **first read** of anything
+
 1) read the abstract if there is one
 2) read the introduction (section, paragraph, or chapter if it's a book)
 3) read the conclusion (section, paragraph, or chapter)
 4) read the first sentence of body paragraphs or first paragraphs of sections (or subheadings if the article has meaningful subheadings); Remember high school--topic sentences are indeed your friend.
+
 * Attend to keywords: if there are words you don't know in the title, intro, subheadings, and topic sentences, you should stop and look them up in a discipline-appropriate source
+
 * Attend to graphics, figures, and tables--they are there because they're so important they need visual support/explanation
 
 After reading: 
+
 1) try to summarize the main ideas and support or details of what you read before you dive in to particular points
 2) reflect on how this thing connects to class discussions, your experiences, other examples
 3) evaluate the merits and weaknesses of what you've read
 
 Tips:
+
 - AICing before you read the whole thing improves retention and you will know when/where to skim parts later
 - Monitor comprehension and take breaks.
 - Don't read academic articles in bed; pay attention to when and where and how you focus appropriately
 - Know you can come back and read them later. I have been re-reading Lanham articles since the early 00s, it's okay.
-
-<div style="background-color:#eed0f0;">
 
 ## For Next Time
 
@@ -257,6 +261,3 @@ Any two of:
 
 Possibly:
 - Haas (2007), Wampum as Hypertext: An American Indian Intellectual Tradition of Multimedia Theory and Practice
-
-
-</div>
