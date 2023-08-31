@@ -160,7 +160,7 @@ Why to skim:
 
 Reading strategies:
 
-1) understand what different genres are, why they are written
+1. understand what different genres are, why they are written
     - primary sources: might be literrary works, rhetorical artifacts, texts, or qualitative/quantitative data
     - theory: provides philosophical or methodological approach to an issue or phenomenon
     - original research: criticism, empirical studies, problem-solution articles, disciplinary overviews
@@ -168,31 +168,31 @@ Reading strategies:
     - literature review: organizes and surveys what key scholarship has been written on a specialized topic 
     - book review/review article: summarizes and makes claims about the quality of other published works
     - practical or how-to: instruction for how to use or apply a theory, method, or practice (often pedagogy in writing studies)
-2) understand your purpose for reading or your professor's purpose for assigning a reading
+2. understand your purpose for reading or your professor's purpose for assigning a reading
     - are you identifying? analyzing? comparing? evaluating? responding? 
     - are you getting the basic sense or knowledge of a new field or topic?
     - are you planning a simmilar study?
     - are you organizing materials to select what to read later?
     - are you reading to get research ideas or investigate a topic for a paper yor project you have to write?
     - are you reading to collect lines of argument or evidence, to support or critique an argument?
-3) adopt a system for note-taking and reference management
+3. adopt a system for note-taking and reference management
     - reference management software such as [Zotero](https://www.zotero.org/support/quick_start_guide), [Mendeley], etc. Install add-ons or plugins for your browser to make collecting and organizing citations easy; can integrate with your word processor and create Reference Lists quickly for editing and polishing.  (We'll look at reference management in the future if you have never done so)
     - write notes in a document or in your ref mgmt software (or even a notebook), the absolute worst way to take ntoes is by annotating PDFs and you should never do it. "collect notes, not articles"
     - note taking should be sustainable and standardized a bit, but not too system-y or cryptic of a system
     - note taking shouldn' tbe too insider-y, imagine you are writing notes for someone else who needs to decide whether the text is worth their time (i.e., yourself ten years from now)
-3) layered or intentional reading
+3. layered or intentional reading
     - skimming: getting the gist: going through titles and abstracts only to decide what might be relevant and pack it away. used with keyword searches and reference/citation searches (more on that later) to find things without reading yet.
     - scanning. Hop to what you need and read just that; searching a document to answer a question relying on textual cues and keywords.
     - close reading: in-depth investigation of specific parts/elements of a text or the whole; carefully read the whole for comprehension. When you need to understand an argument or are looking at primary sources for evidence, you're probably close reading
-4) hyper-reading, or "computer-assisted human reading" and Machine reading/Distant reading (human-assisted computer reading) (Sosnoski, 1999; Tham & Grace, 2020)
+4. hyper-reading, or "computer-assisted human reading" and Machine reading/Distant reading (human-assisted computer reading) (Sosnoski, 1999; Tham & Grace, 2020)
 
 
 AIC Method of Reading is good for a **first read** of anything
 
-1) read the abstract if there is one
-2) read the introduction (section, paragraph, or chapter if it's a book)
-3) read the conclusion (section, paragraph, or chapter)
-4) read the first sentence of body paragraphs or first paragraphs of sections (or subheadings if the article has meaningful subheadings); Remember high school--topic sentences are indeed your friend.
+1. read the abstract if there is one
+2. read the introduction (section, paragraph, or chapter if it's a book)
+3. read the conclusion (section, paragraph, or chapter)
+4. read the first sentence of body paragraphs or first paragraphs of sections (or subheadings if the article has meaningful subheadings); Remember high school--topic sentences are indeed your friend.
 
 * Attend to keywords: if there are words you don't know in the title, intro, subheadings, and topic sentences, you should stop and look them up in a discipline-appropriate source
 
