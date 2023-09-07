@@ -8,7 +8,7 @@ The purpose of an annotated bibliography is to learn about a particular topic by
 
 ## Your assignment
 
-Find some **local digital writing practice and/or culture that could be explored or examined through the theories and frameworks we’ve studied**. Collect at least five scholarly sources on the subject in addition to readings assigned for class and compose an annotated bibliography of at least ten sources that reviews the scholarly conversation. Compose a synthesizing introduction that summarizes and engages with that conversation. This project is intended to lay groundwork for Project 4. 
+Find some **local digital writing practice and/or culture that could be explored or examined through the theories and frameworks we’ve studied**. Collect at least five scholarly sources on the subject in addition to readings assigned for class and <mark>compose an annotated bibliography of at least ten sources that reviews the scholarly conversation</mark>. You will also <mark>compose a synthesizing introduction that summarizes and engages with that conversation</mark>. This project is intended to lay groundwork for Project 3. 
 
 The sources you collect should be, like our course readings, firmly within the disciplinary boundaries of writing studies writ large: digital rhetoric, rhetoric and composition, technical communication, computers and writing, and creative writing. I will help orient you to journals and other relevant publications in those subfields. 
 

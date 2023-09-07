@@ -7,9 +7,10 @@
 # Agenda
 1. Introduce each other and compose ourselves
 3. Talk about this week's readings and probably what we already know about interfaces and ideology
-4. Followup Qs and As [Online presence project](/5362/project-1.md)
+4. Followup Qs and As [Online presence project](/5362/project-1)
+4. Talk about [Annotated bibliography project](5362/project-2)
 5. Talk about what it means to "Read/Take Notes like a grad student"
-    - go back and talk about Zotero
+    - talk about Zotero
 5. Using library multisearch and Google Scholar together to chase those rabbits
 
 ## Interface and Ideology
@@ -61,7 +62,9 @@ interface: a primary representation of a computer system or program; a "cultural
 2. What does it mean to look AT the interface rather than THROUGH? (back to Lanham, bistable oscillation); popular approaches to UI talk about interface invisibility (think back to Warde, also Krug, *Don't Make Me Think*). That is, how can we learn to be critical users of interfaces, and what questions do we need to ask to interrogate an interface? 
     - (See also Monea, [Screen Reading: A Gallery of (Re)imagined Interfaces](https://kairos.technorhetoric.net/24.2/disputatio/monea/index.html); Monea de-familiarizes interfaces in order to sponsor critical interface literay (calling attention to “material, infrastructural, tangible, and aesthetic components of web design”) that is, making the “transparency of the interface” opaque.)
 
-<mark>Interface activity</mark>: Log in to ChatGPT, create an account and fiddle around. What does the interface for ChatGPT primarily represent? What actions are encouraged and possible? What metaphors are bundled into the interface? What is the "cultural map" here? What is shown? What is obscured through the "generating text in order" component of the interface? What do LLMs do? (it seems from the interface that 'next word prediction' is a main one--but LLMS do more than that)
+<mark>Interface activity</mark>: We'll break into small groups for this one: Explore a popular LLM-based writing tool such as ChatGPT or Google Bard or another AI-powered service such as Microsoft Word's Editor or Grammarly; create an account and fiddle around. Use one of the sets of questions below as a heuristic to investigate and think about the rhetorical implications and ideologies of the interface. What does the interface for primarily represent? What actions are encouraged and possible? What metaphors are bundled into the interface? What is the "cultural map" here? What is shown? What are the modes of interactivity in the interface? What would a critical interface analysis show? 
+
+(For example, with anything that generates text--What is obscured through the "generating text in order" component of the interface? What do LLMs do? (it seems from the interface that 'next word prediction' is a main one--but LLMS do more than that))
 
 How can we talk about interfaces so we can see rhetorical implications of interfaces? (Carnegie, p. 166 and see questions on 172) How to exaxmine an interface 101, from Carnegie:
 - **multidirectionality**
@@ -84,7 +87,7 @@ How can we talk about interfaces so we can see rhetorical implications of interf
 - **presence**
     - is the user given knowledge of other participatns?
     how much time flexibility does the user have to create and send messages and thereby build connections with others?
-    - does the interface provide visual and audio information about other users? if so, what are their backgroudns and characteristics?
+    - does the interface provide visual and audio information about other users? if so, what are their backgrounds and characteristics?
     - does the interface itself have a character or agency? to whom would this character or agency appeal?
     - what schemas are being invoked by the interface?
     - what cultural, political, economic backgrounds and interests do these schemas reflect?
@@ -137,12 +140,18 @@ Bolter & Grusin (2000), *Remediation* ([all definitions are from this book revie
 
 
 ### Questions from you-all
-1.
-2.
-3.
-4.
-4.
-4.
+1. How are wampum belts like hypertexts? multimedia?
+2. If language is a series of codes that allow for the connection of meanings, as in, the color red means stop because we were told it did, then would this quote from Sano-Franchini’s work, “human beings make knowledge and meaning from the interpretation—whether conscious or subconscious—of signs, including alphabetic textual and visual design,” mean that our interpretations of the visual is heavily guided by what we are told things are to mean? If this is the case, is it any different from propaganda?
+3. Selfe and Selfe: Standard English in a computer interface is criticized for pressuring students of marginalized groups to “[dissociate] themselves from the colonial values of [those] groups” (494). Since other countries have already more or less accepted “Standard English” as the default norm, is that truly problematic?
+4. How do we develop the critical awareness that Selfe and Selfe are talking about when looking at our location in relation to the privilege we have? Is this something that comes from reflection and time or are there ways to speed up the process or to help others develop their awareness? While keeping in mind the desire to not burden others with the responsibility of educating.
+4. Could we unpack the definition of “transductive”? I feel like I understand some of it but not all of it.
+4. The idea of a Lingua Fracta between the digital and rhetorical or a “mutually transformative encounter” (255). Is this similar to the linguistic idea of Lingua Franca (having a common language between two speakers of different languages, for example non-native english speakers using english as a common language).
+4. Can we talk more about the Warpum beads as hypertext?
+2. Can you speak more on how English teachers are affected by borders then and now? How systematic and domination margins affect students today?
+3. Discuss interfaces of maps of Capitalism and Class Privilege. Discuss how the government perpetuated power through practices and content during COVID
+4. I never thought of texts as an interface. I only thought of it as being digital. Anyone else?  
+5. After reading the article by Selfe and Selfe, I’m wondering what teachers who can’t do those things suggested (work with programmers, discuss colonialism with students, ect) should do to mitigate the power of interfaces to make them more accessible and inclusive? This article kind of blew my mind because I never thought of the computer interface as being harmful in that way.  
+6. Did anyone else understand a thing from the Jones piece? I felt like they were speaking another language the whole time. It seems as if he’s talking about circulation in interfaces as creating worlds within worlds and how they mitigate power and parcel it out on their own whim. He seems to point to the dangers in those because of the seemingly availability of access to the user but in fact are incredibly limited. I’m serious when I say I really struggled with this piece for some reason.  
 
 
 ### Selfe & Selfe (1994), The Politics of the Interface 
@@ -193,7 +202,9 @@ Boyle, Brown, and Ceraso provide a useful review of scholarship that pushes beyo
 - database-driven digital rhetoric, network rhetoric
 - inventional media
 
-transduction: how a signal moves across disparate registers of rleations (p. 257), neither deductive nor inductive; converting energy or message into another form, each relay in a pathway changing the next molecule in the pathway
+transduction: how a signal moves across disparate registers of relations (p. 257), neither deductive nor inductive; converting energy or message into another form, each relay in a pathway changing the next molecule in the pathway
+
+[A response to Boyle, Brown, and Ceraso that interjects transduction with availability](https://www.digitalrhetoriccollaborative.org/2018/10/12/availability-dereliction/)
 
 **rhetoric as a transductive process**
 
@@ -240,3 +251,24 @@ Wampum belts as indigenous revision of visual rhetorical/hypertextual sovereignt
 
 Both wampum and Western hypertexts supplement memory--communal, cultural, civic
 <hr>
+
+## For Next Time
+
+### Journal entry for week 3
+Write a short (300ish+ words) critical interface analysis for your next journal entry.  (Also, include a handful of questions based on/out of our readings, which are all about audience.)
+
+Select a composing interface you use every day but perhaps haven't spent much time thinking about--anything from Mirosoft Word to Reddit to Blackboard to the messenger app on your phone. Using some combination of the heuristics discussed in class September 7, interrogate that interface and reflect on its meaning-making interactions.
+
+### To Read for Sept 14 (Digiality, Interfaces, Ideologies)
+
+Required:
+- Ede & Lunsford (1984), Audience Addressed/Audience Invoked 
+- Phelps (1990), Audience and Authorship: The Disappearing Boundary 
+- Gallagher (2020), The Ethics of Writing for Algorithmic Audiences 
+
+Optional if you really want to go deep:
+- Ong (1975), The Writer's Audience is Always a Fiction
+- Eberly (1999), From  Writers, Audiences, and Communities to Publics: Writing  Classrooms as Protopublic Spaces
+- Head (2016), Teaching grounded audiences: Burke’s identification in Facebook and composition
+
+We will also brainstorm and write about the Annotated Bib project during class time.
