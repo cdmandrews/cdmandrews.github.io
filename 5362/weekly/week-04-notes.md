@@ -29,7 +29,7 @@ See also:
 
 
 
-## What's the sitch? Situations, Ecologies, Velocity, and more variables and constituents that you thought you might want to account for
+## What's the sitch? Situations, Ecologies, Velocity, and more variables and constituents than you thought you might ever want to account for
 
 *Assigned readings can always be found on Blackboard. Addional resources should be there, and if not are accessible through our Library)*
 
@@ -53,11 +53,25 @@ Optional if you really want to go deep:
 
 ### Notes and Questions towards understanding rhetorical situations and rhetorical velocity
 
-1. Want to review your visualiations--tell us about what you found, what you thought, and what you made.
+1. Review your visualiations--tell us about what you found, what you thought, and what you made.
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTGbxS9Wg93fd_fthp3rAFNKNcBzBM1Pg-BYq99OxMeQykfP_fzo57Ik3fMTB0kX8gxdc89zyDxw94f/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 2. Mine own visualizations and notes and comments and things
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTxSC1TgM1MdTt2mKhsdeMHJ9arJQV7HIK6wm5cKCTKFx-I1zcl6YXNX88F2dVv76MMxfRX94YFNv8x/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+1. Limitations of the concept of rhetorical situation?
+2. Across various models of the rhetorical situation (and these other related theories), what things are theorists trying to account for?
+
+### Your Questions, Which are Really Good This Week and I Want to Focus on Them 
+1. So, 'rhetorical velocity,' as described by Ridolfo and DeVoss, isn't just concerned with the projection of the rhetoric, it's also concerned with third party uses. Correct?
+2. Not a question but a comment: I'm glad we read *Imagined Communities* by Benedict Anderson. It gave some cool context when reading the piece by Ehrenfeld. I know one is talking about the birth of nationalism and the other about digital spaces, but they overlapped nicely and gave frameowrk to the other in a cool way. 
+2. I don't tend to use visuals when teaching rhetoric to my kids. I use an acronym to break down the parts, and we rock and roll. Do you think it is incredibly useful? 
+1. Is rhetorical ecology talking about considering factors outside of the rhetorical situation or is it more about how the rhetorical situation can move through situations and contexts? I really tried to grasp the idea of ecology, but I feel like I’m just not quite there in how it relates to or involves the rhetorical situation.
+2. Is “remix” and “velocity” related to the idea of intertextuality but in a specifically digital context? What does this do to ideas of how knowledge production happens?
+3. The Ehrenfield piece focuses on discussing the ecological turn in rhetoric, but part of it seems overly focused on the individual. Specifically, other authors stating that we should focus on what we individually can do and disregard collective action. This seems antithetical to an ecological analysis and feels almost more like a neoliberal idea. That's probably why Ehrenfield problematizes it so much, but am I misinterpreting that?
+
 
 ## For Next Time
 
