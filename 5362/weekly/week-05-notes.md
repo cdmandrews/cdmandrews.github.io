@@ -7,6 +7,7 @@
 4. Workshop on the [Annotated bibliography project](5362/project-2)
 5. Synthesizing Intros and Alphabet Soup Lit Reviews
 3. Finish up with rhetorical velocity 
+3. And on to kairos/chronos and rhetorical strategies for circulation
 
 **[Andrews' Modified APA 7 Stylesheet](media/apa-modified.pdf)**
 See also:
@@ -61,16 +62,36 @@ Need to finish up with thinking about rhetorical velocity and forward into rheto
 
 - online audiences pose new topoi and change doxa that beg for inventive possibilities and interactions
 
-"circulatory writing processes" not just "texts in circulation" or "results of circulation"
+"circulatory writing processes" not just "texts in circulation" or "results of circulation" -- from mass reading/writing to mass editing/revision
 
 writers attend to afterlife in "update culture" through stratiegies:
 - textual timing
 - textual attention
 - textual management
 
+Update culture is NOT radically new, just faster and more intense version of historical antecendents and precedents
+
 **Interactive and Participatory Internet Templates (IPI)**
 - templates as structures that provide *decorum* (also habits, expectations)
 - templates "prefigure the writer/audience relationship" (p. 7)
+
+<mark>IPI Templates defined</mark>: interactive interfaces of ongoing prefabricated designs and cultural forms; contain empty spaces designated for writing or filling in; surrounded by a variety of interactive fields (p 34)
+ - web 2.0, but much more--site builders, 
+ - no "document"
+ - rhetoric/discourse flows rapidly and on a large scale, but not without structure
+ - designed to move texts (etc) for the purpose of user-to-user communication
+
+<mark>template rhetoric</mark> has four characteristics:
+users communicate on the internet through interactive templates that structure the available means of persuasion; they can get creative with the interface and invent new ways of using the available means, but interactions are still structured (in interfaces) and behind it all is a lack of coding access
+1. repetition
+1. time-space compression
+1. ambient affordances
+1. standardization
+
+- templates are interactive interfaces (aimed at producing "invisible" interface or transparent medium--goal of easy, fast, immediate)
+- templates prod users to fill out empty fields, "ongoing prefabricated designs" (37); discourse is structurted and habitual/predictable--types of interactivity are standardized
+- cultural forms emerge when IPI templates habituate us to act in certain ways, persuading us through repetition (like/subscribe, friend, status, etc)
+
 
 #### Arola - Rise of the Template, the Fall of Design; Dilger - Beyond Star Flashes
 - Arola is “troubled by Web 2.0’s tendency to render form standardized and invisible” (4), and argues that composition teachers engaging iwth Web 2.0 need to attend to the work of design. Though we may not have known much about how to code and design our own web pages before, we know less now. And the same is true with students: “it is important to keep in mind that just because technology is seamlessly woven into their lives does not mean that they are technologically savvy” (5), and the more seamless and transparent the technology is, the less likely we are to know much of anything about it.
