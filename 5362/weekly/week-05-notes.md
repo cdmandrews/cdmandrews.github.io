@@ -83,15 +83,23 @@ Update culture is NOT radically new, just faster and more intense version of his
 
 <mark>template rhetoric</mark> has four characteristics:
 users communicate on the internet through interactive templates that structure the available means of persuasion; they can get creative with the interface and invent new ways of using the available means, but interactions are still structured (in interfaces) and behind it all is a lack of coding access
-1. repetition
-1. time-space compression
-1. ambient affordances
-1. standardization
+1. repetition (continuous filling in/out, continuous prodding, creation of habit)
+1. time-space compression (tech increases speed of production, distribution, circulation; discourse quickly moves around; conflation of when with what/how)
+1. ambient affordances (users & templates coalesce to form persuasive digital rhetoric beyond TD or SC; templates/techs have an active/primary role in situation/event of digital writing; habituated ways to respond and a common lnaguage for understanding response)
+1. standardization (imposition of hegemonic communication practices; templates inform us about what kind of infor goes where; filters to expectation and decorum)
 
 - templates are interactive interfaces (aimed at producing "invisible" interface or transparent medium--goal of easy, fast, immediate)
 - templates prod users to fill out empty fields, "ongoing prefabricated designs" (37); discourse is structurted and habitual/predictable--types of interactivity are standardized
 - cultural forms emerge when IPI templates habituate us to act in certain ways, persuading us through repetition (like/subscribe, friend, status, etc)
 
+**textual timing, kairos, chronos**
+- <mark>kairos</mark>: rhetoric's time; fitness based on when/context; embodied and immanent, but not evaluatable until after its passing; "the opportune moment"
+- <mark>chronos</mark>: clock's time; monitoring and observing patterns of time
+- Gallagher argues that pairing chronos and kairos helps us understand digital writers' timing strategies--how they qualitatively learned when appropriate moments to write and respond were and how they translated that into quantitative perspectives
+- **writers need a framework that allows them to approach rhetorical situations and ecologies in a coherent and organized fashion** (see problems with always on, stopping/not stopping, pandering ad populum, info overload, going viral) (p. 56)
+- kairos-chronos fusion: pacing and patterning
+- template timing: first, recent, default display (good timing as manifested in space as well as time--the screen)
+- algorithmic timing: understnading timing in relation to blackboxed elements distilled into a platform's display and interface; planning for how algorithms aggregate audience (response)
 
 #### Arola - Rise of the Template, the Fall of Design; Dilger - Beyond Star Flashes
 - Arola is “troubled by Web 2.0’s tendency to render form standardized and invisible” (4), and argues that composition teachers engaging iwth Web 2.0 need to attend to the work of design. Though we may not have known much about how to code and design our own web pages before, we know less now. And the same is true with students: “it is important to keep in mind that just because technology is seamlessly woven into their lives does not mean that they are technologically savvy” (5), and the more seamless and transparent the technology is, the less likely we are to know much of anything about it.
@@ -113,16 +121,22 @@ Dilger: What are the different ways people can be "writers" on Web 2.0?
 
 ### Your Questions
 
+1. How should we go about pacing/patterning our digital writing? It's already seeming a struggle between readings, journaling, and other projects. 
+2. How do we keep templates/designs visible, and avoid becoming the "invention of the template" ? Looking at/not through templates, IPI interfaces.
+2. Is there not a sense that this perfection of engagement with IPI templates, the kairos-chronos fusion, always on, engagement-mongering is making people's lives worse? Does the invisibility of the design help mask the illness? I got the sense that a lot of these bloggers, reviewers, Reddit posters--despite having a mastery over their craft and achieving high levels of success, were not the happiest of people, or spent too much time online/engaged in frivolous activity. Entertaining/Informing/Engaging to the point of exhaustion/depression. 
 1. What are the pros and cons of template driven design since Arola argued the downside?
 2. How is Web 2.0 interfaces shaping our interactions and ourselves?
 3. How can we re-engage design if Web 2.0 takes it away from us?
 4. Is Web 2.0 really just a form of ideology?
 5. Is Blackboard really offering courseware that leverages function to create network effects and empower end users? 
-- "Update Culture" indicates that digital content is constantly amended and updated, even once ciculation has begun (it could even be argued that Update Culture is a necessity for circulation, as made evident by Ridolfo and DeVoss in their section on Remixing.) That being said, is it possible that Update Culture could cause a piece of conent to change so drastically over time that it alters the message that the author had originally intended?
-- Gallagher discusses the concepts of Kairos and Chronos, which he defines (in simple terms) as when to post content, and how long that content will circulate. He uses Reddit as an example, and uses case studies in which Redditors take into consideration when Americans are most likely to be browsing Reddit. With interfaces such as Facebook and Instagram, in which users receive alerts when a page they follow posts new content, could it be argued that the "Kairos and Chronos" considerations have varying levels of importance based on the interface that is being used to distribute content?
-- WYSIWYG word processing editors do not serve as an immediate form of user-to-user communication in the same way that IPI templates do. While content created with these types of word processors can be taken to an IPI template, could it be argued that WYSIWYG word processing editors discourage circulation?
-
-
+4. "Update Culture" indicates that digital content is constantly amended and updated, even once ciculation has begun (it could even be argued that Update Culture is a necessity for circulation, as made evident by Ridolfo and DeVoss in their section on Remixing.) That being said, is it possible that Update Culture could cause a piece of conent to change so drastically over time that it alters the message that the author had originally intended?
+4. Gallagher discusses the concepts of Kairos and Chronos, which he defines (in simple terms) as when to post content, and how long that content will circulate. He uses Reddit as an example, and uses case studies in which Redditors take into consideration when Americans are most likely to be browsing Reddit. With interfaces such as Facebook and Instagram, in which users receive alerts when a page they follow posts new content, could it be argued that the "Kairos and Chronos" considerations have varying levels of importance based on the interface that is being used to distribute content?
+4. WYSIWYG word processing editors do not serve as an immediate form of user-to-user communication in the same way that IPI templates do. While content created with these types of word processors can be taken to an IPI template, could it be argued that WYSIWYG word processing editors discourage circulation?
+5. Could we discuss further the ideas of “Template Timing” and “Algorithmic Timing”?
+6. What are the implications of using "template-driven" technology with online learning? The "Rise of the Template" article asked us to think about the ways that university-sponsored course-management softerward encourages us to post and learn. Since this is the way most learning is going how does this change our past ways of doing things? Or is the answer just simply that it changes everything. 
+5. I found myself wondering what caused the change from "identity and presentation" to "identity and functionality." Could this be wrapped up in the idea that "our data" is now the product that is making most website money vs the old thinking of staying longer on a website?
+6. How has the shift from Twitter to X changed what Gallagher says about the website? Especially given the existence of premium (Twitter Blue(?)), and the non-existence of "tweeting"?
+7. Gallagher discusses the concept of virality, but how exactly is that benchmark reached? It's obviously partly dependant on the viewer, but what's the threshold? How has it changed with an increase in both internet users and internet content being produced? Is a YouTube video getting a million views still considered viral?
 
 
 ## For Next Time
