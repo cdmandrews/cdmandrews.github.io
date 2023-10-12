@@ -5,7 +5,7 @@
 ## Agenda
 1. Compose ourselves
 4. Discuss the [Digital project](5362/project-3)
-5. Part II of Update Culture: Timing, Attention, Management
+5. Part II of *Update Culture*: Timing, Attention, Management
 
 *Assigned readings can always be found on Blackboard. Addional resources should be there, and if not are accessible through our Library)*
 
