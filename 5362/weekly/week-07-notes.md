@@ -36,10 +36,9 @@ How do the kinds of everyday writing and everyday writers Gallagher is writing a
 What, according to Gallagher, is wrong with the adage "Don't Read the Comments"?
 
 we should examine not just the end product, but how processes and stratgies change over the course of time as they experience their audience's reactions and responses (after composed, during delivery) -- writing during circulation (which is different from print economies of writing)
-
-    - "terminal points for writing have ceased" (p. 106)
-    - online audiences pose new topoi and change doxa that beg for inventive possibilities and interactions
-    - "circulatory writing processes" not just "texts in circulation" or "results of circulation" -- from mass reading/writing to mass editing/revision
+- "terminal points for writing have ceased" (p. 106)
+- online audiences pose new topoi and change doxa that beg for inventive possibilities and interactions
+- "circulatory writing processes" not just "texts in circulation" or "results of circulation" -- from mass reading/writing to mass editing/revision
 
 writers attend to afterlife in "update culture" through stratiegies:
 - textual timing
