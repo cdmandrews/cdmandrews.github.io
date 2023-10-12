@@ -20,11 +20,20 @@ Required for today:
 
 ### understanding Kairos, Chronos, and Digital Writing; What are writers doing as their writing is in circulation? 
 
-How have roles for writers changed in 21st century writing contexts? How have the technologies with which we write, deliver, and circulate writing affected writing/writers? 
+How have roles for writers changed in 21st century writing contexts? How have the technologies with which we write, deliver, and circulate writing affected writing/writers? How, as Gallagher claims in his final chapters, does our developing understanding of the afterlife of digital texts inform the ways we think about writing more broadly?
     - as digital writing circulates, it does not do so statically or without making a claim on those who initially write it (4)
     - fundamental shift in the analytic and inventive focus from an end product of writing to the emergent responses to online commenters (4)
 
+How does Gallagher's book change our understanding of (any of) the five main "[threshold concepts of writing](https://kairos.technorhetoric.net/23.2/reviews/simpson-stanovick/mapping.html)"? (Alternatively, how do  IPI templates and other digital/social tools we use erry day enact these concepts?)
+1. writing is a social and rhetorical activity, 
+2. writing speaks to situations through recognizable forms
+3. writing enacts and creates identities and ideologies
+4. all writers have more to learn
+5. and writing is (also always) a cognitive activity
+
 How do the kinds of everyday writing and everyday writers Gallagher is writing about intersect with our lives? Do we engage in this kind of behavior? Which of our day-to-day pursuits depend on these types of writers/writing? 
+
+What, according to Gallagher, is wrong with the adage "Don't Read the Comments"?
 
 we should examine not just the end product, but how processes and stratgies change over the course of time as they experience their audience's reactions and responses (after composed, during delivery) -- writing during circulation (which is different from print economies of writing)
 
@@ -124,6 +133,7 @@ users communicate on the internet through interactive templates that structure t
 
 ### ethics in the age of update culture
 - what are the effects/costs of update culture?  how do they coalesce around economics and labor issues?
+    - TW: discussion of impacts of suicide. Here's a [May 2023 blog post by one of Gallagher's (self-disclosed) interviewees](https://blog.penelopetrunk.com/2023/05/12/grappling-with-the-death-of-heather-armstrong-where-does-dooce-leave-us-now/) about how "Content creation to feed influencer life is the sweatshop labor of the new millennium." 
 - in what sense are timing, attention, and management coping mechanisms for the costs of update culture?
 - what is the role of virtue ethics and a **normative, contingent ethical framework** for digital writing? (p. 140)
 - what is your experience with Gallagher's three habits/**digital communication virtues** for writers in the context of digital/21st century writing? 
