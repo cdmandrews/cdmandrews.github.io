@@ -4,15 +4,17 @@
 
 Extend the work in your annotated bibliography and research by making a **digital, multimodal project that uses digital rhetoric as an organizing and interpretive principle**. Your project might be: 
 
-- an expressive digital object that enacts the theories and frameworks we have studied, 
+- an expressive digital object that enacts the theories and scholarship we have studied, 
+
+- a project that uses digital rhetoric scholarship to contextualize and expand on your work for your online presence project,
 
 - an extended research and critical analysis of the localized digital writing practice and/or culture from your annotated bibliography (considering human subjects research rules or permissions), 
 
 - a critical interface analysis of the interfaces or IPI templates of your choice, working from concepts in our course readings to develop a framework for analysis that is mindful of circulation, distribution, and delivery as core components of rhetorical ecologies, 
 
-- an analysis in which you explore questions developed out of the theories and frameworks we have studied, 
+- an analysis in which you explore questions developed out of the theories and scholarship we have studied, 
 
-- a project growing out of lines of inquiry inspired across multiple courses this semester (e.g. extending work you’re doing in Dr. F-D’s Online Language course) 
+- a project growing out of lines of inquiry inspired across multiple courses this semester (e.g. extending work you’re doing in Dr. F-D’s Online Language course)
 
 You might create a digital map or timeline, curate a digital archive, draft a proposal and IRB for a larger study, code a short video game, write a digital poetry exhibition or interactive piece of fiction, create a scholarly webtext, and so forth.  
 
