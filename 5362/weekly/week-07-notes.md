@@ -20,11 +20,14 @@ Required for today:
 
 ### understanding Kairos, Chronos, and Digital Writing; What are writers doing as their writing is in circulation? 
 
-how have roles for writers changed in 21st century writing contexts?
+How have roles for writers changed in 21st century writing contexts? How have the technologies with which we write, deliver, and circulate writing affected writing/writers? 
     - as digital writing circulates, it does not do so statically or without making a claim on those who initially write it (4)
     - fundamental shift in the analytic and inventive focus from an end product of writing to the emergent responses to online commenters (4)
 
+How do the kinds of everyday writing and everyday writers Gallagher is writing about intersect with our lives? Do we engage in this kind of behavior? Which of our day-to-day pursuits depend on these types of writers/writing? 
+
 we should examine not just the end product, but how processes and stratgies change over the course of time as they experience their audience's reactions and responses (after composed, during delivery) -- writing during circulation (which is different from print economies of writing)
+
     - "terminal points for writing have ceased" (p. 106)
     - online audiences pose new topoi and change doxa that beg for inventive possibilities and interactions
     - "circulatory writing processes" not just "texts in circulation" or "results of circulation" -- from mass reading/writing to mass editing/revision
