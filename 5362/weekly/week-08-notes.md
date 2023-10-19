@@ -17,7 +17,7 @@
 1. Volunteers created the following talking points:
     - [Dylan's talking points](media/talking-points-dylan.docx)
     - [Sandra's talking points](media/talking-points-sandra.pdf)
-    - Shane's talking points
+    - [Shane's talking points](media/talking-points-shane.docx)
 
 ### Introduction: Circulation as an Emergent Threshold Concept
 - spatiotemporal flow
