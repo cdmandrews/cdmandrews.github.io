@@ -40,6 +40,8 @@ Think of a collaboration--how can we analyze the circulation of information in t
 ### Memes and circulation
 Le's talk about memes:
 
+![College professors like memes because they are rigorous](media/prof-meme.jpeg)
+
 1. Compile 3 to 5 of your current favorite memes and post them to the "memeblog" in Blackboard. Post what you want--it can be as niche or broad as you want. Remember it's a class and we're people.
 2. Browse through others' memes, look at them and familiarize yourself with them.
 3. Discussion questions:
