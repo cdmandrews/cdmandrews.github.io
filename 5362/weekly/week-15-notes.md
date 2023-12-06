@@ -49,17 +49,18 @@ So: [your presentations](media/online-presence-presentations.pptx)
 
 1. What were your semester experiences like?
 1. What did you learn about distribution and circulation? About timing, attention, and management? About writing online?
-2. What specific course concepts did this project help shed light on? 
-    - relationships between form and content in digital content
-    - rhetoric (invention, arrangement, style, memory, delivery)
-    - the rhetorical and ideological power/potential of interfaces
-    - audiences (addressed, invoked, algorithmic)
-    - rhetorical situations & kairos
+2. What specific course concepts did you enact or engage with in the course of the project? 
+    - relationships between form and content in digital publication
+    - rhetoric (*invention*, *arrangement*, *style*, *memory*, and especially but not exclusively *delivery*)
+    - the rhetorical and ideological power/potential/content of interfaces
+    - audiences (addressed, invoked, algorithmic, or otherwise)
+    - rhetorical situations & *kairos*
     - rhetorical ecologies
     - rhetorical velocity and composing for recomposition
     - template rhetoric and writing with WYSIWYGs and/or IPI templates?
+    - strategies of textual timing, attention, and management
     - ethics of update culture / ethics of circulation
-    - social effects of rhetorical exhaustion, amplification
+    - social effects of circulation, rhetorical exhaustion, amplification
     - digital activisms
 3. Will you continue this writing? Why or why not?
 
