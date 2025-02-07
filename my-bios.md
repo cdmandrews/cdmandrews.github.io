@@ -57,3 +57,12 @@ Christopher Andrews is Associate Professor of English at Texas A&M University-Co
 ### for website
 
 Christopher Andrews is Associate Professor of English at Texas A&M University-Corpus Christi, where he teaches technical communication, writing for the web and social media, and editing courses. He received his Ph.D. in Technical Communication & Rhetoric from Texas Tech University, and is a managing editor at Kairos: A Journaal of Rhetoric, Technology, and Pedagogy. His research explores programmatic issues in writing studies and technical communication, rhetorics of technology, and how people use digital networks to learn and professionalize.
+
+### For Digital Humanities NEH
+
+Dr. Christopher Andrews is an Associate Professor of English at Texas A&M University-Corpus Christi. He received his Ph.D. in Technical Communication & Rhetoric from Texas Tech University. His research explores how philosophies of technology, writing, and agency inform disciplinary, institutional, and professional designs and practices. His scholarship in technical communication, digital rhetorics, and usability has been published in Computers and Composition; Kairos; A Journal of Rhetoric, Technology, and Pedagogy, IEEE Transactions on Technical and Professional Communication, and Journal of Technical Writing and Communication.  
+
+
+### For AFP TX Networking Event/Professional Development
+
+Dr. Christopher Andrews has worked in higher education for 20 years, specializing in technical and professional writing, curriculum development, and digital publishing. He coordinates the Writing for Non-Profits Certificate at Texas A&M University-Corpus Christi, where he also serves as both the chairperson and the internship coordinator for the English Department. A resident of the Coastal Bend since 2016, he has helped students write with an array of non-profit organizations ranging from the National Spill Control School and the Corpus Christi Literacy Council to local boxing clubs and animal shelters.
